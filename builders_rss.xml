@@ -4,8 +4,56 @@
     <title>PCMedicalist Builders Digest</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Fri, 10 Jul 2026 09:01:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 10:01:53 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Builders Digest 2026-07-10T10</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-10T10/digest.json</link>
+      <guid isPermaLink="false">2026-07-10T10</guid>
+      <pubDate>Fri, 10 Jul 2026 10:01:53 GMT</pubDate>
+      <description>🛠️ **Builders Digest · Jul 10 10:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. How Reddit Stores Comment Trees and Ranks Hot Posts**
+Reddit looks simple and hides two genuinely hard problems. Comments nest arbitrarily deep, and a naive tree structure makes loading a busy thread slow. The front page reorders itself constantly, so...
+— dev.to · https://dev.to/roni_das_b1b76c5ee6583027/how-reddit-stores-comment-trees-and-ranks-hot-posts-1n0a
+#HTTP #Community
+
+**2. How Elasticsearch Searches Fast: The Inverted Index and Shard Routing**
+Searching billions of documents for a phrase and getting ranked results in tens of milliseconds looks like magic. It is not. It comes down to two ideas working together: an index that maps words to...
+— dev.to · https://dev.to/roni_das_b1b76c5ee6583027/how-elasticsearch-searches-fast-the-inverted-index-and-shard-routing-50dm
+#HTTP #Go #Community
+
+**3. Why Cursor Keeps Writing Prototype Pollution Into Your Merge Code**
+TL;DR AI editors love writing recursive merge helpers, and most of them are open to prototype pollution. One crafted JSON payload with a proto key can flip an isAdmin flag on every object in your a...
+— dev.to · https://dev.to/c_k_fb750e731394/why-cursor-keeps-writing-prototype-pollution-into-your-merge-code-291a
+#Community
+
+**4. BDE Score™: Open-Source Multi-Factor Stock Analysis Tool Covering US, HK &amp; A-Share Markets**
+BDE Score™ — Open-Source Multi-Factor Stock Analysis One number. 0-100. Every stock. A composite score combining 5 dimensions: Momentum (30%), Volatility (25%), Volume (20%), Trend (15%), Risk (10%...
+— dev.to · https://dev.to/hbhqq9/bde-score-open-source-multi-factor-stock-analysis-tool-covering-us-hk-a-share-markets-2p2j
+#HTTP #Community
+
+**5. Imparare a fare domande migliori: una skill sottovalutata per crescere da developer**
+Non è solo “chiedere aiuto”: è chiarire obiettivi, vincoli e tentativi. E accelera sia l’apprendimento che il lavoro in team. Nel lavoro quotidiano di un frontend developer (e non solo) capita spes...
+— dev.to · https://dev.to/frontendfacile/imparare-a-fare-domande-migliori-una-skill-sottovalutata-per-crescere-da-developer-1bbd
+#HTTP #Community
+
+**6. Every AI provider fails in its own way. I stopped checking status codes and built an error model instead.**
+I built an API gateway that routes between OpenAI, Anthropic and Gemini. I figured integrating both providers would be the hard part. It wasn't. Calling their APIs is maybe an afternoon of work eac...
+— dev.to · https://dev.to/manolito99/every-ai-provider-fails-in-its-own-way-i-stopped-checking-status-codes-and-built-an-error-model-25do
+#HTTP #Windows #LLM #Community
+
+**7. Node.js Internals Explained by Uncle to Nephew — Part 4: Express Plumbing, Error Handling &amp; The Full Roadmap**
+Bonus round. Parts 1–3 covered why Node exists, what's happening inside it, and the full request journey. This part mops up the pieces that didn't fit anywhere else — the Express plumbing, error ha...
+— dev.to · https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-4-express-plumbing-error-handling-the-4c3n
+#TLS #DNS #Kubernetes #Docker #Community
+
+**8. Two Sum and the use of Dictionary (Easy) | LeetCode Practice #1**
+Two Sum Given an array of integers nums and an integer target , return indices of the two numbers such that they add up to target . (You may assume that each input would have exactly one solution, ...
+— dev.to · https://dev.to/secondlastsleep/two-sum-and-the-use-of-dictionary-leetcode-practice-1-44mb
+#Python #Community</description>
+    </item>
     <item>
       <title>Builders Digest 2026-07-10T09</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-10T09/digest.json</link>
