@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Builders Digest</title>
   <id>tag:pcmedicalist.com,2026:builders-feed</id>
-  <updated>2026-07-10T18:01:47Z</updated>
+  <updated>2026-07-10T19:01:43Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders_atom.xml"/>
   <subtitle>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</subtitle>
+  <entry>
+    <title>Builders Digest 2026-07-10T19</title>
+    <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-10T19</id>
+    <updated>2026-07-10T19:01:43Z</updated>
+    <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-10T19/digest.json"/>
+    <summary>Builders digest for 2026-07-10T19</summary>
+    <content type="text">🛠️ **Builders Digest · Jul 10 19:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. Open source AI matters more than ever, according to Hugging Face’s Clem Delangue**
+Open source AI is booming, according to&amp;#160;Hugging Face&amp;#160;CEO&amp;#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and dow...
+— TechCrunch · https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/
+#AI
+
+**2. I Was Building a Social App. Then I Accidentally Built an AI Startup.**
+A year and a half ago, I wasn't trying to build an AI company. I was building a small social platform called spritex-social — nothing fancy, just a side project a handful of friends were testing wi...
+— dev.to · https://dev.to/mohammadsijan/i-was-building-a-social-app-then-i-accidentally-built-an-ai-startup-4clj
+#HTTP #Community
+
+**3. Stop Writing Prompt Strings: Meet PromptForge Core**
+Stop Writing Prompt Strings: Meet PromptForge Core As AI becomes part of modern applications, prompts are no longer just strings—they're becoming part of your codebase . Yet most of us still write ...
+— dev.to · https://dev.to/pranav_thawait_4c3d1f4766/stop-writing-prompt-strings-meet-promptforge-core-5h63
+#HTTP #Community
+
+**4. Your AI coding agent will happily ship a breaking API change. I built an MCP server to catch it.**
+Last month I watched Cursor confidently rename a field across an entire API, commit it, and open a PR. Clean diff, tests green, looked great. It had also just broken a mobile client and a partner i...
+— dev.to · https://dev.to/deepaksatyam/your-ai-coding-agent-will-happily-ship-a-breaking-api-change-i-built-an-mcp-server-to-catch-it-5dal
+#Community
+
+**5. A Free CBT Equation Editor for Math &amp; Chemistry**
+While building a Computer-Based Testing (CBT) platform, I ran into an unexpected problem. Creating mathematics and chemistry questions wasn't nearly as straightforward as I expected. Although there...
+— dev.to · https://dev.to/niza/a-free-cbt-equation-editor-for-math-chemistry-49lp
+#HTTP #Community
+
+**6. Checkout my new post about Typescript.**
+The Complete TypeScript Mastery Guide Navneet Verma Navneet Verma Navneet Verma Follow Jul 10 The Complete TypeScript Mastery Guide # typescript # webdev # systemdesign # tutorial 5 reactions Add C...
+— dev.to · https://dev.to/navneet_verma/checkout-my-new-post-about-typescript-2j6c
+#Community
+
+**7. Building &quot;PitchPassion AI&quot;: Transforming Football Passion into Data with Google AI**
+This is a submission for Weekend Challenge: Passion Edition What I Built I built PitchPassion AI , a web application that transforms text-based football match narratives into informative player per...
+— dev.to · https://dev.to/fauzan18296/building-pitchpassion-ai-transforming-football-passion-into-data-with-google-ai-4ooc
+#Python #Community
+
+**8. The Complete TypeScript Mastery Guide**
+Learn TypeScript From First Principles to Senior/Staff-Level Production Engineering If you searched for how to learn TypeScript properly — not just the syntax, but the thinking behind it — this gui...
+— dev.to · https://dev.to/navneet_verma/-the-complete-typescript-mastery-guide-21d2
+#HTTP #Go #Nodejs #Linux #Community</content>
+  </entry>
   <entry>
     <title>Builders Digest 2026-07-10T18</title>
     <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-10T18</id>
