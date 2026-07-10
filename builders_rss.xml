@@ -4,8 +4,56 @@
     <title>PCMedicalist Builders Digest</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Fri, 10 Jul 2026 20:01:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 21:01:41 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Builders Digest 2026-07-10T21</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-10T21/digest.json</link>
+      <guid isPermaLink="false">2026-07-10T21</guid>
+      <pubDate>Fri, 10 Jul 2026 21:01:41 GMT</pubDate>
+      <description>🛠️ **Builders Digest · Jul 10 21:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. Apple sues OpenAI over alleged trade secret theft**
+Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.
+— TechCrunch · https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/
+#AI
+
+**2. Adding Go to a browser code runner**
+Comments
+— Lobsters · https://blog.lvmbdv.dev/posts/adding-go-to-a-browser-code-runner/
+#Go #SoftwareDev
+
+**3. From Prompt Files to Agent Skills: How I Unified My Content Automation**
+A few weeks ago I wrote about how I use AI agents and MCP to automate my website's content . That post covered the why — I create a lot of content and keeping my site up to date was tedious. This p...
+— dev.to · https://dev.to/debs_obrien/from-prompt-files-to-agent-skills-how-i-unified-my-content-automation-3h9k
+#HTTP #Community
+
+**4. Why Reliable Browser Testing Is Mostly About State, Not Clicking**
+Most browser tests are described as sequences of actions: open a page; click a control; enter some text; submit; verify the result. That description makes automation sound straightforward. In real ...
+— dev.to · https://dev.to/orbitpickle307/why-reliable-browser-testing-is-mostly-about-state-not-clicking-39h8
+#Community
+
+**5. CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection**
+CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We&amp;#8217;ve recently released CodeQL 2.26.0, which adds support for Kotlin...
+— GitHub · https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection
+#SoftwareDev
+
+**6. The Frontend Testing Problems That Happy-Path E2E Tests Usually Miss**
+A frontend can look stable while becoming much harder to test. The main user journey may still work. The login button is clickable, the checkout completes, and the dashboard loads. Yet underneath t...
+— dev.to · https://dev.to/mellowthunder735/the-frontend-testing-problems-that-happy-path-e2e-tests-usually-miss-g28
+#Community
+
+**7. Why I Built Buildsdrop: An App Distribution Tool That Doesn't Get in Your Way**
+If you've ever shipped a mobile app to a client, tester, or QA team, you've probably used Diawi. It's been the default answer to &quot;how do I get this APK/IPA onto someone's phone without going throug...
+— dev.to · https://dev.to/buildsdrop_9179b4ec172aad/why-i-built-buildsdrop-an-app-distribution-tool-that-doesnt-get-in-your-way-31hf
+#Docker #Community
+
+**8. Human-in-the-Loop Is Not a Governance Strategy**
+Picture the human at the end of an agent pipeline. The agent drafts an action. A modal pops up. Approve or reject. The human has seen forty of these today, they all looked fine, and the queue is ba...
+— dev.to · https://dev.to/goutham_nishkaldeepueda/human-in-the-loop-is-not-a-governance-strategy-157g
+#Go #Community</description>
+    </item>
     <item>
       <title>Builders Digest 2026-07-10T20</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-10T20/digest.json</link>
