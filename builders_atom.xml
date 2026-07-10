@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>PCMedicalist Builders Digest</title>
+  <id>tag:pcmedicalist.com,2026:builders-feed</id>
+  <updated>2026-07-10T06:29:29Z</updated>
+  <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders_atom.xml"/>
+  <subtitle>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</subtitle>
+  <entry>
+    <title>Builders Digest 2026-07-10T06</title>
+    <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-10T06</id>
+    <updated>2026-07-10T06:29:29Z</updated>
+    <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-10T06/digest.json"/>
+    <summary>Builders digest for 2026-07-10T06</summary>
+    <content type="text">🛠️ **Builders Digest · Jul 10 06:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. My best Redocly CLI alternative in 2026**
+If you've worked with OpenAPI for any length of time, chances are you've used Redocly CLI . It's one of those tools that quietly becomes part of your daily workflow. Need to lint an API specificati...
+— dev.to · https://dev.to/therealmrmumba/my-best-redocly-cli-alternative-in-2026-15ll
+#Community
+
+**2. Two LangGraph Projects That Taught Me How to Design Multi-Agent Systems**
+I've been in DevOps for a while. I have been in people management positions for 15 years and did very little coding. I am getting back into coding with help of AI. Lately I've been trying to figure...
+— dev.to · https://dev.to/debashish_ghosal_2026/two-langgraph-projects-that-taught-me-how-to-design-multi-agent-systems-53n1
+#HTTP #Docker #Python #SQLite #Community
+
+**3. A Browser Extension for Researchers/Learners... - Part 1**
+As someone who loves learning, I spend a lot of time researching different topics every day. I jump between Google AI Mode, ChatGPT, Claude, blogs, documentation, eBooks, research papers, etc. The ...
+— dev.to · https://dev.to/ashehxn/a-browser-extension-for-researcherslearners-part-1-2055
+#Community
+
+**4. The Cloud Readiness Checklist: 6 checks before scale gets expensive**
+Cloud problems rarely start as one obvious failure. - Sometimes the bill improves, but nobody can explain which product benefited. - Sometimes GPUs are reserved, but the workload is not ready for t...
+— dev.to · https://dev.to/ascentinnovate/the-cloud-readiness-checklist-6-checks-before-scale-gets-expensive-4b2d
+#Community
+
+**5. I Got Tired of Maintaining Frontend Code. So I Built a Declarative UI Runtime.**
+Here is a question that sounds simple until you've actually shipped a UI: how many files does it take before nobody on the team, including you, can confidently say what happens when you click a but...
+— dev.to · https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl
+#HTTP #Go #NET #Community
+
+**6. JWT Auth in .NET 8: The Validation Settings People Skip**
+There is a category of security bug that produces no error, no log entry, and no failing test. A token that should have been rejected gets a 200 instead, and the only way anyone finds out is by rea...
+— dev.to · https://dev.to/anayaupadhyay/jwt-auth-in-net-8-the-validation-settings-people-skip-3nip
+#HTTP #JWT #Go #NET #Community
+
+**7. OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter**
+OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.
+— TechCrunch · https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/
+#AI
+
+**8. Fidji Simo steps down from OpenAI’s no. 2 role**
+OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company e...
+— TechCrunch · https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/
+#AI</content>
+  </entry>
+</feed>

@@ -1,0 +1,73 @@
+{
+  "stamp": "2026-07-10T06",
+  "posted_at": "2026-07-10T06:29:21.789503+00:00",
+  "channel": "discord:\ud83d\udee0\ufe0f-builders",
+  "item_count": 8,
+  "items": [
+    {
+      "title": "My best Redocly CLI alternative in 2026",
+      "summary": "If you've worked with OpenAPI for any length of time, chances are you've used Redocly CLI . It's one of those tools that quietly becomes part of your daily workflow. Need to lint an API specification? redocly lint has you covered. Need to b",
+      "source": "dev.to",
+      "url": "https://dev.to/therealmrmumba/my-best-redocly-cli-alternative-in-2026-15ll",
+      "category": "Community",
+      "tags": "#Community"
+    },
+    {
+      "title": "Two LangGraph Projects That Taught Me How to Design Multi-Agent Systems",
+      "summary": "I've been in DevOps for a while. I have been in people management positions for 15 years and did very little coding. I am getting back into coding with help of AI. Lately I've been trying to figure out where AI fits into that role \u2014 not jus",
+      "source": "dev.to",
+      "url": "https://dev.to/debashish_ghosal_2026/two-langgraph-projects-that-taught-me-how-to-design-multi-agent-systems-53n1",
+      "category": "Community",
+      "tags": "#HTTP #Docker #Python #SQLite #Community"
+    },
+    {
+      "title": "A Browser Extension for Researchers/Learners... - Part 1",
+      "summary": "As someone who loves learning, I spend a lot of time researching different topics every day. I jump between Google AI Mode, ChatGPT, Claude, blogs, documentation, eBooks, research papers, etc. The problem is that when I come back to the sam",
+      "source": "dev.to",
+      "url": "https://dev.to/ashehxn/a-browser-extension-for-researcherslearners-part-1-2055",
+      "category": "Community",
+      "tags": "#Community"
+    },
+    {
+      "title": "The Cloud Readiness Checklist: 6 checks before scale gets expensive",
+      "summary": "Cloud problems rarely start as one obvious failure. - Sometimes the bill improves, but nobody can explain which product benefited. - Sometimes GPUs are reserved, but the workload is not ready for the window. - Sometimes caching makes the pr",
+      "source": "dev.to",
+      "url": "https://dev.to/ascentinnovate/the-cloud-readiness-checklist-6-checks-before-scale-gets-expensive-4b2d",
+      "category": "Community",
+      "tags": "#Community"
+    },
+    {
+      "title": "I Got Tired of Maintaining Frontend Code. So I Built a Declarative UI Runtime.",
+      "summary": "Here is a question that sounds simple until you've actually shipped a UI: how many files does it take before nobody on the team, including you, can confidently say what happens when you click a button? For me, the answer turned out to be so",
+      "source": "dev.to",
+      "url": "https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl",
+      "category": "Community",
+      "tags": "#HTTP #Go #NET #Community"
+    },
+    {
+      "title": "JWT Auth in .NET 8: The Validation Settings People Skip",
+      "summary": "There is a category of security bug that produces no error, no log entry, and no failing test. A token that should have been rejected gets a 200 instead, and the only way anyone finds out is by reading the auth configuration line by line, u",
+      "source": "dev.to",
+      "url": "https://dev.to/anayaupadhyay/jwt-auth-in-net-8-the-validation-settings-people-skip-3nip",
+      "category": "Community",
+      "tags": "#HTTP #JWT #Go #NET #Community"
+    },
+    {
+      "title": "OpenAI says GPT 5.6 is the \u2018preferred model\u2019 for Microsoft Copilot 365 amid breakup chatter",
+      "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+      "category": "AI",
+      "tags": "#AI"
+    },
+    {
+      "title": "Fidji Simo steps down from OpenAI\u2019s no. 2 role",
+      "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected \u2014 a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthr",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "category": "AI",
+      "tags": "#AI"
+    }
+  ],
+  "body": "\ud83d\udee0\ufe0f **Builders Digest \u00b7 Jul 10 06:00 UTC**\n_New & evolving tech + coding tools (8 items)_\n\n**1. My best Redocly CLI alternative in 2026**\nIf you've worked with OpenAPI for any length of time, chances are you've used Redocly CLI . It's one of those tools that quietly becomes part of your daily workflow. Need to lint an API specificati...\n\u2014 dev.to \u00b7 https://dev.to/therealmrmumba/my-best-redocly-cli-alternative-in-2026-15ll\n#Community\n\n**2. Two LangGraph Projects That Taught Me How to Design Multi-Agent Systems**\nI've been in DevOps for a while. I have been in people management positions for 15 years and did very little coding. I am getting back into coding with help of AI. Lately I've been trying to figure...\n\u2014 dev.to \u00b7 https://dev.to/debashish_ghosal_2026/two-langgraph-projects-that-taught-me-how-to-design-multi-agent-systems-53n1\n#HTTP #Docker #Python #SQLite #Community\n\n**3. A Browser Extension for Researchers/Learners... - Part 1**\nAs someone who loves learning, I spend a lot of time researching different topics every day. I jump between Google AI Mode, ChatGPT, Claude, blogs, documentation, eBooks, research papers, etc. The ...\n\u2014 dev.to \u00b7 https://dev.to/ashehxn/a-browser-extension-for-researcherslearners-part-1-2055\n#Community\n\n**4. The Cloud Readiness Checklist: 6 checks before scale gets expensive**\nCloud problems rarely start as one obvious failure. - Sometimes the bill improves, but nobody can explain which product benefited. - Sometimes GPUs are reserved, but the workload is not ready for t...\n\u2014 dev.to \u00b7 https://dev.to/ascentinnovate/the-cloud-readiness-checklist-6-checks-before-scale-gets-expensive-4b2d\n#Community\n\n**5. I Got Tired of Maintaining Frontend Code. So I Built a Declarative UI Runtime.**\nHere is a question that sounds simple until you've actually shipped a UI: how many files does it take before nobody on the team, including you, can confidently say what happens when you click a but...\n\u2014 dev.to \u00b7 https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl\n#HTTP #Go #NET #Community\n\n**6. JWT Auth in .NET 8: The Validation Settings People Skip**\nThere is a category of security bug that produces no error, no log entry, and no failing test. A token that should have been rejected gets a 200 instead, and the only way anyone finds out is by rea...\n\u2014 dev.to \u00b7 https://dev.to/anayaupadhyay/jwt-auth-in-net-8-the-validation-settings-people-skip-3nip\n#HTTP #JWT #Go #NET #Community\n\n**7. OpenAI says GPT 5.6 is the \u2018preferred model\u2019 for Microsoft Copilot 365 amid breakup chatter**\nOpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.\n\u2014 TechCrunch \u00b7 https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/\n#AI\n\n**8. Fidji Simo steps down from OpenAI\u2019s no. 2 role**\nOpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected \u2014 a leadership vacuum that comes at a tricky time as the company e...\n\u2014 TechCrunch \u00b7 https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/\n#AI"
+}
