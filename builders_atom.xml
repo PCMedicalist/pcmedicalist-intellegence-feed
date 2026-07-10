@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Builders Digest</title>
   <id>tag:pcmedicalist.com,2026:builders-feed</id>
-  <updated>2026-07-10T07:02:32Z</updated>
+  <updated>2026-07-10T08:01:34Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders_atom.xml"/>
   <subtitle>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</subtitle>
+  <entry>
+    <title>Builders Digest 2026-07-10T08</title>
+    <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-10T08</id>
+    <updated>2026-07-10T08:01:34Z</updated>
+    <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-10T08/digest.json"/>
+    <summary>Builders digest for 2026-07-10T08</summary>
+    <content type="text">🛠️ **Builders Digest · Jul 10 08:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. The Decode Bomb Problem — Why Unlimited URL Decoding Can Be Its Own Vulnerability**
+Previously published on medium Fixing one security gap without understanding the side effects can open another one. In my last article I wrote about URL encoding and why PHP security checks often m...
+— dev.to · https://dev.to/kriosa/the-decode-bomb-problem-why-unlimited-url-decoding-can-be-its-own-vulnerability-22lb
+#Community
+
+**2. When Cloud Agent Platforms Pull the Plug, Local Deployment Is the Only Foundation**
+Two of China's largest AI model platforms, Doubao and Qwen, both tightened restrictions on custom agents last week. A batch of third-party agents were delisted or had their distribution throttled, ...
+— dev.to · https://dev.to/mininglamp/when-cloud-agent-platforms-pull-the-plug-local-deployment-is-the-only-foundation-nbi
+#HTTP #Community
+
+**3. Building PWAs: Offline-First Like a Jedi**
+The Quest Begins (The &quot;Why&quot;) Honestly, I was tired of seeing my users stare at a blank screen the moment their Wi‑Fi dropped. I’d built a nice little task‑manager app, shipped it, and then got a fl...
+— dev.to · https://dev.to/timevolt/building-pwas-offline-first-like-a-jedi-4i3a
+#Community
+
+**4. The Illusion of Simple AI Posting: Why Social Media APIs are the Ultimate Agent Killer**
+AI agents have gotten weirdly good at writing. You can hand Claude a vague, half-baked prompt and get back something that looks publishable. The trouble starts one step later, when you ask it to ac...
+— dev.to · https://dev.to/renato_marinho/the-illusion-of-simple-ai-posting-why-social-media-apis-are-the-ultimate-agent-killer-2cba
+#HTTP #OAuth #LLM #Community
+
+**5. When Your AI Coding Tool Reads Your Code, Where Does It Actually Go**
+Claude Code restricted access for users in China this week, and around the same time China's Ministry of Industry and Information Technology released a security bulletin calling out data transmissi...
+— dev.to · https://dev.to/mininglamp/when-your-ai-coding-tool-reads-your-code-where-does-it-actually-go-30f3
+#Go #macOS #Community
+
+**6. Ditch Grep: How I Taught My AI Assistant to Truly Understand My Code**
+If you’ve ever stepped into a massive, production-grade codebase, you know how challenging it can be to navigate. Files are scattered everywhere, functions call other functions across dozens of dir...
+— dev.to · https://dev.to/jahangir_nasirwala/ditch-grep-how-i-taught-my-ai-assistant-to-truly-understand-my-code-2jf3
+#Rust #Python #Go #Community
+
+**7. RC Time Constant: The Simple Timing Formula That Can Hide Inrush and Stored Energy Problems**
+RC timing looks easy. Pick a resistor. Pick a capacitor. Multiply them. τ = R × C That gives the time constant. After one time constant, the capacitor has moved about 63.2% toward its final voltage...
+— dev.to · https://dev.to/evgeniikonkin/rc-time-constant-the-simple-timing-formula-that-can-hide-inrush-and-stored-energy-problems-21p3
+#Community
+
+**8. My Engineering Passion: Why I built a sub-15ms proxy to stop LLM agent crashes**
+This is a submission for Weekend Challenge: Passion Edition What I Built I'm honestly obsessed with system reliability. Nothing frustrates me more than seeing a brilliantly engineered autonomous AI...
+— dev.to · https://dev.to/selixes/my-engineering-passion-why-i-built-a-sub-15ms-proxy-to-stop-llm-agent-crashes-5hjg
+#HTTP #Redis #LLM #Community</content>
+  </entry>
   <entry>
     <title>Builders Digest 2026-07-10T07</title>
     <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-10T07</id>
