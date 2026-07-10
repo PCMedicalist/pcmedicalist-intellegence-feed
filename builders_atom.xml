@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Builders Digest</title>
   <id>tag:pcmedicalist.com,2026:builders-feed</id>
-  <updated>2026-07-10T14:01:49Z</updated>
+  <updated>2026-07-10T15:01:29Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders_atom.xml"/>
   <subtitle>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</subtitle>
+  <entry>
+    <title>Builders Digest 2026-07-10T15</title>
+    <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-10T15</id>
+    <updated>2026-07-10T15:01:29Z</updated>
+    <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-10T15/digest.json"/>
+    <summary>Builders digest for 2026-07-10T15</summary>
+    <content type="text">🛠️ **Builders Digest · Jul 10 15:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. How Ticketmaster Sells Seats Without Double-Selling Them**
+A big show goes on sale. In the first minute, hundreds of thousands of people all want the same few good seats. Two people cannot buy seat 12A. The system has to pick a winner, tell the loser insta...
+— dev.to · https://dev.to/roni_das_b1b76c5ee6583027/how-ticketmaster-sells-seats-without-double-selling-them-l07
+#HTTP #Community
+
+**2. Proximity Search: How Yelp Finds Places Near You**
+Open Yelp, ask for coffee shops within a mile, and results come back instantly. Under that simple request is a genuinely hard database question: how do you efficiently find all points near a given ...
+— dev.to · https://dev.to/roni_das_b1b76c5ee6583027/proximity-search-how-yelp-finds-places-near-you-4ab3
+#HTTP #PostgreSQL #Community
+
+**3. Coming up for Air**
+After the absolute gauntlet of the past few weeks, this week finally offered a little bit of breathing room. I'm not going to lie, I needed it. But &quot;lighter&quot; in the open-source world doesn't mean s...
+— dev.to · https://dev.to/reemhamraz/coming-up-for-air-587f
+#Python #Go #Community
+
+**4. I Rebuilt the Foundation of My Text Editor**
+After working on cdin for a while, I started noticing something. The biggest problems were not the features I was missing. They were the things underneath. When I first started cdin, the goal was s...
+— dev.to · https://dev.to/m__mdy__m/i-rebuilt-the-foundation-of-my-text-editor-cbm
+#HTTP #Linux #Windows #Community
+
+**5. Dev Opportunity Radar #7: $1,000 Solo Grants, Free Claude Max for Open Source Contributors, and an MLH Hackathon**
+TL;DR Welcome back to Dev Opportunity Radar . This is a weekly series where I share opportunities, resources, communities, and interesting finds that I come across, with the goal of helping people ...
+— dev.to · https://dev.to/devengers/dev-opportunity-radar-7-1000-solo-grants-free-claude-max-for-open-source-contributors-and-an-3i12
+#Go #Nodejs #Community
+
+**6. Burn After Reading**
+My manager ruined a perfectly good beer at an open air brewery in Richmond by telling me the truth about my career. The advice aged better than the beer. Here's the T-shaped engineer pitch nobody g...
+— dev.to · https://dev.to/shek_bake_1eda6ed9b79f7a1/burn-after-reading-48l
+#Go #Community
+
+**7. RDRIR: Real Danger Ramdom In Ruby**
+# RDRIR - Real Danger Random In Ruby # # ADVERTENCIA: Este generador de números &quot;aleatorios&quot; funciona # leyendo memoria cruda del heap de MRI a través de la dirección # de un objeto Random recién c...
+— dev.to · https://dev.to/andres_avalosgallegos_7d/rdrir-real-danger-ramdom-in-ruby-3pf4
+#Community
+
+**8. How Google Drive Syncs Files With Chunking and Deduplication**
+You edit one paragraph in a 50 MB document and it syncs in a second. You upload a file your coworker already uploaded and it finishes instantly. Neither of these is magic. Both fall out of two idea...
+— dev.to · https://dev.to/roni_das_b1b76c5ee6583027/how-google-drive-syncs-files-with-chunking-and-deduplication-1ngi
+#HTTP #Community</content>
+  </entry>
   <entry>
     <title>Builders Digest 2026-07-10T14</title>
     <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-10T14</id>
