@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Builders Digest</title>
   <id>tag:pcmedicalist.com,2026:builders-feed</id>
-  <updated>2026-07-10T21:01:41Z</updated>
+  <updated>2026-07-10T22:01:39Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders_atom.xml"/>
   <subtitle>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</subtitle>
+  <entry>
+    <title>Builders Digest 2026-07-10T22</title>
+    <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-10T22</id>
+    <updated>2026-07-10T22:01:39Z</updated>
+    <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-10T22/digest.json"/>
+    <summary>Builders digest for 2026-07-10T22</summary>
+    <content type="text">🛠️ **Builders Digest · Jul 10 22:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. Your Loom App Quietly Became a Thread Pool Again: A Field Guide to Virtual Thread Pinning**
+The incident that taught me to respect pinning looked like nothing. A service freshly migrated to virtual threads, a load test that plateaued at about 420 requests per second no matter how much tra...
+— dev.to · https://dev.to/maschiojv/your-loom-app-quietly-became-a-thread-pool-again-a-field-guide-to-virtual-thread-pinning-2a3f
+#Community
+
+**2. How I replaced LLM calls with coding agent calls and saved money**
+When building an AI agent, you need LLM calls. It can be done via a remote API or a local API, but either way you need to do it. Whether the agent is a simple conversational agent or a ReAct agent ...
+— dev.to · https://dev.to/popiol/how-i-replaced-llm-calls-with-coding-agent-calls-and-saved-money-10p7
+#LLM #Community
+
+**3. From Devnet to Mainnet: What Changes When Your Solana Program Goes Live**
+There's a moment in every Solana project where the work stops being about whether the program works and starts being about whether it's ready . You've tested it, the logic holds, the constraints ar...
+— dev.to · https://dev.to/100daysofsolana/from-devnet-to-mainnet-what-changes-when-your-solana-program-goes-live-hg2
+#Community
+
+**4. AI Agents: Memory Layers, Test Automation, and Workflow Orchestration**
+AI Agents: Memory Layers, Test Automation, and Workflow Orchestration Today's Highlights This week's highlights dive deep into critical aspects of AI agent development, from choosing the right memo...
+— dev.to · https://dev.to/soytuber/ai-agents-memory-layers-test-automation-and-workflow-orchestration-3oab
+#HTTP #Community
+
+**5. pgrust: The Open-Source Project Rewriting PostgreSQL in Rust**
+Rewriting a Database Giant: Meet pgrust PostgreSQL is the bedrock of modern application development. It is incredibly stable and feature-rich, but it is built on a C codebase that started in the 19...
+— dev.to · https://dev.to/terminalchai/pgrust-the-open-source-project-rewriting-postgresql-in-rust-4860
+#Rust #PostgreSQL #Community
+
+**6. I made an AI yell my workouts at me (Sonic Kinetic)**
+What I built I wanted a workout timer that doesn't just beep at me. So this weekend I built one that writes the workout AND talks me through it, out loud, in a voice that actually sounds like it's ...
+— dev.to · https://dev.to/marouaneks/i-made-an-ai-yell-my-workouts-at-me-sonic-kinetic-4ho2
+#HTTP #Go #Community
+
+**7. Building a Fully Automated Facebook Post Scheduler using Node.js and GitHub Actions**
+How I Built a Zero-Cost Facebook Auto-Poster Using Node.js and GitHub Actions Automating social media management can save hours of manual work. In this guide, I will show you how to build a fully a...
+— dev.to · https://dev.to/darshanraval/building-a-fully-automated-facebook-post-scheduler-using-nodejs-and-github-actions-5ehj
+#HTTP #Go #Nodejs #Community
+
+**8. Your Loading Spinner Has an Emotional Job. Is It Doing It?**
+Most of us treat design systems as a functional problem: consistent colors, consistent spacing, consistent components. That part's solved for most teams now. The part nobody writes down is tone. Ho...
+— dev.to · https://dev.to/kalpick_sharma_d32ace423a/your-loading-spinner-has-an-emotional-job-is-it-doing-it-2ml5
+#Community</content>
+  </entry>
   <entry>
     <title>Builders Digest 2026-07-10T21</title>
     <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-10T21</id>
