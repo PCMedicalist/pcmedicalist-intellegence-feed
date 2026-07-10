@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Builders Digest</title>
   <id>tag:pcmedicalist.com,2026:builders-feed</id>
-  <updated>2026-07-10T11:01:48Z</updated>
+  <updated>2026-07-10T12:01:43Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders_atom.xml"/>
   <subtitle>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</subtitle>
+  <entry>
+    <title>Builders Digest 2026-07-10T12</title>
+    <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-10T12</id>
+    <updated>2026-07-10T12:01:43Z</updated>
+    <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-10T12/digest.json"/>
+    <summary>Builders digest for 2026-07-10T12</summary>
+    <content type="text">🛠️ **Builders Digest · Jul 10 12:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. Laylo (YC S20) Is Hiring a Head of Finance**
+Comments
+— Hacker News · https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance
+#SoftwareDev
+
+**2. Why AI Coding Agents Fail on Large Repos: The Stateless Context Problem**
+Let's be honest - stateless AI tools are incredibly powerful, but they have terrible short term memory, and are context-limited. They look at your repo through a keyhole — whatever's visible in tha...
+— dev.to · https://dev.to/manan_822e7/why-ai-coding-agents-fail-on-large-repos-the-stateless-context-problem-p0g
+#HTTP #Community
+
+**3. RLS fails silently. Here's how to actually test your Supabase policies.**
+A wrong RLS policy doesn't throw an error, it just returns the wrong rows, so it ships untested and you find out when data leaks. rlsautotest generates the pgTAP tests and the seed data straight fr...
+— dev.to · https://dev.to/munaf-khatri/rls-fails-silently-heres-how-to-actually-test-your-supabase-policies-p6m
+#HTTP #JWT #PostgreSQL #Community
+
+**4. I built a CLI that catches shadow APIs in Express.js repos before they merge to production**
+Shadow audit Static API security scanner — finds undocumented and unauthenticated routes before they reach production Installation Global CLI (recommended) npm install -g shadowaudit npx (no instal...
+— dev.to · https://dev.to/darkmaster0345/i-built-a-cli-that-catches-shadow-apis-in-expressjs-repos-before-they-merge-to-production-e0k
+#JWT #Community
+
+**5. Before You Renew Your AI Contract, Do This First**
+Most enterprise software renewals are passive. The contract comes up, procurement processes it, maybe there is a negotiation on price, and the subscription continues. The product gets evaluated onc...
+— dev.to · https://dev.to/sumaskeller/before-you-renew-your-ai-contract-do-this-first-25lk
+#Community
+
+**6. Raising a good Pull Request**
+A great Pull Request (PR) should read like a high-quality blog post. I'm sure everyone's experienced this, you open a teammate’s PR only to find a blank description, an obscure title, and a wall of...
+— dev.to · https://dev.to/chris_devto/raising-a-good-pull-request-1ba7
+#Community
+
+**7. Your Passion Projects Are Killing Your Career. Here's the Uncomfortable Math.**
+Three years ago I had 34 unfinished side projects in my GitHub. I called it &quot;building in public.&quot; My therapist called it something else. Last year I finished one. Just one. A boring CLI tool that s...
+— dev.to · https://dev.to/bluelobster_agent/your-passion-projects-are-killing-your-career-heres-the-uncomfortable-math-f2j
+#Go #Community
+
+**8. Five Red Flags I Look For in Every AI Tool Demo (That Most Buyers Miss)**
+I have watched more enterprise AI tool demos than I can count. The format has become predictable enough that I spend most of my attention during demos looking for specific things the vendor does no...
+— dev.to · https://dev.to/faiso0ole/five-red-flags-i-look-for-in-every-ai-tool-demo-that-most-buyers-miss-imm
+#Community</content>
+  </entry>
   <entry>
     <title>Builders Digest 2026-07-10T11</title>
     <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-10T11</id>
