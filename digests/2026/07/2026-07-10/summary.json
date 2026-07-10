@@ -43,7 +43,7 @@
     "Lobsters": 25,
     "r/netsec": 0
   },
-  "post_a_len": 275,
+  "post_a_len": 247,
   "post_b_len": 250,
   "buffer_a": {
     "dry_run": true,
