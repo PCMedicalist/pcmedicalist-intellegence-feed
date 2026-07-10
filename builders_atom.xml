@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Builders Digest</title>
   <id>tag:pcmedicalist.com,2026:builders-feed</id>
-  <updated>2026-07-10T13:01:48Z</updated>
+  <updated>2026-07-10T14:01:49Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders_atom.xml"/>
   <subtitle>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</subtitle>
+  <entry>
+    <title>Builders Digest 2026-07-10T14</title>
+    <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-10T14</id>
+    <updated>2026-07-10T14:01:49Z</updated>
+    <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-10T14/digest.json"/>
+    <summary>Builders digest for 2026-07-10T14</summary>
+    <content type="text">🛠️ **Builders Digest · Jul 10 14:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. A Study on the I-V Characteristics and Physics of BJT and MOSFET via LTspice**
+Objective of the Experiment The purpose of this experiment is to analyze the operating principles and output characteristic curves of representative transistors, BJT and MOSFET, using LTspice. Theo...
+— dev.to · https://dev.to/insu/a-study-on-the-i-v-characteristics-and-physics-of-bjt-and-mosfet-via-ltspice-2ce5
+#Community
+
+**2. I Gave My AI Agent Pipeline a Nervous System with SigNoz**
+A warm-up with SigNoz, before the &quot;Agents of SigNoz&quot; hackathon proper Table of Contents Why I'm writing this before the hackathon even starts The problem: my architecture was frozen, my visibility ...
+— dev.to · https://dev.to/vezzu_ruthvik/i-gave-my-ai-agent-pipeline-a-nervous-system-with-signoz-2l1f
+#HTTP #Kubernetes #Docker #Python #Community
+
+**3. I'm Plexescor — This is Who I Am**
+If you searched &quot;Plexescor&quot; and landed here — good. That's exactly what this is for. My name is Abhijot Singh , I'm 16 years old, and Plexescor is what I go by online. This isn't a technical articl...
+— dev.to · https://dev.to/plexescor/im-plexescor-this-is-who-i-am-52lg
+#Go #Linux #Windows #Community
+
+**4. Turn Claude Into a PR Associate That Never Sleeps: Installing Newsjack's 18 Open-Source Skills**
+Newsjack is 18 open-source PR skills you install into Claude once. By the end of this post you'll have them running in chat, a journalist list with verified email addresses, and a Claude Code agent...
+— dev.to · https://dev.to/elvissun/turn-claude-into-a-pr-associate-that-never-sleeps-installing-newsjacks-18-open-source-skills-281i
+#Community
+
+**5. ActivityPub over ATProto**
+Comments
+— Hacker News · https://berjon.com/ap-at/
+#SoftwareDev
+
+**6. Give Your AI Assistant a Private Memory**
+AI assistants are very good at explaining things, but they usually have a weak memory of your own context. They do not know which documentation page you read last week. They do not know which artic...
+— dev.to · https://dev.to/hister/give-your-ai-assistant-a-private-memory-3058
+#HTTP #PostgreSQL #Community
+
+**7. Aider vs OpenCode vs Claude Code: Which CLI Coding Agent Wins in 2026?**
+The terminal-based AI coding assistant space has exploded. What was a two-tool market in 2024 (GitHub Copilot CLI and... nothing) has become a crowded field of 10+ serious contenders, each with dif...
+— dev.to · https://dev.to/sanj-dev/aider-vs-opencode-vs-claude-code-which-cli-coding-agent-wins-in-2026-41bn
+#Rust #Community
+
+**8. Proton AG Services is currently experiencing some issues**
+Comments
+— Hacker News · https://status.proton.me/incidents/01lxtcq155lc
+#SoftwareDev</content>
+  </entry>
   <entry>
     <title>Builders Digest 2026-07-10T13</title>
     <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-10T13</id>
