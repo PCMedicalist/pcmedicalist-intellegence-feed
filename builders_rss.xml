@@ -4,8 +4,55 @@
     <title>PCMedicalist Builders Digest</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Fri, 10 Jul 2026 06:29:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 07:02:32 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Builders Digest 2026-07-10T07</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-10T07/digest.json</link>
+      <guid isPermaLink="false">2026-07-10T07</guid>
+      <pubDate>Fri, 10 Jul 2026 07:02:32 GMT</pubDate>
+      <description>🛠️ **Builders Digest · Jul 10 07:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. Improve WordPress Server Response Time by Optimizing Apache and Nginx Configuration**
+One of the most important performance metrics for a WordPress website is Server Response Time, commonly measured as Time to First Byte (TTFB). While caching plugins like WP Rocket significantly imp...
+— dev.to · https://dev.to/dicky54putra/improve-wordpress-server-response-time-by-optimizing-apache-and-nginx-configuration-1m1k
+#Community
+
+**2. Rosemary**
+Rosemary: Transparent Network Tunneling Over QUIC (Kernel-Level) Ever SSH into a box and wish you could just use its network without setting up proxy chains or VPNs? Rosemary makes that happen. The...
+— dev.to · https://dev.to/blue0x1/rosemary-2p86
+#QUIC #DNS #SSH #Go #Community
+
+**3. Anyone else noticing Claude being more stubborn, lying to you with high confidence that things the way he says to find out it's complete non sense?**
+— dev.to · https://dev.to/ondrejvalenta/anyone-else-noticing-claude-being-more-stubborn-lying-to-you-with-high-confidence-that-things-the-72d
+#Community
+
+**4. Adding real payments to a Base44 app (3 insertion points, tested)**
+Disclosure up front: I'm Oded, co-founder of UniPaaS, the FCA-authorised Payment Institution (No. 929994) behind paas.build - so this is a vendor writing about his own product. That said, the three...
+— dev.to · https://dev.to/odedunipaas/adding-real-payments-to-a-base44-app-3-insertion-points-tested-bic
+#HTTP #Community
+
+**5. Paddle rejected my account. Here's the map of what actually works in 2026**
+Disclosure before anything else: I'm Oded, co-founder of UniPaaS, the FCA-authorised Payment Institution (No. 929994) behind paas.build, and we compete with Paddle. The title above is the sentence ...
+— dev.to · https://dev.to/odedunipaas/paddle-rejected-my-account-heres-the-map-of-what-actually-works-in-2026-1f1k
+#Go #Community
+
+**6. RxJS in Angular — Chapter 9 | Timing Operators — debounceTime, throttleTime, interval &amp; More**
+👋 Welcome to Chapter 9! Imagine a user typing in a search box. They type &quot;i&quot;, &quot;ip&quot;, &quot;iph&quot;, &quot;ipho&quot;, &quot;iphon&quot;, &quot;iphone&quot; — 6 keystrokes in 2 seconds. Do you really want to make 6 API calls ? Of course ...
+— dev.to · https://dev.to/jps27cse/rxjs-in-angular-chapter-9-timing-operators-debouncetime-throttletime-interval-more-16km
+#Community
+
+**7. How Long Does a Dynamics 365 CE Implementation Actually Take?**
+Most organisations approach a Dynamics 365 Customer Engagement implementation with one question at the top of their agenda: How long will this take? It is a reasonable question, and one that deserv...
+— dev.to · https://dev.to/dynnamicsmonk/how-long-does-a-dynamics-365-ce-implementation-actually-take-3n84
+#Go #Windows #Community
+
+**8. Real-Time Inventory Management with Kafka: How Retailers Are Eliminating Stockouts**
+TL;DR Retailers process thousands of inventory transactions every second across physical stores, eCommerce platforms, warehouses, suppliers, and fulfillment centers. Yet many inventory systems stil...
+— dev.to · https://dev.to/zeliotofficial/real-time-inventory-management-with-kafka-how-retailers-are-eliminating-stockouts-4eoe
+#Kafka #Community</description>
+    </item>
     <item>
       <title>Builders Digest 2026-07-10T06</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-10T06/digest.json</link>
