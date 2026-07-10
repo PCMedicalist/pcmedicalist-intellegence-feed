@@ -4,8 +4,56 @@
     <title>PCMedicalist Builders Digest</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Fri, 10 Jul 2026 19:01:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 20:01:38 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Builders Digest 2026-07-10T20</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-10T20/digest.json</link>
+      <guid isPermaLink="false">2026-07-10T20</guid>
+      <pubDate>Fri, 10 Jul 2026 20:01:38 GMT</pubDate>
+      <description>🛠️ **Builders Digest · Jul 10 20:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. The Sword of Damocles at Work: The Human Cost of Delayed Layoffs**
+Over a decade ago, my employer announced layoffs that would happen in waves. Every few months another round arrived. Nobody knew the criteria, who would be affected next, or when. The uncertainty w...
+— dev.to · https://dev.to/alvaromontoro/the-sword-of-damocles-at-work-the-human-cost-of-delayed-layoffs-2gon
+#Community
+
+**2. How to Verify Email Addresses Programmatically: SMTP, MX, and API-Based Validation Explained**
+Bad email addresses in a signup form don't just clutter your database, they wreck deliverability. A high bounce rate signals to mailbox providers like Gmail and Outlook that your sending domain isn...
+— dev.to · https://dev.to/mailvalid/how-to-verify-email-addresses-programmatically-smtp-mx-and-api-based-validation-explained-5b3a
+#DNS #Go #Nodejs #Community
+
+**3. Lesson 1 - TDD with AI: getting tests that hold up when the agent writes them**
+I let the agent write the tests as it built the features. They passed. I ran them, tested by hand, everything green, let it commit. For a while that felt great. Then I changed a model. A field move...
+— dev.to · https://dev.to/smukker/lesson-1-tdd-with-ai-getting-tests-that-hold-up-when-the-agent-writes-them-1he
+#Community
+
+**4. Capitalism Gone Wrong**
+Comments
+— Hacker News · https://kasperjunge.com/blog/capitalism-gone-wrong/
+#SoftwareDev
+
+**5. Managing Focus in Angular: Dialogs, Drawers and Route Changes Without Stranding Your Users**
+Every accessibility checklist mentions focus management, and then moves on — as if it were one item. It isn't. It's a discipline, and it's the single thing that most often separates an app that tec...
+— dev.to · https://dev.to/duncanfaulkner/managing-focus-in-angular-dialogs-drawers-and-route-changes-without-stranding-your-users-4agf
+#Go #Community
+
+**6. Mayor Mamdani Announces Landmark &quot;Click-to-Cancel&quot; Consumer Protection Rules**
+Comments
+— Hacker News · https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot
+#SoftwareDev
+
+**7. How to Build a T4-Friendly Autonomous Data Science Agent with DeepAnalyze-8B, Sandboxed Code Execution, and Iterative Analysis**
+We build an autonomous data science agent around DeepAnalyze-8B and run it end to end. We prepare a stable Colab runtime, install the machine-learning dependencies, and load the tokenizer and model...
+— MarkTechPost · https://www.marktechpost.com/2026/07/10/how-to-build-a-t4-friendly-autonomous-data-science-agent-with-deepanalyze-8b-sandboxed-code-execution-and-iterative-analysis/
+#Python #AIEng
+
+**8. The Agent That Couldn't Rewrite Its Own History (Once We Made That True)**
+Fifth in a series on building an autonomous AI organism that operates real multi-tenant infrastructure under a constitutional safety model. Part 1 was two gates, Part 2 the wall, Part 3 the layered...
+— dev.to · https://dev.to/artemmatviychuk/the-agent-that-couldnt-rewrite-its-own-history-once-we-made-that-true-3i5c
+#Go #Community</description>
+    </item>
     <item>
       <title>Builders Digest 2026-07-10T19</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-10T19/digest.json</link>
