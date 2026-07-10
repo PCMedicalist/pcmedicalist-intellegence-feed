@@ -4,8 +4,56 @@
     <title>PCMedicalist Builders Digest</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Fri, 10 Jul 2026 16:02:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 17:01:48 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Builders Digest 2026-07-10T17</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-10T17/digest.json</link>
+      <guid isPermaLink="false">2026-07-10T17</guid>
+      <pubDate>Fri, 10 Jul 2026 17:01:48 GMT</pubDate>
+      <description>🛠️ **Builders Digest · Jul 10 17:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. Building a Production Grade AWS Infrastructure Project (Part 2): Containerization**
+The Pivot: Why Containerization First? After careful thought and consideration, I realized that building the VPC right away wasn't the most efficient path. Instead, I went back to the drawing board...
+— dev.to · https://dev.to/trenation/building-a-production-grade-aws-infrastructure-project-part-2-containerization-pkg
+#DNS #Docker #Python #Nodejs #Community
+
+**2. How to Design an Industrial-Grade Edge Gateway (And Avoid the Rust Deadlock Trap)**
+🎯 Core Architectural Philosophy &quot;Keep data moving through memory, delegate persistence to the center; the edge does the heavy lifting, the center does the thinking.&quot; The fundamental rule of this ar...
+— dev.to · https://dev.to/josh_klein/how-to-design-an-industrial-grade-edge-gateway-and-avoid-the-rust-deadlock-trap-5h3m
+#TLS #HTTP #Rust #WebAssembly #Community
+
+**3. Implementing Google Sheets Integration for Device Management in tvview**
+Implementing Google Sheets Integration for Device Management in tvview TL;DR: I integrated Google Sheets with the tvview app, enabling edits to be written back to a sheet for MAC, Model, and Lineup...
+— dev.to · https://dev.to/zaerohell/implementing-google-sheets-integration-for-device-management-in-tvview-1d0p
+#Community
+
+**4. After 7 years in production, Scarf has reluctantly moved away from Haskell**
+Comments
+— Lobsters · https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html
+#SoftwareDev
+
+**5. How I Built a Zero-Cloud AI Memory OS for Android 📱🧠**
+We’ve all been there: you saw a link, a funny quote, or an important address on your screen a few days ago, but you can’t remember which app it was in. Was it WhatsApp? A random website? A fleeting...
+— dev.to · https://dev.to/0xlawrence/how-i-built-a-zero-cloud-ai-memory-os-for-android-4c54
+#SQLite #ZeroKnowledge #LLM #Community
+
+**6. Left of the Loop: Who’s on the Hook?**
+To be on the hook is to be the one who answers when something breaks. Every team carries a picture of where that hook hangs. This is about whether the picture was ever true. It’s the first question...
+— dev.to · https://dev.to/aepfli/left-of-the-loop-whos-on-the-hook-51ig
+#Go #Community
+
+**7. SOLID**
+WHAT IS SOLID? If you are a dev and have browsed this network, you've probably seen dozens of posts about this topic... So, straight to the point, SOLID is a set of 5 principles that help improve t...
+— dev.to · https://dev.to/victorlisbronzo/solid-3hje
+#Community
+
+**8. Snails' Teeth Beats Spider Silk as Nature's Strongest Material**
+Comments
+— Hacker News · https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/
+#SoftwareDev</description>
+    </item>
     <item>
       <title>Builders Digest 2026-07-10T16</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-10T16/digest.json</link>
