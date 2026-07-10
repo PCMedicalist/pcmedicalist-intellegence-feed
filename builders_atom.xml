@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Builders Digest</title>
   <id>tag:pcmedicalist.com,2026:builders-feed</id>
-  <updated>2026-07-10T10:01:53Z</updated>
+  <updated>2026-07-10T11:01:48Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders_atom.xml"/>
   <subtitle>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</subtitle>
+  <entry>
+    <title>Builders Digest 2026-07-10T11</title>
+    <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-10T11</id>
+    <updated>2026-07-10T11:01:48Z</updated>
+    <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-10T11/digest.json"/>
+    <summary>Builders digest for 2026-07-10T11</summary>
+    <content type="text">🛠️ **Builders Digest · Jul 10 11:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. How I am using Vue with Typescript 7 today**
+TypeScript 7 shipped this week. The Go-native compiler, the one with the order-of-magnitude speed claims, is now just typescript@7 on npm. And buried in the announcement is a caveat that reads like...
+— dev.to · https://dev.to/nikhilverma/how-i-am-using-vue-with-typescript-7-today-3ge3
+#Go #LLM #Community
+
+**2. Italia ed est europeo**
+L'Europa dell'Est non è un blocco omogeneo. È un arcipelago di economie tech in rapida trasformazione, ognuna con un profilo diverso, e tutte stanno diventando rilevanti per la Germania in modi che...
+— dev.to · https://dev.to/luigiippolito/italia-ed-est-europeo-2fi2
+#Community
+
+**3. What are you doing this weekend?**
+Feel free to tell what you plan on doing this weekend and even ask for help or feedback. Please keep in mind it’s more than OK to do nothing at all too!
+— Lobsters · https://lobste.rs/s/u9yf5l/what_are_you_doing_this_weekend
+#SoftwareDev
+
+**4. AI for CS Assignments: How I Survive Technical Writing (Without Completely Dreading It)**
+Sophomore year. My algorithms professor dropped a 1,500-word reflection assignment about the ethics of AI in software development on a Monday morning. The class is called Data Structures and Algori...
+— dev.to · https://dev.to/eliots/ai-for-cs-assignments-how-i-survive-technical-writing-without-completely-dreading-it-3cjl
+#Community
+
+**5. AEO Isn't SEO: Why You Should Let Bots Crawl Your Site in 2026**
+For twenty years, robots.txt existed to keep bandwidth-hungry crawlers off your server. In 2026, for anyone who wants their work to actually be found , that instinct is backwards. If your goal is s...
+— dev.to · https://dev.to/bensantora1/aeo-isnt-seo-why-you-should-let-bots-crawl-your-site-in-2026-15oi
+#HTTP #Community
+
+**6. The Dark Side of Wearable Data: What No One Talks About**
+Look, everyone is now hopping on the “wearables” train. We have seen millions of smartwatches, rings and patches, collecting huge amounts of data regarding one’s heart rate, activity, sleep, stress...
+— dev.to · https://dev.to/shradha_puri/the-dark-side-of-wearable-data-what-no-one-talks-about-2eam
+#Community
+
+**7. Better Auth Joins Vercel**
+📣 A quick note before we get started: I'm moving this newsletter from Kit to a new platform soon. You don't need to do anything, if you want to keep receiving Next.js Weekly. During the switch, I'l...
+— dev.to · https://dev.to/erfanebrahimnia/better-auth-joins-vercel-5a97
+#Community
+
+**8. Prompting Is Dead. Long Live the Loop.**
+A realistic first migration Before (prompting): Every PR: manually ask the agent to fix CI, re-prompt after each failure. After (looping): /loop 5m check my PR, address review comments, and fix fai...
+— dev.to · https://dev.to/rajesh_kumarkanumetta_b5/prompting-is-dead-long-live-the-loop-5cm5
+#LLM #Community</content>
+  </entry>
   <entry>
     <title>Builders Digest 2026-07-10T10</title>
     <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-10T10</id>
