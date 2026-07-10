@@ -13,7 +13,7 @@
 ```
 🔐 Daily Security & Standards Brief (Jul 10)
 • CVE-2026-48908 — JoomShaper SP Page Builder Unrestricted Upload of File with Dangerous Ty… — CISA KEV Vulns
-#VulnerabilityIntelligence #Vulnerabilities #CVE202648908 #CVE202655255 #CVE202656290
+#VulnerabilityIntelligence #Vulnerabilities #CVE202648908
 via PCMedicalist · pcmedicalist.com
 ```
 
