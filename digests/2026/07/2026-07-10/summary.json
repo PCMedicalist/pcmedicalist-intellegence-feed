@@ -51,6 +51,7 @@
   },
   "buffer_b": {
     "dry_run": false,
-    "success": true
-  }
+    "success": false
+  },
+  "discord_ok": true
 }
