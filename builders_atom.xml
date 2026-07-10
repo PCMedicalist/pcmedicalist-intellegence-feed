@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Builders Digest</title>
   <id>tag:pcmedicalist.com,2026:builders-feed</id>
-  <updated>2026-07-10T22:01:39Z</updated>
+  <updated>2026-07-10T23:01:55Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders_atom.xml"/>
   <subtitle>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</subtitle>
+  <entry>
+    <title>Builders Digest 2026-07-10T23</title>
+    <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-10T23</id>
+    <updated>2026-07-10T23:01:55Z</updated>
+    <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-10T23/digest.json"/>
+    <summary>Builders digest for 2026-07-10T23</summary>
+    <content type="text">🛠️ **Builders Digest · Jul 10 23:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. Einstein's relativity rules chemical bonds in heavy elements, new research shows**
+Comments
+— Hacker News · https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity
+#SoftwareDev
+
+**2. De comandos manuales a scripts dinámicos: Cómo simplifiqué la clonación de Windows en WinPE con DISM**
+¿Alguna vez te has encontrado en esa situación donde hay una herramienta que te resuelve un problema pero en tu empresa no está permitida? Ya sea porque usan otra alternativa, por políticas de segu...
+— dev.to · https://dev.to/fefeco/de-comandos-manuales-a-scripts-dinamicos-como-simplifique-la-clonacion-de-windows-en-winpe-con-dism-4j6j
+#Windows #Community
+
+**3. I Built an RFP Compliance Checker in One Session — Here's the Exact Stack**
+The scene: Friday evening. You're on page 147 of a 200-page procurement spec. Clause 17.3 says &quot;mandatory: Cyber Essentials Plus certification.&quot; Your draft response says &quot;Cyber Essentials certified...
+— dev.to · https://dev.to/vystartasv/i-built-an-rfp-compliance-checker-in-one-session-heres-the-exact-stack-3kbe
+#DNS #HTTP #LLM #Community
+
+**4. How to Change the Date of an Old Git Commit**
+Sooner or later, most Git users encounter a situation where a commit has the wrong timestamp. Maybe your system clock was incorrect. Maybe you imported commits from another repository. Maybe you re...
+— dev.to · https://dev.to/giteditdatecom/how-to-change-the-date-of-an-old-git-commit-2e8a
+#Community
+
+**5. Why Git Has Two Dates: Author Date vs Commit Date**
+Most developers assume a Git commit has a single timestamp. That's not true. Every commit actually contains two different dates : Author Date Commit Date Most of the time they are identical, which ...
+— dev.to · https://dev.to/giteditdatecom/why-git-has-two-dates-author-date-vs-commit-date-pca
+#Community
+
+**6. 7 Next.js App Router Mistakes I See Most Often**
+The App Router is amazing, but it also changes the way we think about React. Most issues I see aren't framework bugs. They're old habits carried into a server-first world. Here are seven mistakes w...
+— dev.to · https://dev.to/joodi/7-nextjs-app-router-mistakes-i-see-most-often-ai8
+#HTTP #Community
+
+**7. Rust Borrowing Without Fear**
+Borrowing is one of the first concepts in Rust that feels different from other languages. If you’re coming from Python, Java, or C, it can seem strict or overly protective. But once you understand ...
+— dev.to · https://dev.to/mournfulcord/rust-borrowing-without-fear-578m
+#Rust #Python #Community
+
+**8. Stop Guessing: Real Data Comparing Chinese and US AI Models**
+Stop Guessing: Real Data Comparing Chinese and US AI Models I run multi-region AI workloads for a living. My job is to keep p99 latency under 800ms while maintaining 99.9% uptime SLAs across three ...
+— dev.to · https://dev.to/rileykim/stop-guessing-real-data-comparing-chinese-and-us-ai-models-2nf1
+#HTTP #LLM #Community</content>
+  </entry>
   <entry>
     <title>Builders Digest 2026-07-10T22</title>
     <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-10T22</id>
