@@ -51,6 +51,6 @@
   },
   "buffer_b": {
     "dry_run": false,
-    "success": false
+    "success": true
   }
 }
