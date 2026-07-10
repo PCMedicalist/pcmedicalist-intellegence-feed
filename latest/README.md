@@ -12,8 +12,8 @@
 
 ```
 🔐 Daily Security & Standards Brief (Jul 10)
-• CVE-2026-48908 — JoomShaper SP Page Builder Unrestricted Upload of File… — CISA KEV Vulns
-• CVE-2026-55255 — Langflow Authorization Bypass Through User-Controlled… — CISA KEV Vulns
+• CVE-2026-48908 — JoomShaper SP Page Builder Unrestricted Upload of File with Dangerous Ty… — CISA KEV Vulns
+#VulnerabilityIntelligence #Vulnerabilities #CVE202648908 #CVE202655255 #CVE202656290
 via PCMedicalist · pcmedicalist.com
 ```
 
@@ -24,6 +24,7 @@ via PCMedicalist · pcmedicalist.com
 • WolfSSL, GeoVision, VTK vulnerabilities — Cisco Talos
 • Winning 54% of the time — Cisco Talos
 • How ProdSec uses Wiz — Wiz Research
+#VendorSecurityResearch #VendorResearch
 via PCMedicalist · pcmedicalist.com
 ```
 

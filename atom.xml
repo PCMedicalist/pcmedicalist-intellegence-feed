@@ -2,24 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Intelligence Feed</title>
   <id>tag:pcmedicalist.com,2026:intel-feed</id>
-  <updated>2026-07-10T02:13:43Z</updated>
+  <updated>2026-07-10T02:23:20Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/atom.xml"/>
   <subtitle>Daily security intelligence digests — PCMedicalist Intelligence Network</subtitle>
   <entry>
     <title>Digest 2026-07-10</title>
     <id>tag:pcmedicalist.com,2026:intel-feed:2026-07-10</id>
-    <updated>2026-07-10T02:13:43Z</updated>
+    <updated>2026-07-10T02:23:20Z</updated>
     <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/07/2026-07-10/posts.json"/>
     <summary>Security intelligence digest for 2026-07-10</summary>
     <content type="text">🔐 Daily Security &amp; Standards Brief (Jul 10)
-• CVE-2026-48908 — JoomShaper SP Page Builder Unrestricted Upload of File… — CISA KEV Vulns
-• CVE-2026-55255 — Langflow Authorization Bypass Through User-Controlled… — CISA KEV Vulns
+• CVE-2026-48908 — JoomShaper SP Page Builder Unrestricted Upload of File with Dangerous Ty… — CISA KEV Vulns
+#VulnerabilityIntelligence #Vulnerabilities #CVE202648908 #CVE202655255 #CVE202656290
 via PCMedicalist · pcmedicalist.com
 
 🧠 Engineering &amp; Research Digest (Jul 10)
 • WolfSSL, GeoVision, VTK vulnerabilities — Cisco Talos
 • Winning 54% of the time — Cisco Talos
 • How ProdSec uses Wiz — Wiz Research
+#VendorSecurityResearch #VendorResearch
 via PCMedicalist · pcmedicalist.com</content>
   </entry>
 </feed>
