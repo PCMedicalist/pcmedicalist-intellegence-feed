@@ -1,0 +1,5 @@
+🧠 Engineering & Research Digest (Jul 10)
+• WolfSSL, GeoVision, VTK vulnerabilities — Cisco Talos
+• Winning 54% of the time — Cisco Talos
+• How ProdSec uses Wiz — Wiz Research
+via PCMedicalist · pcmedicalist.com

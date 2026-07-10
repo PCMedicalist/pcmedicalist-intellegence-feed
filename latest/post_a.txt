@@ -1,0 +1,4 @@
+🔐 Daily Security & Standards Brief (Jul 10)
+• CVE-2026-48908 — JoomShaper SP Page Builder Unrestricted Upload of File… — CISA KEV Vulns
+• CVE-2026-55255 — Langflow Authorization Bypass Through User-Controlled… — CISA KEV Vulns
+via PCMedicalist · pcmedicalist.com
