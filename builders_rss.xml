@@ -4,8 +4,57 @@
     <title>PCMedicalist Builders Digest</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Fri, 10 Jul 2026 08:01:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 09:01:46 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Builders Digest 2026-07-10T09</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-10T09/digest.json</link>
+      <guid isPermaLink="false">2026-07-10T09</guid>
+      <pubDate>Fri, 10 Jul 2026 09:01:46 GMT</pubDate>
+      <description>🛠️ **Builders Digest · Jul 10 09:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. Add AI Dubbing to Your App in 10 Lines**
+The problem You have video in one language and you need it in another. Sometimes programmatically, right when a user uploads it, sometimes across an entire back-catalog at once. Build it yourself a...
+— dev.to · https://dev.to/pheomenon/add-ai-dubbing-to-your-app-in-10-lines-53dc
+#HTTP #Python #Community
+
+**2. Idempotent affiliate commissions on Stripe: stop double-paying on webhook retries**
+Stripe retries webhooks on purpose. If your endpoint times out or returns a 500, Stripe redelivers the same event, sometimes for up to three days. And even when nothing fails, Stripe's delivery is ...
+— dev.to · https://dev.to/mihirkanzariya/idempotent-affiliate-commissions-on-stripe-stop-double-paying-on-webhook-retries-4neg
+#HTTP #Redis #Community
+
+**3. How WhatsApp Delivers Billions of Messages a Day**
+WhatsApp is one of those systems that sounds boring until you look at the numbers. A very small engineering team moved an enormous volume of messages for hundreds of millions of people. That combin...
+— dev.to · https://dev.to/roni_das_b1b76c5ee6583027/how-whatsapp-delivers-billions-of-messages-a-day-44hg
+#HTTP #Community
+
+**4. How I Would Design Uber**
+When people say &quot;design Uber,&quot; they usually picture a map with cars moving around on it. The map is the easy part. The hard part is everything underneath: keeping track of where hundreds of thousan...
+— dev.to · https://dev.to/roni_das_b1b76c5ee6583027/how-i-would-design-uber-523m
+#HTTP #Community
+
+**5. Reverse-Engineering gabigol: High-Frequency Crypto Up/Down Farmer on Polymarket**
+gabigol (@gabigol on Polymarket) is one of the most consistent performers in the short-duration crypto Up/Down markets. Using public data (Polymarket APIs, Struct explorer), we can reverse-engineer...
+— dev.to · https://dev.to/fatherson/reverse-engineering-gabigol-high-frequency-crypto-updown-farmer-on-polymarket-d0a
+#HTTP #Windows #Community
+
+**6. Google Research Introduces SensorFM: A Wearable Health Foundation Model Pretrained on One Trillion Minutes of Sensor Data**
+SensorFM, a wearable health foundation model from Google Research, Google DeepMind, and university collaborators. We walk through its ViT-1D masked-autoencoder backbone, pretrained on more than one...
+— MarkTechPost · https://www.marktechpost.com/2026/07/10/google-research-introduces-sensorfm-a-wearable-health-foundation-model-pretrained-on-one-trillion-minutes-of-sensor-data/
+#AIEng
+
+**7. 9,964 Readings a Second. Then I Pulled the Plug. Hazshield AI - Part 2**
+Two terminals. The left one is scrolling so fast it's basically a waterfall: my plant simulator pushing ten thousand sensor readings a second at the Rust gateway I've spent the last few weeks build...
+— dev.to · https://dev.to/sumitga/9964-readings-a-second-then-i-pulled-the-plug-hazshield-ai-part-2-1ef8
+#SSH #Rust #Python #PostgreSQL #Community
+
+**8. I got my first negative feedback
+
+So it feel good to get some negative feedback, it means that people actually took time to look at my website and tool, I gotta say it was a long night to do the fixes:)**
+— dev.to · https://dev.to/aleks_sonn/i-got-my-first-negative-feedback-so-it-feel-good-to-get-some-negative-feedback-it-means-that-4jn7
+#Community</description>
+    </item>
     <item>
       <title>Builders Digest 2026-07-10T08</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-10T08/digest.json</link>
