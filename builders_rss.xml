@@ -4,8 +4,56 @@
     <title>PCMedicalist Builders Digest</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Sat, 11 Jul 2026 08:01:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 09:01:21 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Builders Digest 2026-07-11T09</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T09/digest.json</link>
+      <guid isPermaLink="false">2026-07-11T09</guid>
+      <pubDate>Sat, 11 Jul 2026 09:01:21 GMT</pubDate>
+      <description>🛠️ **Builders Digest · Jul 11 09:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. Why SNS Silently Drops Your Messages and How to Catch It Before You Ship**
+Your checkout service publishes an OrderRefunded event to an SNS topic. The publish call returns a MessageId . No exception, no retry, nothing in the dead-letter queue. Three days later a customer ...
+— dev.to · https://dev.to/siddharth_pandey_27/why-sns-silently-drops-your-messages-and-how-to-catch-it-before-you-ship-1fcm
+#LLM #Community
+
+**2. String - JS**
+String - A string is a sequence of characters in single quotes ('), double quotes (&quot;), or backticks (`). javascript const firstName = &quot;Siyamala&quot;; const lastName = 'Manikandan'; const message = Welc...
+— dev.to · https://dev.to/siyamala_g/string-js-441g
+#Community
+
+**3. I put my fan streak on Solana so nobody could reset it**
+This is a submission for Weekend Challenge: Passion Edition What I Built Loyalty Ledger — a fan loyalty tracker where your check-in streak, badges, and history live on Solana instead of some app's ...
+— dev.to · https://dev.to/ishantgupta/i-put-my-fan-streak-on-solana-so-nobody-could-reset-it-5dg9
+#HTTP #Community
+
+**4. Building Intuition for Big-O by Tracing Code Line by Line**
+Building Intuition for Big-O by Tracing Code Line by Line Complexity analysis becomes intuitive when you count operations by actually tracing through examples. Practice output prediction problems a...
+— dev.to · https://dev.to/ameer_abdullah_68d48c8496/building-intuition-for-big-o-by-tracing-code-line-by-line-17d1
+#Python #Community
+
+**5. Companies are scrambling to curtail soaring AI costs**
+Comments
+— Hacker News · https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs
+#SoftwareDev
+
+**6. Cómo revisar cohortes de activación por email**
+Cuando un equipo SaaS ajusta su onboarding, casi siempre mira aperturas, clics y activación en la misma reunión. El problema es que esas señales se vuelven poco fiables si las pruebas de email vive...
+— dev.to · https://dev.to/hannahdev56/como-revisar-cohortes-de-activacion-por-email-292i
+#Community
+
+**7. Ditch API Routes: Server Actions in Next.js ⚡**
+The API Boilerplate Tax For years, building a simple contact form at Smart Tech Devs required a massive amount of architectural boilerplate. You had to create a React component, write a onSubmit ha...
+— dev.to · https://dev.to/iprajapatiparesh/ditch-api-routes-server-actions-in-nextjs-5bn5
+#Community
+
+**8. I Traced a Multi-Step LLM Agent With Self-Hosted SigNoz. One Feature Sold Me.**
+Multi-step LLM agents fail in a way normal backends don't. Nothing crashes. The pipeline &quot;works&quot;, the answer is just bad, slow or three times more expensive than yesterday. print() debugging tells ...
+— dev.to · https://dev.to/himanshu_748/i-traced-a-multi-step-llm-agent-with-self-hosted-signoz-one-feature-sold-me-4k71
+#HTTP #Docker #Python #macOS #Community</description>
+    </item>
     <item>
       <title>Builders Digest 2026-07-11T08</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T08/digest.json</link>
