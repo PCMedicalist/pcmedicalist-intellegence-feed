@@ -4,8 +4,56 @@
     <title>PCMedicalist Builders Digest</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Fri, 10 Jul 2026 23:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 00:02:00 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Builders Digest 2026-07-11T00</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T00/digest.json</link>
+      <guid isPermaLink="false">2026-07-11T00</guid>
+      <pubDate>Sat, 11 Jul 2026 00:02:00 GMT</pubDate>
+      <description>🛠️ **Builders Digest · Jul 11 00:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. Meta removes controversial AI feature on Instagram after backlash**
+Meta told Dylan Byers, of Puck News, that it had nixed the feature after backlash from its user base.
+— TechCrunch · https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/
+#AI
+
+**2. Architecting a background-controlled sound manager that actually survives Doze mode**
+It happened during a lecture. I was sitting in the front row, taking notes on my tablet, when my phone started vibrating against the wooden desk. The sound was amplified like a drum. The professor ...
+— dev.to · https://dev.to/haseebthedev0/architecting-a-background-controlled-sound-manager-that-actually-survives-doze-mode-505m
+#HTTP #Community
+
+**3. Stop Building Beautiful Frontends. Build Fast Ones Instead.**
+What I learned after shipping production applications with Next.js, React, and TypeScript. Every developer wants to build beautiful websites. Fancy animations. Glassmorphism. Perfect gradients. Com...
+— dev.to · https://dev.to/mie_code/stop-building-beautiful-frontends-build-fast-ones-instead-4o49
+#PostgreSQL #Community
+
+**4. Azure AI Search in 2026, how to build a RAG pipeline**
+Most RAG tutorials online show the same pattern: take a document, split it into chunks, generate embeddings, store them in a vector database, and when a query arrives search for the nearest vectors...
+— dev.to · https://dev.to/carlosjcastrog/azure-ai-search-in-2026-how-to-build-a-rag-pipeline-43h8
+#HTTP #OAuth #NET #Windows #Community
+
+**5. 6 Months For Sentence Lab**
+I've been hacking away on Sentence Lab for 6 months now, and I'm very happy with where it's at in terms of features and usability. Initially I was just trying to create a tool to help with construc...
+— dev.to · https://dev.to/highdesertapps/6-months-for-sentence-lab-5h7p
+#Community
+
+**6. Autonomous Quantum Computer Calibration**
+A Google-led research team has demonstrated a quantum computer that continuously learns from its own errors during operation. This breakthrough replaces a major bottleneck in quantum computing with...
+— dev.to · https://dev.to/vpodk/autonomous-quantum-computer-calibration-2p9m
+#Community
+
+**7. A Week Contributing to CNCF Projects: What I Fixed and What I Learned**
+I spent last month contributing to Cloud Native Computing Foundation projects, on purpose and in the open. Not a hackathon, not a single big feature, but a deliberate sweep across many projects: fi...
+— dev.to · https://dev.to/nikhilj/a-week-contributing-to-cncf-projects-what-i-fixed-and-what-i-learned-39ai
+#OAuth #Kubernetes #Community
+
+**8. Building a Cross-Platform E-commerce App with Flutter: Architecture, Challenges, and Lessons Learned**
+When building an e-commerce application today, users expect more than just a catalog of products. They expect instant search, secure payments, real-time order tracking, push notifications, and smoo...
+— dev.to · https://dev.to/muhammad_ashar_e16d975377/building-a-cross-platform-e-commerce-app-with-flutter-architecture-challenges-and-lessons-learned-8a8
+#HTTP #PostgreSQL #Redis #Community</description>
+    </item>
     <item>
       <title>Builders Digest 2026-07-10T23</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-10T23/digest.json</link>
