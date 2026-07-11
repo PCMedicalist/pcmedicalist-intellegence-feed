@@ -2,7 +2,7 @@
   "date": "2026-07-11",
   "feeds_total": 38,
   "items_raw": 3540,
-  "items_deduped": 3476,
+  "items_deduped": 3477,
   "per_feed": {
     "IETF Blog": 590,
     "W3C News": 0,
@@ -43,15 +43,25 @@
     "Lobsters": 25,
     "r/netsec": 0
   },
-  "post_a_len": 247,
-  "post_b_len": 245,
-  "buffer_a": {
-    "dry_run": false,
-    "success": false
+  "post_a_len": 995,
+  "post_b_len": 824,
+  "post_a_x_len": 267,
+  "post_b_x_len": 259,
+  "buffer_a_x": {
+    "dry_run": true,
+    "success": "skipped (dry-run)"
   },
-  "buffer_b": {
-    "dry_run": false,
-    "success": false
+  "buffer_a_li": {
+    "dry_run": true,
+    "success": "skipped (dry-run)"
+  },
+  "buffer_b_x": {
+    "dry_run": true,
+    "success": "skipped (dry-run)"
+  },
+  "buffer_b_li": {
+    "dry_run": true,
+    "success": "skipped (dry-run)"
   },
   "discord_ok": true
 }
