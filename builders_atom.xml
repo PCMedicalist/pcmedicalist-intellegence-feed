@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Builders Digest</title>
   <id>tag:pcmedicalist.com,2026:builders-feed</id>
-  <updated>2026-07-11T01:02:00Z</updated>
+  <updated>2026-07-11T02:02:16Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders_atom.xml"/>
   <subtitle>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</subtitle>
+  <entry>
+    <title>Builders Digest 2026-07-11T02</title>
+    <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-11T02</id>
+    <updated>2026-07-11T02:02:16Z</updated>
+    <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T02/digest.json"/>
+    <summary>Builders digest for 2026-07-11T02</summary>
+    <content type="text">🛠️ **Builders Digest · Jul 11 02:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. Building a Local-Only Browser Extension That Translates GitHub's UI—Not Your Content**
+Built-in browser translation is convenient, but it is often too broad for developer tools. It can translate repository content along with the interface, turning terms such as &quot;branch&quot; into awkward ...
+— dev.to · https://dev.to/miura/building-a-local-only-browser-extension-that-translates-githubs-ui-not-your-content-4i8m
+#Community
+
+**2. Building an LLM System from Scratch in Pure Python &amp; NumPy: Architecture, Invariants, and Clean Code**
+Hi everyone, I wanted to share the design invariants and architecture of Draco AI , a full-stack, hardware-agnostic LLM system built completely from scratch in pure Python and NumPy. The core philo...
+— dev.to · https://dev.to/ducnguyen-creator/building-an-llm-system-from-scratch-in-pure-python-numpy-architecture-invariants-and-clean-code-5a8c
+#HTTP #Python #PyTorch #LLM #Community
+
+**3. Franklin: a coffee-shop AI that treats neurodivergent customers as regulars**
+This is a submission for Weekend Challenge: Passion Edition What I Built I've left a full cart in a supermarket aisle because the checkout line was four people deep. I've put a game I drove to Best...
+— dev.to · https://dev.to/brewhubphl/franklin-a-coffee-shop-ai-that-treats-neurodivergent-customers-as-regulars-58oe
+#HTTP #Go #PostgreSQL #Community
+
+**4. The AI Senior Dev Dilemma: Am I Coding or Just Prompting?**
+So, I’m still fairly new to this dev thing—five years full-time, now a senior dev. I was recently told to pick up Angular for a new project at work, but honestly? I’ve been letting AI do a lot of t...
+— dev.to · https://dev.to/agentic_architect/the-ai-senior-dev-dilemma-am-i-coding-or-just-prompting-2j78
+#Community
+
+**5. FreeCAD in the Browser**
+Comments
+— Hacker News · https://magik.net/freecad/
+#SoftwareDev
+
+**6. Choosing the Right AI Agent Memory Strategy: A Decision-Tree Approach**
+Comments
+— Hacker News · https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/
+#SoftwareDev
+
+**7. Meta pulls new AI image feature after days of backlash**
+Comments
+— Hacker News · https://www.bbc.com/news/articles/c2dy6e8klw0o
+#SoftwareDev
+
+**8. Why I'm Building in Public**
+For the past year, I've been building a Web3 project called BOINKO. Along the way I've learned something that applies to almost every software project: Building is the easy part. Building something...
+— dev.to · https://dev.to/boinkocoin/why-im-building-in-public-4alk
+#Community</content>
+  </entry>
   <entry>
     <title>Builders Digest 2026-07-11T01</title>
     <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-11T01</id>
