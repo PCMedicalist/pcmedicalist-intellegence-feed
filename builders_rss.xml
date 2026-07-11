@@ -4,8 +4,56 @@
     <title>PCMedicalist Builders Digest</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Sat, 11 Jul 2026 19:01:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 20:01:27 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Builders Digest 2026-07-11T20</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T20/digest.json</link>
+      <guid isPermaLink="false">2026-07-11T20</guid>
+      <pubDate>Sat, 11 Jul 2026 20:01:27 GMT</pubDate>
+      <description>🛠️ **Builders Digest · Jul 11 20:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. No Baked-In Behavior: Why Your AI Agent's System Prompt Should Be Yours**
+Every AI coding agent ships with baked-in behavior. Hidden system prompts you can't see. Tools you can't remove. Steering baked in by the company that made it. It's just how these products work. Ba...
+— dev.to · https://dev.to/danielbilek/no-baked-in-behavior-why-your-ai-agents-system-prompt-should-be-yours-10o2
+#SQLite #LLM #Community
+
+**2. OpenScience Emerges as Open-Source AI Workbench for Researchers**
+OpenScience, a new open-source AI workbench developed primarily in TypeScript, has garnered significant attention on GitHub, amassing over 2,167 stars. This project aims to provide a collaborative ...
+— dev.to · https://dev.to/dd8888/openscience-emerges-as-open-source-ai-workbench-for-researchers-38l3
+#TensorFlow #PyTorch #Community
+
+**3. The VM Deletion Test: Why Enterprise AI Governance Is the Real Product in 2026 — 2026-07-11**
+OpenAI shipped ChatGPT Work this week. It is an agent that connects to Google Drive, Slack, Outlook, SharePoint, Gmail, and CRMs, breaks complex projects into steps, and works autonomously for hour...
+— dev.to · https://dev.to/michael_kidd_255722160288/the-vm-deletion-test-why-enterprise-ai-governance-is-the-real-product-in-2026-2026-07-11-2oj1
+#HTTP #Community
+
+**4. Trove: Free Learning for Anyone Who Needs It Free**
+This is a submission for Weekend Challenge: Passion Edition What I Built When I first started teaching myself things, I had no idea where to even begin. I didn't know what to learn first, how to st...
+— dev.to · https://dev.to/isah_alamin_93d4e4d2ab01f/trove-free-learning-for-anyone-who-needs-it-free-1347
+#HTTP #Community
+
+**5. 131 Tests, 4 Layers: Why My AI Agents Get an Eval Harness First**
+Originally published on AIdeazz — cross-posted here with canonical link. My first production AI agent shipped with 131 tests in its evaluation harness. This wasn't a luxury; it was a non-negotiable...
+— dev.to · https://dev.to/elenarevicheva/131-tests-4-layers-why-my-ai-agents-get-an-eval-harness-first-i33
+#Python #LLM #Community
+
+**6. 🚀 I Built File Organizer – A Custom Windows File Organization Tool**
+Hi everyone! I recently built File Organizer, a lightweight Windows application designed to make file organization easier. Instead of forcing a fixed folder structure, the application lets you cust...
+— dev.to · https://dev.to/youssef_sheeba_f1e77d2193/i-built-file-organizer-a-simple-windows-folder-automation-tool-3jef
+#HTTP #Python #NET #Windows #Community
+
+**7. My First Post**
+Big Howdy, I’m starting a blog. That sentence feels weirdly dramatic for what this is to me. The plan is to write about engineering, personal projects, things I’m learning, things I thought I under...
+— dev.to · https://dev.to/jgwesterfield/my-first-post-33n
+#Community
+
+**8. Freight Is Quietly Becoming One of the Most Interesting AI Problems in B2B**
+_Why a $900B industry running on phone calls and PDFs is finally getting rebuilt — and what the hardest problems actually look like from the inside. If you want to see what &quot;AI transformation&quot; look...
+— dev.to · https://dev.to/fleetgen/freight-is-quietly-becoming-one-of-the-most-interesting-ai-problems-in-b2b-7a4
+#Community</description>
+    </item>
     <item>
       <title>Builders Digest 2026-07-11T19</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T19/digest.json</link>
