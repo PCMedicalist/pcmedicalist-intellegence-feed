@@ -47,11 +47,11 @@
   "post_b_len": 245,
   "buffer_a": {
     "dry_run": false,
-    "success": true
+    "success": false
   },
   "buffer_b": {
     "dry_run": false,
-    "success": true
+    "success": false
   },
   "discord_ok": true
 }
