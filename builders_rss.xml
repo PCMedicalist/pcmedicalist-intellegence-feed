@@ -4,8 +4,56 @@
     <title>PCMedicalist Builders Digest</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Sat, 11 Jul 2026 00:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 01:02:00 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Builders Digest 2026-07-11T01</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T01/digest.json</link>
+      <guid isPermaLink="false">2026-07-11T01</guid>
+      <pubDate>Sat, 11 Jul 2026 01:02:00 GMT</pubDate>
+      <description>🛠️ **Builders Digest · Jul 11 01:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. I couldn't find how much heat my PC puts in the room, so I built a widget**
+I game in a room that warms up fast. I could see CPU usage in Task Manager and watts in HWiNFO if I went looking. What I actually wanted was simpler: How much heat is this machine putting into the ...
+— dev.to · https://dev.to/arogorn993hue/i-couldnt-find-how-much-heat-my-pc-puts-in-the-room-so-i-built-a-widget-45n7
+#HTTP #Python #Linux #Windows #Community
+
+**2. Bringing Back the Older Internet: A Website for Juma**
+This is a submission for Weekend Challenge: Passion Edition What I Built I built a personal tribute website for my cat Juma. The goal of this project was to create a simple webpage to bring back th...
+— dev.to · https://dev.to/thaisavieira/bringing-back-the-older-internet-a-website-for-juma-3a88
+#Community
+
+**3. How I Kept a Live Chat Feed Smooth at 3,700+ Messages**
+I built LiveShop , a mini live-shopping stream UI, to answer a question I kept running into as a frontend-curious grad: tutorials teach you how to render a list, but they never teach you what happe...
+— dev.to · https://dev.to/shrutictc2/how-i-kept-a-live-chat-feed-smooth-at-3700-messages-1kf6
+#Community
+
+**4. After the ingress-NGINX retirement, what your migration plan owes production**
+The status of the controller As of March 2026, the Kubernetes SIG Network stopped maintaining ingress-nginx. That is the controller a lot of clusters have been running for years. A CNCF blog post p...
+— dev.to · https://dev.to/leobaniak/after-the-ingress-nginx-retirement-what-your-migration-plan-owes-production-10de
+#TLS #DNS #Kubernetes #Community
+
+**5. Quantified Self 2.0: Stop Guessing Your Health History—Build a Personal Medical Vector Database**
+Let's be real: our personal medical history is a mess. It’s a chaotic mix of PDF lab results, grainy scans of prescriptions, and cryptic Electronic Medical Records (EMR) scattered across different ...
+— dev.to · https://dev.to/beck_moulton/quantified-self-20-stop-guessing-your-health-history-build-a-personal-medical-vector-database-1ifj
+#Docker #Python #LLM #Community
+
+**6. Your model didn't get worse — the wrapper around it did (and you can control that)**
+My GPT got dumber after the update&quot; gets blamed on the model regressing, or on you prompting worse. Both are unfalsifiable, and both send you to fix the wrong layer. The layer that actually moved i...
+— dev.to · https://dev.to/anisa_agenticai/your-model-didnt-get-worse-the-wrapper-around-it-did-and-you-can-control-that-1c01
+#Community
+
+**7. The Evolution of a Software Engineer**
+The first year class HelloWorld { public static void main ( String args []) { // Displays &quot;Hello World!&quot; on the console. System . out . println ( &quot;Hello World!&quot; ); } } The second year /** * Hello w...
+— dev.to · https://dev.to/headzoo/the-evolution-of-a-software-engineer-2hjc
+#HTTP #Community
+
+**8. Biot Number: How to Know When a Cooling Object Has a Single Temperature**
+Pull a hot steel bolt out of a furnace and quench it in oil, and a fair question is: does the bolt cool from the outside in, with a sharp temperature difference between its skin and its core, or do...
+— dev.to · https://dev.to/01888927bd0e8aa92caca/biot-number-how-to-know-when-a-cooling-object-has-a-single-temperature-4co6
+#Community</description>
+    </item>
     <item>
       <title>Builders Digest 2026-07-11T00</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T00/digest.json</link>
