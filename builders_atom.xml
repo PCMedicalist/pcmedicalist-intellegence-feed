@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Builders Digest</title>
   <id>tag:pcmedicalist.com,2026:builders-feed</id>
-  <updated>2026-07-11T05:01:31Z</updated>
+  <updated>2026-07-11T06:01:39Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders_atom.xml"/>
   <subtitle>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</subtitle>
+  <entry>
+    <title>Builders Digest 2026-07-11T06</title>
+    <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-11T06</id>
+    <updated>2026-07-11T06:01:39Z</updated>
+    <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T06/digest.json"/>
+    <summary>Builders digest for 2026-07-11T06</summary>
+    <content type="text">🛠️ **Builders Digest · Jul 11 06:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. Fandom Fire — A GPU-Accelerated, AI-Powered Roast Battle Engine**
+This is a submission for Weekend Challenge: Passion Edition What I Built Fandom Fire is a real-time, procedural AI roast battle engine. You pick any two fictional characters — Superman vs Thor , Ba...
+— dev.to · https://dev.to/kaushikcoderpy/fandom-fire-a-gpu-accelerated-ai-powered-roast-battle-engine-5a4e
+#HTTP #Python #Community
+
+**2. Claude in Chrome keeps missing clicks. I measured why — there are exactly two causes.**
+If you use Claude in Chrome (Chrome MCP) for browser automation, you have probably hit some of these: Clicks land next to the target, not on it The pointer drifts right of the element, and retrying...
+— dev.to · https://dev.to/mxhlix/claude-in-chrome-keeps-missing-clicks-i-measured-why-there-are-exactly-two-causes-2m8p
+#Windows #Community
+
+**3. The expensive half of your incident bot is the half you didn't build**
+An incident bot caught the CrashLoopBackOff at 3:12 a.m., proposed delete_pod, and the on-call approved it half asleep at 3:14. The new pod went Running a few seconds later. The ticket closed itsel...
+— dev.to · https://dev.to/lazypl82/the-expensive-half-of-your-incident-bot-is-the-half-you-didnt-build-3lb4
+#Windows #LLM #Community
+
+**4. I Ran 150 Tasks to Test If AI Agents Follow Rules — The Answer Surprised Me**
+6 sessions, 150 standardized tasks, 2 rule formats. The mechanical gate won. Everything else was noise. The Question For two months, I've been building a mechanical verification system for my AI co...
+— dev.to · https://dev.to/yuhaolin2005/i-ran-150-tasks-to-test-if-ai-agents-follow-rules-the-answer-surprised-me-2670
+#Community
+
+**5. I converted an Android app to a webpage**
+Comments
+— Lobsters · https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/
+#SoftwareDev
+
+**6. Failure Engineering Explained by Uncle to Nephew — Episode 1: Why Failures Are Normal**
+New series, same two people from the Node.js Internals series. Where that series answered &quot;how does the system work?&quot;, this one answers &quot;how does the system survive when things stop working?&quot; Episo...
+— dev.to · https://dev.to/surajrkhonde/failure-engineering-explained-by-uncle-to-nephew-episode-1-why-failures-are-normal-4048
+#JWT #Go #Nodejs #Redis #Community
+
+**7. Why I Built a Lightweight Alternative to dotenv**
+The Problem dotenv is the standard for loading .env files in Node.js — but it has more features than most projects need, and the dependency tree keeps growing. I wanted something minimal: zero depe...
+— dev.to · https://dev.to/opensourcecrypto/why-i-built-a-lightweight-alternative-to-dotenv-35a6
+#HTTP #Nodejs #PostgreSQL #Community
+
+**8. moteDB 0.5.1 Is Out: What 18 Months of Building an Embedded Database for Robots Taught Me**
+Last Tuesday our warehouse robot forgot what a red box looked like. Not metaphorically. It had the force curve, the timestamp, the GPS pose — everything except the one thing that mattered: the visu...
+— dev.to · https://dev.to/motedb/motedb-051-is-out-what-18-months-of-building-an-embedded-database-for-robots-taught-me-hkj
+#Rust #PostgreSQL #Community</content>
+  </entry>
   <entry>
     <title>Builders Digest 2026-07-11T05</title>
     <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-11T05</id>
