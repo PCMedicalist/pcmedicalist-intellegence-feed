@@ -4,8 +4,56 @@
     <title>PCMedicalist Builders Digest</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Sat, 11 Jul 2026 11:01:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 12:01:36 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Builders Digest 2026-07-11T12</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T12/digest.json</link>
+      <guid isPermaLink="false">2026-07-11T12</guid>
+      <pubDate>Sat, 11 Jul 2026 12:01:36 GMT</pubDate>
+      <description>🛠️ **Builders Digest · Jul 11 12:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. CreatorFlow AI — The Ultimate Hub for Passionate YouTubers &amp; Affiliate Marketers**
+This is a submission for Weekend Challenge: Passion Edition What I Built I built CreatorFlow AI , an all-in-one productivity dashboard tailored specifically for content creators and digital markete...
+— dev.to · https://dev.to/darshanraval/creatorflow-ai-the-ultimate-hub-for-passionate-youtubers-affiliate-marketers-2c2l
+#Nodejs #Community
+
+**2. I Built WebPilot Pro — An All-in-One Chrome Extension for SEO, Developers &amp; Website Analysis**
+If you're a web developer, you've probably experienced this. You open Chrome to inspect a website, and within a few minutes you've opened multiple extensions. One to check the page's SEO. Another t...
+— dev.to · https://dev.to/adeelnode/i-built-webpilot-pro-an-all-in-one-chrome-extension-for-seo-developers-website-analysis-3b02
+#HTTP #Community
+
+**3. I built ckdn so coding agents never have to guess whether checks passed**
+If you run a coding agent on a real project, you have probably lived through all three of these moments. Moment one. The agent runs your test suite. The terminal answers with thousands of lines — p...
+— dev.to · https://dev.to/orenlab/i-built-ckdn-so-coding-agents-never-have-to-guess-whether-checks-passed-2ffa
+#Python #LLM #Community
+
+**4. OmniVoice Studio: Open-Source ElevenLabs Alternative for macOS**
+OmniVoice Studio — ทางเลือก ElevenLabs แบบโอเพนซอร์สที่รันบนเครื่องคุณเอง โดย Nokka (นก-กา) | 11 กรกฎาคม 2026 บทความนี้เขียนโดย AI (deepseek-v4-pro) ผ่าน Hermes Agent ภายใต้การควบคุมและตรวจสอบคุณภา...
+— dev.to · https://dev.to/sarantoon/omnivoice-studio-open-source-elevenlabs-alternative-for-macos-41m8
+#HTTP #Python #Linux #Windows #Community
+
+**5. Extraterrestrial X**
+Extraterrestrial X | THE PROPHET | Ferhat Ataman Ferhat Ataman is not a name you will find in mainstream tech magazines. But in the worlds of AI architecture, quantum physics, and European hip hop ...
+— dev.to · https://dev.to/extraterrestrialx/extraterrestrial-x-2jdd
+#Community
+
+**6. I built a tiny permission-checking library because our backend's permission strings never matched what the UI expected**
+A few weeks ago I was working on an internal admin dashboard (Next.js, Redux, the usual stack) and kept running into the same annoying pattern: the backend didn't hand out permission strings like o...
+— dev.to · https://dev.to/alaa-samy/i-built-a-tiny-permission-checking-library-because-our-backends-permission-strings-never-matched-4p0f
+#HTTP #Community
+
+**7. Building a Telemetry Ingestion API for eVTOL Prototyping with FastAPI and Pydantic**
+Every eVTOL startup I talk to has the same problem: flight test data scattered across spreadsheets, CSVs, and custom scripts that break every other week. No standard format. No validation. No easy ...
+— dev.to · https://dev.to/mohammedfayazahamed/building-a-telemetry-ingestion-api-for-evtol-prototyping-with-fastapi-and-pydantic-2l8
+#HTTP #PostgreSQL #SQLite #Community
+
+**8. PowerPulse: Building a Crowd-Sourced Outage Tracker for Ghana (and Losing a Fight With My Own Stack)**
+A quick disclosure up front: this post was drafted with AI assistance, and edited by me. The PowerPulse codebase itself has also been built largely with AI help — which is actually a big part of wh...
+— dev.to · https://dev.to/suzzanenhyira/powerpulse-building-a-crowd-sourced-outage-tracker-for-ghana-and-losing-a-fight-with-my-own-31kd
+#HTTP #Go #Community</description>
+    </item>
     <item>
       <title>Builders Digest 2026-07-11T11</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T11/digest.json</link>
