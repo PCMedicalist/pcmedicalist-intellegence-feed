@@ -1,5 +1,11 @@
 [
   {
+    "stamp": "2026-07-11T19",
+    "path": "builders/2026/07/2026-07-11T19",
+    "digest": "builders/2026/07/2026-07-11T19/digest.json",
+    "pushed_at": "2026-07-11T19:01:23.350889+00:00"
+  },
+  {
     "stamp": "2026-07-11T18",
     "path": "builders/2026/07/2026-07-11T18",
     "digest": "builders/2026/07/2026-07-11T18/digest.json",
