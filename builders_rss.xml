@@ -4,8 +4,56 @@
     <title>PCMedicalist Builders Digest</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Sat, 11 Jul 2026 04:01:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 05:01:31 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Builders Digest 2026-07-11T05</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T05/digest.json</link>
+      <guid isPermaLink="false">2026-07-11T05</guid>
+      <pubDate>Sat, 11 Jul 2026 05:01:31 GMT</pubDate>
+      <description>🛠️ **Builders Digest · Jul 11 05:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. The day a user told me &quot;the running site looks weak&quot; — rebuilding the three-state visual hierarchy with background color**
+After we'd shipped the colored borders for in-maintenance and completed sites on the multi-site list , real-world usage produced an unexpected report: &quot; the running site somehow looks weak .&quot; Follo...
+— dev.to · https://dev.to/susumun/the-day-a-user-told-me-the-running-site-looks-weak-rebuilding-the-three-state-visual-hierarchy-49kp
+#Community
+
+**2. AI Agents Need Runtime State Checks, Not Just Better Prompts**
+Claude Code’s July 8 changelog is a useful reminder of what production agent engineering actually looks like. The interesting parts are not model benchmarks. They are state-management fixes. Claude...
+— dev.to · https://dev.to/assili_salim_e3c07f9954de/ai-agents-need-runtime-state-checks-not-just-better-prompts-5cdp
+#Nodejs #Community
+
+**3. Stop Learning Machine Learning Before GenAI 🤖**
+Yes, you read that right. If your goal is to understand Generative AI, build LLM-powered applications, or prepare for a GenAI interview, you don't need to finish learning Machine Learning first. Ye...
+— dev.to · https://dev.to/pandeyc005/stop-learning-machine-learning-before-genai-22gm
+#HTTP #Go #Windows #LLM #Community
+
+**4. GoalPulse AI: The Ultra-Passionate World Cup WhatsApp Companion Built with PHP &amp; Google AI**
+This is a submission for the DEV Weekend Challenge: Passion Edition What I Built Football (or soccer) isn’t just a game—it’s an all-consuming passion, a global heartbeat, and sometimes, a rollercoa...
+— dev.to · https://dev.to/dicky_gaming_b4e3f44b4458/goalpulse-ai-the-ultra-passionate-world-cup-whatsapp-companion-built-with-php-google-ai-33fh
+#HTTP #Community
+
+**5. ## Building a File Encryption Tool in Python: What I Learned From My Own Bugs**
+As someone getting into cybersecurity, I wanted my first real project to be something more than a tutorial follow-along — I wanted to actually understand every line I wrote, not just make something...
+— dev.to · https://dev.to/nikunjcyber/-building-a-file-encryption-tool-in-python-what-i-learned-from-my-own-bugs-4jbe
+#Python #Community
+
+**6. Zeal Z80-based computer**
+Comments
+— Lobsters · https://zeal8bit.com/
+#SoftwareDev
+
+**7. Why We Silently Drop Clicks for Paused Campaigns (Instead of Returning 404)**
+This article was originally published on Jo4 Blog . A brand pauses their affiliate campaign. What should happen when clicks and conversions still come in? My first instinct was &quot;return 404 for ever...
+— dev.to · https://dev.to/anand_rathnas_d5b608cc3de/why-we-silently-drop-clicks-for-paused-campaigns-instead-of-returning-404-53ia
+#Community
+
+**8. What I Learned Building 2 Side Projects in Public**
+The Real Lesson I spent 6 months building in solitude before I understood: code quality doesn't matter if nobody wants the product. Here's what building Swipe Cleaner and Paper List taught me: 1. W...
+— dev.to · https://dev.to/sophiacartvutw/what-i-learned-building-2-side-projects-in-public-539c
+#Community</description>
+    </item>
     <item>
       <title>Builders Digest 2026-07-11T04</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T04/digest.json</link>
