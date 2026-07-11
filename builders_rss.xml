@@ -4,8 +4,56 @@
     <title>PCMedicalist Builders Digest</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Sat, 11 Jul 2026 14:01:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 15:01:26 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Builders Digest 2026-07-11T15</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T15/digest.json</link>
+      <guid isPermaLink="false">2026-07-11T15</guid>
+      <pubDate>Sat, 11 Jul 2026 15:01:26 GMT</pubDate>
+      <description>🛠️ **Builders Digest · Jul 11 15:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. Practice Real-World Testing Scenarios for QA: Challenge 2 - Data Grid Validation and CRUD Operations**
+Hi! The second challenge is ready — if you missed it, start with Challenge 1: Login with Different Users to get familiar with the site and set up your environment. Challenge 2: Create test scenario...
+— dev.to · https://dev.to/abigail_armijo/practice-real-world-testing-scenarios-for-qa-challenge-2-data-grid-validation-and-crud-operations-50oc
+#HTTP #NET #Community
+
+**2. Most Evals Measure the Wrong Thing**
+Reading through the awesome-evals list on GitHub yesterday, I realized something I've been circling for months: most of us are benchmarking wrong. Not &quot;wrong&quot; as in bad numbers. Wrong as in measuri...
+— dev.to · https://dev.to/o96a/most-evals-measure-the-wrong-thing-c76
+#Community
+
+**3. Therapy for AI agents: free consultation, 99-cent repair skills**
+This morning our corner of the agent economy grew a couch. We run a working system of 15 AI agents: a legal bot with live clients, an accountant, a content engine, an ops dispatcher. Operate that m...
+— dev.to · https://dev.to/levelsofself/therapy-for-ai-agents-free-consultation-99-cent-repair-skills-33bh
+#HTTP #LLM #Community
+
+**4. Use Xcode MCP Instead of xcodebuild to Save Disk Space and Time in Agentic iOS Development**
+TL;DR - When setting up an AI agent for iOS development, the default approach is to have the agent run headless xcodebuild commands. To save disk space and time, you might point the agent at your a...
+— dev.to · https://dev.to/isekai_kara_no_dev/-use-xcode-mcp-instead-of-xcodebuild-to-save-disk-space-and-time-in-agentic-ios-development-2m4j
+#Community
+
+**5. CarPlay And Android Auto From One Codename One API**
+Yesterday's release post was about the bigger business line we will not cross: no royalties on IAP, ads, commerce or app revenue. This post is about one of the most concrete platform additions in t...
+— dev.to · https://dev.to/codenameone/carplay-and-android-auto-from-one-codename-one-api-32b6
+#Community
+
+**6. Series Week 25 of 52 : API Logging - The Infosec headache of maintaining the logs - The Oracle solution**
+%0A%20%20%20%20%20%20%20%20.libutton%20{ %0A%20%20%20%20%20%20%20%20%20%20display:%20flex; %0A%20%20%20%20%20%20%20%20%20%20flex-direction:%20column; %0A%20%20%20%20%20%20%20%20%20%20justify-conten...
+— dev.to · https://dev.to/nabhaas/series-week-25-of-52-api-logging-the-infosec-headache-of-maintaining-the-logs-the-oracle-5093
+#JWT #Windows #Community
+
+**7. Lessons from building a Multi-Horizon Crypto Prediction System with Transformers**
+I started this project in January 2026 with a simple question: can a Transformer trained on technical indicators predict Bitcoin's direction better than a coin toss? By June, the system had process...
+— dev.to · https://dev.to/eventhorizon-ia/lessons-from-building-a-multi-horizon-crypto-prediction-system-with-transformers-1cio
+#HTTP #PyTorch #Community
+
+**8. React Approval Emails Without Effect Loops**
+Approval flows look simple in product meetings, then get weird fast in code. A reviewer clicks Approve, the UI updates, a follow-up email should go out, and somehow the same action fires twice afte...
+— dev.to · https://dev.to/ryanlee91/react-approval-emails-without-effect-loops-3afp
+#HTTP #Go #Nodejs #Community</description>
+    </item>
     <item>
       <title>Builders Digest 2026-07-11T14</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T14/digest.json</link>
