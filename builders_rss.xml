@@ -4,8 +4,56 @@
     <title>PCMedicalist Builders Digest</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Sat, 11 Jul 2026 17:01:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 18:02:05 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Builders Digest 2026-07-11T18</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T18/digest.json</link>
+      <guid isPermaLink="false">2026-07-11T18</guid>
+      <pubDate>Sat, 11 Jul 2026 18:02:05 GMT</pubDate>
+      <description>🛠️ **Builders Digest · Jul 11 18:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. AGENTS.md, Kept True: Stop the Rot Step by Step (and Watch Your Agent Trust It)**
+TL;DR — A good AGENTS.md isn't written, it's maintained — and the maintenance is where every one dies. Here's the exact discipline that keeps yours true: tie every line to a fact in the repo, verif...
+— dev.to · https://dev.to/wolfejam/agentsmd-kept-true-stop-the-rot-step-by-step-and-watch-your-agent-trust-it-3mjb
+#Go #Community
+
+**2. Race Recap Radio — I turned my 10K into a hype sports broadcast**
+This is a submission for Weekend Challenge: Passion Edition What I Built Why do I like running? It goes back to when I was neck-deep in endurance and HIIT workouts while building strength. I could ...
+— dev.to · https://dev.to/imkarthikeyan/race-recap-radio-i-turned-my-10k-into-a-hype-sports-broadcast-260j
+#HTTP #Redis #Community
+
+**3. From a Broken Side Project OAuth Bug to Enterprise SSO Token Exchange**
+A Google OAuth bug in my side project accidentally allowed citizens to access an admin dashboard. Three months later, that same debugging experience helped me contribute to designing a secure cross...
+— dev.to · https://dev.to/asimie/from-a-broken-side-project-oauth-bug-to-enterprise-sso-token-exchange-16hd
+#OAuth #JWT #Nodejs #PostgreSQL #Community
+
+**4. I finally counted my tokens before they hatched**
+Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is free and source-available on Github. Star git-lrc to help devs discover the project. Do give it...
+— dev.to · https://dev.to/lovestaco/i-finally-counted-my-tokens-before-they-hatched-32i4
+#Rust #Go #Community
+
+**5. 🧠 Building an Engineering Mindset**
+**Week 1 — User Story Mapping: Read This First ** I picked up User Story Mapping expecting to learn how to write better User Stories or build Story Maps. Instead... The first 20 pages barely mentio...
+— dev.to · https://dev.to/etch_dev/building-an-engineering-mindset-4mdl
+#Community
+
+**6. How I Turned Canadian Open Government Data Into a Live Licence-Verification Site + API (Build Log, 2026)**
+Six weeks ago &quot;verify a contractor licence in Canada&quot; meant opening a different clunky government portal for every province. I wanted one search box. So I built one — a live site backed by 65,177 o...
+— dev.to · https://dev.to/truenorthdata/how-i-turned-canadian-open-government-data-into-a-live-licence-verification-site-api-build-log-1a8l
+#SQLite #Community
+
+**7. Your OpenAPI spec is already your documentation**
+If your team defines APIs with an OpenAPI spec, you're closer to good docs than you think. That spec already describes every endpoint, parameter, and response. Machines love it. Humans reading raw ...
+— dev.to · https://dev.to/jkballa/your-openapi-spec-is-already-your-documentation-4bch
+#HTTP #Community
+
+**8. Co-Development vs Freelancers vs Full-Time Hires: Which Is Right for Your Studio?**
+At some point, every game studio faces the same question: we need more capacity, but how do we get it? The answer is not always obvious. Hiring full-time is the default assumption, but it is not al...
+— dev.to · https://dev.to/oceanviewgames/co-development-vs-freelancers-vs-full-time-hires-which-is-right-for-your-studio-3pjn
+#Community</description>
+    </item>
     <item>
       <title>Builders Digest 2026-07-11T17</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T17/digest.json</link>
