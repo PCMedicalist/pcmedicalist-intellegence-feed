@@ -4,8 +4,56 @@
     <title>PCMedicalist Builders Digest</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Sat, 11 Jul 2026 06:01:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 07:01:17 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Builders Digest 2026-07-11T07</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T07/digest.json</link>
+      <guid isPermaLink="false">2026-07-11T07</guid>
+      <pubDate>Sat, 11 Jul 2026 07:01:17 GMT</pubDate>
+      <description>🛠️ **Builders Digest · Jul 11 07:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. Stop Asking. Start Delegating: How I Actually Use AI On My Site**
+AI is not a smarter Google I am convinced most people are using AI in the worst possible way. They treat it like a slightly magical search bar. Type question. Get answer. Copy. Paste. Forget. I thi...
+— dev.to · https://dev.to/richardlemon/stop-asking-start-delegating-how-i-actually-use-ai-on-my-site-4bmd
+#Community
+
+**2. Batch Audio and Video Conversion in Your Browser**
+A practical workflow for batch audio and video conversion Media conversion is rarely difficult because of one file. The friction appears when the same job has to be repeated across a queue: choose ...
+— dev.to · https://dev.to/gregzeng95/batch-audio-and-video-conversion-in-your-browser-5534
+#Community
+
+**3. See how AI instructions decay, then write ones that hold**
+This is a submission for Weekend Challenge: Passion Edition What I Built I told an agent Never write directly to the database . A long session later, context window full, it wrote directly to the d...
+— dev.to · https://dev.to/cleverhoods/see-how-ai-instructions-decay-then-write-ones-that-hold-k9
+#HTTP #Go #Community
+
+**4. How My Open-Source Scanner Caught a Crypto Scammer Exposing Their Own Keys**
+Exposing the keys in the GitHub Issue The Phishing Site (Notice the Spotify option) There is a golden rule in cybersecurity: the weakest link is almost always human error. But what happens when tha...
+— dev.to · https://dev.to/muslimkh09/how-my-open-source-scanner-caught-a-crypto-scammer-exposing-their-own-keys-2pkl
+#Go #Community
+
+**5. I put my fan streak on Solana so nobody could reset it**
+This is a submission for Weekend Challenge: Passion Edition What I Built Loyalty Ledger — a fan loyalty tracker where your check-in streak, badges, and history live on Solana instead of some app's ...
+— dev.to · https://dev.to/harshyadav07/i-put-my-fan-streak-on-solana-so-nobody-could-reset-it-51ha
+#HTTP #Community
+
+**6. Levelo-Js v2: The TypeScript Rebirth**
+If you have ever built a custom JavaScript framework from scratch, you know that the line between a smooth, memory-clean engine and a total memory-leak disaster is incredibly thin. With version 1, ...
+— dev.to · https://dev.to/motionmind2007/levelo-js-v2-the-typescript-rebirth-412c
+#Community
+
+**7. Running a 120-site uptime monitor for $0/month on Cloudflare's free tier**
+I built a tool that answers one question: when a website won't load, is it your connection or the site? It runs two checks in parallel — measures your own line in the browser (latency + a 1 MiB dow...
+— dev.to · https://dev.to/christian_393c75a99/running-a-120-site-uptime-monitor-for-0month-on-cloudflares-free-tier-3h2
+#HTTP #Go #Community
+
+**8. Building an AI Sales Intelligence Platform in Just 12 Hours at Hack Aarambh 2026**
+# Building an AI Sales Intelligence Platform in Just 12 Hours at Hack Aarambh 2026 Turning sales conversations into actionable business insights using AI. Yesterday, my team and I participated in H...
+— dev.to · https://dev.to/sujal_vasara_bfc5e529e659/building-an-ai-sales-intelligence-platform-in-just-12-hours-at-hack-aarambh-2026-2n3e
+#HTTP #Python #Nodejs #LLM #Community</description>
+    </item>
     <item>
       <title>Builders Digest 2026-07-11T06</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T06/digest.json</link>
