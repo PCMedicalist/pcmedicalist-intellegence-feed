@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Builders Digest</title>
   <id>tag:pcmedicalist.com,2026:builders-feed</id>
-  <updated>2026-07-11T20:01:27Z</updated>
+  <updated>2026-07-11T21:01:55Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders_atom.xml"/>
   <subtitle>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</subtitle>
+  <entry>
+    <title>Builders Digest 2026-07-11T21</title>
+    <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-11T21</id>
+    <updated>2026-07-11T21:01:55Z</updated>
+    <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T21/digest.json"/>
+    <summary>Builders digest for 2026-07-11T21</summary>
+    <content type="text">🛠️ **Builders Digest · Jul 11 21:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. Football Fan Time**
+This is a submission for Weekend Challenge: Passion Edition TEAM Members timi-g dev_chronicles What I Built A fan-style football time app that announces the current time in a bold, stadium-like voi...
+— dev.to · https://dev.to/timi-g/football-fan-time-4kg4
+#Python #Community
+
+**2. From API to GPU, Week 1: Understanding NVIDIA DGX Spark Environment**
+I've used AI through APIs for years — POST a prompt, get tokens back, ship the feature. I have never once deployed a model myself. No PyTorch, no GPU memory math, no idea what actually happens betw...
+— dev.to · https://dev.to/dinesh_kumarramasamy_f6a/from-api-to-gpu-week-1-understanding-nvidia-dgx-spark-environment-1aol
+#HTTP #SSH #Kubernetes #Docker #Community
+
+**3. MLH x DigitalOcean Hackathon: Jury Duty, Explained**
+Justicia Clew: what a hackathon build teaches you that a tutorial never will This was my first SF hackathon. I was nervous going in, and not really about the code. I was nervous I'd get put on a te...
+— dev.to · https://dev.to/earlgreyhot1701d/mlh-x-digitalocean-hackathon-jury-duty-explained-1e8p
+#Rust #Python #Go #Community
+
+**4. OpenAI Forked Git on GitHub**
+Comments
+— Hacker News · https://github.com/openai/git
+#SoftwareDev
+
+**5. Build vs buy: what running your own CAPTCHA-solving stack actually costs**
+Build vs buy: what running your own CAPTCHA-solving stack actually costs Every team that automates against the public web eventually hits the same fork: a scraper, a monitoring job, a QA suite, or ...
+— dev.to · https://dev.to/bshahin/build-vs-buy-what-running-your-own-captcha-solving-stack-actually-costs-4ae3
+#TLS #HTTP #Go #Community
+
+**6. Gamedev in Zig is actually pretty good (2025)**
+Comments
+— Lobsters · https://www.youtube.com/watch?v=-xIFpg7sBVs
+#SoftwareDev
+
+**7. Building a Local-First, AI-Agent Powered Trading Workstation in Docker 🚀**
+Like many devs who double as market hobbyists, my weekends usually look like a chaotic mess of Jupyter notebooks, multiple stock data APIs, and half-broken custom scripts trying to backtest a simpl...
+— dev.to · https://dev.to/mrhustlex/i-built-tradingspy-a-completely-local-privacy-first-ai-trading-research-assistant-backtester-15kj
+#HTTP #Docker #Python #Go #Community
+
+**8. React Server Components: Under the Hood of Streaming and Client Boundaries**
+You’ve probably hit that moment where your React app feels sluggish, or where splitting code between client and server logic gets messy fast. React Server Components (RSC) promise to fix that by le...
+— dev.to · https://dev.to/mspk97/react-server-components-under-the-hood-of-streaming-and-client-boundaries-57po
+#Community</content>
+  </entry>
   <entry>
     <title>Builders Digest 2026-07-11T20</title>
     <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-11T20</id>
