@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Builders Digest</title>
   <id>tag:pcmedicalist.com,2026:builders-feed</id>
-  <updated>2026-07-11T15:01:26Z</updated>
+  <updated>2026-07-11T16:01:53Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders_atom.xml"/>
   <subtitle>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</subtitle>
+  <entry>
+    <title>Builders Digest 2026-07-11T16</title>
+    <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-11T16</id>
+    <updated>2026-07-11T16:01:53Z</updated>
+    <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T16/digest.json"/>
+    <summary>Builders digest for 2026-07-11T16</summary>
+    <content type="text">🛠️ **Builders Digest · Jul 11 16:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. How to clone a Keycloak realm on the same instance (fixing &quot;duplicate key value violates unique constraint&quot;)**
+If you've ever tried to duplicate a Keycloak realm on the same server — say, to spin up a myrealm-dev realm alongside your existing myrealm — you've probably hit this wall: Export the realm from th...
+— dev.to · https://dev.to/vimukthishohanjay/how-to-clone-a-keycloak-realm-on-the-same-instance-fixing-duplicate-key-value-violates-unique-25ja
+#Nodejs #Community
+
+**2. Your Background Subagents Can Leak Secrets — Build the Isolation Model**
+Developers flagged a freshly filed, reproducible issue that should make anyone running background agents pause: Claude Code's background Opus subagents intermittently stall on their first turn and,...
+— dev.to · https://dev.to/terminalblog/your-background-subagents-can-leak-secrets-build-the-isolation-model-c1h
+#Community
+
+**3. Tencent's Hy3 Coding AI Puts Input Tokens at $0.14 Per Million**
+The feed showed a new entrant worth watching: Tencent has launched Hy3, a coding-focused AI model, with input tokens priced at $0.14 per million. For developers who live in the terminal running cod...
+— dev.to · https://dev.to/terminalblog/tencents-hy3-coding-ai-puts-input-tokens-at-014-per-million-10g1
+#Community
+
+**4. Learning Xahau: HookOnV2, NamedHooks, and Transaction Simulation. More Control Over When and How Hooks Fire.**
+Welcome to Learning Xahau, a series of articles dedicated to helping developers, builders, and blockchain enthusiasts better understand the Xahau ecosystem. Whether you're just getting started or a...
+— dev.to · https://dev.to/ekiserrepe/learning-xahau-hookonv2-namedhooks-and-transaction-simulation-more-control-over-when-and-how-2glo
+#HTTP #NET #WebAssembly #Community
+
+**5. The JDK's forgotten JMX protocol**
+Every Java engineer who has connected JConsole — or JDK Mission Control — to a server in another network segment knows the ritual. Open the JMX port. Discover that RMI quietly opened a second port ...
+— dev.to · https://dev.to/deniss_larka/the-jdks-forgotten-jmx-protocol-4pci
+#TLS #SSH #Community
+
+**6. How to Add Evals to an LLM Feature**
+Learning how to add evals to an LLM feature is the difference between shipping a demo and shipping a reliable product. When you embed an LLM into a real feature — a chatbot, a voice agent, a docume...
+— dev.to · https://dev.to/techpotions/how-to-add-evals-to-an-llm-feature-3c20
+#LLM #Community
+
+**7. Memprediksi Peluang Klub Promosi Bertahan di Liga Top Eropa — Part 1: Kickoff &amp; Rencana**
+series: Prediksi Survival Klub Debutan Kenapa Project Ini? Setiap musim, klub yang promosi ke liga top (Premier League, La Liga, dst.) menghadapi risiko besar: sekitar 2 dari 3 klub yang naik biasa...
+— dev.to · https://dev.to/daggermaster/memprediksi-peluang-klub-promosi-bertahan-di-liga-top-eropa-part-1-kickoff-rencana-256c
+#Community
+
+**8. Open Knowledge Format: Google quiere estandarizar cómo le damos contexto a la IA (y varios dicen que reinventó la wiki)**
+El 12 de junio de 2026, Google Cloud publicó el Open Knowledge Format (OKF) , una especificación abierta que intenta resolver un problema que suena aburrido pero es carísimo: cómo darle a un agente...
+— dev.to · https://dev.to/gustavo_theler_f6dc645659/open-knowledge-format-google-quiere-estandarizar-como-le-damos-contexto-a-la-ia-y-varios-dicen-4972
+#LLM #Community</content>
+  </entry>
   <entry>
     <title>Builders Digest 2026-07-11T15</title>
     <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-11T15</id>
