@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Builders Digest</title>
   <id>tag:pcmedicalist.com,2026:builders-feed</id>
-  <updated>2026-07-11T09:01:21Z</updated>
+  <updated>2026-07-11T10:01:16Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders_atom.xml"/>
   <subtitle>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</subtitle>
+  <entry>
+    <title>Builders Digest 2026-07-11T10</title>
+    <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-11T10</id>
+    <updated>2026-07-11T10:01:16Z</updated>
+    <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T10/digest.json"/>
+    <summary>Builders digest for 2026-07-11T10</summary>
+    <content type="text">🛠️ **Builders Digest · Jul 11 10:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. Working With AI: A Concrete Example**
+Comments
+— Lobsters · https://htmx.org/essays/working-with-ai/
+#SoftwareDev
+
+**2. Browsershot Alternatives: HTML to Image in Laravel Without Puppeteer**
+Cross-posted from the HTML to Image blog , where the original lives. Browsershot is the package most Laravel developers reach for when they need to turn HTML into an image. It wraps Puppeteer, driv...
+— dev.to · https://dev.to/accreditly/browsershot-alternatives-html-to-image-in-laravel-without-puppeteer-2aji
+#HTTP #Docker #Nodejs #Community
+
+**3. Pipeline, Flow, or Chain? Picking the Right Tool to Wire LLM Calls Together**
+In the previous post I argued that agents are great planners and DAGs are great executors . This one is the practical follow-up: when you actually sit down to wire several LLM calls together, what ...
+— dev.to · https://dev.to/phimage/pipeline-flow-or-chain-picking-the-right-tool-to-wire-llm-calls-together-46k5
+#LLM #Community
+
+**4. AI Surveillance and Social Progress**
+Comments
+— Lobsters · https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html
+#SoftwareDev
+
+**5. Docker Volumes vs Bind Mounts: Where Your Data Actually Lives**
+A container's writable layer feels like a filesystem, and that's exactly the trap. Write a database into it, remove the container, and the data is gone — no warning, no recovery. If you want anythi...
+— dev.to · https://dev.to/jjoyneriv/docker-volumes-vs-bind-mounts-where-your-data-actually-lives-1ipl
+#Docker #PostgreSQL #Community
+
+**6. What is an API? An Explanation for Complete Beginners**
+Imagine you are sitting at a table in a restaurant. You have a menu in front of you with a list of delicious meals, and the kitchen is ready to cook them. However, there is a missing link. You are ...
+— dev.to · https://dev.to/isaac_james_c15b893fb61c5/what-is-an-api-an-explanation-for-complete-beginners-3bdb
+#Community
+
+**7. How to Hunt a Bug at 10 PM 🌙**
+The Story: Picture this: It is 10 PM. I was eating my dinner while adding one final touch to my social media app, Vlox. It should just say &quot;Processing...&quot; while generating a card. Simple, right? Se...
+— dev.to · https://dev.to/codemaster_121482/how-to-hunt-a-bug-at-10-pm-5gkf
+#Community
+
+**8. Beyond AI: The Solitude of the Developer and the Search for True Human Connection**
+Lately, I've been doing some deep personal reflection. I'm talking about myself, I hope no one misunderstands, on how pervasive the use of AI has become in my daily development workflow. Through a ...
+— dev.to · https://dev.to/bumbulik0/beyond-ai-the-solitude-of-the-developer-and-the-search-for-true-human-connection-22i3
+#LLM #Community</content>
+  </entry>
   <entry>
     <title>Builders Digest 2026-07-11T09</title>
     <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-11T09</id>
