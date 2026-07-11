@@ -4,8 +4,56 @@
     <title>PCMedicalist Builders Digest</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Sat, 11 Jul 2026 02:02:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 04:01:16 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Builders Digest 2026-07-11T04</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T04/digest.json</link>
+      <guid isPermaLink="false">2026-07-11T04</guid>
+      <pubDate>Sat, 11 Jul 2026 04:01:16 GMT</pubDate>
+      <description>🛠️ **Builders Digest · Jul 11 04:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. Markov Chain Monte Carlo: Theoretical Foundations**
+Adapted from an appendix of my MS thesis. Markov Chain Monte Carlo Almost as soon as computers were invented, they were used for simulation. Markov chain Monte Carlo (MCMC) was invested as Los Alam...
+— dev.to · https://dev.to/davisethan/markov-chain-monte-carlo-theoretical-foundations-30ef
+#Community
+
+**2. My First Experience with SigNoz**
+Modern applications, especially AI agents and distributed systems, need more than logs to understand what is happening. That's why I explored SigNoz, an open-source observability platform built on ...
+— dev.to · https://dev.to/tanush_326k/my-first-experience-with-signoz-n12
+#Docker #Community
+
+**3. Zenith: the real sky above you, right now**
+This is a submission for Weekend Challenge: Passion Edition What I Built The theme was passion, and mine has always been the sky and everything beyond it. Day or night, there's a specific kind of a...
+— dev.to · https://dev.to/rgerjeki/zenith-the-real-sky-above-you-right-now-3k45
+#HTTP #Go #WebAssembly #Community
+
+**4. I Stopped Writing My Resume for Another Software Engineer. That's When Recruiters Started Calling**
+When an international recruiter recently asked for my CV, I instinctively started writing it the way many developers do: A chronological list of companies, Programming languages, frameworks, Techni...
+— dev.to · https://dev.to/cathylai/i-stopped-writing-my-resume-for-another-software-engineer-thats-when-recruiters-started-calling-4baj
+#Community
+
+**5. I Got Tired of Hunting for Free Online Tools. So I Built 1000+ of Them — All Client-Side, Zero Backend.**
+I Got Tired of Hunting for Free Online Tools. So I Built 1000+ of Them — All Client-Side, Zero Backend. Every time I needed a simple tool — format JSON, resize an image, generate a QR code — I'd op...
+— dev.to · https://dev.to/chison_she_90dc66b15a87c0/i-got-tired-of-hunting-for-free-online-tools-so-i-built-1000-of-them-all-client-side-zero-4iip
+#Community
+
+**6. I tried NetBSD as a desktop, and it felt like stepping into the '90s in a good way**
+Comments
+— Lobsters · https://www.howtogeek.com/i-tried-netbsd-as-a-desktop-and-it-felt-like-stepping-into-the-90s-in-a-good-way/
+#SoftwareDev
+
+**7. DEV Passion Fuel Station: Keeping the Open Source Fire Burning**
+This is a submission for Weekend Challenge: Passion Edition ❤️ Dedication This project is dedicated to every passionate developer out there grinding on late-night code, and to the incredible DEV Co...
+— dev.to · https://dev.to/phoenix_2011/dev-passion-fuel-station-keeping-the-open-source-fire-burning-3o4o
+#HTTP #NET #Community
+
+**8. Introducing App Store Release Agent – Automating my App Store Pipeline**
+Publishing ten apps in four months sounds good. And it is good. It means the bottleneck is no longer building the app. With AI-assisted coding, small utilities, focused experiments, and niche apps ...
+— dev.to · https://dev.to/dragos_roua/introducing-app-store-release-agent-automating-my-app-store-pipeline-4pl9
+#Python #Go #Community</description>
+    </item>
     <item>
       <title>Builders Digest 2026-07-11T02</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T02/digest.json</link>
