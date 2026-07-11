@@ -43,10 +43,10 @@
     "Lobsters": 25,
     "r/netsec": 0
   },
-  "post_a_len": 995,
-  "post_b_len": 824,
-  "post_a_x_len": 267,
-  "post_b_x_len": 259,
+  "post_a_len": 980,
+  "post_b_len": 879,
+  "post_a_x_len": 269,
+  "post_b_x_len": 280,
   "buffer_a_x": {
     "dry_run": true,
     "success": "skipped (dry-run)"
