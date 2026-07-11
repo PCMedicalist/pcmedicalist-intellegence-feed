@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Builders Digest</title>
   <id>tag:pcmedicalist.com,2026:builders-feed</id>
-  <updated>2026-07-11T13:01:26Z</updated>
+  <updated>2026-07-11T14:01:25Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders_atom.xml"/>
   <subtitle>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</subtitle>
+  <entry>
+    <title>Builders Digest 2026-07-11T14</title>
+    <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-11T14</id>
+    <updated>2026-07-11T14:01:25Z</updated>
+    <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T14/digest.json"/>
+    <summary>Builders digest for 2026-07-11T14</summary>
+    <content type="text">🛠️ **Builders Digest · Jul 11 14:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. How Cursor, Claude Code, and Codex actually load your project rules (and why yours get ignored)**
+Every AI coding tool now has a &quot;project rules&quot; file. Cursor has .cursor/rules , Claude Code has CLAUDE.md , OpenAI Codex has AGENTS.md . Teams write them once, watch the agent ignore half of it, an...
+— dev.to · https://dev.to/rulestack/how-cursor-claude-code-and-codex-actually-load-your-project-rules-and-why-yours-get-ignored-1l1j
+#Go #Community
+
+**2. Setting Up a Local AI Coding Agent with Ollama and Aider**
+Over the past few months, I've experimented with several workflows for using LLMs in software development. In this article, I describe the local setup I've validated on my own PC: Ollama running on...
+— dev.to · https://dev.to/eleonorarocchi/setting-up-a-local-ai-coding-agent-with-ollama-and-aider-1jdi
+#Linux #Windows #Community
+
+**3. Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]**
+Comments
+— Hacker News · https://languagelog.ldc.upenn.edu/myl/Good1964.pdf
+#SoftwareDev
+
+**4. Taming the Python and VS Code Workspace Environment**
+The Setup Blueprint Constructing a reliable Python pipeline in VS Code requires anchoring the system with isolated environments. After deploying the editor and core extensions, the workflow shifts ...
+— dev.to · https://dev.to/nextbigcreative/taming-the-python-and-vs-code-workspace-environment-23po
+#Python #Community
+
+**5. # I built 62 free browser tools in one website — no uploads, no sign-ups, works offline**
+I got tired of a routine most of us know too well: you need to merge two PDFs, or shrink an image, or make a QR code — so you Google it, land on some ad-covered site, and it asks you to upload your...
+— dev.to · https://dev.to/sophia_anjum_0509b2bb7049/-i-built-62-free-browser-tools-in-one-website-no-uploads-no-sign-ups-works-offline-3cia
+#WebAssembly #Community
+
+**6. Will your tracker still exist next year? Switching-cost anxiety, and the one-command exit**
+You are not really deciding whether a tracker is good today. You are betting on whether it will still be the tracker you want a year from now, after the funding round, the acquisition, the pivot to...
+— dev.to · https://dev.to/radial/will-your-tracker-still-exist-next-year-switching-cost-anxiety-and-the-one-command-exit-1e5e
+#Go #Community
+
+**7. [BLOG] Most AI brand names fail one boring test**
+Most AI brand names fail one boring test Hook 187 domain checks. 4 rounds. 16% actually available. The other 84% were pretty names that will never be a business. Problem Founders spend three days g...
+— dev.to · https://dev.to/nat_rattanasak_d4c9fc56/blog-most-ai-brand-names-fail-one-boring-test-2nnl
+#HTTP #Community
+
+**8. Authorization Explained: What Really Happens Before Your Card Payment Is Approved?**
+A deep dive into the first stage of every card payment. Most of us have made a card payment and seen the familiar message: Transaction Successful The entire process takes only a few seconds. From t...
+— dev.to · https://dev.to/eunice-js/authorization-explained-what-really-happens-before-your-card-payment-is-approved-3po
+#Community</content>
+  </entry>
   <entry>
     <title>Builders Digest 2026-07-11T13</title>
     <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-11T13</id>
