@@ -4,8 +4,56 @@
     <title>PCMedicalist Builders Digest</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Sat, 11 Jul 2026 10:01:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 11:01:17 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Builders Digest 2026-07-11T11</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T11/digest.json</link>
+      <guid isPermaLink="false">2026-07-11T11</guid>
+      <pubDate>Sat, 11 Jul 2026 11:01:17 GMT</pubDate>
+      <description>🛠️ **Builders Digest · Jul 11 11:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. Building a Freelance Platform on Cloudflare Workers: The Good, The Bad, and The Pyodide**
+Building a Freelance Platform on Cloudflare Workers: The Good, The Bad, and The Pyodide Six months ago I sat down to build aiomniu — a freelance marketplace for AI and tech projects. The constraint...
+— dev.to · https://dev.to/aiomniu/building-a-freelance-platform-on-cloudflare-workers-the-good-the-bad-and-the-pyodide-nm3
+#Docker #Python #Go #SQLite #Community
+
+**2. Synapse Feature Demo: Deterministic Software Composition Analysis in Action**
+Hi everyone! I've just added a short demo video to the Synapse project to showcase how the platform performs deterministic Software Composition Analysis (SCA) from start to finish. In this demo, yo...
+— dev.to · https://dev.to/aws-builders/synapse-feature-demo-deterministic-software-composition-analysis-in-action-el6
+#HTTP #SBOM #Community
+
+**3. In 24 hours, OpenAI, SpaceXAI, and Meta turned AI into a race to the bottom on price**
+I&amp;#8217;m Matt Burns, Chief Content Officer at Insight Media Group. Each week, I round up the most important AI developments, The post In 24 hours, OpenAI, SpaceXAI, and Meta turned AI into a race ...
+— The New Stack · https://thenewstack.io/openai-spacexai-meta-price-war/
+#DevOps
+
+**4. I counted every step it takes to convert an image on Windows. Then I built something better.**
+I needed to convert a PNG to ICO. Here's what happened: Option 1: Online converter Open browser Search &quot;png to ico converter&quot; Pick one that doesn't look sketchy Upload file to unknown server Wait f...
+— dev.to · https://dev.to/akhourianmolkumar/i-counted-every-step-it-takes-to-convert-an-image-on-windows-then-i-built-something-better-2ngf
+#HTTP #Windows #Community
+
+**5. How I Turned Slack Into an AI Teammate That Opens Pull Requests**
+This is a submission for Weekend Challenge: Passion Edition While talking about AI workflow automation, someone asked me a simple question: “Are you using it yourself?” That question stayed with me...
+— dev.to · https://dev.to/marrouchi/how-i-turned-slack-into-an-ai-teammate-that-opens-pull-requests-b4p
+#Docker #Community
+
+**6. Saca el estado de Terraform de la internet pública (sin montar una VPN)**
+Tu archivo de estado de Terraform es el artefacto más sensible de toda tu nube. Es un mapa completo de cada recurso que ejecutas y, según tus proveedores, también guarda secretos en texto plano: ca...
+— dev.to · https://dev.to/authagonal/saca-el-estado-de-terraform-de-la-internet-publica-sin-montar-una-vpn-1alj
+#DNS #Community
+
+**7. fluent-ffmpeg vs FFmpeg Micro: Why Node.js Developers Switch to a Cloud API**
+Originally published at ffmpeg-micro.com fluent-ffmpeg is the go-to FFmpeg wrapper for Node.js developers. It works perfectly on your laptop. Then you deploy to AWS Lambda, Vercel, or Google Cloud ...
+— dev.to · https://dev.to/javidjamae/fluent-ffmpeg-vs-ffmpeg-micro-why-nodejs-developers-switch-to-a-cloud-api-5fp2
+#HTTP #Go #Nodejs #Community
+
+**8. Stop using regex for phone validation - use this instead**
+A regex for &quot;valid phone number&quot; is a trap. International phone numbering isn't regular: number length, valid area codes, and mobile-vs-landline prefixes differ per country and change over time as ...
+— dev.to · https://dev.to/jay-ecommerce/stop-using-regex-for-phone-validation-use-this-instead-29e9
+#Community</description>
+    </item>
     <item>
       <title>Builders Digest 2026-07-11T10</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T10/digest.json</link>
