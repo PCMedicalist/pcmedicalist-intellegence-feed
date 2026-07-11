@@ -4,8 +4,56 @@
     <title>PCMedicalist Builders Digest</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Sat, 11 Jul 2026 16:01:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 17:01:22 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Builders Digest 2026-07-11T17</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T17/digest.json</link>
+      <guid isPermaLink="false">2026-07-11T17</guid>
+      <pubDate>Sat, 11 Jul 2026 17:01:22 GMT</pubDate>
+      <description>🛠️ **Builders Digest · Jul 11 17:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. 85% say code review is the new bottleneck. Here’s what the AI coding narrative leaves out.**
+A merge is a contract. The moment a change lands on main, every other team in the organization starts building The post 85% say code review is the new bottleneck. Here&amp;#8217;s what the AI coding na...
+— The New Stack · https://thenewstack.io/merge-gate-coding-agents/
+#DevOps
+
+**2. EL RELATOR - your life, narrated like a World Cup goal (in two languages)**
+This is a submission for Weekend Challenge: Passion Edition What I Built EL RELATOR takes any moment of your life — &quot;my test finally passed after three hours of debugging&quot; , &quot;I found parking on a F...
+— dev.to · https://dev.to/terrizoaguimor/el-relator-your-life-narrated-like-a-world-cup-goal-in-two-languages-9b9
+#HTTP #Go #Community
+
+**3. Every Sports App Resets Your Streak Eventually. Mine Can't. 🔒⚡**
+This is a submission for Weekend Challenge: Passion Edition What I Built Loyalty Ledger — a fan loyalty tracker where your check-in streak, badges, and history live on Solana instead of some app's ...
+— dev.to · https://dev.to/ishantgupta/every-sports-app-resets-your-streak-eventually-mine-cant-hln
+#HTTP #Go #Community
+
+**4. How I made my Astro site secure by default (strict CSP, self-hosted fonts, zero trackers)**
+Most portfolio and blog templates quietly work against your visitors. They pull fonts from Google's CDN (leaking every visitor's IP to a third party), ship analytics that set cookies before anyone ...
+— dev.to · https://dev.to/auric/how-i-made-my-astro-site-secure-by-default-strict-csp-self-hosted-fonts-zero-trackers-1ceh
+#DNS #HTTP #NET #Community
+
+**5. Modern Decor May Be Straining People's Brains**
+Comments
+— Hacker News · https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/
+#SoftwareDev
+
+**6. Scope of Variables in JavaScript**
+Scope A variable is not always available everywhere in your program. Some variables can be used anywhere, while others can only be used inside a function or a block.This is called Scope. Types of S...
+— dev.to · https://dev.to/pranay_7424/scope-of-variables-in-javascript-3bdm
+#Community
+
+**7. I'm building a compiler in Rust!!!**
+Hi ! I'm new to this platform and I want to make my first post. In these days, i'm writing my own compiler in Rust for a really simple custom language. The syntax is: let x = 10 ; print ? ( &quot;Hello,...
+— dev.to · https://dev.to/alessandro_napoli_12/im-building-a-compiler-in-rust-al6
+#Rust #Community
+
+**8. Innersource security advisories go GA: a private channel for private vulns**
+Your platform team ships an internal package. Half the org pulls it. Someone finds a bug that in the wrong hands is a full RCE. What do you do next: file a public CVE and telegraph the vuln to the ...
+— dev.to · https://dev.to/leobaniak/innersource-security-advisories-go-ga-a-private-channel-for-private-vulns-og8
+#Go #SBOM #Kafka #Community</description>
+    </item>
     <item>
       <title>Builders Digest 2026-07-11T16</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T16/digest.json</link>
