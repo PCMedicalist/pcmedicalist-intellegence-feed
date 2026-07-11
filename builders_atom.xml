@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Builders Digest</title>
   <id>tag:pcmedicalist.com,2026:builders-feed</id>
-  <updated>2026-07-11T07:01:17Z</updated>
+  <updated>2026-07-11T08:01:13Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders_atom.xml"/>
   <subtitle>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</subtitle>
+  <entry>
+    <title>Builders Digest 2026-07-11T08</title>
+    <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-11T08</id>
+    <updated>2026-07-11T08:01:13Z</updated>
+    <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T08/digest.json"/>
+    <summary>Builders digest for 2026-07-11T08</summary>
+    <content type="text">🛠️ **Builders Digest · Jul 11 08:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI**
+Ant Group's Robbyant has released the LingBot-VA 2.0 technical report — a Physical AI video-action foundation model built from scratch for embodiment rather than fine-tuned from a video generator. ...
+— MarkTechPost · https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/
+#AIEng
+
+**2. I Hardcoded a Recursion Demo Into My Binary Converter and I Regret Nothing**
+I built a decimal-to-binary converter and then, for no good reason, decided that if you typed in the number 5, it should not just show you the answer. It should show you the call stack. Here's the ...
+— dev.to · https://dev.to/patrick_mbithi_/i-hardcoded-a-recursion-demo-into-my-binary-converter-and-i-regret-nothing-2k9n
+#Community
+
+**3. Convert a whole folder of images to WebP — locally, no upload, one command**
+Every few months I hit the same wall: a folder full of .jpg and .png files that need to be WebP before they go anywhere near production. And every few months I catch myself doing the dumbest possib...
+— dev.to · https://dev.to/nathmaxx/convert-a-whole-folder-of-images-to-webp-locally-no-upload-one-command-42od
+#Go #Community
+
+**4. Tired of heavy decorators/DI just to keep a TypeScript API organized? ZinTrust gives you structure without the ceremony: minimal core, explicit wiring, type-first ergonomics, no Express required. Kick the tires in 2 min — and tell me what's confusing. 👇**
+ZinTrust: a TypeScript backend framework for structure without decorators zintrust Zin zintrust Zin zintrust Zin Follow Jan 7 ZinTrust: a TypeScript backend framework for structure without decorato...
+— dev.to · https://dev.to/diadal/tired-of-heavy-decoratorsdi-just-to-keep-a-typescript-api-organized-zintrust-gives-you-structure-1lda
+#Community
+
+**5. Moving MySQL, Postgres, SQLite, or SQL Server to Cloudflare D1? @zintrust/d1-migrator does it resumably — checkpoints, row-count + checksum verification, dry-run preview, and zero downtime. No more silent data loss halfway through a million-row import.**
+Migrate MySQL, Postgres, SQLite, or SQL Server to Cloudflare D1 — with checkpoints and integrity checks zintrust Zin zintrust Zin zintrust Zin Follow Mar 17 Migrate MySQL, Postgres, SQLite, or SQL ...
+— dev.to · https://dev.to/diadal/moving-mysql-postgres-sqlite-or-sql-server-to-cloudflare-d1-zintrustd1-migrator-does-it-1p51
+#PostgreSQL #SQLite #Community
+
+**6. Connect Redis, Postgres, and MySQL to Serverless Apps Over HTTPS**
+Serverless and edge runtimes are great until your app needs a normal TCP database connection. ZedGi works with: TypeScript / JavaScript SDK : Cloudflare Workers, Vercel Edge, Deno, Bun, Node.js, AW...
+— dev.to · https://dev.to/zintrustjs/connect-redis-postgres-and-mysql-to-serverless-apps-over-https-cg
+#HTTP #Rust #Python #Go #Community
+
+**7. What edge cases would you test for stablecoin checkout webhooks?**
+I'm building ChainPay, a stablecoin checkout for WooCommerce, SaaS products, Telegram sellers, and agent workflows. The wallet UI is only one part of the problem. The part I keep coming back to is ...
+— dev.to · https://dev.to/chainpaytopoetic/what-edge-cases-would-you-test-for-stablecoin-checkout-webhooks-12df
+#HTTP #Community
+
+**8. 6 Months Later, Nobody Could Read the Code — Including Me**
+Six months after shipping the BOGO deals app, I opened the codebase to add one small feature and spent 4 days just trying to remember what I'd built. The Feature That Started as a Tuesday Task The ...
+— dev.to · https://dev.to/moonshot_1341/6-months-later-nobody-could-read-the-code-including-me-4p98
+#Community</content>
+  </entry>
   <entry>
     <title>Builders Digest 2026-07-11T07</title>
     <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-11T07</id>
