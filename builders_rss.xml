@@ -4,8 +4,58 @@
     <title>PCMedicalist Builders Digest</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Sat, 11 Jul 2026 22:01:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 23:01:38 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Builders Digest 2026-07-11T23</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T23/digest.json</link>
+      <guid isPermaLink="false">2026-07-11T23</guid>
+      <pubDate>Sat, 11 Jul 2026 23:01:38 GMT</pubDate>
+      <description>🛠️ **Builders Digest · Jul 11 23:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. NIS2 e le PMI: chi è obbligato davvero, e la parte software che ti chiederà il cliente**
+«NIS2» è diventata una di quelle sigle che generano più ansia che chiarezza. La prima cosa utile da sapere è anche la più rassicurante: la maggior parte delle PMI non è direttamente obbligata a NIS...
+— dev.to · https://dev.to/custralis/nis2-e-le-pmi-chi-e-obbligato-davvero-e-la-parte-software-che-ti-chiedera-il-cliente-46fd
+#DNS #Community
+
+**2. Mesh LLM: distributed AI computing on iroh**
+Comments
+— Hacker News · https://www.iroh.computer/blog/mesh-llm
+#LLM #SoftwareDev
+
+**3. A Backend Engineer's Field Notes on Cheap AI APIs in 2026**
+A Backend Engineer's Field Notes on Cheap AI APIs in 2026 Last quarter, my team's LLM bill crossed five figures and someone — not naming names — got an email from finance. So I went down the rabbit...
+— dev.to · https://dev.to/truelane/a-backend-engineers-field-notes-on-cheap-ai-apis-in-2026-1pop
+#HTTP #Windows #LLM #Community
+
+**4. Stop Telling Me to Ask an LLM**
+Comments
+— Hacker News · https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/
+#LLM #SoftwareDev
+
+**5. Day 15: My AI agent just completed its first multi-app task. It copied my bank balance from my banking app and sent it to Mom on WhatsApp. Two apps. One task. Fully autonomous. Task memory is the key.
+
+👉 github.com/Dexter2344/phone-agent**
+Project Log #15: My AI Agent Just Completed Its First Multi-App Task Okeke Chukwudubem Okeke Chukwudubem Okeke Chukwudubem Follow Jul 11 Project Log #15: My AI Agent Just Completed Its First Multi-...
+— dev.to · https://dev.to/okeke_chukwudubem_5f3bf49/day-15-my-ai-agent-just-completed-its-first-multi-app-task-it-copied-my-bank-balance-from-my-4eid
+#Community
+
+**6. Project Log #15: My AI Agent Just Completed Its First Multi-App Task**
+Day 15. The agent switched between two apps, copied data from one, and pasted it into another. For 14 days, my AI agent could do one thing well: operate within a single app. Open WhatsApp. Find a c...
+— dev.to · https://dev.to/okeke_chukwudubem_5f3bf49/project-log-15-my-ai-agent-just-completed-its-first-multi-app-task-38n7
+#Python #Community
+
+**7. We Analyzed 89 Dead Lifetime Deals. 1 in 8 Died While the Company Was Still Alive.**
+If you've ever bought a lifetime deal on AppSumo, PitchGround, or StackSocial, you've made a bet: pay once, own it forever. Most of the time that bet pays off. But &quot;forever&quot; is doing a lot of work ...
+— dev.to · https://dev.to/dominique_abbey_b2a2f35ee/we-analyzed-89-dead-lifetime-deals-1-in-8-died-while-the-company-was-still-alive-6pe
+#HTTP #Community
+
+**8. How to Spot Phishing Emails — The NZ-Specific Guide for 2026**
+How to Spot Phishing Emails — The NZ Specific Guide for 2026 Phishing is not a new problem. What is new: the volume, the specificity, and the NZ angle that makes local targets lower their guard. In...
+— dev.to · https://dev.to/feroze_ashraff_e952c5a67a/how-to-spot-phishing-emails-the-nz-specific-guide-for-2026-411j
+#Go #Community</description>
+    </item>
     <item>
       <title>Builders Digest 2026-07-11T22</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T22/digest.json</link>
