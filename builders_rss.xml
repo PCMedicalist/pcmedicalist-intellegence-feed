@@ -4,8 +4,56 @@
     <title>PCMedicalist Builders Digest</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Sat, 11 Jul 2026 21:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 22:01:21 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Builders Digest 2026-07-11T22</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T22/digest.json</link>
+      <guid isPermaLink="false">2026-07-11T22</guid>
+      <pubDate>Sat, 11 Jul 2026 22:01:21 GMT</pubDate>
+      <description>🛠️ **Builders Digest · Jul 11 22:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. I built a file-grounded continuity system for my AI German teacher—what am I overcomplicating?**
+Why I built this I use an AI named Felix as my German teacher. Over time, I ran into a continuity problem: individual chats are fragile. Conversations become long, context can disappear, platforms ...
+— dev.to · https://dev.to/nr7whfms97/i-built-a-file-grounded-continuity-system-for-my-ai-german-teacher-what-am-i-overcomplicating-i32
+#Community
+
+**2. AI Agents &amp; Workflows: Local Deployment, Label Orchestration, Cloud Enablement**
+AI Agents Workflows: Local Deployment, Label Orchestration, Cloud Enablement Today's Highlights This week highlights innovative approaches to AI agent deployment and orchestration, from local Docke...
+— dev.to · https://dev.to/soytuber/ai-agents-workflows-local-deployment-label-orchestration-cloud-enablement-3dao
+#HTTP #Docker #Python #Community
+
+**3. Stop Paying AWS Just to Test Your Code Locally**
+Every developer building on AWS eventually runs into the same frustrations: waiting for deployments just to verify a small change, needing an internet connection for local development, watching clo...
+— dev.to · https://dev.to/hammad153/stop-paying-aws-just-to-test-your-code-locally-die
+#HTTP #PostgreSQL #Community
+
+**4. Linux 7.2 Improves Multi-GPU Displays, M3 Support, Mesa Rusticl Defaults Arm Mali**
+Linux 7.2 Improves Multi-GPU Displays, M3 Support, Mesa Rusticl Defaults Arm Mali Today's Highlights This week's hardware and driver news highlights include critical Linux 7.2 kernel updates for mu...
+— dev.to · https://dev.to/soytuber/linux-72-improves-multi-gpu-displays-m3-support-mesa-rusticl-defaults-arm-mali-5g3l
+#HTTP #Linux #Community
+
+**5. Git: The Fellowship of the Commit – Best Practices for Solo Devs and Teams**
+The Quest Begins (The &quot;Why&quot;) I still remember the first time I tried to track down a bug that only showed up after midnight. I opened my terminal, typed git log , and was greeted by a wall of commi...
+— dev.to · https://dev.to/timevolt/git-the-fellowship-of-the-commit-best-practices-for-solo-devs-and-teams-4o47
+#JWT #Community
+
+**6. AI News Roundup: Grok 4.5 Hits Tesla, Perplexity's Orchestrator Beats Opus, and Meta Undercuts Pricing**
+Five stories moved the AI-coding world today. None are about a single model winning forever — they are about the ground shifting under who runs the agents and who pays for them. Musk puts Grok 4.5 ...
+— dev.to · https://dev.to/terminalblog/ai-news-roundup-grok-45-hits-tesla-perplexitys-orchestrator-beats-opus-and-meta-undercuts-43dl
+#Community
+
+**7. Why Is It Called the Raspberry Pi?**
+If you have ever wired a sensor to a Raspberry Pi or run your first Python script on one, you have used a device whose name hides two small jokes and one very deliberate design decision. Why is it ...
+— dev.to · https://dev.to/fluidwire/why-is-it-called-the-raspberry-pi-2bk
+#Python #Go #Linux #Community
+
+**8. Tailwind CSS v4: What Actually Changed and How I Migrated Two Projects**
+Headline: Tailwind v4 is the most significant rewrite since the framework launched — CSS-first config, Lightning CSS under the hood, container queries built-in, and no more tailwind.config.js . I m...
+— dev.to · https://dev.to/ahmed_mahmoud360/tailwind-css-v4-what-actually-changed-and-how-i-migrated-two-projects-2f7b
+#Community</description>
+    </item>
     <item>
       <title>Builders Digest 2026-07-11T21</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T21/digest.json</link>
