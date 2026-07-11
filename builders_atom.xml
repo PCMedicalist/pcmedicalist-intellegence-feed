@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Builders Digest</title>
   <id>tag:pcmedicalist.com,2026:builders-feed</id>
-  <updated>2026-07-11T12:01:36Z</updated>
+  <updated>2026-07-11T13:01:26Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders_atom.xml"/>
   <subtitle>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</subtitle>
+  <entry>
+    <title>Builders Digest 2026-07-11T13</title>
+    <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-11T13</id>
+    <updated>2026-07-11T13:01:26Z</updated>
+    <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-11T13/digest.json"/>
+    <summary>Builders digest for 2026-07-11T13</summary>
+    <content type="text">🛠️ **Builders Digest · Jul 11 13:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. The Ultimate Claude Masterclass: 13 Power Features Changing the AI Game**
+The Ultimate Claude Masterclass: 13 Power Features Changing the AI Game Artificial Intelligence is no longer just about asking questions and getting text answers. Anthropic’s Claude has evolved fro...
+— dev.to · https://dev.to/darshanraval/the-ultimate-claude-masterclass-13-power-features-changing-the-ai-game-17lf
+#Community
+
+**2. How to Thrive (Not Just Survive) as a Developer in the Age of AI**
+The narrative around Artificial Intelligence and software engineering has shifted dramatically. We are no longer asking if AI will change development, but rather how we change with it. If your valu...
+— dev.to · https://dev.to/gaurav101/how-to-thrive-not-just-survive-as-a-developer-in-the-age-of-ai-3bdp
+#LLM #Community
+
+**3. How to Prove a Prediction Was Made Before the Event (with OpenTimestamps)**
+Everyone who has ever been right about something loud enough to remember it will tell you they called it. The screenshot arrives after the match, after the candle, after the election. And there is ...
+— dev.to · https://dev.to/neu_portal_999f2396dbff8d/how-to-prove-a-prediction-was-made-before-the-event-with-opentimestamps-4p5d
+#Go #Community
+
+**4. A Beginner's Guide to Installing and Using Node.js on Windows**
+Have you ever wondered how massive modern platforms like Netflix, PayPal, and LinkedIn handle millions of users simultaneously without crashing? The secret weapon behind much of the modern web is N...
+— dev.to · https://dev.to/isaac_james_c15b893fb61c5/a-beginners-guide-to-installing-and-using-nodejs-on-windows-49jc
+#Go #Nodejs #Windows #Community
+
+**5. The IPv6 email mirage: 55.2% of MX &quot;support&quot; it, but two companies carry the entire story**
+By the team at MailTester Ninja — a real-time email verification API that stores nothing. Everyone says &quot;IPv6 is here.&quot; For the web, mostly true. For email , it is a mirage. We resolved the MX reco...
+— dev.to · https://dev.to/mailtester-ninja/the-ipv6-email-mirage-552-of-mx-support-it-but-two-companies-carry-the-entire-story-2p4g
+#DNS #Community
+
+**6. A RabbitMQ Upgrade Exposed the Reliability Assumptions Hidden in Our Messaging System**
+The RabbitMQ upgrade looked like a straightforward infrastructure task: move from RabbitMQ 3.X to 4.X, provision the new broker, review the client setup, confirm queues still declare correctly, res...
+— dev.to · https://dev.to/daemonicc/a-rabbitmq-upgrade-exposed-the-reliability-assumptions-hidden-in-our-messaging-system-3c77
+#TLS #DNS #Windows #Community
+
+**7. Integrating Lambda Durable Functions into a Step Functions Workflow**
+At re:Invent 2025, AWS announced Lambda Durable Functions . The feature introduces a checkpoint/replay mechanism that allows Lambda executions to run for up to one year, automatically recovering fr...
+— dev.to · https://dev.to/aws-heroes/integrating-lambda-durable-functions-into-a-step-functions-workflow-3c7o
+#Go #Community
+
+**8. Networking and the Internet, from First Principles**
+Comments
+— Hacker News · https://fazamhd.com/mental-models/networking/
+#SoftwareDev</content>
+  </entry>
   <entry>
     <title>Builders Digest 2026-07-11T12</title>
     <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-11T12</id>
