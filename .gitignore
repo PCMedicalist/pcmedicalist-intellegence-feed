@@ -4,6 +4,10 @@ buffer.env
 *.env
 .env.local
 
+# Backup files (operator directive: exclude all .bak from GitHub)
+*.bak
+*.bak/
+
 # Python
 __pycache__/
 *.pyc
