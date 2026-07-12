@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Builders Digest</title>
   <id>tag:pcmedicalist.com,2026:builders-feed</id>
-  <updated>2026-07-11T23:01:38Z</updated>
+  <updated>2026-07-12T00:01:17Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders_atom.xml"/>
   <subtitle>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</subtitle>
+  <entry>
+    <title>Builders Digest 2026-07-12T00</title>
+    <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-12T00</id>
+    <updated>2026-07-12T00:01:17Z</updated>
+    <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-12T00/digest.json"/>
+    <summary>Builders digest for 2026-07-12T00</summary>
+    <content type="text">🛠️ **Builders Digest · Jul 12 00:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. Today I Rescued 7,234 Old GIFs**
+Comments
+— Lobsters · https://danq.me/2026/07/10/rescuing-7234-gifs/
+#SoftwareDev
+
+**2. CI Health Check: a /ci Skill for Claude Code**
+By Hudson Atwell , GBTI Network Member. Originally published on gbti.network . Claude Code loads any markdown file at .claude/skills/ name /SKILL.md as a reusable slash command (a &quot;skill&quot;). This on...
+— dev.to · https://dev.to/gbti-network/ci-health-check-a-ci-skill-for-claude-code-2njg
+#Go #NET #Community
+
+**3. Cómo revisar emails de reactivación trial**
+Cuando un trial se enfría, muchas veces el equipo corre a cambiar el asunto del email o a meter un descuento. A veces funciona, pero bastante seguido el problema real está en otra parte: segmentaci...
+— dev.to · https://dev.to/hannahdev56/como-revisar-emails-de-reactivacion-trial-7d
+#Community
+
+**4. How to Forward WhatsApp Messages to Telegram (Without Losing Your Media)**
+If you run a community, a support desk, or you're simply moving your life from one app to the other, sooner or later you hit the same wall: there is no built-in way to send messages from WhatsApp t...
+— dev.to · https://dev.to/alex_gv_24192032990395354/how-to-forward-whatsapp-messages-to-telegram-without-losing-your-media-c4e
+#Docker #Go #Community
+
+**5. How a &quot;safe&quot; shipping change silently disapproved 621 products in Google Merchant Center**
+I run a small Shopify store. One afternoon I split my shipping policy in two — separate rules for domestic vs. international, nothing exotic — and by the next morning 621 of 739 active products had...
+— dev.to · https://dev.to/jasonpun/how-a-safe-shipping-change-silently-disapproved-621-products-in-google-merchant-center-i12
+#Community
+
+**6. Full-Pipeline Inference Optimization for MiMo-V2.5 Series**
+Comments
+— Lobsters · https://mimo.xiaomi.com/blog/mimo-v2-5-inference
+#SoftwareDev
+
+**7. Service Level Objectives for Complex Microservices**
+Why SLOs Break in Microservices A SLO that works for a monolith often collapses when you distribute the same logic across 30 services. The math of availability is unforgiving. If your service depen...
+— dev.to · https://dev.to/samson_tanimawo/service-level-objectives-for-complex-microservices-42i7
+#HTTP #Community
+
+**8. Doctors die. It's not like the rest of us, but it should be (2016)**
+Comments
+— Hacker News · https://archive.cancerworld.net/featured/how-doctors-die/
+#SoftwareDev</content>
+  </entry>
   <entry>
     <title>Builders Digest 2026-07-11T23</title>
     <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-11T23</id>
