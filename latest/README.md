@@ -1,17 +1,17 @@
-# Latest Digest — 2026-07-11
+# Latest Digest — 2026-07-12
 
 > Rolling snapshot of the most recent PCMedicalist Intelligence Feed digest.
 > Source of truth lives in `digests/`. This file is regenerated every run.
 
-- **Date:** 2026-07-11
+- **Date:** 2026-07-12
 - **Feeds ingested:** 38
 - **Items raw → deduped:** 3540 → 3477
-- **Full digest:** `digests/2026/07/2026-07-11/`
+- **Full digest:** `digests/2026/07/2026-07-12/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
-🔐 Daily Security & Standards Brief (Jul 11)
+🔐 Daily Security & Standards Brief (Jul 12)
 • CVE-2026-56291 — Balbooa Forms Unrestricted Upload of File with Dangerous Type Vulnerability — CISA KEV Vulns
   → restrict file uploads and validate types on Balbooa Forms.
 • CVE-2026-48939 — iCagenda Unrestricted Upload of File with Dangerous Type Vulnerability — CISA KEV Vulns
@@ -29,7 +29,7 @@ via PCMedicalist · pcmedicalist.com
 ## Post B — CS / News / Vendor / Dev / Community
 
 ```
-🧠 Engineering & Research Digest (Jul 11)
+🧠 Engineering & Research Digest (Jul 12)
 • Weekly Metasploit Update: Exploits for FlowiseAI CSV Agent and MacOS Package Kit CVE-2024-27822 — Rapid7
   → track CVE-2024-27822 and patch Weekly Metasploit Update: Exploits for FlowiseAI CSV Agent and MacOS Package Kit.
 • No Manners Here: The Ruthless Rise of The Gentlemen Ransomware — Unit 42
