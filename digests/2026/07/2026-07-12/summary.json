@@ -1,8 +1,8 @@
 {
   "date": "2026-07-12",
   "feeds_total": 38,
-  "items_raw": 3530,
-  "items_deduped": 3467,
+  "items_raw": 3540,
+  "items_deduped": 3477,
   "per_feed": {
     "IETF Blog": 590,
     "W3C News": 0,
@@ -17,7 +17,7 @@
     "The Hacker News": 50,
     "BleepingComputer": 15,
     "SecurityWeek": 10,
-    "SANS ISC": 0,
+    "SANS ISC": 10,
     "The Record": 5,
     "Security Affairs": 10,
     "Microsoft MSRC": 1,
@@ -48,20 +48,20 @@
   "post_a_x_len": 268,
   "post_b_x_len": 280,
   "buffer_a_x": {
-    "dry_run": false,
-    "success": true
+    "dry_run": true,
+    "success": "skipped (dry-run)"
   },
   "buffer_a_li": {
-    "dry_run": false,
-    "success": true
+    "dry_run": true,
+    "success": "skipped (dry-run)"
   },
   "buffer_b_x": {
-    "dry_run": false,
-    "success": true
+    "dry_run": true,
+    "success": "skipped (dry-run)"
   },
   "buffer_b_li": {
-    "dry_run": false,
-    "success": true
+    "dry_run": true,
+    "success": "skipped (dry-run)"
   },
   "discord_ok": true
 }
