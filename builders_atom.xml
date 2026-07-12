@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Builders Digest</title>
   <id>tag:pcmedicalist.com,2026:builders-feed</id>
-  <updated>2026-07-12T00:01:17Z</updated>
+  <updated>2026-07-12T01:01:28Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders_atom.xml"/>
   <subtitle>Hourly new &amp; evolving tech + coding tools — PCMedicalist Intelligence Network</subtitle>
+  <entry>
+    <title>Builders Digest 2026-07-12T01</title>
+    <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-12T01</id>
+    <updated>2026-07-12T01:01:28Z</updated>
+    <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/builders/2026/07/2026-07-12T01/digest.json"/>
+    <summary>Builders digest for 2026-07-12T01</summary>
+    <content type="text">🛠️ **Builders Digest · Jul 12 01:00 UTC**
+_New &amp; evolving tech + coding tools (8 items)_
+
+**1. Mira Murati’s Thinking Machines Lab Makes The Technical Case For Human-Centered AI Built On Customizable Model Weights**
+Thinking Machines Lab published &quot;The Future Worth Building Is Human.&quot; The essay frames human participation, model ownership, and decentralized alignment as technical challenges. It ties them to int...
+— MarkTechPost · https://www.marktechpost.com/2026/07/11/mira-muratis-thinking-machines-lab-makes-the-technical-case-for-human-centered-ai-built-on-customizable-model-weights/
+#AIEng
+
+**2. TrulyFreeOCR – a Java OCR pipeline in a single fat JAR, zero native deps required**
+Introduction I'm the author of TrulyFreeOCR, an open-source OCR pipeline that turns scanned PDFs into searchable, highly-compressed PDFs. Everything is Apache 2.0 / MIT / BSD — no GPL, no AGPL, no ...
+— dev.to · https://dev.to/mark_front_d509d304a2f460/trulyfreeocr-a-java-ocr-pipeline-in-a-single-fat-jar-zero-native-deps-required-27k2
+#HTTP #Python #Community
+
+**3. 🚀 Calling all DevOps, SRE, and Platform Engineers! Let’s build the future of AI for DevOps together.**
+Over the last few years, I've been exploring AI agents, and one thing became obvious. There are hundreds of AI agents available today, but almost all of them are general-purpose. They can answer qu...
+— dev.to · https://dev.to/lakhera2015/calling-all-devops-sre-and-platform-engineers-lets-build-the-future-of-ai-for-devops-together-4i2i
+#HTTP #Kubernetes #LLM #Community
+
+**4. Block vs. Object Storage: A Deep Dive Into the Foundation of Modern Data, and How the Lakehouse Made the Slow Option Fast**
+Here is one of the strangest and most consequential plot twists in the history of data infrastructure: over the past decade, the analytics industry deliberately moved its data onto the slowest stor...
+— dev.to · https://dev.to/alexmercedcoder/block-vs-object-storage-a-deep-dive-into-the-foundation-of-modern-data-and-how-the-lakehouse-1eof
+#Go #PostgreSQL #Community
+
+**5. gap: UI text diff**
+Comments
+— Lobsters · https://github.com/cdacamar/gap
+#SoftwareDev
+
+**6. RISCBoy RISC-V homebrew portable game console**
+Comments
+— Lobsters · https://github.com/Wren6991/RISCBoy
+#SoftwareDev
+
+**7. The accessible contrast ratio colour grid thing**
+Comments
+— Lobsters · https://beeps.website/blog/2026-07-09-accessible-contrast-ratio-colour-grid-thing/
+#SoftwareDev
+
+**8. Stratagems #12: Mark Watched an AI Dashboard Take Over. The Muted Channel Was Still Speaking.**
+Take something that is dead and give it new life. — The 36 Stratagems, Borrow a Corpse to Return the Soul Previously on this series: #1: Mark Johnson Walked Into an AI Audit. The Benchmark Had Ever...
+— dev.to · https://dev.to/xulingfeng/stratagems-12-mark-watched-an-ai-dashboard-take-over-the-muted-channel-was-still-speaking-20jo
+#Community</content>
+  </entry>
   <entry>
     <title>Builders Digest 2026-07-12T00</title>
     <id>tag:pcmedicalist.com,2026:builders-feed:2026-07-12T00</id>
