@@ -1,23 +1,23 @@
-# Latest Digest — 2026-07-21
+# Latest Digest — 2026-07-22
 
 > Rolling snapshot of the most recent PCMedicalist Intelligence Feed digest.
 > Source of truth lives in `digests/`. This file is regenerated every run.
 
-- **Date:** 2026-07-21
+- **Date:** 2026-07-22
 - **Feeds ingested:** 38
-- **Items raw → deduped:** 3552 → 3489
-- **Full digest:** `digests/2026/07/2026-07-21/`
+- **Items raw → deduped:** 3557 → 3494
+- **Full digest:** `digests/2026/07/2026-07-22/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
-🔐 Daily Security & Standards Brief (Jul 21)
+🔐 Daily Security & Standards Brief (Jul 22)
 
+CVE-2026-60137 — WordPress Core: parameterize queries and patch WordPress Core.
+CVE-2026-60137 — WordPress Core Interpretation Conflict: patch WordPress Core Interpretation Conflict and verify the fix held.
+CVE-2026-0770 — Langflow Inclusion of Functionality from Untrusted Control Sphere: patch Langflow Inclusion of Functionality from Untrusted Control Sphere and verify the fix held.
+CVE-2021-27137 — DD-WRT Stack-Based Buffer Overflow: patch DD-WRT Stack-Based Buffer Overflow and verify the fix held.
 CVE-2026-58644 — Microsoft SharePoint: patch Microsoft SharePoint and validate deserialization bounds.
-CVE-2026-25089 — Fortinet FortiSandbox: sanitize inputs and patch Fortinet FortiSandbox.
-CVE-2026-39808 — Fortinet FortiSandbox: sanitize inputs and patch Fortinet FortiSandbox.
-CVE-2026-46817 — Oracle E-Business Suite: patch Oracle E-Business Suite and verify the fix held.
-CVE-2023-4346 — KNX Association KNX Protocol: patch KNX Association KNX Protocol and verify the fix held.
 
 That standard is what Blue-Team discipline is built on.
 
@@ -27,13 +27,13 @@ via PCMedicalist · pcmedicalist.com
 ## Post B — CS / News / Vendor / Dev / Community
 
 ```
-🧠 Engineering & Research Digest (Jul 21)
+🧠 Engineering & Research Digest (Jul 22)
 
-CVE-2026-60137 — Exploitation in the Wild of wp2shell: patch Exploitation in the Wild of wp2shell and verify the fix held.
-CVE-2019-9978 — wp2shell (CVE-2026-63030, CVE-2026-60137): Frequently asked questions about: patch wp2shell (CVE-2026-63030, CVE-2026-60137): Frequently asked questions about immediately — RCE exposure.
-CVE-2025-24054 — From a Single Alert to 1,000 Files: Inside an Exposed WebDAV Malware Delivery Lab: patch From a Single Alert to 1,000 Files: Inside an Exposed WebDAV Malware Delivery Lab and verify the fix held.
-Beyond the Model: Harnessing Frontier AI for Stronger Cyber Defense: we note it; relevance depends on your exposure.
-CVE-2026-63030 — CVE-2026-63030: wp2shell a Critical: patch CVE-2026-63030: wp2shell a Critical immediately — RCE exposure.
+Oracle July 2026 Critical Patch Update Addresses 1235 CVEs: on our radar — file it if it's in your stack.
+Agentless Threat Detection: Illuminating Cloud Blind Spots: on our radar — file it if it's in your stack.
+Your AI agent’s config is now the payload: How attackers are targeting the devel: on our radar — file it if it's in your stack.
+300 WINtegrations Strong: An Open Security Ecosystem Built for the Speed of AI: we note it; relevance depends on your exposure.
+Denying the Worm: Detecting SANDWORM_MODE and the Emerging Class of AI Toolchain: on our radar — file it if it's in your stack.
 
 That standard is what our sentinel is built on.
 
