@@ -1,17 +1,17 @@
-# Latest Digest — 2026-07-19
+# Latest Digest — 2026-07-20
 
 > Rolling snapshot of the most recent PCMedicalist Intelligence Feed digest.
 > Source of truth lives in `digests/`. This file is regenerated every run.
 
-- **Date:** 2026-07-19
+- **Date:** 2026-07-20
 - **Feeds ingested:** 38
-- **Items raw → deduped:** 3549 → 3484
-- **Full digest:** `digests/2026/07/2026-07-19/`
+- **Items raw → deduped:** 3549 → 3485
+- **Full digest:** `digests/2026/07/2026-07-20/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
-🔐 Daily Security & Standards Brief (Jul 19)
+🔐 Daily Security & Standards Brief (Jul 20)
 
 CVE-2026-58644 — Microsoft SharePoint: patch Microsoft SharePoint and validate deserialization bounds.
 CVE-2026-25089 — Fortinet FortiSandbox: sanitize inputs and patch Fortinet FortiSandbox.
@@ -27,7 +27,7 @@ via PCMedicalist · pcmedicalist.com
 ## Post B — CS / News / Vendor / Dev / Community
 
 ```
-🧠 Engineering & Research Digest (Jul 19)
+🧠 Engineering & Research Digest (Jul 20)
 
 CVE-2026-63030 — CVE-2026-63030: wp2shell a Critical: patch CVE-2026-63030: wp2shell a Critical immediately — RCE exposure.
 Metasploit Wrap Up: An HTTP to SMB relay plus Payload Improvements: another item on the daily watch.
