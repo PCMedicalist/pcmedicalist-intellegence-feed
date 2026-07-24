@@ -36,6 +36,36 @@ That standard is what our sentinel is built on.
 via PCMedicalist · pcmedicalist.com</content>
   </entry>
   <entry>
+    <title>Digest 2026-07-18</title>
+    <id>tag:pcmedicalist.com,2026:intel-feed:2026-07-18</id>
+    <updated>2026-07-24T19:40:41Z</updated>
+    <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/07/2026-07-18/posts.json"/>
+    <summary>Security intelligence digest for 2026-07-18</summary>
+    <content type="text">🔐 Daily Security &amp; Standards Brief (Jul 18)
+
+CVE-2026-58644 — Microsoft SharePoint: patch Microsoft SharePoint and validate deserialization bounds.
+CVE-2026-25089 — Fortinet FortiSandbox: sanitize inputs and patch Fortinet FortiSandbox.
+CVE-2026-39808 — Fortinet FortiSandbox: sanitize inputs and patch Fortinet FortiSandbox.
+CVE-2026-46817 — Oracle E-Business Suite: patch Oracle E-Business Suite and verify the fix held.
+CVE-2023-4346 — KNX Association KNX Protocol: patch KNX Association KNX Protocol and verify the fix held.
+
+That standard is what Blue-Team discipline is built on.
+
+via PCMedicalist · pcmedicalist.com
+
+🧠 Engineering &amp; Research Digest (Jul 18)
+
+CVE-2026-63030 — CVE-2026-63030: wp2shell a Critical: patch CVE-2026-63030: wp2shell a Critical immediately — RCE exposure.
+Metasploit Wrap Up: An HTTP to SMB relay plus Payload Improvements: another item on the daily watch.
+CVE-2026-58644 — CVE-2026-58644: Microsoft SharePoint Server Unauthenticated: patch CVE-2026-58644: Microsoft SharePoint Server Unauthenticated immediately — RCE exposure.
+Three Steps to the Terminal: A Siemens ROX II Zero-Day Trilogy: another item on the daily watch.
+AI, Automation and Attacks: Unpacking the Unit 42 2026 Global Incident Response : another item on the daily watch.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com</content>
+  </entry>
+  <entry>
     <title>Digest 2026-07-17</title>
     <id>tag:pcmedicalist.com,2026:intel-feed:2026-07-17</id>
     <updated>2026-07-24T19:40:37Z</updated>
