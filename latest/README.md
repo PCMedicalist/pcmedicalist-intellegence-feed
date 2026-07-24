@@ -1,46 +1,46 @@
-# Latest Digest — 2026-07-16
+# Latest Digest — 2026-07-17
 
 > Rolling snapshot of the most recent PCMedicalist Intelligence Feed digest.
 > Source of truth lives in `digests/`. This file is regenerated every run.
 
-- **Date:** 2026-07-16
+- **Date:** 2026-07-17
 - **Feeds ingested:** 38
-- **Items raw → deduped:** 3544 → 3480
-- **Full digest:** `digests/2026/07/2026-07-16/`
+- **Items raw → deduped:** 3538 → 3473
+- **Full digest:** `digests/2026/07/2026-07-17/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
-🔐 Daily Security & Standards Brief (Jul 16)
+🔐 Daily Security & Standards Brief (Jul 17)
+• CVE-2026-58644 — Microsoft SharePoint Deserialization of Untrusted Data Vulnerability — CISA KEV Vulns
+  → track CVE-2026-58644 and patch Microsoft SharePoint Deserialization of Untrusted Data.
+• CVE-2026-25089 — Fortinet FortiSandbox OS Command Injection Vulnerability — CISA KEV Vulns
+  → track CVE-2026-25089 and patch Fortinet FortiSandbox OS Command.
+• CVE-2026-39808 — Fortinet FortiSandbox OS Command Injection Vulnerability — CISA KEV Vulns
+  → track CVE-2026-39808 and patch Fortinet FortiSandbox OS Command.
 • CVE-2026-46817 — Oracle E-Business Suite Improper Privilege Management Vulnerability — CISA KEV Vulns
   → track CVE-2026-46817 and patch Oracle E-Business Suite.
 • CVE-2023-4346 — KNX Association KNX Protocol Connection Authorization Option 1 Overly Restrictive Account Lockout Mechanism Vulnerability — CISA KEV Vulns
   → track CVE-2023-4346 and patch KNX Association KNX Protocol Connection Authorization Option 1 Overly Restrictive Account Lockout Mechanism.
-• IETF Community Survey 2025 — IETF Blog
-  → review IETF Community Survey 2025 for relevance to your stack.
-• CVE-2026-56155 — Microsoft Active Directory Federation Services Insufficient Granularity of Access Control Vulnerability — CISA KEV Vulns
-  → track CVE-2026-56155 and patch Microsoft Active Directory Federation Services Insufficient Granularity of Access Control.
-• CVE-2026-56164 — Microsoft SharePoint Server Missing Authentication for Critical Function Vulnerability — CISA KEV Vulns
-  → Critical: track CVE-2026-56164 and patch Microsoft SharePoint Server Missing Authentication for Critical Function.
-#VulnerabilityIntelligence #Vulnerabilities #Standards #Critical #CVE202646817
+#VulnerabilityIntelligence #Vulnerabilities #CVE202658644
 via PCMedicalist · pcmedicalist.com
 ```
 
 ## Post B — CS / News / Vendor / Dev / Community
 
 ```
-🧠 Engineering & Research Digest (Jul 16)
-• The Hunter's Paradox: Is it time to embrace automated threat hunting? — Cisco Talos
-  → review The Hunter's Paradox: Is it time to embrace automated threat hunting? for relevance to your stack.
-• UAT-11795 deploys novel Starland RAT and bespoke WLDR C2 implant in financially motivated campaign — Cisco Talos
-  → review UAT-11795 deploys novel Starland RAT and bespoke WLDR C2 implant in financially motivated campaign for relevance to your stack.
-• The npm Threat Landscape: Attack Surface and Mitigations (Updated July 15) — Unit 42
-  → review The npm Threat Landscape: Attack Surface and Mitigations (Updated July 15) for relevance to your stack.
-• CVE-2026-15409, CVE-2026-15410: SonicWall SMA 1000 zero-day vulnerabilities exploited in the wild CVE-2019-7481 — Tenable
-  → High: track CVE-2019-7481 and patch CVE-2026-15409, CVE-2026-15410: SonicWall SMA 1000 zero-day vulnerabilities exploited in the wild.
-• Rapid7 MDR Team Discovers New SonicWall SMA1000 Zero Days being Actively Exploited (CVE-2026-15409, CVE-2026-15410) — Rapid7
-  → Critical: track CVE-2026-15409 and patch Rapid7 MDR Team Discovers New SonicWall SMA1000 Zero Days being Actively Exploited (CVE-2026-15409, CVE-2026-15410).
-#VendorSecurityResearch #VendorResearch #High #CVE20197481 #TLS
+🧠 Engineering & Research Digest (Jul 17)
+• Three Steps to the Terminal: A Siemens ROX II Zero-Day Trilogy — Unit 42
+  → review Three Steps to the Terminal: A Siemens ROX II Zero-Day Trilogy for relevance to your stack.
+• AI, Automation and Attacks: Unpacking the Unit 42 2026 Global Incident Response Report — Unit 42
+  → review AI, Automation and Attacks: Unpacking the Unit 42 2026 Global Incident Response Report for relevance to your stack.
+• Begun, the Patch Wars have — Cisco Talos
+  → review Begun, the Patch Wars have for relevance to your stack.
+• CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities CVE-2019-0604 — Tenable
+  → High: track CVE-2019-0604 and patch CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities.
+• Sunsetting the Public AttackerKB Platform — Rapid7
+  → High: review High-rated Vendor Security Research in Sunsetting the Public AttackerKB Platform.
+#VendorSecurityResearch #VendorResearch #High #CVE20190604
 via PCMedicalist · pcmedicalist.com
 ```
 
