@@ -36,6 +36,35 @@ That standard is what our sentinel is built on.
 via PCMedicalist · pcmedicalist.com</description>
     </item>
     <item>
+      <title>Digest 2026-07-21</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/07/2026-07-21/posts.json</link>
+      <guid isPermaLink="false">2026-07-21</guid>
+      <pubDate>Fri, 24 Jul 2026 19:40:50 GMT</pubDate>
+      <description>🔐 Daily Security &amp; Standards Brief (Jul 21)
+
+CVE-2026-58644 — Microsoft SharePoint: patch Microsoft SharePoint and validate deserialization bounds.
+CVE-2026-25089 — Fortinet FortiSandbox: sanitize inputs and patch Fortinet FortiSandbox.
+CVE-2026-39808 — Fortinet FortiSandbox: sanitize inputs and patch Fortinet FortiSandbox.
+CVE-2026-46817 — Oracle E-Business Suite: patch Oracle E-Business Suite and verify the fix held.
+CVE-2023-4346 — KNX Association KNX Protocol: patch KNX Association KNX Protocol and verify the fix held.
+
+That standard is what Blue-Team discipline is built on.
+
+via PCMedicalist · pcmedicalist.com
+
+🧠 Engineering &amp; Research Digest (Jul 21)
+
+CVE-2026-60137 — Exploitation in the Wild of wp2shell: patch Exploitation in the Wild of wp2shell and verify the fix held.
+CVE-2019-9978 — wp2shell (CVE-2026-63030, CVE-2026-60137): Frequently asked questions about: patch wp2shell (CVE-2026-63030, CVE-2026-60137): Frequently asked questions about immediately — RCE exposure.
+CVE-2025-24054 — From a Single Alert to 1,000 Files: Inside an Exposed WebDAV Malware Delivery Lab: patch From a Single Alert to 1,000 Files: Inside an Exposed WebDAV Malware Delivery Lab and verify the fix held.
+Beyond the Model: Harnessing Frontier AI for Stronger Cyber Defense: we note it; relevance depends on your exposure.
+CVE-2026-63030 — CVE-2026-63030: wp2shell a Critical: patch CVE-2026-63030: wp2shell a Critical immediately — RCE exposure.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com</description>
+    </item>
+    <item>
       <title>Digest 2026-07-20</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/07/2026-07-20/posts.json</link>
       <guid isPermaLink="false">2026-07-20</guid>
