@@ -2,9 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Intelligence Feed</title>
   <id>tag:pcmedicalist.com,2026:intel-feed</id>
-  <updated>2026-07-12T11:01:33Z</updated>
+  <updated>2026-07-24T19:40:02Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/atom.xml"/>
   <subtitle>Daily security intelligence digests — PCMedicalist Intelligence Network</subtitle>
+  <entry>
+    <title>Digest 2026-07-24</title>
+    <id>tag:pcmedicalist.com,2026:intel-feed:2026-07-24</id>
+    <updated>2026-07-24T19:40:02Z</updated>
+    <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/07/2026-07-24/posts.json"/>
+    <summary>Security intelligence digest for 2026-07-24</summary>
+    <content type="text">🔐 Daily Security &amp; Standards Brief (Jul 24)
+
+CVE-2026-16232 — Check Point SmartConsole: patch Check Point SmartConsole and verify the fix held.
+CVE-2026-50522 — Microsoft SharePoint: patch Microsoft SharePoint and validate deserialization bounds.
+CVE-2026-60137 — WordPress Core: parameterize queries and patch WordPress Core.
+CVE-2026-60137 — WordPress Core Interpretation Conflict: patch WordPress Core Interpretation Conflict and verify the fix held.
+CVE-2026-0770 — Langflow Inclusion of Functionality from Untrusted Control Sphere: patch Langflow Inclusion of Functionality from Untrusted Control Sphere and verify the fix held.
+
+That standard is what Blue-Team discipline is built on.
+
+via PCMedicalist · pcmedicalist.com
+
+🧠 Engineering &amp; Research Digest (Jul 24)
+
+Don’t swing at everything: we note it; relevance depends on your exposure.
+Russian Global Webmail Espionage: we note it; relevance depends on your exposure.
+What Happened Between OpenAI and Hugging Face?: we note it; relevance depends on your exposure.
+CVE-2024-24919 — CVE-2026-16232: Critical Check Point SmartConsole Authentication: patch CVE-2026-16232: Critical Check Point SmartConsole Authentication and verify the fix held.
+Chaos ransomware's msaRAT: Living off the browser to build a covert C2 channel: we note it; relevance depends on your exposure.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com</content>
+  </entry>
   <entry>
     <title>Digest 2026-07-12</title>
     <id>tag:pcmedicalist.com,2026:intel-feed:2026-07-12</id>
