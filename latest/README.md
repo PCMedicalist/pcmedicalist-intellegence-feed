@@ -5,13 +5,13 @@
 
 - **Date:** 2026-07-25
 - **Feeds ingested:** 38
-- **Items raw → deduped:** 3564 → 3499
+- **Items raw → deduped:** 3566 → 3502
 - **Full digest:** `digests/2026/07/2026-07-25/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
-🔐 Daily Security & Standards Brief (Jul 24)
+🔐 Daily Security & Standards Brief (Jul 25)
 
 CVE-2026-16232 — Check Point SmartConsole: patch Check Point SmartConsole and verify the fix held.
 CVE-2026-50522 — Microsoft SharePoint: patch Microsoft SharePoint and validate deserialization bounds.
@@ -27,7 +27,7 @@ via PCMedicalist · pcmedicalist.com
 ## Post B — CS / News / Vendor / Dev / Community
 
 ```
-🧠 Engineering & Research Digest (Jul 24)
+🧠 Engineering & Research Digest (Jul 25)
 
 Don’t swing at everything: we note it; relevance depends on your exposure.
 Russian Global Webmail Espionage: we note it; relevance depends on your exposure.
