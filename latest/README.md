@@ -1,17 +1,17 @@
-# Latest Digest — 2026-07-25
+# Latest Digest — 2026-07-27
 
 > Rolling snapshot of the most recent PCMedicalist Intelligence Feed digest.
 > Source of truth lives in `digests/`. This file is regenerated every run.
 
-- **Date:** 2026-07-25
+- **Date:** 2026-07-27
 - **Feeds ingested:** 38
 - **Items raw → deduped:** 3566 → 3502
-- **Full digest:** `digests/2026/07/2026-07-25/`
+- **Full digest:** `digests/2026/07/2026-07-27/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
-🔐 Daily Security & Standards Brief (Jul 25)
+🔐 Daily Security & Standards Brief (Jul 26)
 
 CVE-2026-16232 — Check Point SmartConsole: patch Check Point SmartConsole and verify the fix held.
 CVE-2026-50522 — Microsoft SharePoint: patch Microsoft SharePoint and validate deserialization bounds.
@@ -21,23 +21,28 @@ CVE-2026-0770 — Langflow Inclusion of Functionality from Untrusted Control Sph
 
 That standard is what Blue-Team discipline is built on.
 
-via PCMedicalist · pcmedicalist.com
+via PCMedicalist · pcmedicalist.com/intel
 ```
 
 ## Post B — CS / News / Vendor / Dev / Community
 
 ```
-🧠 Engineering & Research Digest (Jul 25)
+🧠 Engineering & Research Digest (Jul 26)
 
 Don’t swing at everything: we note it; relevance depends on your exposure.
+  ↳ Thinking Process:
 Russian Global Webmail Espionage: we note it; relevance depends on your exposure.
+  ↳ Thinking Process:
 What Happened Between OpenAI and Hugging Face?: we note it; relevance depends on your exposure.
+  ↳ Thinking Process:
 CVE-2024-24919 — CVE-2026-16232: Critical Check Point SmartConsole Authentication: patch CVE-2026-16232: Critical Check Point SmartConsole Authentication and verify the fix held.
+  ↳ Thinking Process:
 Chaos ransomware's msaRAT: Living off the browser to build a covert C2 channel: we note it; relevance depends on your exposure.
+  ↳ Thinking Process:
 
 That standard is what our sentinel is built on.
 
-via PCMedicalist · pcmedicalist.com
+via PCMedicalist · pcmedicalist.com/intel
 ```
 
 ---
