@@ -1,4 +1,4 @@
-🔐 Daily Security & Standards Brief (Jul 26)
+🔐 Daily Security & Standards Brief (Jul 27)
 
 CVE-2026-16232 — Check Point SmartConsole: patch Check Point SmartConsole and verify the fix held.
 CVE-2026-50522 — Microsoft SharePoint: patch Microsoft SharePoint and validate deserialization bounds.

@@ -4,14 +4,14 @@
     <title>PCMedicalist Intelligence Feed</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Daily security intelligence digests — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Mon, 27 Jul 2026 01:39:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 11:53:45 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
     <item>
       <title>Digest 2026-07-27</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/07/2026-07-27/posts.json</link>
       <guid isPermaLink="false">2026-07-27</guid>
-      <pubDate>Mon, 27 Jul 2026 01:39:05 GMT</pubDate>
-      <description>🔐 Daily Security &amp; Standards Brief (Jul 26)
+      <pubDate>Mon, 27 Jul 2026 11:53:45 GMT</pubDate>
+      <description>🔐 Daily Security &amp; Standards Brief (Jul 27)
 
 CVE-2026-16232 — Check Point SmartConsole: patch Check Point SmartConsole and verify the fix held.
 CVE-2026-50522 — Microsoft SharePoint: patch Microsoft SharePoint and validate deserialization bounds.
@@ -23,7 +23,7 @@ That standard is what Blue-Team discipline is built on.
 
 via PCMedicalist · pcmedicalist.com/intel
 
-🧠 Engineering &amp; Research Digest (Jul 26)
+🧠 Engineering &amp; Research Digest (Jul 27)
 
 Don’t swing at everything: we note it; relevance depends on your exposure.
   ↳ Thinking Process:
