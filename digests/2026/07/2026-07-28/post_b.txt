@@ -1,14 +1,14 @@
-🧠 Engineering & Research Digest (Jul 27)
+🧠 Engineering & Research Digest (Jul 28)
 
+IR Trends Q2 2026: Phishing and weaponized remote management tools drive attack : we note it; relevance depends on your exposure.
+  ↳ Thinking Process:
+Rapid7 and Exclusive Networks expand partnership to modernize security operation: another item on the daily watch.
+  ↳ Thinking Process:
+Atlas: Wiz's autonomous AI Agent for vulnerability research, ranked #1 on CyberG: patch Atlas: Wiz's autonomous AI Agent for and verify the fix held.
+  ↳ Thinking Process:
+5 High-Impact Use Cases for Falcon Onum: another item on the daily watch.
+  ↳ Thinking Process:
 CrowdStrike Joins the Open Secure AI Alliance to Advance AI Safety and Security: on our radar — file it if it's in your stack.
-  ↳ Thinking Process:
-Don’t swing at everything: we note it; relevance depends on your exposure.
-  ↳ Thinking Process:
-Russian Global Webmail Espionage: we note it; relevance depends on your exposure.
-  ↳ Thinking Process:
-What Happened Between OpenAI and Hugging Face?: we note it; relevance depends on your exposure.
-  ↳ Thinking Process:
-CVE-2024-24919 — CVE-2026-16232: Critical Check Point SmartConsole Authentication: patch CVE-2026-16232: Critical Check Point SmartConsole Authentication and verify the fix held.
   ↳ Thinking Process:
 
 That standard is what our sentinel is built on.
