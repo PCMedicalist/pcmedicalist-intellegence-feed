@@ -1,15 +1,15 @@
-🧠 Engineering & Research Digest (Jul 28)
+🧠 Engineering & Research Digest (Jul 29)
 
 How AI is Rewriting the Zero-Day Playbook for Preemptive Security: another item on the daily watch.
-  ↳ SENTENCE
+  ↳ Thinking Process:
+CVE-2021-22681 — Coordinated “cyberattack” on Minnesota water utilities: What you need to know: patch Coordinated “cyberattack” on Minnesota water utilities: What you need to know and verify the fix held.
+  ↳ Thinking Process:
 CVE-2026-16232 — Check Point SmartConsole Authentication: patch Check Point SmartConsole Authentication and verify the fix held.
   ↳ Thinking Process:
 The risk hiding behind exposed MCP servers: another item on the daily watch.
   ↳ Thinking Process:
 Rapid7 Cyber GRC is now available: Turn security action into compliance proof: we note it; relevance depends on your exposure.
-  ↳ Evaluate and integrate Rapid7 Cyber GRC to automate converting security actions into verifiable compliance proof.
-The Next Evolution of MDR: Preemptive Defense and Agentic Investigation: another item on the daily watch.
-  ↳ Thinking Process:
+  ↳ Evaluate and deploy Rapid7 Cyber GRC to automate compliance evidence collection and transform security actions into audit-ready proof.
 
 That standard is what our sentinel is built on.
 
