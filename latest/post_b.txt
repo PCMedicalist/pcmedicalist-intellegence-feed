@@ -1,14 +1,14 @@
-🧠 Engineering & Research Digest (Jul 29)
+🧠 Engineering & Research Digest (Jul 30)
 
+CVE-2026-59309 — Critical VMware vCenter Vulnerabilities Allow Authentication: patch Critical VMware vCenter Vulnerabilities Allow Authentication immediately — RCE exposure.
+  ↳ Thinking Process:
+Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous Cyberattacks: on our radar — file it if it's in your stack.
+  ↳ Thinking Process:
+Black Hat special: Rewind and revisit: we note it; relevance depends on your exposure.
+  ↳ Thinking Process:
 CVE-2026-63077 — CVE-2026-63077: Critical unauthenticated: patch CVE-2026-63077: Critical unauthenticated immediately — RCE exposure.
-  ↳ Thinking Process:
+  ↳ Immediately upgrade JetBrains TeamCity to the latest patched release to remediate the critical unauthenticated remote code execution vulnerability.
 Wiz’s First 6 Months as Part of Google: on our radar — file it if it's in your stack.
-  ↳ Thinking Process:
-How AI is Rewriting the Zero-Day Playbook for Preemptive Security: another item on the daily watch.
-  ↳ Thinking Process:
-The Wiz Red Agent is Now Generally Available: we note it; relevance depends on your exposure.
-  ↳ Thinking Process:
-CVE-2021-22681 — Coordinated “cyberattack” on Minnesota water utilities: What you need to know: patch Coordinated “cyberattack” on Minnesota water utilities: What you need to know and verify the fix held.
   ↳ Thinking Process:
 
 That standard is what our sentinel is built on.
