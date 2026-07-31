@@ -1,14 +1,14 @@
-🧠 Engineering & Research Digest (Jul 30)
+🧠 Engineering & Research Digest (Jul 31)
 
+The Xcode Assassin Returns: A Deep Dive Into the Latest XCSSET Version: another item on the daily watch.
+  ↳ Update Xcode and block the latest malicious signing certificates associated with the XCSSET campaign.
 What water utilities need to know about cybersecurity compliance: we note it; relevance depends on your exposure.
-  ↳ Thinking Process:
+  ↳ Audit water utility systems against current cybersecurity compliance standards and remediate identified regulatory gaps immediately.
 You were onto something with “It’s the Climb,” Miley: we note it; relevance depends on your exposure.
   ↳ Thinking Process:
 Rethinking Scanning for the AI Era: Wiz’s Agentic Code Security System: on our radar — file it if it's in your stack.
   ↳ Thinking Process:
 CVE-2026-66066 — KindaRails2Shell: CVE-2026-66066, Critical Arbitrary File Read and Possible: patch KindaRails2Shell: CVE-2026-66066, Critical Arbitrary File Read and Possible immediately — RCE exposure.
-  ↳ Thinking Process:
-Canada’s Bill C-8 is here: Why the 72-hour reporting rule will redefine critical: another item on the daily watch.
   ↳ Thinking Process:
 
 That standard is what our sentinel is built on.
