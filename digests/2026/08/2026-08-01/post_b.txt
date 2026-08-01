@@ -1,15 +1,15 @@
-🧠 Engineering & Research Digest (Jul 31)
+🧠 Engineering & Research Digest (Aug 01)
 
 Rapid7 at Black Hat USA 2026: See preemptive security in action: on our radar — file it if it's in your stack.
-  ↳ Evaluate Rapid7's preemptive security demonstrations and integrate their tools into your threat detection pipeline for enhanced proactive defense.
+  ↳ Thinking Process:
 The Xcode Assassin Returns: A Deep Dive Into the Latest XCSSET Version: another item on the daily watch.
   ↳ Thinking Process:
 What water utilities need to know about cybersecurity compliance: we note it; relevance depends on your exposure.
   ↳ Thinking Process:
 You were onto something with “It’s the Climb,” Miley: we note it; relevance depends on your exposure.
-  ↳ Disregard this indicator as a benign pop culture reference with no security relevance.
-Rethinking Scanning for the AI Era: Wiz’s Agentic Code Security System: on our radar — file it if it's in your stack.
   ↳ Thinking Process:
+Rethinking Scanning for the AI Era: Wiz’s Agentic Code Security System: on our radar — file it if it's in your stack.
+  ↳ Evaluate Wiz's agentic code security system for integration into your DevSecOps pipeline to detect AI-era code vulnerabilities.
 
 That standard is what our sentinel is built on.
 
