@@ -1,10 +1,15 @@
-🧠 Engineering & Research Digest (Aug 01)
+🧠 Engineering & Research Digest (Aug 02)
 
+S3 Clones in the Neoclouds: we note it; relevance depends on your exposure.
+  ↳ Thinking Process:
 Rapid7 at Black Hat USA 2026: See preemptive security in action: on our radar — file it if it's in your stack.
+  ↳ Thinking Process:
 The Xcode Assassin Returns: A Deep Dive Into the Latest XCSSET Version: another item on the daily watch.
+  ↳ Thinking Process:
 What water utilities need to know about cybersecurity compliance: we note it; relevance depends on your exposure.
+  ↳ Audit critical infrastructure assets against applicable regulatory standards and remediate identified compliance gaps immediately.
 You were onto something with “It’s the Climb,” Miley: we note it; relevance depends on your exposure.
-Rethinking Scanning for the AI Era: Wiz’s Agentic Code Security System: on our radar — file it if it's in your stack.
+  ↳ Thinking Process:
 
 That standard is what our sentinel is built on.
 

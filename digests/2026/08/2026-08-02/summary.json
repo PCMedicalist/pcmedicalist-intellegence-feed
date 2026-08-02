@@ -49,19 +49,19 @@
   "post_b_x_len": 245,
   "buffer_a_x": {
     "dry_run": true,
-    "success": false
+    "success": "skipped (dry-run)"
   },
   "buffer_a_li": {
     "dry_run": true,
-    "success": false
+    "success": "skipped (dry-run)"
   },
   "buffer_b_x": {
     "dry_run": true,
-    "success": false
+    "success": "skipped (dry-run)"
   },
   "buffer_b_li": {
     "dry_run": true,
-    "success": false
+    "success": "skipped (dry-run)"
   },
   "discord_ok": true
 }
