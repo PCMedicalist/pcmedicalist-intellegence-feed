@@ -5,7 +5,7 @@
 
 - **Date:** 2026-08-02
 - **Feeds ingested:** 38
-- **Items raw → deduped:** 3633 → 3568
+- **Items raw → deduped:** 3634 → 3569
 - **Full digest:** `digests/2026/08/2026-08-02/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
@@ -14,14 +14,10 @@
 🔐 Daily Security & Standards Brief (Aug 01)
 
 Secretariat restructuring and staffing update: worth a read if you ship against the spec.
-  ↳ Thinking Process:
 CVE-2026-20316 — Cisco Secure Firewall Management Center Use of Hard-coded Password: patch Cisco Secure Firewall Management Center Use of Hard-coded Password and verify the fix held.
-  ↳ Immediately apply the vendor patch and rotate all administrative credentials on affected Cisco Secure Firewall Management Center instances.
 CVE-2025-68686 — Fortinet FortiOS Exposure of Sensitive Information to an Unauthorized Actor: patch Fortinet FortiOS Exposure of Sensitive Information to an Unauthorized Actor and verify the fix held.
-  ↳ Immediately upgrade Fortinet FortiOS to the latest patched version to remediate the sensitive information exposure vulnerability.
 CVE-2026-16812 — Arista VeloCloud Orchestrator On-Prem: sanitize inputs and patch Arista VeloCloud Orchestrator On-Prem.
 CVE-2026-16232 — Check Point SmartConsole: patch Check Point SmartConsole and verify the fix held.
-  ↳ Thinking Process:
 
 That standard is what Blue-Team discipline is built on.
 
@@ -34,15 +30,10 @@ via PCMedicalist · pcmedicalist.com/intel
 🧠 Engineering & Research Digest (Aug 01)
 
 Rapid7 at Black Hat USA 2026: See preemptive security in action: on our radar — file it if it's in your stack.
-  ↳ Thinking Process:
 The Xcode Assassin Returns: A Deep Dive Into the Latest XCSSET Version: another item on the daily watch.
-  ↳ ...
 What water utilities need to know about cybersecurity compliance: we note it; relevance depends on your exposure.
-  ↳ Audit water utility infrastructure for cybersecurity compliance gaps and remediate findings to ensure adherence to sector regulations.
 You were onto something with “It’s the Climb,” Miley: we note it; relevance depends on your exposure.
-  ↳ Ignore any alerts referencing Miley Cyrus songs as they are benign cultural references unrelated to active security threats.
 Rethinking Scanning for the AI Era: Wiz’s Agentic Code Security System: on our radar — file it if it's in your stack.
-  ↳ ...
 
 That standard is what our sentinel is built on.
 
