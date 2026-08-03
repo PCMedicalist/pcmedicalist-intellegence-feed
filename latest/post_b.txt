@@ -1,19 +1,19 @@
-🧠 Engineering & Research Digest (Aug 02)
+🧠 Engineering & Research Digest (Aug 03)
 
+Pass the Passkey: A Novel Attack Surface in Passwordless Authentication: on our radar — file it if it's in your stack.
+  ↳ Thinking Process:
+30 days with Claude Mythos Preview: How Tenable adapted our security program, an: we note it; relevance depends on your exposure.
+  ↳ Thinking Process:
+Rapid7 Expands UK and Ireland Channel Presence Through Strategic Partnership wit: we note it; relevance depends on your exposure.
+  ↳ Thinking Process:
+CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Acc: patch CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates and verify the fix held.
+  ↳ Thinking Process:
 S3 Clones in the Neoclouds: we note it; relevance depends on your exposure.
-  ↳ Thinking Process:
-Rapid7 at Black Hat USA 2026: See preemptive security in action: on our radar — file it if it's in your stack.
-  ↳ Thinking Process:
-The Xcode Assassin Returns: A Deep Dive Into the Latest XCSSET Version: another item on the daily watch.
-  ↳ Patch macOS and Xcode immediately, scan for XCSSET artifacts, and disable Xcode if not required for development.
-What water utilities need to know about cybersecurity compliance: we note it; relevance depends on your exposure.
-  ↳ Thinking Process:
-You were onto something with “It’s the Climb,” Miley: we note it; relevance depends on your exposure.
-  ↳ Thinking Process:
+  ↳ Patch the affected S3 storage product and enforce strict IAM policies to block unauthorized bucket replication and cloning.
 
 That standard is what our sentinel is built on.
 
 via PCMedicalist · pcmedicalist.com/intel
 Read the full briefing at app.pcmedicalist.com/intel 👇
 
-#InfoSec #CompSci
+#CyberSecurity #InfoSec #CompSci
