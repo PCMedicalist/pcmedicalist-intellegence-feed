@@ -1,15 +1,15 @@
-🧠 Engineering & Research Digest (Aug 03)
+🧠 Engineering & Research Digest (Aug 04)
 
+“Keep going, bro. You’ve got this!” A data-driven look at how adversaries are we: another item on the daily watch.
+  ↳ Thinking Process:
 CVE-2026-66066 — Rapid7 Analysis: KindaRails2Shell (CVE-2026-66066): patch Rapid7 Analysis: KindaRails2Shell (CVE-2026-66066) and verify the fix held.
   ↳ Thinking Process:
 [Webinar] Tales from the Frontlines: An exclusive briefing on Q2 incidents: on our radar — file it if it's in your stack.
-  ↳ Attend the webinar to ingest Q2 incident intelligence and update threat hunting queries and detection rules based on the shared TTPs and indicators.
+  ↳ Attend the briefing to extract Q2 incident indicators and update threat detection signatures or patching schedules for relevant products.
 Metasploit Pro 5.1 Released: on our radar — file it if it's in your stack.
-  ↳ Update threat detection signatures to identify Metasploit Pro 5.1 traffic and monitor for unauthorized usage of this new framework version.
+  ↳ Thinking Process:
 Introducing the Wiz Sensor for Developer Workstations to Protect Endpoints in th: on our radar — file it if it's in your stack.
-  ↳ ...
-Pass the Passkey: A Novel Attack Surface in Passwordless Authentication: on our radar — file it if it's in your stack.
-  ↳ Implement strict passkey device binding and monitor authentication logs for anomalies to mitigate pass-the-passkey credential theft risks.
+  ↳ Deploy the Wiz Sensor on developer workstations to secure endpoints against AI-era threats and enhance security visibility.
 
 That standard is what our sentinel is built on.
 

@@ -1,15 +1,10 @@
-🔐 Daily Security & Standards Brief (Aug 03)
+🔐 Daily Security & Standards Brief (Aug 04)
 
 CVE-2026-18556 — N-able N-central Authentication: patch N-able N-central Authentication and verify the fix held.
-  ↳ Thinking Process:
 Secretariat restructuring and staffing update: worth a read if you ship against the spec.
-  ↳ Thinking Process:
 CVE-2026-20316 — Cisco Secure Firewall Management Center Use of Hard-coded Password: patch Cisco Secure Firewall Management Center Use of Hard-coded Password and verify the fix held.
-  ↳ Thinking Process:
 CVE-2025-68686 — Fortinet FortiOS Exposure of Sensitive Information to an Unauthorized Actor: patch Fortinet FortiOS Exposure of Sensitive Information to an Unauthorized Actor and verify the fix held.
-  ↳ Upgrade Fortinet FortiOS firmware to the latest patched version immediately to mitigate CVE-2025-68686 and prevent sensitive information exposure.
 CVE-2026-16812 — Arista VeloCloud Orchestrator On-Prem: sanitize inputs and patch Arista VeloCloud Orchestrator On-Prem.
-  ↳ Thinking Process:
 
 That standard is what Blue-Team discipline is built on.
 
