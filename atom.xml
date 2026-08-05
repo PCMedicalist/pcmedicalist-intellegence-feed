@@ -2,9 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Intelligence Feed</title>
   <id>tag:pcmedicalist.com,2026:intel-feed</id>
-  <updated>2026-08-04T11:16:47Z</updated>
+  <updated>2026-08-05T01:19:51Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/atom.xml"/>
   <subtitle>Daily security intelligence digests — PCMedicalist Intelligence Network</subtitle>
+  <entry>
+    <title>Digest 2026-08-05</title>
+    <id>tag:pcmedicalist.com,2026:intel-feed:2026-08-05</id>
+    <updated>2026-08-05T01:19:51Z</updated>
+    <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/08/2026-08-05/posts.json"/>
+    <summary>Security intelligence digest for 2026-08-05</summary>
+    <content type="text">🔐 Daily Security &amp; Standards Brief (Aug 04)
+
+CVE-2026-18556 — N-able N-central Authentication: patch N-able N-central Authentication and verify the fix held.
+  ↳ Thinking Process:
+CVE-2026-34486 — Apache Tomcat Missing Encryption of Sensitive Data: patch Apache Tomcat Missing Encryption of Sensitive Data and verify the fix held.
+  ↳ ...
+CVE-2026-9198 — IBM Langflow Code: patch IBM Langflow Code and verify the fix held.
+  ↳ Thinking Process:
+CVE-2026-18556 — N-able N-central Authentication: patch N-able N-central Authentication and verify the fix held.
+  ↳ Thinking Process:
+Secretariat restructuring and staffing update: worth a read if you ship against the spec.
+  ↳ Thinking Process:
+
+That standard is what Blue-Team discipline is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+
+🧠 Engineering &amp; Research Digest (Aug 04)
+
+Wiz at Black Hat 2026: Driving AI Threat Readiness: another item on the daily watch.
+  ↳ Thinking Process:
+The Frontier AI Vulnerability Burst: Industrializing Autonomous Zero-Day Discove: patch The Frontier AI and verify the fix held.
+  ↳ Thinking Process:
+Almost Half of Malware Samples Communicate Direct to IP: on our radar — file it if it's in your stack.
+  ↳ ...
+keyv and cacheable npm Package Hijacked in Supply Chain Attack: another item on the daily watch.
+  ↳ Thinking Process:
+CVE-2026-18556 — CVE-2026-18577: N-able N-central Authentication: patch CVE-2026-18577: N-able N-central Authentication and verify the fix held.
+  ↳ Thinking Process:
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel</content>
+  </entry>
   <entry>
     <title>Digest 2026-08-04</title>
     <id>tag:pcmedicalist.com,2026:intel-feed:2026-08-04</id>
