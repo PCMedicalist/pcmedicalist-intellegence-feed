@@ -1,4 +1,4 @@
-🔐 Daily Security & Standards Brief (Aug 04)
+🔐 Daily Security & Standards Brief (Aug 05)
 
 CVE-2026-18556 — N-able N-central Authentication: patch N-able N-central Authentication and verify the fix held.
   ↳ Thinking Process:
@@ -9,7 +9,7 @@ CVE-2026-9198 — IBM Langflow Code: patch IBM Langflow Code and verify the fix 
 CVE-2026-18556 — N-able N-central Authentication: patch N-able N-central Authentication and verify the fix held.
   ↳ Thinking Process:
 Secretariat restructuring and staffing update: worth a read if you ship against the spec.
-  ↳ Thinking Process:
+  ↳ ...
 
 That standard is what Blue-Team discipline is built on.
 

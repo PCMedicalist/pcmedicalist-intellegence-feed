@@ -4,14 +4,14 @@
     <title>PCMedicalist Intelligence Feed</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Daily security intelligence digests — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Wed, 05 Aug 2026 01:19:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 11:16:24 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
     <item>
       <title>Digest 2026-08-05</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/08/2026-08-05/posts.json</link>
       <guid isPermaLink="false">2026-08-05</guid>
-      <pubDate>Wed, 05 Aug 2026 01:19:51 GMT</pubDate>
-      <description>🔐 Daily Security &amp; Standards Brief (Aug 04)
+      <pubDate>Wed, 05 Aug 2026 11:16:24 GMT</pubDate>
+      <description>🔐 Daily Security &amp; Standards Brief (Aug 05)
 
 CVE-2026-18556 — N-able N-central Authentication: patch N-able N-central Authentication and verify the fix held.
   ↳ Thinking Process:
@@ -22,22 +22,21 @@ CVE-2026-9198 — IBM Langflow Code: patch IBM Langflow Code and verify the fix 
 CVE-2026-18556 — N-able N-central Authentication: patch N-able N-central Authentication and verify the fix held.
   ↳ Thinking Process:
 Secretariat restructuring and staffing update: worth a read if you ship against the spec.
-  ↳ Thinking Process:
+  ↳ ...
 
 That standard is what Blue-Team discipline is built on.
 
 via PCMedicalist · pcmedicalist.com/intel
 
-🧠 Engineering &amp; Research Digest (Aug 04)
+🧠 Engineering &amp; Research Digest (Aug 05)
 
 Wiz at Black Hat 2026: Driving AI Threat Readiness: another item on the daily watch.
-  ↳ Thinking Process:
-The Frontier AI Vulnerability Burst: Industrializing Autonomous Zero-Day Discove: patch The Frontier AI and verify the fix held.
-  ↳ Thinking Process:
-Almost Half of Malware Samples Communicate Direct to IP: on our radar — file it if it's in your stack.
   ↳ ...
-keyv and cacheable npm Package Hijacked in Supply Chain Attack: another item on the daily watch.
+The Frontier AI Vulnerability Burst: Industrializing Autonomous Zero-Day Discove: patch The Frontier AI and verify the fix held.
+  ↳ ...
+Almost Half of Malware Samples Communicate Direct to IP: on our radar — file it if it's in your stack.
   ↳ Thinking Process:
+keyv and cacheable npm Package Hijacked in Supply Chain Attack: another item on the daily watch.
 CVE-2026-18556 — CVE-2026-18577: N-able N-central Authentication: patch CVE-2026-18577: N-able N-central Authentication and verify the fix held.
   ↳ Thinking Process:
 

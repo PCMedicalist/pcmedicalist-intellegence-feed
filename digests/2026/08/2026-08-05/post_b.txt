@@ -1,13 +1,12 @@
-🧠 Engineering & Research Digest (Aug 04)
+🧠 Engineering & Research Digest (Aug 05)
 
 Wiz at Black Hat 2026: Driving AI Threat Readiness: another item on the daily watch.
-  ↳ Thinking Process:
-The Frontier AI Vulnerability Burst: Industrializing Autonomous Zero-Day Discove: patch The Frontier AI and verify the fix held.
-  ↳ Thinking Process:
-Almost Half of Malware Samples Communicate Direct to IP: on our radar — file it if it's in your stack.
   ↳ ...
-keyv and cacheable npm Package Hijacked in Supply Chain Attack: another item on the daily watch.
+The Frontier AI Vulnerability Burst: Industrializing Autonomous Zero-Day Discove: patch The Frontier AI and verify the fix held.
+  ↳ ...
+Almost Half of Malware Samples Communicate Direct to IP: on our radar — file it if it's in your stack.
   ↳ Thinking Process:
+keyv and cacheable npm Package Hijacked in Supply Chain Attack: another item on the daily watch.
 CVE-2026-18556 — CVE-2026-18577: N-able N-central Authentication: patch CVE-2026-18577: N-able N-central Authentication and verify the fix held.
   ↳ Thinking Process:
 
