@@ -4,8 +4,47 @@
     <title>PCMedicalist Intelligence Feed</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Daily security intelligence digests — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Thu, 06 Aug 2026 21:15:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 11:22:26 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Digest 2026-08-07</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/08/2026-08-07/posts.json</link>
+      <guid isPermaLink="false">2026-08-07</guid>
+      <pubDate>Fri, 07 Aug 2026 11:22:26 GMT</pubDate>
+      <description>🔐 Daily Security &amp; Standards Brief (Aug 07)
+
+CVE-2026-63077 — JetBrains TeamCity: patch JetBrains TeamCity and validate deserialization bounds.
+  ↳ Thinking Process:
+CVE-2026-18556 — N-able N-central Authentication: patch N-able N-central Authentication and verify the fix held.
+  ↳ Thinking Process:
+CVE-2026-34486 — Apache Tomcat Missing Encryption of Sensitive Data: patch Apache Tomcat Missing Encryption of Sensitive Data and verify the fix held.
+  ↳ ...
+CVE-2026-9198 — IBM Langflow Code: patch IBM Langflow Code and verify the fix held.
+  ↳ Upgrade IBM Langflow immediately to the latest patched version and validate all external inputs against strict sanitization policies.
+CVE-2026-18556 — N-able N-central Authentication: patch N-able N-central Authentication and verify the fix held.
+  ↳ ...
+
+That standard is what Blue-Team discipline is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+
+🧠 Engineering &amp; Research Digest (Aug 07)
+
+ChainDrop: Inside a Self-Propagating npm Worm: on our radar — file it if it's in your stack.
+  ↳ Thinking Process:
+Why metaphor may dictate your security strategy: we note it; relevance depends on your exposure.
+  ↳ Thinking Process:
+Cloud Threat Highlights: H1 2026: another item on the daily watch.
+  ↳ Thinking Process:
+AI code security with Claude Mythos Preview: Inside Tenable’s 500+ hours of test: we note it; relevance depends on your exposure.
+  ↳ Thinking Process:
+Wiz Brings Automated DISA STIG Assessment to Amazon Linux 2023 and Windows Serve: another item on the daily watch.
+  ↳ Thinking Process:
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel</description>
+    </item>
     <item>
       <title>Digest 2026-08-06</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/08/2026-08-06/posts.json</link>
