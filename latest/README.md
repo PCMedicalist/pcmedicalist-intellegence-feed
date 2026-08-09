@@ -1,12 +1,12 @@
-# Latest Digest — 2026-08-08
+# Latest Digest — 2026-08-09
 
 > Rolling snapshot of the most recent PCMedicalist Intelligence Feed digest.
 > Source of truth lives in `digests/`. This file is regenerated every run.
 
-- **Date:** 2026-08-08
+- **Date:** 2026-08-09
 - **Feeds ingested:** 38
 - **Items raw → deduped:** 3651 → 3588
-- **Full digest:** `digests/2026/08/2026-08-08/`
+- **Full digest:** `digests/2026/08/2026-08-09/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
@@ -15,11 +15,10 @@
 
 CVE-2026-8037 — Progress LoadMaster Command: patch Progress LoadMaster Command and verify the fix held.
 CVE-2026-63077 — JetBrains TeamCity: patch JetBrains TeamCity and validate deserialization bounds.
+  ↳ Upgrade JetBrains TeamCity to the latest patched version immediately or implement WAF rules blocking untrusted deserialization payloads until remediation
 CVE-2026-18556 — N-able N-central Authentication: patch N-able N-central Authentication and verify the fix held.
 CVE-2026-34486 — Apache Tomcat Missing Encryption of Sensitive Data: patch Apache Tomcat Missing Encryption of Sensitive Data and verify the fix held.
-  ↳ Upgrade affected Apache Tomcat instances to patched versions and enforce encrypted transmission for all sensitive data fields immediately
 CVE-2026-9198 — IBM Langflow Code: patch IBM Langflow Code and verify the fix held.
-  ↳ Immediately upgrade IBM Langflow to a patched version resolving CVE-2026-9198 and enforce strict input validation on all workflow execution endpoints
 
 That standard is what Blue-Team discipline is built on.
 

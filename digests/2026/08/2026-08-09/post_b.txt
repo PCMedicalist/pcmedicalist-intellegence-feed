@@ -1,0 +1,14 @@
+🧠 Engineering & Research Digest (Aug 08)
+
+Inside the Modern SOC: The Identity Front Door: we map this into the SOC runbook we operate.
+CVE-2026-63077 — Rapid7 Analysis: Unauthenticated: patch Rapid7 Analysis: Unauthenticated immediately — RCE exposure.
+Agentic AI for Cyber Defenders: What Security Teams Built at Black Hat USA 2026: we pull the tradecraft into our detection backlog.
+CrowdStrike Threat Hunts for Shell Command Obfuscation on VMware ESX: part of the vendor security research signal we track daily.
+ChainDrop: Inside a Self-Propagating npm Worm: we weigh this against how agents actually fail in prod.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+Read the full briefing at app.pcmedicalist.com/intel 👇
+
+#CyberSecurity #InfoSec #CompSci
