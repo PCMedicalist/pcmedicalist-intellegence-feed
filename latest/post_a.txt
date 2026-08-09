@@ -1,8 +1,7 @@
-🔐 Daily Security & Standards Brief (Aug 08)
+🔐 Daily Security & Standards Brief (Aug 09)
 
 CVE-2026-8037 — Progress LoadMaster Command: patch Progress LoadMaster Command and verify the fix held.
 CVE-2026-63077 — JetBrains TeamCity: patch JetBrains TeamCity and validate deserialization bounds.
-  ↳ Upgrade JetBrains TeamCity to the latest patched version immediately or implement WAF rules blocking untrusted deserialization payloads until remediation
 CVE-2026-18556 — N-able N-central Authentication: patch N-able N-central Authentication and verify the fix held.
 CVE-2026-34486 — Apache Tomcat Missing Encryption of Sensitive Data: patch Apache Tomcat Missing Encryption of Sensitive Data and verify the fix held.
 CVE-2026-9198 — IBM Langflow Code: patch IBM Langflow Code and verify the fix held.
