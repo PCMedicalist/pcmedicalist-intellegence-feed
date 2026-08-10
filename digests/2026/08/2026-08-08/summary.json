@@ -1,10 +1,10 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-08",
   "feeds_total": 38,
-  "items_raw": 3652,
-  "items_deduped": 3589,
+  "items_raw": 3651,
+  "items_deduped": 3588,
   "per_feed": {
-    "IETF Blog": 593,
+    "IETF Blog": 592,
     "W3C News": 0,
     "RFC Editor": 0,
     "WHATWG": 0,
@@ -43,10 +43,10 @@
     "Lobsters": 25,
     "r/netsec": 0
   },
-  "post_a_len": 920,
-  "post_b_len": 798,
-  "post_a_x_len": 170,
-  "post_b_x_len": 198,
+  "post_a_len": 1010,
+  "post_b_len": 1062,
+  "post_a_x_len": 232,
+  "post_b_x_len": 230,
   "buffer_a_x": {
     "dry_run": false,
     "success": true

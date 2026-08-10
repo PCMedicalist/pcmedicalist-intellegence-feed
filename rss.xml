@@ -4,8 +4,39 @@
     <title>PCMedicalist Intelligence Feed</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Daily security intelligence digests — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Sat, 08 Aug 2026 01:22:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 11:18:18 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Digest 2026-08-10</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/08/2026-08-10/posts.json</link>
+      <guid isPermaLink="false">2026-08-10</guid>
+      <pubDate>Mon, 10 Aug 2026 11:18:18 GMT</pubDate>
+      <description>🔐 Daily Security &amp; Standards Brief (Aug 10)
+
+Meet our new IETF NOC Lead: worth a read if you ship against the spec.
+CVE-2026-8037 — Progress LoadMaster Command: patch Progress LoadMaster Command and verify the fix held.
+CVE-2026-63077 — JetBrains TeamCity: patch JetBrains TeamCity and validate deserialization bounds.
+  ↳ Immediately upgrade all JetBrains TeamCity instances to the latest patched version available from vendor channels
+CVE-2026-18556 — N-able N-central Authentication: patch N-able N-central Authentication and verify the fix held.
+  ↳ Immediately apply the vendor patch for N-able N-central or restrict access via non-standard paths while enabling MFA on all administrative accounts until a fix is available
+CVE-2026-34486 — Apache Tomcat Missing Encryption of Sensitive Data: patch Apache Tomcat Missing Encryption of Sensitive Data and verify the fix held.
+
+That standard is what Blue-Team discipline is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+
+🧠 Engineering &amp; Research Digest (Aug 10)
+
+Inside the Modern SOC: The Identity Front Door: we map this into the SOC runbook we operate.
+CVE-2026-63077 — Rapid7 Analysis: Unauthenticated: patch Rapid7 Analysis: Unauthenticated immediately — RCE exposure.
+Agentic AI for Cyber Defenders: What Security Teams Built at Black Hat USA 2026: we pull the tradecraft into our detection backlog.
+CrowdStrike Threat Hunts for Shell Command Obfuscation on VMware ESX: part of the vendor security research signal we track daily.
+ChainDrop: Inside a Self-Propagating npm Worm: we weigh this against how agents actually fail in prod.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel</description>
+    </item>
     <item>
       <title>Digest 2026-08-08</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/08/2026-08-08/posts.json</link>
