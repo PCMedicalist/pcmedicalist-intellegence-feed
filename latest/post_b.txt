@@ -1,9 +1,8 @@
-🧠 Engineering & Research Digest (Aug 11)
+🧠 Engineering & Research Digest (Aug 12)
 
 Microsoft Patch Tuesday for August 2026 — Snort rules and prominent vulnerabilit: we validate the fix against our change-control gate.
 CVE-2026-19137 — Patch Tuesday - August 2026: patch Patch Tuesday - August 2026 and verify the fix held.
 CVE-2022-21919 — Microsoft's August 2026 Patch Tuesday Addresses 398 CVEs (CVE-2026-68820): patch Microsoft's August 2026 Patch Tuesday Addresses 398 CVEs (CVE-2026-68820) and verify the fix held.
-  ↳ Apply Microsoft August 2026 cumulative updates immediately to patch QUIC and DNS vulnerabilities like CVE-2026-68820 on all endpoints
 CVE-2026-55040 — CVE-2026-63520: Microsoft SharePoint: patch CVE-2026-63520: Microsoft SharePoint immediately — RCE exposure.
 CVE-2026-55040 — Rapid7 Analysis: Microsoft SharePoint JWT Token Authentication: patch Rapid7 Analysis: Microsoft SharePoint JWT Token Authentication and verify the fix held.
 
