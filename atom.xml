@@ -2,9 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Intelligence Feed</title>
   <id>tag:pcmedicalist.com,2026:intel-feed</id>
-  <updated>2026-08-12T11:14:55Z</updated>
+  <updated>2026-08-13T01:26:43Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/atom.xml"/>
   <subtitle>Daily security intelligence digests — PCMedicalist Intelligence Network</subtitle>
+  <entry>
+    <title>Digest 2026-08-13</title>
+    <id>tag:pcmedicalist.com,2026:intel-feed:2026-08-13</id>
+    <updated>2026-08-13T01:26:43Z</updated>
+    <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/08/2026-08-13/posts.json"/>
+    <summary>Security intelligence digest for 2026-08-13</summary>
+    <content type="text">🔐 Daily Security &amp; Standards Brief (Aug 12)
+
+CVE-2026-20349 — Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) Heap Inspection: patch Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) Heap Inspection and verify the fix held.
+CVE-2026-68820 — Microsoft Windows Ancillary Function Driver for WinSock Use-After-Free: patch Microsoft Windows Ancillary Function Driver for WinSock Use-After-Free and verify the fix held.
+CVE-2026-72898 — Metabase: parameterize queries and patch Metabase.
+Meet our new IETF NOC Lead: worth a read if you ship against the spec.
+CVE-2026-8037 — Progress LoadMaster Command: patch Progress LoadMaster Command and verify the fix held.
+
+That standard is what Blue-Team discipline is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+
+🧠 Engineering &amp; Research Digest (Aug 12)
+
+AI is Working in the SOC. So Why are Security Executives More Worried Than Ever?: we weigh this against how agents actually fail in prod.
+  ↳ Implement strict human verification protocols
+Microsoft Patch Tuesday for August 2026 — Snort rules and prominent vulnerabilit: we validate the fix against our change-control gate.
+CVE-2026-19137 — Patch Tuesday - August 2026: patch Patch Tuesday - August 2026 and verify the fix held.
+CVE-2022-21919 — Microsoft's August 2026 Patch Tuesday Addresses 398 CVEs (CVE-2026-68820): patch Microsoft's August 2026 Patch Tuesday Addresses 398 CVEs (CVE-2026-68820) and verify the fix held.
+CVE-2026-55040 — CVE-2026-63520: Microsoft SharePoint: patch CVE-2026-63520: Microsoft SharePoint immediately — RCE exposure.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel</content>
+  </entry>
   <entry>
     <title>Digest 2026-08-12</title>
     <id>tag:pcmedicalist.com,2026:intel-feed:2026-08-12</id>
