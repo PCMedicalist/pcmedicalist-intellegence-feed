@@ -1,12 +1,12 @@
-# Latest Digest — 2026-08-13
+# Latest Digest — 2026-08-14
 
 > Rolling snapshot of the most recent PCMedicalist Intelligence Feed digest.
 > Source of truth lives in `digests/`. This file is regenerated every run.
 
-- **Date:** 2026-08-13
+- **Date:** 2026-08-14
 - **Feeds ingested:** 38
 - **Items raw → deduped:** 3668 → 3606
-- **Full digest:** `digests/2026/08/2026-08-13/`
+- **Full digest:** `digests/2026/08/2026-08-14/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
@@ -29,11 +29,11 @@ via PCMedicalist · pcmedicalist.com/intel
 ```
 🧠 Engineering & Research Digest (Aug 13)
 
+Curiouser and Curiouser: we file this against the daily watch — relevant if it's in your stack.
+How to Investigate GitHub PAT Compromise: Lessons From a Multi-Organization Camp: we fold this into our secret-hygiene baseline.
+Closing the Blind Spot: Securing Personal Repositories in the Software Supply Ch: we trace this against our dependency inventory.
 Dissecting the JWR phishing framework: we tighten the mail/url filtering policy on this signal.
 AI is Working in the SOC. So Why are Security Executives More Worried Than Ever?: we weigh this against how agents actually fail in prod.
-Microsoft Patch Tuesday for August 2026 — Snort rules and prominent vulnerabilit: we validate the fix against our change-control gate.
-CVE-2026-19137 — Patch Tuesday - August 2026: patch Patch Tuesday - August 2026 and verify the fix held.
-CVE-2022-21919 — Microsoft's August 2026 Patch Tuesday Addresses 398 CVEs (CVE-2026-68820): patch Microsoft's August 2026 Patch Tuesday Addresses 398 CVEs (CVE-2026-68820) and verify the fix held.
 
 That standard is what our sentinel is built on.
 
