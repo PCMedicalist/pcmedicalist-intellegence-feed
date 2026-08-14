@@ -1,10 +1,11 @@
-🧠 Engineering & Research Digest (Aug 13)
+🧠 Engineering & Research Digest (Aug 14)
 
 Curiouser and Curiouser: we file this against the daily watch — relevant if it's in your stack.
 How to Investigate GitHub PAT Compromise: Lessons From a Multi-Organization Camp: we fold this into our secret-hygiene baseline.
 Closing the Blind Spot: Securing Personal Repositories in the Software Supply Ch: we trace this against our dependency inventory.
 Dissecting the JWR phishing framework: we tighten the mail/url filtering policy on this signal.
 AI is Working in the SOC. So Why are Security Executives More Worried Than Ever?: we weigh this against how agents actually fail in prod.
+  ↳ Enforce mandatory human-in-the-loop validation for all AI-generated alerts and audit model outputs to mitigate hallucination risks before executing automated incident response actions
 
 That standard is what our sentinel is built on.
 

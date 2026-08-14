@@ -1,6 +1,7 @@
-🔐 Daily Security & Standards Brief (Aug 13)
+🔐 Daily Security & Standards Brief (Aug 14)
 
 CVE-2026-20349 — Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) Heap Inspection: patch Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) Heap Inspection and verify the fix held.
+  ↳ Immediately upgrade Cisco Secure Firewall ASA and FTD devices to the latest patched firmware version mitigating CVE-2026-20349 heap inspection vulnerability
 CVE-2026-68820 — Microsoft Windows Ancillary Function Driver for WinSock Use-After-Free: patch Microsoft Windows Ancillary Function Driver for WinSock Use-After-Free and verify the fix held.
 CVE-2026-72898 — Metabase: parameterize queries and patch Metabase.
 Meet our new IETF NOC Lead: worth a read if you ship against the spec.
