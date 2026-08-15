@@ -5,13 +5,13 @@
 
 - **Date:** 2026-08-15
 - **Feeds ingested:** 38
-- **Items raw → deduped:** 3675 → 3612
+- **Items raw → deduped:** 3678 → 3615
 - **Full digest:** `digests/2026/08/2026-08-15/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
-🔐 Daily Security & Standards Brief (Aug 14)
+🔐 Daily Security & Standards Brief (Aug 15)
 
 CVE-2026-20349 — Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) Heap Inspection: patch Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) Heap Inspection and verify the fix held.
 CVE-2026-68820 — Microsoft Windows Ancillary Function Driver for WinSock Use-After-Free: patch Microsoft Windows Ancillary Function Driver for WinSock Use-After-Free and verify the fix held.
@@ -27,13 +27,13 @@ via PCMedicalist · pcmedicalist.com/intel
 ## Post B — CS / News / Vendor / Dev / Community
 
 ```
-🧠 Engineering & Research Digest (Aug 14)
+🧠 Engineering & Research Digest (Aug 15)
 
+CVE-2025-3248 — The Agentic AI threat cluster: Seven incidents, three actors, and what they mean for your exposure: patch The Agentic AI threat cluster: Seven incidents, three actors, and what they mean for your exposure and verify the fix held.
 CVE-2025-49132 — Metasploit Wrap Up: Lot of summer shells and fit http profiles: patch Metasploit Wrap Up: Lot of summer shells and fit http profiles and verify the fix held.
 Wiz on Wiz: How the Wiz FinOps Team Uses Wiz Cloud Cost: on our radar; we correlate it with the rest of the feed.
 Securing Data in the AI era: we weigh this against how agents actually fail in prod.
 Curiouser and Curiouser: we file this against the daily watch — relevant if it's in your stack.
-How to Investigate GitHub PAT Compromise: Lessons From a Multi-Organization Camp: we fold this into our secret-hygiene baseline.
 
 That standard is what our sentinel is built on.
 
