@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Intelligence Feed</title>
   <id>tag:pcmedicalist.com,2026:intel-feed</id>
-  <updated>2026-08-16T01:28:09Z</updated>
+  <updated>2026-08-16T11:14:35Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/atom.xml"/>
   <subtitle>Daily security intelligence digests — PCMedicalist Intelligence Network</subtitle>
   <entry>
     <title>Digest 2026-08-16</title>
     <id>tag:pcmedicalist.com,2026:intel-feed:2026-08-16</id>
-    <updated>2026-08-16T01:28:09Z</updated>
+    <updated>2026-08-16T11:14:35Z</updated>
     <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/08/2026-08-16/posts.json"/>
     <summary>Security intelligence digest for 2026-08-16</summary>
-    <content type="text">🔐 Daily Security &amp; Standards Brief (Aug 15)
+    <content type="text">🔐 Daily Security &amp; Standards Brief (Aug 16)
 
 CVE-2026-20349 — Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) Heap Inspection: patch Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) Heap Inspection and verify the fix held.
 CVE-2026-68820 — Microsoft Windows Ancillary Function Driver for WinSock Use-After-Free: patch Microsoft Windows Ancillary Function Driver for WinSock Use-After-Free and verify the fix held.
 CVE-2026-72898 — Metabase: parameterize queries and patch Metabase.
-  ↳ Immediately upgrade all Metabase installations to the latest patched version from official sources to remediate this specific SQL injection vulnerability
+  ↳ Upgrade affected Metabase instances immediately to a patched release resolving CVE-2026-72898 and implement input validation controls on all endpoints
 Meet our new IETF NOC Lead: worth a read if you ship against the spec.
 CVE-2026-8037 — Progress LoadMaster Command: patch Progress LoadMaster Command and verify the fix held.
 
@@ -24,7 +24,7 @@ That standard is what Blue-Team discipline is built on.
 
 via PCMedicalist · pcmedicalist.com/intel
 
-🧠 Engineering &amp; Research Digest (Aug 15)
+🧠 Engineering &amp; Research Digest (Aug 16)
 
 CVE-2025-3248 — The Agentic AI threat cluster: Seven incidents, three actors, and what they mean for your exposure: patch The Agentic AI threat cluster: Seven incidents, three actors, and what they mean for your exposure and verify the fix held.
 CVE-2025-49132 — Metasploit Wrap Up: Lot of summer shells and fit http profiles: patch Metasploit Wrap Up: Lot of summer shells and fit http profiles and verify the fix held.

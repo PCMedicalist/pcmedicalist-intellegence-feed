@@ -1,4 +1,4 @@
-🧠 Engineering & Research Digest (Aug 15)
+🧠 Engineering & Research Digest (Aug 16)
 
 CVE-2025-3248 — The Agentic AI threat cluster: Seven incidents, three actors, and what they mean for your exposure: patch The Agentic AI threat cluster: Seven incidents, three actors, and what they mean for your exposure and verify the fix held.
 CVE-2025-49132 — Metasploit Wrap Up: Lot of summer shells and fit http profiles: patch Metasploit Wrap Up: Lot of summer shells and fit http profiles and verify the fix held.
