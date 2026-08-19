@@ -4,8 +4,38 @@
     <title>PCMedicalist Intelligence Feed</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Daily security intelligence digests — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Tue, 18 Aug 2026 11:18:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 01:30:23 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Digest 2026-08-19</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/08/2026-08-19/posts.json</link>
+      <guid isPermaLink="false">2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 01:30:23 GMT</pubDate>
+      <description>🔐 Daily Security &amp; Standards Brief (Aug 18)
+
+CVE-2026-33824 — Microsoft Internet Key Exchange (IKE) Service Extensions Double Free: patch Microsoft Internet Key Exchange (IKE) Service Extensions Double Free and verify the fix held.
+CVE-2026-59310 — Broadcom VMware vCenter: validate paths and patch Broadcom VMware vCenter.
+CVE-2026-55040 — Microsoft SharePoint Weak Authentication: patch Microsoft SharePoint Weak Authentication and verify the fix held.
+CVE-2026-65400 — Apple macOS: patch Apple macOS and verify the fix held.
+  ↳ Apply Apple’s latest macOS security update immediately to remediate this improper authentication vulnerability and prevent unauthorized access on affected endpoints
+CVE-2025-62593 — Ray-Project Ray Code: patch Ray-Project Ray Code and verify the fix held.
+
+That standard is what Blue-Team discipline is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+
+🧠 Engineering &amp; Research Digest (Aug 18)
+
+Oracle August 2026 Critical Security Patch Update Addresses 925 CVEs: we validate the fix against our change-control gate.
+Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August 18): on our radar; we correlate it with the rest of the feed.
+How to Spot and Stop Rogue Device Joins: part of the vendor security research signal we track daily.
+New Report: AI threats are here. Why Q2 2026 signals the end of traditional patc: we validate the fix against our change-control gate.
+Announcing the 2026 Wiz Partner Alliance Award Winners: part of the vendor security research signal we track daily.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel</description>
+    </item>
     <item>
       <title>Digest 2026-08-18</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/08/2026-08-18/posts.json</link>
