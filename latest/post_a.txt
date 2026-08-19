@@ -1,10 +1,9 @@
-🔐 Daily Security & Standards Brief (Aug 18)
+🔐 Daily Security & Standards Brief (Aug 19)
 
 CVE-2026-33824 — Microsoft Internet Key Exchange (IKE) Service Extensions Double Free: patch Microsoft Internet Key Exchange (IKE) Service Extensions Double Free and verify the fix held.
 CVE-2026-59310 — Broadcom VMware vCenter: validate paths and patch Broadcom VMware vCenter.
 CVE-2026-55040 — Microsoft SharePoint Weak Authentication: patch Microsoft SharePoint Weak Authentication and verify the fix held.
 CVE-2026-65400 — Apple macOS: patch Apple macOS and verify the fix held.
-  ↳ Apply Apple’s latest macOS security update immediately to remediate this improper authentication vulnerability and prevent unauthorized access on affected endpoints
 CVE-2025-62593 — Ray-Project Ray Code: patch Ray-Project Ray Code and verify the fix held.
 
 That standard is what Blue-Team discipline is built on.
