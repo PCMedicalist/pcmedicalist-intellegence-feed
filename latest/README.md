@@ -1,23 +1,24 @@
-# Latest Digest — 2026-08-19
+# Latest Digest — 2026-08-20
 
 > Rolling snapshot of the most recent PCMedicalist Intelligence Feed digest.
 > Source of truth lives in `digests/`. This file is regenerated every run.
 
-- **Date:** 2026-08-19
+- **Date:** 2026-08-20
 - **Feeds ingested:** 38
 - **Items raw → deduped:** 3693 → 3631
-- **Full digest:** `digests/2026/08/2026-08-19/`
+- **Full digest:** `digests/2026/08/2026-08-20/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
 🔐 Daily Security & Standards Brief (Aug 19)
 
+CVE-2026-64849 — MLflow Server-Side Request Forgery: patch MLflow Server-Side Request Forgery and verify the fix held.
 CVE-2026-33824 — Microsoft Internet Key Exchange (IKE) Service Extensions Double Free: patch Microsoft Internet Key Exchange (IKE) Service Extensions Double Free and verify the fix held.
+  ↳ Immediately deploy the latest Microsoft security update addressing the double free vulnerability in the Internet Key Exchange Service Extensions
 CVE-2026-59310 — Broadcom VMware vCenter: validate paths and patch Broadcom VMware vCenter.
 CVE-2026-55040 — Microsoft SharePoint Weak Authentication: patch Microsoft SharePoint Weak Authentication and verify the fix held.
 CVE-2026-65400 — Apple macOS: patch Apple macOS and verify the fix held.
-CVE-2025-62593 — Ray-Project Ray Code: patch Ray-Project Ray Code and verify the fix held.
 
 That standard is what Blue-Team discipline is built on.
 
@@ -29,12 +30,11 @@ via PCMedicalist · pcmedicalist.com/intel
 ```
 🧠 Engineering & Research Digest (Aug 19)
 
+CVE-2026-19490 — CVE-2026-19490: Critical: patch CVE-2026-19490: Critical and verify the fix held.
+Wiz Penetration Test Findings is now GA: part of the vendor security research signal we track daily.
+Rapid7 and Licencias OnLine Partner to Accelerate Cybersecurity Maturity across : we file this against the daily watch — relevant if it's in your stack.
 Describing attacks with crime script analysis: we file this against the daily watch — relevant if it's in your stack.
-Oracle August 2026 Critical Security Patch Update Addresses 925 CVEs: we validate the fix against our change-control gate.
-  ↳ Immediately apply the Oracle August 2026 critical patch update to remediate 925 CVEs in all affected Oracle product installations
-Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August 18): on our radar; we correlate it with the rest of the feed.
-How to Spot and Stop Rogue Device Joins: part of the vendor security research signal we track daily.
-New Report: AI threats are here. Why Q2 2026 signals the end of traditional patc: we validate the fix against our change-control gate.
+Benchmaxxing: When the Benchmark Becomes the Target: we file this against the daily watch — relevant if it's in your stack.
 
 That standard is what our sentinel is built on.
 

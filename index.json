@@ -271,5 +271,12 @@
     "posts": "digests/2026/08/2026-08-19/posts.json",
     "feed": "digests/2026/08/2026-08-19/feed.json",
     "pushed_at": "2026-08-19T11:15:26.253560+00:00"
+  },
+  {
+    "date": "2026-08-20",
+    "path": "digests/2026/08/2026-08-20",
+    "posts": "digests/2026/08/2026-08-20/posts.json",
+    "feed": "digests/2026/08/2026-08-20/feed.json",
+    "pushed_at": "2026-08-20T01:13:52.046609+00:00"
   }
 ]
