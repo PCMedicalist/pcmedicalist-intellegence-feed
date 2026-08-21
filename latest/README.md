@@ -5,17 +5,17 @@
 
 - **Date:** 2026-08-21
 - **Feeds ingested:** 38
-- **Items raw → deduped:** 3697 → 3636
+- **Items raw → deduped:** 3701 → 3638
 - **Full digest:** `digests/2026/08/2026-08-21/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
-🔐 Daily Security & Standards Brief (Aug 20)
+🔐 Daily Security & Standards Brief (Aug 21)
 
 CVE-2026-72530 — TrueConf Server Code: patch TrueConf Server Code and verify the fix held.
 CVE-2026-72529 — TrueConf Server: enforce auth on the exposed function in TrueConf Server.
-  ↳ Patch all TrueConf Server instances immediately with the latest security update to mitigate missing authentication for critical functions
+  ↳ Immediately upgrade TrueConf Server to the latest patched version to remediate missing authentication risks on critical functions
 CVE-2026-64849 — MLflow Server-Side Request Forgery: patch MLflow Server-Side Request Forgery and verify the fix held.
 CVE-2026-33824 — Microsoft Internet Key Exchange (IKE) Service Extensions Double Free: patch Microsoft Internet Key Exchange (IKE) Service Extensions Double Free and verify the fix held.
 CVE-2026-59310 — Broadcom VMware vCenter: validate paths and patch Broadcom VMware vCenter.
@@ -28,7 +28,7 @@ via PCMedicalist · pcmedicalist.com/intel
 ## Post B — CS / News / Vendor / Dev / Community
 
 ```
-🧠 Engineering & Research Digest (Aug 20)
+🧠 Engineering & Research Digest (Aug 21)
 
 Is Cyber missing the Marque?: on our radar; we correlate it with the rest of the feed.
 Rust Supply Chain Attack on arrayref: Significant Overlap with DPRK Campaigns: we trace this against our dependency inventory.

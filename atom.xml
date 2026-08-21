@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Intelligence Feed</title>
   <id>tag:pcmedicalist.com,2026:intel-feed</id>
-  <updated>2026-08-21T03:02:11Z</updated>
+  <updated>2026-08-21T11:15:36Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/atom.xml"/>
   <subtitle>Daily security intelligence digests — PCMedicalist Intelligence Network</subtitle>
   <entry>
     <title>Digest 2026-08-21</title>
     <id>tag:pcmedicalist.com,2026:intel-feed:2026-08-21</id>
-    <updated>2026-08-21T03:02:11Z</updated>
+    <updated>2026-08-21T11:15:36Z</updated>
     <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/08/2026-08-21/posts.json"/>
     <summary>Security intelligence digest for 2026-08-21</summary>
-    <content type="text">🔐 Daily Security &amp; Standards Brief (Aug 20)
+    <content type="text">🔐 Daily Security &amp; Standards Brief (Aug 21)
 
 CVE-2026-72530 — TrueConf Server Code: patch TrueConf Server Code and verify the fix held.
 CVE-2026-72529 — TrueConf Server: enforce auth on the exposed function in TrueConf Server.
-  ↳ Patch all TrueConf Server instances immediately with the latest security update to mitigate missing authentication for critical functions
+  ↳ Immediately upgrade TrueConf Server to the latest patched version to remediate missing authentication risks on critical functions
 CVE-2026-64849 — MLflow Server-Side Request Forgery: patch MLflow Server-Side Request Forgery and verify the fix held.
 CVE-2026-33824 — Microsoft Internet Key Exchange (IKE) Service Extensions Double Free: patch Microsoft Internet Key Exchange (IKE) Service Extensions Double Free and verify the fix held.
 CVE-2026-59310 — Broadcom VMware vCenter: validate paths and patch Broadcom VMware vCenter.
@@ -24,7 +24,7 @@ That standard is what Blue-Team discipline is built on.
 
 via PCMedicalist · pcmedicalist.com/intel
 
-🧠 Engineering &amp; Research Digest (Aug 20)
+🧠 Engineering &amp; Research Digest (Aug 21)
 
 Is Cyber missing the Marque?: on our radar; we correlate it with the rest of the feed.
 Rust Supply Chain Attack on arrayref: Significant Overlap with DPRK Campaigns: we trace this against our dependency inventory.

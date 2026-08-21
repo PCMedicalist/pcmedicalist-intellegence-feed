@@ -1,4 +1,4 @@
-🧠 Engineering & Research Digest (Aug 20)
+🧠 Engineering & Research Digest (Aug 21)
 
 Is Cyber missing the Marque?: on our radar; we correlate it with the rest of the feed.
 Rust Supply Chain Attack on arrayref: Significant Overlap with DPRK Campaigns: we trace this against our dependency inventory.
