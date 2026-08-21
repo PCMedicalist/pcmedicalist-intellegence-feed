@@ -4,8 +4,38 @@
     <title>PCMedicalist Intelligence Feed</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Daily security intelligence digests — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Thu, 20 Aug 2026 11:14:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 03:02:11 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Digest 2026-08-21</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/08/2026-08-21/posts.json</link>
+      <guid isPermaLink="false">2026-08-21</guid>
+      <pubDate>Fri, 21 Aug 2026 03:02:11 GMT</pubDate>
+      <description>🔐 Daily Security &amp; Standards Brief (Aug 20)
+
+CVE-2026-72530 — TrueConf Server Code: patch TrueConf Server Code and verify the fix held.
+CVE-2026-72529 — TrueConf Server: enforce auth on the exposed function in TrueConf Server.
+  ↳ Patch all TrueConf Server instances immediately with the latest security update to mitigate missing authentication for critical functions
+CVE-2026-64849 — MLflow Server-Side Request Forgery: patch MLflow Server-Side Request Forgery and verify the fix held.
+CVE-2026-33824 — Microsoft Internet Key Exchange (IKE) Service Extensions Double Free: patch Microsoft Internet Key Exchange (IKE) Service Extensions Double Free and verify the fix held.
+CVE-2026-59310 — Broadcom VMware vCenter: validate paths and patch Broadcom VMware vCenter.
+
+That standard is what Blue-Team discipline is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+
+🧠 Engineering &amp; Research Digest (Aug 20)
+
+Is Cyber missing the Marque?: on our radar; we correlate it with the rest of the feed.
+Rust Supply Chain Attack on arrayref: Significant Overlap with DPRK Campaigns: we trace this against our dependency inventory.
+Frequently asked questions about the active threat to Siemens S7 Series PLCs: on our radar; we correlate it with the rest of the feed.
+UAT-10147 deploys SPECTRE: A cross-platform implant with Linux rootkit and BYOVD: we file this against the daily watch — relevant if it's in your stack.
+UAT-10147: Chinese-speaking adversary integrates agentic AI into post-compromise: we weigh this against how agents actually fail in prod.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel</description>
+    </item>
     <item>
       <title>Digest 2026-08-20</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/08/2026-08-20/posts.json</link>
