@@ -5,19 +5,21 @@
 
 - **Date:** 2026-08-22
 - **Feeds ingested:** 38
-- **Items raw → deduped:** 3701 → 3638
+- **Items raw → deduped:** 3702 → 3640
 - **Full digest:** `digests/2026/08/2026-08-22/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
-🔐 Daily Security & Standards Brief (Aug 21)
+🔐 Daily Security & Standards Brief (Aug 22)
 
 CVE-2026-73570 — Zimbra Collaboration Suite (ZCS): sanitize inputs and patch Zimbra Collaboration Suite (ZCS).
 CVE-2026-72530 — TrueConf Server Code: patch TrueConf Server Code and verify the fix held.
 CVE-2026-72529 — TrueConf Server: enforce auth on the exposed function in TrueConf Server.
+  ↳ Update TrueConf Server to the patched version immediately to remediate CVE-2026-72529 and block unauthorized critical function access
 CVE-2026-64849 — MLflow Server-Side Request Forgery: patch MLflow Server-Side Request Forgery and verify the fix held.
 CVE-2026-33824 — Microsoft Internet Key Exchange (IKE) Service Extensions Double Free: patch Microsoft Internet Key Exchange (IKE) Service Extensions Double Free and verify the fix held.
+  ↳ Apply the vendor-provided security patch for the Microsoft Internet Key Exchange service extensions immediately to remediate CVE-2026-33824
 
 That standard is what Blue-Team discipline is built on.
 
@@ -27,7 +29,7 @@ via PCMedicalist · pcmedicalist.com/intel
 ## Post B — CS / News / Vendor / Dev / Community
 
 ```
-🧠 Engineering & Research Digest (Aug 21)
+🧠 Engineering & Research Digest (Aug 22)
 
 Connecting the Dots: Securing the Overlooked Corners of the Software Development: we trace this against our dependency inventory.
 Is Cyber missing the Marque?: on our radar; we correlate it with the rest of the feed.

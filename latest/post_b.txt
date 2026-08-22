@@ -1,4 +1,4 @@
-🧠 Engineering & Research Digest (Aug 21)
+🧠 Engineering & Research Digest (Aug 22)
 
 Connecting the Dots: Securing the Overlooked Corners of the Software Development: we trace this against our dependency inventory.
 Is Cyber missing the Marque?: on our radar; we correlate it with the rest of the feed.

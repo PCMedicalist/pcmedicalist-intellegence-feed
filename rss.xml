@@ -4,26 +4,28 @@
     <title>PCMedicalist Intelligence Feed</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Daily security intelligence digests — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Sat, 22 Aug 2026 01:24:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 11:16:40 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
     <item>
       <title>Digest 2026-08-22</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/08/2026-08-22/posts.json</link>
       <guid isPermaLink="false">2026-08-22</guid>
-      <pubDate>Sat, 22 Aug 2026 01:24:37 GMT</pubDate>
-      <description>🔐 Daily Security &amp; Standards Brief (Aug 21)
+      <pubDate>Sat, 22 Aug 2026 11:16:40 GMT</pubDate>
+      <description>🔐 Daily Security &amp; Standards Brief (Aug 22)
 
 CVE-2026-73570 — Zimbra Collaboration Suite (ZCS): sanitize inputs and patch Zimbra Collaboration Suite (ZCS).
 CVE-2026-72530 — TrueConf Server Code: patch TrueConf Server Code and verify the fix held.
 CVE-2026-72529 — TrueConf Server: enforce auth on the exposed function in TrueConf Server.
+  ↳ Update TrueConf Server to the patched version immediately to remediate CVE-2026-72529 and block unauthorized critical function access
 CVE-2026-64849 — MLflow Server-Side Request Forgery: patch MLflow Server-Side Request Forgery and verify the fix held.
 CVE-2026-33824 — Microsoft Internet Key Exchange (IKE) Service Extensions Double Free: patch Microsoft Internet Key Exchange (IKE) Service Extensions Double Free and verify the fix held.
+  ↳ Apply the vendor-provided security patch for the Microsoft Internet Key Exchange service extensions immediately to remediate CVE-2026-33824
 
 That standard is what Blue-Team discipline is built on.
 
 via PCMedicalist · pcmedicalist.com/intel
 
-🧠 Engineering &amp; Research Digest (Aug 21)
+🧠 Engineering &amp; Research Digest (Aug 22)
 
 Connecting the Dots: Securing the Overlooked Corners of the Software Development: we trace this against our dependency inventory.
 Is Cyber missing the Marque?: on our radar; we correlate it with the rest of the feed.
