@@ -1,0 +1,14 @@
+🧠 Engineering & Research Digest (Aug 22)
+
+Connecting the Dots: Securing the Overlooked Corners of the Software Development: we trace this against our dependency inventory.
+Is Cyber missing the Marque?: on our radar; we correlate it with the rest of the feed.
+Rust Supply Chain Attack on arrayref: Significant Overlap with DPRK Campaigns: we trace this against our dependency inventory.
+Frequently asked questions about the active threat to Siemens S7 Series PLCs: on our radar; we correlate it with the rest of the feed.
+UAT-10147 deploys SPECTRE: A cross-platform implant with Linux rootkit and BYOVD: we file this against the daily watch — relevant if it's in your stack.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+Read the full briefing at app.pcmedicalist.com/intel 👇
+
+#CyberSecurity #InfoSec #CompSci

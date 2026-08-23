@@ -1,12 +1,12 @@
-# Latest Digest — 2026-08-22
+# Latest Digest — 2026-08-23
 
 > Rolling snapshot of the most recent PCMedicalist Intelligence Feed digest.
 > Source of truth lives in `digests/`. This file is regenerated every run.
 
-- **Date:** 2026-08-22
+- **Date:** 2026-08-23
 - **Feeds ingested:** 38
 - **Items raw → deduped:** 3702 → 3640
-- **Full digest:** `digests/2026/08/2026-08-22/`
+- **Full digest:** `digests/2026/08/2026-08-23/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
@@ -15,11 +15,11 @@
 
 CVE-2026-73570 — Zimbra Collaboration Suite (ZCS): sanitize inputs and patch Zimbra Collaboration Suite (ZCS).
 CVE-2026-72530 — TrueConf Server Code: patch TrueConf Server Code and verify the fix held.
+  ↳ Immediately upgrade TrueConf Server to the latest patched version to remediate CVE-2026-72530 and block remote code execution attacks
 CVE-2026-72529 — TrueConf Server: enforce auth on the exposed function in TrueConf Server.
-  ↳ Update TrueConf Server to the patched version immediately to remediate CVE-2026-72529 and block unauthorized critical function access
 CVE-2026-64849 — MLflow Server-Side Request Forgery: patch MLflow Server-Side Request Forgery and verify the fix held.
+  ↳ Upgrade MLflow to the latest patched release immediately and restrict outbound network traffic to mitigate this SSRF vulnerability
 CVE-2026-33824 — Microsoft Internet Key Exchange (IKE) Service Extensions Double Free: patch Microsoft Internet Key Exchange (IKE) Service Extensions Double Free and verify the fix held.
-  ↳ Apply the vendor-provided security patch for the Microsoft Internet Key Exchange service extensions immediately to remediate CVE-2026-33824
 
 That standard is what Blue-Team discipline is built on.
 
