@@ -1,6 +1,7 @@
-🧠 Engineering & Research Digest (Aug 22)
+🧠 Engineering & Research Digest (Aug 23)
 
 Connecting the Dots: Securing the Overlooked Corners of the Software Development: we trace this against our dependency inventory.
+  ↳ Audit third-party dependencies, enforce strict CI/CD pipeline access controls, and validate build artifacts to secure overlooked SDLC supply chain corners
 Is Cyber missing the Marque?: on our radar; we correlate it with the rest of the feed.
 Rust Supply Chain Attack on arrayref: Significant Overlap with DPRK Campaigns: we trace this against our dependency inventory.
 Frequently asked questions about the active threat to Siemens S7 Series PLCs: on our radar; we correlate it with the rest of the feed.
