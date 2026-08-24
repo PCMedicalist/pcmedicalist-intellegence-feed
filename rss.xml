@@ -4,8 +4,39 @@
     <title>PCMedicalist Intelligence Feed</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Daily security intelligence digests — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Sun, 23 Aug 2026 11:16:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 11:17:30 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Digest 2026-08-24</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/08/2026-08-24/posts.json</link>
+      <guid isPermaLink="false">2026-08-24</guid>
+      <pubDate>Mon, 24 Aug 2026 11:17:30 GMT</pubDate>
+      <description>🔐 Daily Security &amp; Standards Brief (Aug 24)
+
+CVE-2026-73570 — Zimbra Collaboration Suite (ZCS): sanitize inputs and patch Zimbra Collaboration Suite (ZCS).
+  ↳ Immediately upgrade Zimbra Collaboration Suite to the latest patched release to remediate CVE-2026-73570 OS command injection vulnerability
+CVE-2026-72530 — TrueConf Server Code: patch TrueConf Server Code and verify the fix held.
+CVE-2026-72529 — TrueConf Server: enforce auth on the exposed function in TrueConf Server.
+CVE-2026-64849 — MLflow Server-Side Request Forgery: patch MLflow Server-Side Request Forgery and verify the fix held.
+CVE-2026-33824 — Microsoft Internet Key Exchange (IKE) Service Extensions Double Free: patch Microsoft Internet Key Exchange (IKE) Service Extensions Double Free and verify the fix held.
+  ↳ Patch all Microsoft Internet Key Exchange (IKE) Service Extensions immediately with the latest cumulative update to mitigate CVE-2026-33824
+
+That standard is what Blue-Team discipline is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+
+🧠 Engineering &amp; Research Digest (Aug 24)
+
+Connecting the Dots: Securing the Overlooked Corners of the Software Development: we trace this against our dependency inventory.
+Is Cyber missing the Marque?: on our radar; we correlate it with the rest of the feed.
+Rust Supply Chain Attack on arrayref: Significant Overlap with DPRK Campaigns: we trace this against our dependency inventory.
+Frequently asked questions about the active threat to Siemens S7 Series PLCs: on our radar; we correlate it with the rest of the feed.
+UAT-10147 deploys SPECTRE: A cross-platform implant with Linux rootkit and BYOVD: we file this against the daily watch — relevant if it's in your stack.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel</description>
+    </item>
     <item>
       <title>Digest 2026-08-23</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/08/2026-08-23/posts.json</link>
