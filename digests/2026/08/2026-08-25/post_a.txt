@@ -1,11 +1,11 @@
-🔐 Daily Security & Standards Brief (Aug 24)
+🔐 Daily Security & Standards Brief (Aug 25)
 
 CVE-2026-21962 — Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in: review access controls and patch Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in.
 CVE-2026-73570 — Zimbra Collaboration Suite (ZCS): sanitize inputs and patch Zimbra Collaboration Suite (ZCS).
 CVE-2026-72530 — TrueConf Server Code: patch TrueConf Server Code and verify the fix held.
+  ↳ Immediately upgrade all TrueConf Server instances to the latest patched version and restrict external access until remediation is complete
 CVE-2026-72529 — TrueConf Server: enforce auth on the exposed function in TrueConf Server.
 CVE-2026-64849 — MLflow Server-Side Request Forgery: patch MLflow Server-Side Request Forgery and verify the fix held.
-  ↳ Upgrade the MLflow server to the patched version immediately to mitigate the Server-Side Request Forgery vulnerability CVE-2026-64849
 
 That standard is what Blue-Team discipline is built on.
 
