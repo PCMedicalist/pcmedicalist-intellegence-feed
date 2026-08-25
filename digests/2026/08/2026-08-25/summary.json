@@ -1,8 +1,8 @@
 {
   "date": "2026-08-25",
   "feeds_total": 38,
-  "items_raw": 3693,
-  "items_deduped": 3632,
+  "items_raw": 3705,
+  "items_deduped": 3644,
   "per_feed": {
     "IETF Blog": 593,
     "W3C News": 0,
@@ -17,7 +17,7 @@
     "The Hacker News": 50,
     "BleepingComputer": 15,
     "SecurityWeek": 10,
-    "SANS ISC": 0,
+    "SANS ISC": 10,
     "The Record": 5,
     "Security Affairs": 10,
     "Microsoft MSRC": 1,
@@ -27,7 +27,7 @@
     "CrowdStrike": 10,
     "Rapid7": 20,
     "Tenable": 10,
-    "Wiz Research": 674,
+    "Wiz Research": 675,
     "GitHub Blog": 10,
     "GitHub Security Lab": 10,
     "Kubernetes Blog": 50,
@@ -38,15 +38,15 @@
     "SLSA": 0,
     "OpenSSF Main": 10,
     "OpenAI Research": 1144,
-    "Hugging Face Blog": 846,
+    "Hugging Face Blog": 847,
     "Hacker News": 30,
     "Lobsters": 25,
     "r/netsec": 0
   },
-  "post_a_len": 946,
-  "post_b_len": 829,
+  "post_a_len": 951,
+  "post_b_len": 895,
   "post_a_x_len": 271,
-  "post_b_x_len": 233,
+  "post_b_x_len": 167,
   "buffer_a_x": {
     "dry_run": false,
     "success": false
