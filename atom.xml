@@ -2,9 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Intelligence Feed</title>
   <id>tag:pcmedicalist.com,2026:intel-feed</id>
-  <updated>2026-08-24T11:17:30Z</updated>
+  <updated>2026-08-25T01:14:16Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/atom.xml"/>
   <subtitle>Daily security intelligence digests — PCMedicalist Intelligence Network</subtitle>
+  <entry>
+    <title>Digest 2026-08-25</title>
+    <id>tag:pcmedicalist.com,2026:intel-feed:2026-08-25</id>
+    <updated>2026-08-25T01:14:16Z</updated>
+    <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/08/2026-08-25/posts.json"/>
+    <summary>Security intelligence digest for 2026-08-25</summary>
+    <content type="text">🔐 Daily Security &amp; Standards Brief (Aug 24)
+
+CVE-2026-21962 — Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in: review access controls and patch Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in.
+CVE-2026-73570 — Zimbra Collaboration Suite (ZCS): sanitize inputs and patch Zimbra Collaboration Suite (ZCS).
+CVE-2026-72530 — TrueConf Server Code: patch TrueConf Server Code and verify the fix held.
+CVE-2026-72529 — TrueConf Server: enforce auth on the exposed function in TrueConf Server.
+CVE-2026-64849 — MLflow Server-Side Request Forgery: patch MLflow Server-Side Request Forgery and verify the fix held.
+  ↳ Upgrade the MLflow server to the patched version immediately to mitigate the Server-Side Request Forgery vulnerability CVE-2026-64849
+
+That standard is what Blue-Team discipline is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+
+🧠 Engineering &amp; Research Digest (Aug 24)
+
+CVE-2026-63520 — Rapid7 Analysis: Microsoft SharePoint: patch Rapid7 Analysis: Microsoft SharePoint immediately — RCE exposure.
+Connecting the Dots: Securing the Overlooked Corners of the Software Development: we trace this against our dependency inventory.
+Is Cyber missing the Marque?: on our radar; we correlate it with the rest of the feed.
+Rust Supply Chain Attack on arrayref: Significant Overlap with DPRK Campaigns: we trace this against our dependency inventory.
+Frequently asked questions about the active threat to Siemens S7 Series PLCs: on our radar; we correlate it with the rest of the feed.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel</content>
+  </entry>
   <entry>
     <title>Digest 2026-08-24</title>
     <id>tag:pcmedicalist.com,2026:intel-feed:2026-08-24</id>
