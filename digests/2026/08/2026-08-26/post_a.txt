@@ -1,10 +1,9 @@
-🔐 Daily Security & Standards Brief (Aug 25)
+🔐 Daily Security & Standards Brief (Aug 26)
 
 CVE-2026-60004 — Gitea Code: patch Gitea Code and verify the fix held.
-  ↳ Upgrade Gitea instances to the latest patched version immediately to mitigate CVE-2026-60004 code injection risks
+  ↳ Immediately upgrade all Gitea instances to the latest patched version to remediate CVE-2026-60004 code injection vulnerabilities
 CVE-2026-21962 — Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in: review access controls and patch Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in.
 CVE-2026-73570 — Zimbra Collaboration Suite (ZCS): sanitize inputs and patch Zimbra Collaboration Suite (ZCS).
-  ↳ Apply the latest vendor patch for Zimbra Collaboration Suite immediately to remediate the OS command injection vulnerability CVE-2026-73570
 CVE-2026-72530 — TrueConf Server Code: patch TrueConf Server Code and verify the fix held.
 CVE-2026-72529 — TrueConf Server: enforce auth on the exposed function in TrueConf Server.
 
