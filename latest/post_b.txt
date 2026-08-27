@@ -1,10 +1,10 @@
-🧠 Engineering & Research Digest (Aug 26)
+🧠 Engineering & Research Digest (Aug 27)
 
-Democratizing FinOps with Wiz: Driving Cost Attribution with the Wiz Service Cat: part of the vendor security research signal we track daily.
+JavaScript obfuscation: From party trick to phishing kit: we tighten the mail/url filtering policy on this signal.
+Democratizing FinOps with Wiz: Driving Cost Attribution with the Wiz Service Cat: worth folding into your daily threat-watch if it touches your stack.
 The State of Cloud Risk 2026: Most Security Findings Aren’t Real Attacker Opport: we file this against the daily watch — relevant if it's in your stack.
 CVE-2023-34124 — Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter: patch Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter and verify the fix held.
 Choose your fighter: Balancing competing requirements to select models for your : we weigh this against how agents actually fail in prod.
-The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Executi: we weigh this against how agents actually fail in prod.
 
 That standard is what our sentinel is built on.
 

@@ -1,10 +1,11 @@
-🔐 Daily Security & Standards Brief (Aug 26)
+🔐 Daily Security & Standards Brief (Aug 27)
 
 CVE-2021-23758 — Ajax.NET Professional: patch Ajax.NET Professional and validate deserialization bounds.
 CVE-2015-3246 — Red Hat Libuser Race Condition: patch Red Hat Libuser Race Condition and verify the fix held.
 CVE-2015-5287 — Red Hat Automatic Bug Reporting Tool Privilege Escalation: patch Red Hat Automatic Bug Reporting Tool Privilege Escalation and verify the fix held.
 CVE-2022-0995 — Linux Kernel Out-of-Bounds Write: patch Linux Kernel Out-of-Bounds Write and verify the fix held.
 CVE-2026-8452 — Citrix NetScaler ADC and NetScaler Gateway: patch Citrix NetScaler ADC and NetScaler Gateway and verify the fix held.
+  ↳ Immediately apply vendor-released security patches for Citrix NetScaler ADC and Gateway to remediate CVE-2026-8452
 
 That standard is what Blue-Team discipline is built on.
 
