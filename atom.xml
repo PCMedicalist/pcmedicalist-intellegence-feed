@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Intelligence Feed</title>
   <id>tag:pcmedicalist.com,2026:intel-feed</id>
-  <updated>2026-08-27T11:19:49Z</updated>
+  <updated>2026-08-28T01:33:55Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/atom.xml"/>
   <subtitle>Daily security intelligence digests — PCMedicalist Intelligence Network</subtitle>
+  <entry>
+    <title>Digest 2026-08-28</title>
+    <id>tag:pcmedicalist.com,2026:intel-feed:2026-08-28</id>
+    <updated>2026-08-28T01:33:55Z</updated>
+    <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/08/2026-08-28/posts.json"/>
+    <summary>Security intelligence digest for 2026-08-28</summary>
+    <content type="text">🔐 Daily Security &amp; Standards Brief (Aug 27)
+
+Post-Quantum Authentication: Up Next: relevant if your stack touches the standard.
+IETF 126 post-meeting survey: what we heard: worth a read if you ship against the spec.
+CVE-2023-49105 — ownCloud: patch ownCloud and verify the fix held.
+  ↳ Immediately upgrade all affected ownCloud instances to the latest patched version released by the vendor to mitigate CVE-2023-49105
+CVE-2026-53362 — Linux Kernel Unspecified: patch Linux Kernel Unspecified and verify the fix held.
+  ↳ Immediately patch all affected Linux systems by upgrading the kernel to the latest stable version released by the vendor
+CVE-2026-66384 — JFrog Artifactory: patch JFrog Artifactory and verify the fix held.
+
+That standard is what Blue-Team discipline is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+
+🧠 Engineering &amp; Research Digest (Aug 27)
+
+“Sorry, I can’t help with that”: How your guardrails might become the attacker’s: we weigh this against how agents actually fail in prod.
+Inside 90 days of attacks on AI infrastructure: we weigh this against how agents actually fail in prod.
+From Concept to Context Engine: How Wiz Built AI-Powered Data Discovery: we weigh this against how agents actually fail in prod.
+How to build an exposure management program the business trusts: Lessons from Te: we file this against the daily watch — relevant if it's in your stack.
+Identity-as-a-Service: Uncovering Dark Web Marketplaces Trading Executive SSNs: we map this into the identity-front-door controls.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel</content>
+  </entry>
   <entry>
     <title>Digest 2026-08-27</title>
     <id>tag:pcmedicalist.com,2026:intel-feed:2026-08-27</id>
