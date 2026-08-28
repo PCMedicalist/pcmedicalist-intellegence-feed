@@ -1,12 +1,11 @@
-🔐 Daily Security & Standards Brief (Aug 27)
+🔐 Daily Security & Standards Brief (Aug 28)
 
 Post-Quantum Authentication: Up Next: relevant if your stack touches the standard.
 IETF 126 post-meeting survey: what we heard: worth a read if you ship against the spec.
 CVE-2023-49105 — ownCloud: patch ownCloud and verify the fix held.
-  ↳ Immediately upgrade all affected ownCloud instances to the latest patched version released by the vendor to mitigate CVE-2023-49105
 CVE-2026-53362 — Linux Kernel Unspecified: patch Linux Kernel Unspecified and verify the fix held.
-  ↳ Immediately patch all affected Linux systems by upgrading the kernel to the latest stable version released by the vendor
 CVE-2026-66384 — JFrog Artifactory: patch JFrog Artifactory and verify the fix held.
+  ↳ Immediately upgrade JFrog Artifactory to the patched version and restrict Docker container filesystem mounts to prevent path traversal into restricted directories
 
 That standard is what Blue-Team discipline is built on.
 
