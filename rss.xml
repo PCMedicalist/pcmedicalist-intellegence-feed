@@ -4,18 +4,19 @@
     <title>PCMedicalist Intelligence Feed</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Daily security intelligence digests — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Sun, 30 Aug 2026 01:15:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 11:14:47 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
     <item>
       <title>Digest 2026-08-30</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/08/2026-08-30/posts.json</link>
       <guid isPermaLink="false">2026-08-30</guid>
-      <pubDate>Sun, 30 Aug 2026 01:15:10 GMT</pubDate>
-      <description>🔐 Daily Security &amp; Standards Brief (Aug 29)
+      <pubDate>Sun, 30 Aug 2026 11:14:47 GMT</pubDate>
+      <description>🔐 Daily Security &amp; Standards Brief (Aug 30)
 
 IETF email infrastructure transition planned for 11 September: we weigh this against how agents actually fail in prod.
 Post-Quantum Authentication: Up Next: relevant if your stack touches the standard.
 IETF 126 post-meeting survey: what we heard: worth a read if you ship against the spec.
+  ↳ Review the IETF 126 survey findings to identify emerging protocol changes requiring infrastructure assessment and configuration updates
 CVE-2023-49105 — ownCloud: patch ownCloud and verify the fix held.
 CVE-2026-53362 — Linux Kernel Unspecified: patch Linux Kernel Unspecified and verify the fix held.
 
@@ -23,7 +24,7 @@ That standard is what Blue-Team discipline is built on.
 
 via PCMedicalist · pcmedicalist.com/intel
 
-🧠 Engineering &amp; Research Digest (Aug 29)
+🧠 Engineering &amp; Research Digest (Aug 30)
 
 Perturbation Probing: A New Diagnostic for the Fragility of LLM Safety: on our radar; correlate it with the rest of your feed.
 Metasploit Wrap Up: Payloads and Exploits, and Scanners, Oh my!: patch Metasploit Wrap Up: Payloads and Exploits, and Scanners, Oh my! and verify the fix held.

@@ -1,4 +1,4 @@
-🧠 Engineering & Research Digest (Aug 29)
+🧠 Engineering & Research Digest (Aug 30)
 
 Perturbation Probing: A New Diagnostic for the Fragility of LLM Safety: on our radar; correlate it with the rest of your feed.
 Metasploit Wrap Up: Payloads and Exploits, and Scanners, Oh my!: patch Metasploit Wrap Up: Payloads and Exploits, and Scanners, Oh my! and verify the fix held.
