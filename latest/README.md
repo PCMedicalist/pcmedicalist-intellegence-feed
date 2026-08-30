@@ -1,12 +1,12 @@
-# Latest Digest — 2026-08-29
+# Latest Digest — 2026-08-30
 
 > Rolling snapshot of the most recent PCMedicalist Intelligence Feed digest.
 > Source of truth lives in `digests/`. This file is regenerated every run.
 
-- **Date:** 2026-08-29
+- **Date:** 2026-08-30
 - **Feeds ingested:** 38
 - **Items raw → deduped:** 3729 → 3664
-- **Full digest:** `digests/2026/08/2026-08-29/`
+- **Full digest:** `digests/2026/08/2026-08-30/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
@@ -18,7 +18,6 @@ Post-Quantum Authentication: Up Next: relevant if your stack touches the standar
 IETF 126 post-meeting survey: what we heard: worth a read if you ship against the spec.
 CVE-2023-49105 — ownCloud: patch ownCloud and verify the fix held.
 CVE-2026-53362 — Linux Kernel Unspecified: patch Linux Kernel Unspecified and verify the fix held.
-  ↳ Immediately upgrade all Linux systems to the latest kernel version and apply vendor security patches to remediate CVE-2026-53362
 
 That standard is what Blue-Team discipline is built on.
 
