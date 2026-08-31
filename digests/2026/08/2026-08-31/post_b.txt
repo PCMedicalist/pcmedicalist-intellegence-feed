@@ -1,0 +1,14 @@
+🧠 Engineering & Research Digest (Aug 30)
+
+Perturbation Probing: A New Diagnostic for the Fragility of LLM Safety: on our radar; correlate it with the rest of your feed.
+Metasploit Wrap Up: Payloads and Exploits, and Scanners, Oh my!: patch Metasploit Wrap Up: Payloads and Exploits, and Scanners, Oh my! and verify the fix held.
+Why a cryptographic inventory is key for addressing the quantum computing threat: we file this against the daily watch — relevant if it's in your stack.
+CVE-2023-27350 — PaperCut NG/MF Critical Zero-Day Exploited in the Wild: patch PaperCut NG/MF Critical Zero-Day Exploited in the Wild and verify the fix held.
+“Sorry, I can’t help with that”: How your guardrails might become the attacker’s: we weigh this against how agents actually fail in prod.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+Read the full briefing at app.pcmedicalist.com/intel 👇
+
+#CyberSecurity #InfoSec #CompSci
