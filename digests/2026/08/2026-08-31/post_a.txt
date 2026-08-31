@@ -1,11 +1,11 @@
-🔐 Daily Security & Standards Brief (Aug 30)
+🔐 Daily Security & Standards Brief (Aug 31)
 
 IETF email infrastructure transition planned for 11 September: we weigh this against how agents actually fail in prod.
 Post-Quantum Authentication: Up Next: relevant if your stack touches the standard.
 IETF 126 post-meeting survey: what we heard: worth a read if you ship against the spec.
 CVE-2023-49105 — ownCloud: patch ownCloud and verify the fix held.
 CVE-2026-53362 — Linux Kernel Unspecified: patch Linux Kernel Unspecified and verify the fix held.
-  ↳ Immediately apply vendor-supplied Linux kernel patches to remediate CVE-2026-53362 on all affected systems
+  ↳ Apply the latest vendor-provided Linux kernel patches immediately to mitigate exploitation of CVE-2026-53362
 
 That standard is what Blue-Team discipline is built on.
 
