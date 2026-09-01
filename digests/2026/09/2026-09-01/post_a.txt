@@ -1,7 +1,9 @@
-🔐 Daily Security & Standards Brief (Aug 31)
+🔐 Daily Security & Standards Brief (Sep 01)
 
 CVE-2026-81578 — PaperCut NG/MF Unsafe Reflection: patch PaperCut NG/MF Unsafe Reflection and verify the fix held.
+  ↳ Upgrade PaperCut NG/MF to the latest patched version immediately to mitigate the unsafe reflection vulnerability and block remote code execution
 CVE-2026-81578 — PaperCut NG/MF: enforce auth on the exposed function in PaperCut NG/MF.
+  ↳ Immediately apply the vendor-provided patch for PaperCut NG/MF to remediate CVE-2026-81578 and prevent unauthenticated access to critical functions
 IETF email infrastructure transition planned for 11 September: we weigh this against how agents actually fail in prod.
 Post-Quantum Authentication: Up Next: relevant if your stack touches the standard.
 IETF 126 post-meeting survey: what we heard: worth a read if you ship against the spec.

@@ -1,13 +1,11 @@
-🧠 Engineering & Research Digest (Aug 31)
+🧠 Engineering & Research Digest (Sep 01)
 
+Introducing Continuous Vulnerability Assessment: Real-Time Defense for the AI Th: patch Introducing Continuous and verify the fix held.
+  ↳ Implement continuous vulnerability assessment workflows to detect and neutralize AI-driven threats before they compromise critical systems
 Spring Ring: An Inside Look at Voice Phishing Campaigns in Microsoft Teams: we weigh this against how agents actually fail in prod.
 Agents of Chaos: A New $100K Agentic Security Challenge: worth folding into your daily threat-watch if it touches your stack.
-  ↳ Audit autonomous agent permissions, enforce least privilege access, and enable continuous monitoring to mitigate risks from emerging agentic security threats
 Perturbation Probing: A New Diagnostic for the Fragility of LLM Safety: on our radar; correlate it with the rest of your feed.
-  ↳ Integrate perturbation probing into LLM evaluation workflows to detect safety fragility before deployment and production use
 Metasploit Wrap Up: Payloads and Exploits, and Scanners, Oh my!: patch Metasploit Wrap Up: Payloads and Exploits, and Scanners, Oh my! and verify the fix held.
-  ↳ Update firewall and EDR rules to block Metasploit payloads, exploits, and scanner traffic while patching identified vulnerabilities in critical systems
-Why a cryptographic inventory is key for addressing the quantum computing threat: we file this against the daily watch — relevant if it's in your stack.
 
 That standard is what our sentinel is built on.
 
