@@ -1,10 +1,11 @@
-🧠 Engineering & Research Digest (Sep 01)
+🧠 Engineering & Research Digest (Sep 02)
 
+An AI-Assisted Cyber Attack: Inside a Unit 42 Investigation: we weigh this against how agents actually fail in prod.
 Introducing Continuous Vulnerability Assessment: Real-Time Defense for the AI Th: patch Introducing Continuous and verify the fix held.
 CrowdStrike Falcon Guardian Defines the Next Generation of AI Security: we weigh this against how agents actually fail in prod.
 Peer Pressure: Inside the Sality Botnet Disruption Operation: we file this against the daily watch — relevant if it's in your stack.
+  ↳ Update endpoint protection signatures and patch systems against known Sality vulnerabilities to mitigate botnet infection risks
 Spring Ring: An Inside Look at Voice Phishing Campaigns in Microsoft Teams: we weigh this against how agents actually fail in prod.
-Agents of Chaos: A New $100K Agentic Security Challenge: worth folding into your daily threat-watch if it touches your stack.
 
 That standard is what our sentinel is built on.
 

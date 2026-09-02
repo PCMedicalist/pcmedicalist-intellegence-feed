@@ -1,14 +1,12 @@
-🔐 Daily Security & Standards Brief (Sep 01)
+🔐 Daily Security & Standards Brief (Sep 02)
 
 IETF 126 Highlights: worth a read if you ship against the spec.
-  ↳ Review IETF 126 highlights for protocol deprecations and update network configurations to maintain security compliance
 CVE-2026-81578 — PaperCut NG/MF Unsafe Reflection: patch PaperCut NG/MF Unsafe Reflection and verify the fix held.
-  ↳ Upgrade PaperCut NG/MF to the latest patched version immediately to mitigate CVE-2026-82078 unsafe reflection vulnerability
+  ↳ Upgrade PaperCut NG/MF immediately to the patched version that mitigates CVE-2026-82078 and CVE-2026-81578
 CVE-2026-81578 — PaperCut NG/MF: enforce auth on the exposed function in PaperCut NG/MF.
-  ↳ Immediately update PaperCut NG/MF to the latest patched version to remediate missing authentication on critical functions
+  ↳ Upgrade all PaperCut NG/MF instances to the latest patched version immediately to prevent unauthorized access to critical functions via this vulnerability
 IETF email infrastructure transition planned for 11 September: we weigh this against how agents actually fail in prod.
 Post-Quantum Authentication: Up Next: relevant if your stack touches the standard.
-  ↳ Audit authentication protocols for quantum vulnerability and initiate migration to NIST-standardized post-quantum cryptographic standards immediately
 
 That standard is what Blue-Team discipline is built on.
 
