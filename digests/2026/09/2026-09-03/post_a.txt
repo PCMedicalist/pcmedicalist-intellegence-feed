@@ -1,6 +1,7 @@
-🔐 Daily Security & Standards Brief (Sep 02)
+🔐 Daily Security & Standards Brief (Sep 03)
 
 CVE-2026-59822 — BerriAI LiteLLM: patch BerriAI LiteLLM and verify the fix held.
+  ↳ Immediately upgrade BerriAI LiteLLM to the patched version and enforce strict authentication controls on all exposed API endpoints
 CVE-2026-42271 — Kludex Starlette HTTP Request/Response Smuggling: patch Kludex Starlette HTTP Request/Response Smuggling and verify the fix held.
 CVE-2026-49869 — Kestra OSS: sanitize inputs and patch Kestra OSS.
 CVE-2026-82329 — JFrog Artifactory: patch JFrog Artifactory and verify the fix held.

@@ -5,15 +5,16 @@
 
 - **Date:** 2026-09-03
 - **Feeds ingested:** 38
-- **Items raw → deduped:** 3740 → 3677
+- **Items raw → deduped:** 3742 → 3680
 - **Full digest:** `digests/2026/09/2026-09-03/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
-🔐 Daily Security & Standards Brief (Sep 02)
+🔐 Daily Security & Standards Brief (Sep 03)
 
 CVE-2026-59822 — BerriAI LiteLLM: patch BerriAI LiteLLM and verify the fix held.
+  ↳ Immediately upgrade BerriAI LiteLLM to the patched version and enforce strict authentication controls on all exposed API endpoints
 CVE-2026-42271 — Kludex Starlette HTTP Request/Response Smuggling: patch Kludex Starlette HTTP Request/Response Smuggling and verify the fix held.
 CVE-2026-49869 — Kestra OSS: sanitize inputs and patch Kestra OSS.
 CVE-2026-82329 — JFrog Artifactory: patch JFrog Artifactory and verify the fix held.
@@ -27,13 +28,13 @@ via PCMedicalist · pcmedicalist.com/intel
 ## Post B — CS / News / Vendor / Dev / Community
 
 ```
-🧠 Engineering & Research Digest (Sep 02)
+🧠 Engineering & Research Digest (Sep 03)
 
+Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America: we weigh this against how agents actually fail in prod.
+How Developers Prevent Production Risk at the Source: patch How Developers Prevent Production Risk at the Source and verify the fix held.
 CVE-2026-83548 — Critical SonicWall SMA1000 Vulnerabilities CVE-2026-83548, CVE-2026-83549 Exploited in the Wild: patch Critical SonicWall SMA1000 Vulnerabilities CVE-2026-83548, CVE-2026-83549 Exploited in the Wild and verify the fix held.
 An AI-Assisted Cyber Attack: Inside a Unit 42 Investigation: we weigh this against how agents actually fail in prod.
 CrowdStrike Extends Endpoint Security to Stop Software Supply Chain Attacks: we trace this against our dependency inventory.
-CrowdStrike Delivers the Next Evolution of the Agentic SOC: we map this into the SOC runbook we operate.
-CrowdStrike Announces Agentic Identity Provider: we map this into the identity-front-door controls.
 
 That standard is what our sentinel is built on.
 
