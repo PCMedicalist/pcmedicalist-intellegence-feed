@@ -1,4 +1,4 @@
-🧠 Engineering & Research Digest (Sep 03)
+🧠 Engineering & Research Digest (Sep 04)
 
 The story behind the intelligence: on our radar; correlate it with the rest of your feed.
 Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America: we weigh this against how agents actually fail in prod.

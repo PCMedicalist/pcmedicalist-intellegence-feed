@@ -2,16 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Intelligence Feed</title>
   <id>tag:pcmedicalist.com,2026:intel-feed</id>
-  <updated>2026-09-04T01:33:25Z</updated>
+  <updated>2026-09-04T11:13:06Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/atom.xml"/>
   <subtitle>Daily security intelligence digests — PCMedicalist Intelligence Network</subtitle>
   <entry>
     <title>Digest 2026-09-04</title>
     <id>tag:pcmedicalist.com,2026:intel-feed:2026-09-04</id>
-    <updated>2026-09-04T01:33:25Z</updated>
+    <updated>2026-09-04T11:13:06Z</updated>
     <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/09/2026-09-04/posts.json"/>
     <summary>Security intelligence digest for 2026-09-04</summary>
-    <content type="text">🔐 Daily Security &amp; Standards Brief (Sep 03)
+    <content type="text">🔐 Daily Security &amp; Standards Brief (Sep 04)
 
 CVE-2026-59822 — BerriAI LiteLLM: patch BerriAI LiteLLM and verify the fix held.
 CVE-2026-42271 — Kludex Starlette HTTP Request/Response Smuggling: patch Kludex Starlette HTTP Request/Response Smuggling and verify the fix held.
@@ -23,7 +23,7 @@ That standard is what Blue-Team discipline is built on.
 
 via PCMedicalist · pcmedicalist.com/intel
 
-🧠 Engineering &amp; Research Digest (Sep 03)
+🧠 Engineering &amp; Research Digest (Sep 04)
 
 The story behind the intelligence: on our radar; correlate it with the rest of your feed.
 Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America: we weigh this against how agents actually fail in prod.

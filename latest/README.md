@@ -5,13 +5,13 @@
 
 - **Date:** 2026-09-04
 - **Feeds ingested:** 38
-- **Items raw → deduped:** 3742 → 3680
+- **Items raw → deduped:** 3752 → 3689
 - **Full digest:** `digests/2026/09/2026-09-04/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
-🔐 Daily Security & Standards Brief (Sep 03)
+🔐 Daily Security & Standards Brief (Sep 04)
 
 CVE-2026-59822 — BerriAI LiteLLM: patch BerriAI LiteLLM and verify the fix held.
 CVE-2026-42271 — Kludex Starlette HTTP Request/Response Smuggling: patch Kludex Starlette HTTP Request/Response Smuggling and verify the fix held.
@@ -27,7 +27,7 @@ via PCMedicalist · pcmedicalist.com/intel
 ## Post B — CS / News / Vendor / Dev / Community
 
 ```
-🧠 Engineering & Research Digest (Sep 03)
+🧠 Engineering & Research Digest (Sep 04)
 
 The story behind the intelligence: on our radar; correlate it with the rest of your feed.
 Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America: we weigh this against how agents actually fail in prod.

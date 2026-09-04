@@ -1,4 +1,4 @@
-🔐 Daily Security & Standards Brief (Sep 03)
+🔐 Daily Security & Standards Brief (Sep 04)
 
 CVE-2026-59822 — BerriAI LiteLLM: patch BerriAI LiteLLM and verify the fix held.
 CVE-2026-42271 — Kludex Starlette HTTP Request/Response Smuggling: patch Kludex Starlette HTTP Request/Response Smuggling and verify the fix held.
