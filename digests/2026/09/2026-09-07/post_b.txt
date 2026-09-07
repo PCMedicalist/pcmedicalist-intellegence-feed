@@ -1,4 +1,4 @@
-🧠 Engineering & Research Digest (Sep 06)
+🧠 Engineering & Research Digest (Sep 07)
 
 DPRK APTs: Ted backdoor and curlRAT target South Korean media and automotive sec: we file this against the daily watch — relevant if it's in your stack.
 The story behind the intelligence: on our radar; correlate it with the rest of your feed.
