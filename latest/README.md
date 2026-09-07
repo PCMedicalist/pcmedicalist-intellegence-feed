@@ -1,12 +1,12 @@
-# Latest Digest — 2026-09-06
+# Latest Digest — 2026-09-07
 
 > Rolling snapshot of the most recent PCMedicalist Intelligence Feed digest.
 > Source of truth lives in `digests/`. This file is regenerated every run.
 
-- **Date:** 2026-09-06
+- **Date:** 2026-09-07
 - **Feeds ingested:** 38
 - **Items raw → deduped:** 3752 → 3689
-- **Full digest:** `digests/2026/09/2026-09-06/`
+- **Full digest:** `digests/2026/09/2026-09-07/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
