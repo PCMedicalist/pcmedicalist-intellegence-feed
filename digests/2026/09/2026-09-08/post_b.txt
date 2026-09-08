@@ -1,0 +1,14 @@
+🧠 Engineering & Research Digest (Sep 07)
+
+DPRK APTs: Ted backdoor and curlRAT target South Korean media and automotive sec: we file this against the daily watch — relevant if it's in your stack.
+The story behind the intelligence: on our radar; correlate it with the rest of your feed.
+Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America: we weigh this against how agents actually fail in prod.
+How Developers Prevent Production Risk at the Source: patch How Developers Prevent Production Risk at the Source and verify the fix held.
+CVE-2026-83548 — Critical SonicWall SMA1000 Vulnerabilities CVE-2026-83548, CVE-2026-83549 Exploited in the Wild: patch Critical SonicWall SMA1000 Vulnerabilities CVE-2026-83548, CVE-2026-83549 Exploited in the Wild and verify the fix held.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+Read the full briefing at app.pcmedicalist.com/intel 👇
+
+#CyberSecurity #InfoSec #CompSci

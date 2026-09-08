@@ -1,12 +1,12 @@
-# Latest Digest — 2026-09-07
+# Latest Digest — 2026-09-08
 
 > Rolling snapshot of the most recent PCMedicalist Intelligence Feed digest.
 > Source of truth lives in `digests/`. This file is regenerated every run.
 
-- **Date:** 2026-09-07
+- **Date:** 2026-09-08
 - **Feeds ingested:** 39
 - **Items raw → deduped:** 3806 → 3741
-- **Full digest:** `digests/2026/09/2026-09-07/`
+- **Full digest:** `digests/2026/09/2026-09-08/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
@@ -14,11 +14,11 @@
 🔐 Daily Security & Standards Brief (Sep 07)
 
 CVE-2026-85046 — Google Chromium V8 Type Confusion: patch Google Chromium V8 Type Confusion and verify the fix held.
-  ↳ Upgrade all Google Chromium installations immediately to the latest patched version mitigating CVE-2026-85046 type confusion risks
 CVE-2026-59822 — BerriAI LiteLLM: patch BerriAI LiteLLM and verify the fix held.
 CVE-2026-42271 — Kludex Starlette HTTP Request/Response Smuggling: patch Kludex Starlette HTTP Request/Response Smuggling and verify the fix held.
+  ↳ Upgrade Kludex Starlette immediately to the latest patched version resolving CVE-2026-48710 and CVE-2026-42271 HTTP request smuggling vulnerabilities
 CVE-2026-49869 — Kestra OSS: sanitize inputs and patch Kestra OSS.
-  ↳ Immediately upgrade Kestra OSS to the latest patched release mitigating CVE-2026-49869 OS Command Injection
+  ↳ Immediately upgrade all Kestra OSS instances to the latest patched release to remediate CVE-2026-49869 OS Command Injection vulnerability
 CVE-2026-82329 — JFrog Artifactory: patch JFrog Artifactory and verify the fix held.
 
 That standard is what Blue-Team discipline is built on.
