@@ -1,10 +1,11 @@
-🧠 Engineering & Research Digest (Sep 08)
+🧠 Engineering & Research Digest (Sep 09)
 
+Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure: on our radar; correlate it with the rest of your feed.
 Microsoft Patch Tuesday for September 2026 — Snort rules and prominent vulnerabi: we validate the fix against our change-control gate.
 CVE-2025-70873 — September 2026: patch September 2026 and verify the fix held.
+  ↳ Immediately apply the vendor-provided security update for CVE-2025-70873 on all systems handling DNS and HTTP traffic
 CVE-2023-21674 — Microsoft’s September 2026 Patch Tuesday addresses 964 CVEs (CVE-2026-81963, CVE-2026-85880): patch Microsoft’s September 2026 Patch Tuesday addresses 964 CVEs (CVE-2026-81963, CVE-2026-85880) and verify the fix held.
 Claude Mythos 5 is coming to Tenable One, powering the new “Adversary View”: on our radar; correlate it with the rest of your feed.
-CVE-2022-24086 — StyleSmuggler (CVE-2026-75650): Frequently asked questions about Adobe Commerce and Magento zero-day: patch StyleSmuggler (CVE-2026-75650): Frequently asked questions about Adobe Commerce and Magento zero-day and verify the fix held.
 
 That standard is what our sentinel is built on.
 
