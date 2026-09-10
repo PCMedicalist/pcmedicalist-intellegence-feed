@@ -1,25 +1,24 @@
-# Latest Digest — 2026-09-09
+# Latest Digest — 2026-09-10
 
 > Rolling snapshot of the most recent PCMedicalist Intelligence Feed digest.
 > Source of truth lives in `digests/`. This file is regenerated every run.
 
-- **Date:** 2026-09-09
+- **Date:** 2026-09-10
 - **Feeds ingested:** 39
 - **Items raw → deduped:** 3814 → 3753
-- **Full digest:** `digests/2026/09/2026-09-09/`
+- **Full digest:** `digests/2026/09/2026-09-10/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
 🔐 Daily Security & Standards Brief (Sep 09)
 
+CVE-2026-19490 — Citrix NetScaler Authentication: patch Citrix NetScaler Authentication and verify the fix held.
+CVE-2025-25249 — Fortinet Multiple Products Heap-based Buffer Overflow: patch Fortinet Multiple Products Heap-based Buffer Overflow and verify the fix held.
+CVE-2026-87491 — Google Chromium V8 Out of Bounds Write: patch Google Chromium V8 Out of Bounds Write and verify the fix held.
+CVE-2026-20079 — Cisco Firewall Management Center Authentication: patch Cisco Firewall Management Center Authentication and verify the fix held.
 CVE-2026-75650 — Adobe Commerce and Magento: patch Adobe Commerce and Magento and verify the fix held.
-  ↳ Upgrade Adobe Commerce and Magento installations to the latest patched version to remediate the template engine injection vulnerability
-CVE-2026-81963 — Microsoft Windows Link Following: patch Microsoft Windows Link Following and verify the fix held.
-CVE-2026-86218 — N-able N-central Static Code: patch N-able N-central Static Code and verify the fix held.
-CVE-2026-85880 — Microsoft Windows Heap-Based Buffer Overflow: patch Microsoft Windows Heap-Based Buffer Overflow and verify the fix held.
-  ↳ Immediately apply Microsoft security updates for Windows to remediate the heap-based buffer overflow vulnerability in CVE-2026-85880
-CVE-2026-85046 — Google Chromium V8 Type Confusion: patch Google Chromium V8 Type Confusion and verify the fix held.
+  ↳ Immediately upgrade Adobe Commerce and Magento instances to the latest patched release to remediate this template engine injection flaw
 
 That standard is what Blue-Team discipline is built on.
 
@@ -31,12 +30,12 @@ via PCMedicalist · pcmedicalist.com/intel
 ```
 🧠 Engineering & Research Digest (Sep 09)
 
+Active exploitation of Cisco Secure Firewall Management Center vulnerabilities: patch Active exploitation of Cisco Secure Firewall Management Center vulnerabilities and verify the fix held.
+Off Guard: Breaking LiteLLM from authentication bypass to cloud compromise: on our radar; correlate it with the rest of your feed.
+Credentialed Pre-Port Discovery: Don't Probe the Host, Ask it: we file this against the daily watch — relevant if it's in your stack.
+Introducing the CyberAgents Exchange AI Inspector: Rigorous review for community: we weigh this against how agents actually fail in prod.
+  ↳ Integrate the CyberAgents Exchange AI Inspector into your workflow to rigorously review and validate community-built LLMs before deployment
 Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure: on our radar; correlate it with the rest of your feed.
-Microsoft Patch Tuesday for September 2026 — Snort rules and prominent vulnerabi: we validate the fix against our change-control gate.
-CVE-2025-70873 — September 2026: patch September 2026 and verify the fix held.
-  ↳ Immediately apply the vendor-provided security update for CVE-2025-70873 on all systems handling DNS and HTTP traffic
-CVE-2023-21674 — Microsoft’s September 2026 Patch Tuesday addresses 964 CVEs (CVE-2026-81963, CVE-2026-85880): patch Microsoft’s September 2026 Patch Tuesday addresses 964 CVEs (CVE-2026-81963, CVE-2026-85880) and verify the fix held.
-Claude Mythos 5 is coming to Tenable One, powering the new “Adversary View”: on our radar; correlate it with the rest of your feed.
 
 That standard is what our sentinel is built on.
 
