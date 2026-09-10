@@ -1,11 +1,10 @@
-🔐 Daily Security & Standards Brief (Sep 09)
+🔐 Daily Security & Standards Brief (Sep 10)
 
 CVE-2026-19490 — Citrix NetScaler Authentication: patch Citrix NetScaler Authentication and verify the fix held.
 CVE-2025-25249 — Fortinet Multiple Products Heap-based Buffer Overflow: patch Fortinet Multiple Products Heap-based Buffer Overflow and verify the fix held.
 CVE-2026-87491 — Google Chromium V8 Out of Bounds Write: patch Google Chromium V8 Out of Bounds Write and verify the fix held.
 CVE-2026-20079 — Cisco Firewall Management Center Authentication: patch Cisco Firewall Management Center Authentication and verify the fix held.
 CVE-2026-75650 — Adobe Commerce and Magento: patch Adobe Commerce and Magento and verify the fix held.
-  ↳ Immediately upgrade Adobe Commerce and Magento instances to the latest patched release to remediate this template engine injection flaw
 
 That standard is what Blue-Team discipline is built on.
 

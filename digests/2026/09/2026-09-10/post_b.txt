@@ -1,11 +1,10 @@
-🧠 Engineering & Research Digest (Sep 09)
+🧠 Engineering & Research Digest (Sep 10)
 
+The Machine With Many Faces: Post-Exploitation Identity Misuse in SPIFFE/SPIRE: patch The Machine With Many Faces: Post-Exploitation Identity Misuse in SPIFFE/SPIRE and verify the fix held.
 Active exploitation of Cisco Secure Firewall Management Center vulnerabilities: patch Active exploitation of Cisco Secure Firewall Management Center vulnerabilities and verify the fix held.
 Off Guard: Breaking LiteLLM from authentication bypass to cloud compromise: on our radar; correlate it with the rest of your feed.
 Credentialed Pre-Port Discovery: Don't Probe the Host, Ask it: we file this against the daily watch — relevant if it's in your stack.
 Introducing the CyberAgents Exchange AI Inspector: Rigorous review for community: we weigh this against how agents actually fail in prod.
-  ↳ Integrate the CyberAgents Exchange AI Inspector into your workflow to rigorously review and validate community-built LLMs before deployment
-Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure: on our radar; correlate it with the rest of your feed.
 
 That standard is what our sentinel is built on.
 
