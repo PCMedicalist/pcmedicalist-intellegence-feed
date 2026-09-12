@@ -2,9 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Intelligence Feed</title>
   <id>tag:pcmedicalist.com,2026:intel-feed</id>
-  <updated>2026-09-11T11:13:34Z</updated>
+  <updated>2026-09-12T01:14:59Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/atom.xml"/>
   <subtitle>Daily security intelligence digests — PCMedicalist Intelligence Network</subtitle>
+  <entry>
+    <title>Digest 2026-09-12</title>
+    <id>tag:pcmedicalist.com,2026:intel-feed:2026-09-12</id>
+    <updated>2026-09-12T01:14:59Z</updated>
+    <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/09/2026-09-12/posts.json"/>
+    <summary>Security intelligence digest for 2026-09-12</summary>
+    <content type="text">🔐 Daily Security &amp; Standards Brief (Sep 11)
+
+IETF email infrastructure transition completed on 11 September: we weigh this against how agents actually fail in prod.
+CVE-2026-84869 — ConnectWise ScreenConnect: patch ConnectWise ScreenConnect and verify the fix held.
+CVE-2026-42016 — JFrog Artifactory Incorrect Authorization: patch JFrog Artifactory Incorrect Authorization and verify the fix held.
+CVE-2026-42018 — JFrog Artifactory: patch JFrog Artifactory and verify the fix held.
+CVE-2026-85706 — GitLab Community Edition and Enterprise Edition: validate paths and patch GitLab Community Edition and Enterprise Edition.
+
+That standard is what Blue-Team discipline is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+
+🧠 Engineering &amp; Research Digest (Sep 11)
+
+CVE-2025-54988 — Metasploit Wrap Up: This One Goes to Sixteen!: patch Metasploit Wrap Up: This One Goes to Sixteen! and verify the fix held.
+The Fraud Ecosystem: A Transition From Known Marketplaces to a Fragmented Enviro: on our radar; correlate it with the rest of your feed.
+CVE-2026-42016 — Artifactory Under Attack: In-the-Wild Exploitation of CVE-2026-42016, CVE-2026-42018 &amp; CVE-2026-82329: patch Artifactory Under Attack: In-the-Wild Exploitation of CVE-2026-42016, CVE-2026-42018 &amp; CVE-2026-82329 and verify the fix held.
+We've got one word for it, and it's usually the wrong one: worth folding into your daily threat-watch if it touches your stack.
+The agentic harness for Tenable Hexa AI: How Tenable prevents AI agents from goi: we weigh this against how agents actually fail in prod.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel</content>
+  </entry>
   <entry>
     <title>Digest 2026-09-11</title>
     <id>tag:pcmedicalist.com,2026:intel-feed:2026-09-11</id>
