@@ -1,9 +1,10 @@
-🔐 Daily Security & Standards Brief (Sep 11)
+🔐 Daily Security & Standards Brief (Sep 12)
 
 IETF email infrastructure transition completed on 11 September: we weigh this against how agents actually fail in prod.
 CVE-2026-84869 — ConnectWise ScreenConnect: patch ConnectWise ScreenConnect and verify the fix held.
 CVE-2026-42016 — JFrog Artifactory Incorrect Authorization: patch JFrog Artifactory Incorrect Authorization and verify the fix held.
 CVE-2026-42018 — JFrog Artifactory: patch JFrog Artifactory and verify the fix held.
+  ↳ Immediately upgrade JFrog Artifactory to the latest patched version and verify authentication controls function correctly after remediation
 CVE-2026-85706 — GitLab Community Edition and Enterprise Edition: validate paths and patch GitLab Community Edition and Enterprise Edition.
 
 That standard is what Blue-Team discipline is built on.

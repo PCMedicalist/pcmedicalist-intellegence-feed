@@ -1,6 +1,7 @@
-🧠 Engineering & Research Digest (Sep 11)
+🧠 Engineering & Research Digest (Sep 12)
 
 CVE-2025-54988 — Metasploit Wrap Up: This One Goes to Sixteen!: patch Metasploit Wrap Up: This One Goes to Sixteen! and verify the fix held.
+  ↳ Immediately patch vulnerable components and block DNS/HTTP traffic matching indicators of compromise for CVE-2025-54988
 The Fraud Ecosystem: A Transition From Known Marketplaces to a Fragmented Enviro: on our radar; correlate it with the rest of your feed.
 CVE-2026-42016 — Artifactory Under Attack: In-the-Wild Exploitation of CVE-2026-42016, CVE-2026-42018 & CVE-2026-82329: patch Artifactory Under Attack: In-the-Wild Exploitation of CVE-2026-42016, CVE-2026-42018 & CVE-2026-82329 and verify the fix held.
 We've got one word for it, and it's usually the wrong one: worth folding into your daily threat-watch if it touches your stack.
