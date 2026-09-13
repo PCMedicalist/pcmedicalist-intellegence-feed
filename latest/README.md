@@ -5,13 +5,13 @@
 
 - **Date:** 2026-09-13
 - **Feeds ingested:** 39
-- **Items raw → deduped:** 3831 → 3769
+- **Items raw → deduped:** 3831 → 3768
 - **Full digest:** `digests/2026/09/2026-09-13/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
-🔐 Daily Security & Standards Brief (Sep 12)
+🔐 Daily Security & Standards Brief (Sep 13)
 
 IETF email infrastructure transition completed on 11 September: we weigh this against how agents actually fail in prod.
 CVE-2026-84869 — ConnectWise ScreenConnect: patch ConnectWise ScreenConnect and verify the fix held.
@@ -27,7 +27,7 @@ via PCMedicalist · pcmedicalist.com/intel
 ## Post B — CS / News / Vendor / Dev / Community
 
 ```
-🧠 Engineering & Research Digest (Sep 12)
+🧠 Engineering & Research Digest (Sep 13)
 
 CVE-2025-54988 — Metasploit Wrap Up: This One Goes to Sixteen!: patch Metasploit Wrap Up: This One Goes to Sixteen! and verify the fix held.
 The Fraud Ecosystem: A Transition From Known Marketplaces to a Fragmented Enviro: on our radar; correlate it with the rest of your feed.

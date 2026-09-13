@@ -1,4 +1,4 @@
-🧠 Engineering & Research Digest (Sep 12)
+🧠 Engineering & Research Digest (Sep 13)
 
 CVE-2025-54988 — Metasploit Wrap Up: This One Goes to Sixteen!: patch Metasploit Wrap Up: This One Goes to Sixteen! and verify the fix held.
 The Fraud Ecosystem: A Transition From Known Marketplaces to a Fragmented Enviro: on our radar; correlate it with the rest of your feed.

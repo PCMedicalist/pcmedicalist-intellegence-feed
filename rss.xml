@@ -4,14 +4,14 @@
     <title>PCMedicalist Intelligence Feed</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Daily security intelligence digests — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Sun, 13 Sep 2026 01:14:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 11:16:43 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
     <item>
       <title>Digest 2026-09-13</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/09/2026-09-13/posts.json</link>
       <guid isPermaLink="false">2026-09-13</guid>
-      <pubDate>Sun, 13 Sep 2026 01:14:39 GMT</pubDate>
-      <description>🔐 Daily Security &amp; Standards Brief (Sep 12)
+      <pubDate>Sun, 13 Sep 2026 11:16:43 GMT</pubDate>
+      <description>🔐 Daily Security &amp; Standards Brief (Sep 13)
 
 IETF email infrastructure transition completed on 11 September: we weigh this against how agents actually fail in prod.
 CVE-2026-84869 — ConnectWise ScreenConnect: patch ConnectWise ScreenConnect and verify the fix held.
@@ -23,7 +23,7 @@ That standard is what Blue-Team discipline is built on.
 
 via PCMedicalist · pcmedicalist.com/intel
 
-🧠 Engineering &amp; Research Digest (Sep 12)
+🧠 Engineering &amp; Research Digest (Sep 13)
 
 CVE-2025-54988 — Metasploit Wrap Up: This One Goes to Sixteen!: patch Metasploit Wrap Up: This One Goes to Sixteen! and verify the fix held.
 The Fraud Ecosystem: A Transition From Known Marketplaces to a Fragmented Enviro: on our radar; correlate it with the rest of your feed.
