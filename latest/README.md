@@ -1,12 +1,12 @@
-# Latest Digest — 2026-09-13
+# Latest Digest — 2026-09-14
 
 > Rolling snapshot of the most recent PCMedicalist Intelligence Feed digest.
 > Source of truth lives in `digests/`. This file is regenerated every run.
 
-- **Date:** 2026-09-13
+- **Date:** 2026-09-14
 - **Feeds ingested:** 39
 - **Items raw → deduped:** 3831 → 3768
-- **Full digest:** `digests/2026/09/2026-09-13/`
+- **Full digest:** `digests/2026/09/2026-09-14/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
@@ -34,6 +34,7 @@ The Fraud Ecosystem: A Transition From Known Marketplaces to a Fragmented Enviro
 CVE-2026-42016 — Artifactory Under Attack: In-the-Wild Exploitation of CVE-2026-42016, CVE-2026-42018 & CVE-2026-82329: patch Artifactory Under Attack: In-the-Wild Exploitation of CVE-2026-42016, CVE-2026-42018 & CVE-2026-82329 and verify the fix held.
 We've got one word for it, and it's usually the wrong one: worth folding into your daily threat-watch if it touches your stack.
 The agentic harness for Tenable Hexa AI: How Tenable prevents AI agents from goi: we weigh this against how agents actually fail in prod.
+  ↳ Implement strict sandboxing and output filters for internal agentic LLM workflows to prevent autonomous deviation or unauthorized resource access
 
 That standard is what our sentinel is built on.
 
