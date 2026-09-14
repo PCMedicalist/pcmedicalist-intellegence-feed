@@ -5,13 +5,13 @@
 
 - **Date:** 2026-09-14
 - **Feeds ingested:** 39
-- **Items raw → deduped:** 3831 → 3768
+- **Items raw → deduped:** 3831 → 3770
 - **Full digest:** `digests/2026/09/2026-09-14/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
-🔐 Daily Security & Standards Brief (Sep 13)
+🔐 Daily Security & Standards Brief (Sep 14)
 
 IETF email infrastructure transition completed on 11 September: we weigh this against how agents actually fail in prod.
 CVE-2026-84869 — ConnectWise ScreenConnect: patch ConnectWise ScreenConnect and verify the fix held.
@@ -27,14 +27,14 @@ via PCMedicalist · pcmedicalist.com/intel
 ## Post B — CS / News / Vendor / Dev / Community
 
 ```
-🧠 Engineering & Research Digest (Sep 13)
+🧠 Engineering & Research Digest (Sep 14)
 
+CVE-2026-85706 — CVE-2026-85706: Critical GitLab: validate paths and patch CVE-2026-85706: Critical GitLab.
+Unmasking Cloud Identities: From Behavioral Clustering to Automated Detection: on our radar; correlate it with the rest of your feed.
+  ↳ Implement behavioral clustering analysis in cloud identity platforms to automate detection of anomalous activities and compromised accounts
 CVE-2025-54988 — Metasploit Wrap Up: This One Goes to Sixteen!: patch Metasploit Wrap Up: This One Goes to Sixteen! and verify the fix held.
 The Fraud Ecosystem: A Transition From Known Marketplaces to a Fragmented Enviro: on our radar; correlate it with the rest of your feed.
 CVE-2026-42016 — Artifactory Under Attack: In-the-Wild Exploitation of CVE-2026-42016, CVE-2026-42018 & CVE-2026-82329: patch Artifactory Under Attack: In-the-Wild Exploitation of CVE-2026-42016, CVE-2026-42018 & CVE-2026-82329 and verify the fix held.
-We've got one word for it, and it's usually the wrong one: worth folding into your daily threat-watch if it touches your stack.
-The agentic harness for Tenable Hexa AI: How Tenable prevents AI agents from goi: we weigh this against how agents actually fail in prod.
-  ↳ Implement strict sandboxing and output filters for internal agentic LLM workflows to prevent autonomous deviation or unauthorized resource access
 
 That standard is what our sentinel is built on.
 

@@ -1,4 +1,4 @@
-🔐 Daily Security & Standards Brief (Sep 13)
+🔐 Daily Security & Standards Brief (Sep 14)
 
 IETF email infrastructure transition completed on 11 September: we weigh this against how agents actually fail in prod.
 CVE-2026-84869 — ConnectWise ScreenConnect: patch ConnectWise ScreenConnect and verify the fix held.
