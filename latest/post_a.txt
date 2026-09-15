@@ -1,7 +1,7 @@
-🔐 Daily Security & Standards Brief (Sep 14)
+🔐 Daily Security & Standards Brief (Sep 15)
 
 CVE-2026-76461 — Cisco Secure Email Gateway: parameterize queries and patch Cisco Secure Email Gateway.
-  ↳ Immediately upgrade the Cisco Secure Email Gateway to the latest patched version from Cisco to remediate CVE-2026-76461
+  ↳ Immediately apply the vendor-provided security update for the Cisco Secure Email Gateway to remediate the identified SQL injection vulnerability
 IETF email infrastructure transition completed on 11 September: we weigh this against how agents actually fail in prod.
 CVE-2026-84869 — ConnectWise ScreenConnect: patch ConnectWise ScreenConnect and verify the fix held.
 CVE-2026-42016 — JFrog Artifactory Incorrect Authorization: patch JFrog Artifactory Incorrect Authorization and verify the fix held.

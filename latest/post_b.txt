@@ -1,11 +1,9 @@
-🧠 Engineering & Research Digest (Sep 14)
+🧠 Engineering & Research Digest (Sep 15)
 
 Rapid7 Named Among Notable Vendors in Forrester MDR Landscape: Why the Future is: worth folding into your daily threat-watch if it touches your stack.
 CVE-2026-85706 — CVE-2026-85706: Critical GitLab: validate paths and patch CVE-2026-85706: Critical GitLab.
 Unmasking Cloud Identities: From Behavioral Clustering to Automated Detection: on our radar; correlate it with the rest of your feed.
-  ↳ Implement behavioral clustering analytics within your cloud security stack to automatically detect and alert on anomalous identity activities
 CVE-2025-54988 — Metasploit Wrap Up: This One Goes to Sixteen!: patch Metasploit Wrap Up: This One Goes to Sixteen! and verify the fix held.
-  ↳ Block malicious DNS queries and HTTP requests matching CVE-2025-54988 IOCs and apply relevant vendor patches immediately
 The Fraud Ecosystem: A Transition From Known Marketplaces to a Fragmented Enviro: on our radar; correlate it with the rest of your feed.
 
 That standard is what our sentinel is built on.
