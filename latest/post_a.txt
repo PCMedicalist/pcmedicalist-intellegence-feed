@@ -1,8 +1,9 @@
-🔐 Daily Security & Standards Brief (Sep 16)
+🔐 Daily Security & Standards Brief (Sep 17)
 
 CVE-2026-58704 — Google Pixel: patch Google Pixel and verify the fix held.
 CVE-2026-76460 — Cisco Identity Services Engine Incorrect Use of Privileged APIs: patch Cisco Identity Services Engine Incorrect Use of Privileged APIs and verify the fix held.
 CVE-2026-87886 — Acronis Backup Incorrect Default Permissions: patch Acronis Backup Incorrect Default Permissions and verify the fix held.
+  ↳ Update Acronis Backup to the latest patched version and audit repository file permissions to mitigate risks from incorrect default settings
 CVE-2026-76461 — Cisco Secure Email Gateway: parameterize queries and patch Cisco Secure Email Gateway.
 IETF email infrastructure transition completed on 11 September: we weigh this against how agents actually fail in prod.
 

@@ -1,10 +1,10 @@
-🧠 Engineering & Research Digest (Sep 16)
+🧠 Engineering & Research Digest (Sep 17)
 
+Ransomware incidents in Japan in the first half of 2026: Investigation of The Ge: we weigh this against how agents actually fail in prod.
 Securing the unpatchable in an age of AI-driven vulnerabilities: we validate the fix against our change-control gate.
 Atomic macOS (AMOS) Stealer Activity: worth folding into your daily threat-watch if it touches your stack.
 CrowdStrike Accelerates Real-Time Data Classification with On-Device AI: we weigh this against how agents actually fail in prod.
 Oracle September 2026 Critical Security Patch Update addresses 672 CVEs: we validate the fix against our change-control gate.
-Australia is replacing the Essential Eight with a new cyber framework. Here’s ho: on our radar; correlate it with the rest of your feed.
 
 That standard is what our sentinel is built on.
 
