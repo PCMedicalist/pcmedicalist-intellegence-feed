@@ -1,10 +1,12 @@
-🧠 Engineering & Research Digest (Sep 17)
+🧠 Engineering & Research Digest (Sep 18)
 
+A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and : we map this into the identity-front-door controls.
+  ↳ Immediately patch the affected product and enforce strict memory isolation controls to prevent heap-view leakage between AgentCore Harness and identity vaults
 Inside the Modern SOC: Defending the Cross-Environment Pivot: we map this into the SOC runbook we operate.
+  ↳ Implement network segmentation and monitor logs for lateral movement indicators to prevent successful cross-environment pivots
 Should you care about an “AI slowdown?”: we weigh this against how agents actually fail in prod.
 Exploring the new AWS Sign Up experience: on our radar; correlate it with the rest of your feed.
 Building an AI Detection Engine That Understands Agent Intent: we weigh this against how agents actually fail in prod.
-Ransomware incidents in Japan in the first half of 2026: Investigation of The Ge: we weigh this against how agents actually fail in prod.
 
 That standard is what our sentinel is built on.
 
