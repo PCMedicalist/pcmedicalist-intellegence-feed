@@ -5,20 +5,22 @@
 
 - **Date:** 2026-09-20
 - **Feeds ingested:** 39
-- **Items raw → deduped:** 3852 → 3790
+- **Items raw → deduped:** 3854 → 3791
 - **Full digest:** `digests/2026/09/2026-09-20/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
-🔐 Daily Security & Standards Brief (Sep 19)
+🔐 Daily Security & Standards Brief (Sep 20)
 
 CVE-2025-39964 — Linux Kernel Race Condition: patch Linux Kernel Race Condition and verify the fix held.
+  ↳ Apply the latest vendor security update for the Linux kernel to remediate this race condition vulnerability
 CVE-2026-53266 — Linux Kernel Out-of-Bounds Write: patch Linux Kernel Out-of-Bounds Write and verify the fix held.
+  ↳ Immediately upgrade all affected Linux kernel installations to the latest patched version to mitigate this out-of-bounds write vulnerability
 CVE-2025-39682 — Linux Kernel: patch Linux Kernel and verify the fix held.
 CVE-2026-58704 — Google Pixel: patch Google Pixel and verify the fix held.
+  ↳ Patch all Google Pixel devices immediately via official OTA updates to remediate the improper authorization vulnerability CVE-2026-58704
 CVE-2026-76460 — Cisco Identity Services Engine Incorrect Use of Privileged APIs: patch Cisco Identity Services Engine Incorrect Use of Privileged APIs and verify the fix held.
-  ↳ Apply the vendor-provided security patch for Cisco ISE and restrict access to privileged API endpoints to only authorized systems immediately
 
 That standard is what Blue-Team discipline is built on.
 
@@ -28,10 +30,11 @@ via PCMedicalist · pcmedicalist.com/intel
 ## Post B — CS / News / Vendor / Dev / Community
 
 ```
-🧠 Engineering & Research Digest (Sep 19)
+🧠 Engineering & Research Digest (Sep 20)
 
 A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and : we map this into the identity-front-door controls.
 Inside the Modern SOC: Defending the Cross-Environment Pivot: we map this into the SOC runbook we operate.
+  ↳ Implement network segmentation and monitor for anomalous cross-environment pivot attempts to block lateral movement vectors immediately
 Should you care about an “AI slowdown?”: we weigh this against how agents actually fail in prod.
 Exploring the new AWS Sign Up experience: on our radar; correlate it with the rest of your feed.
 Building an AI Detection Engine That Understands Agent Intent: we weigh this against how agents actually fail in prod.

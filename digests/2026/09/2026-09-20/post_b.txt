@@ -1,7 +1,8 @@
-🧠 Engineering & Research Digest (Sep 19)
+🧠 Engineering & Research Digest (Sep 20)
 
 A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and : we map this into the identity-front-door controls.
 Inside the Modern SOC: Defending the Cross-Environment Pivot: we map this into the SOC runbook we operate.
+  ↳ Implement network segmentation and monitor for anomalous cross-environment pivot attempts to block lateral movement vectors immediately
 Should you care about an “AI slowdown?”: we weigh this against how agents actually fail in prod.
 Exploring the new AWS Sign Up experience: on our radar; correlate it with the rest of your feed.
 Building an AI Detection Engine That Understands Agent Intent: we weigh this against how agents actually fail in prod.

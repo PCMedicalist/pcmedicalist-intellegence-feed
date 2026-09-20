@@ -1,11 +1,13 @@
-🔐 Daily Security & Standards Brief (Sep 19)
+🔐 Daily Security & Standards Brief (Sep 20)
 
 CVE-2025-39964 — Linux Kernel Race Condition: patch Linux Kernel Race Condition and verify the fix held.
+  ↳ Apply the latest vendor security update for the Linux kernel to remediate this race condition vulnerability
 CVE-2026-53266 — Linux Kernel Out-of-Bounds Write: patch Linux Kernel Out-of-Bounds Write and verify the fix held.
+  ↳ Immediately upgrade all affected Linux kernel installations to the latest patched version to mitigate this out-of-bounds write vulnerability
 CVE-2025-39682 — Linux Kernel: patch Linux Kernel and verify the fix held.
 CVE-2026-58704 — Google Pixel: patch Google Pixel and verify the fix held.
+  ↳ Patch all Google Pixel devices immediately via official OTA updates to remediate the improper authorization vulnerability CVE-2026-58704
 CVE-2026-76460 — Cisco Identity Services Engine Incorrect Use of Privileged APIs: patch Cisco Identity Services Engine Incorrect Use of Privileged APIs and verify the fix held.
-  ↳ Apply the vendor-provided security patch for Cisco ISE and restrict access to privileged API endpoints to only authorized systems immediately
 
 That standard is what Blue-Team discipline is built on.
 
