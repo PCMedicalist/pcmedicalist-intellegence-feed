@@ -1,6 +1,7 @@
-🔐 Daily Security & Standards Brief (Sep 20)
+🔐 Daily Security & Standards Brief (Sep 21)
 
 CVE-2025-39964 — Linux Kernel Race Condition: patch Linux Kernel Race Condition and verify the fix held.
+  ↳ Upgrade all affected Linux systems to the latest patched kernel version immediately to mitigate CVE-2025-39964 race condition risks
 CVE-2026-53266 — Linux Kernel Out-of-Bounds Write: patch Linux Kernel Out-of-Bounds Write and verify the fix held.
 CVE-2025-39682 — Linux Kernel: patch Linux Kernel and verify the fix held.
 CVE-2026-58704 — Google Pixel: patch Google Pixel and verify the fix held.

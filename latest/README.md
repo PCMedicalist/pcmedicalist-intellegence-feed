@@ -5,15 +5,16 @@
 
 - **Date:** 2026-09-21
 - **Feeds ingested:** 39
-- **Items raw → deduped:** 3854 → 3791
+- **Items raw → deduped:** 3854 → 3790
 - **Full digest:** `digests/2026/09/2026-09-21/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
-🔐 Daily Security & Standards Brief (Sep 20)
+🔐 Daily Security & Standards Brief (Sep 21)
 
 CVE-2025-39964 — Linux Kernel Race Condition: patch Linux Kernel Race Condition and verify the fix held.
+  ↳ Upgrade all affected Linux systems to the latest patched kernel version immediately to mitigate CVE-2025-39964 race condition risks
 CVE-2026-53266 — Linux Kernel Out-of-Bounds Write: patch Linux Kernel Out-of-Bounds Write and verify the fix held.
 CVE-2025-39682 — Linux Kernel: patch Linux Kernel and verify the fix held.
 CVE-2026-58704 — Google Pixel: patch Google Pixel and verify the fix held.
@@ -27,13 +28,14 @@ via PCMedicalist · pcmedicalist.com/intel
 ## Post B — CS / News / Vendor / Dev / Community
 
 ```
-🧠 Engineering & Research Digest (Sep 20)
+🧠 Engineering & Research Digest (Sep 21)
 
+From Exposure to Lockdown: How AWS Neutralizes Compromised IAM Credentials throu: on our radar; correlate it with the rest of your feed.
 A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and : we map this into the identity-front-door controls.
 Inside the Modern SOC: Defending the Cross-Environment Pivot: we map this into the SOC runbook we operate.
 Should you care about an “AI slowdown?”: we weigh this against how agents actually fail in prod.
+  ↳ Monitor system performance for latency anomalies and disable non-essential AI features or apply vendor patches to mitigate adversarial slowdown threats
 Exploring the new AWS Sign Up experience: on our radar; correlate it with the rest of your feed.
-Building an AI Detection Engine That Understands Agent Intent: we weigh this against how agents actually fail in prod.
 
 That standard is what our sentinel is built on.
 
