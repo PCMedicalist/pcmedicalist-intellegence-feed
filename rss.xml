@@ -4,8 +4,37 @@
     <title>PCMedicalist Intelligence Feed</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Daily security intelligence digests — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Sun, 20 Sep 2026 11:15:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 01:26:06 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Digest 2026-09-21</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/09/2026-09-21/posts.json</link>
+      <guid isPermaLink="false">2026-09-21</guid>
+      <pubDate>Mon, 21 Sep 2026 01:26:06 GMT</pubDate>
+      <description>🔐 Daily Security &amp; Standards Brief (Sep 20)
+
+CVE-2025-39964 — Linux Kernel Race Condition: patch Linux Kernel Race Condition and verify the fix held.
+CVE-2026-53266 — Linux Kernel Out-of-Bounds Write: patch Linux Kernel Out-of-Bounds Write and verify the fix held.
+CVE-2025-39682 — Linux Kernel: patch Linux Kernel and verify the fix held.
+CVE-2026-58704 — Google Pixel: patch Google Pixel and verify the fix held.
+CVE-2026-76460 — Cisco Identity Services Engine Incorrect Use of Privileged APIs: patch Cisco Identity Services Engine Incorrect Use of Privileged APIs and verify the fix held.
+
+That standard is what Blue-Team discipline is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+
+🧠 Engineering &amp; Research Digest (Sep 20)
+
+A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and : we map this into the identity-front-door controls.
+Inside the Modern SOC: Defending the Cross-Environment Pivot: we map this into the SOC runbook we operate.
+Should you care about an “AI slowdown?”: we weigh this against how agents actually fail in prod.
+Exploring the new AWS Sign Up experience: on our radar; correlate it with the rest of your feed.
+Building an AI Detection Engine That Understands Agent Intent: we weigh this against how agents actually fail in prod.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel</description>
+    </item>
     <item>
       <title>Digest 2026-09-20</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/09/2026-09-20/posts.json</link>
