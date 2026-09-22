@@ -1,10 +1,10 @@
-🧠 Engineering & Research Digest (Sep 21)
+🧠 Engineering & Research Digest (Sep 22)
 
+The Closed Quorum: Inside the first reported autonomous AI C2 implant: we weigh this against how agents actually fail in prod.
+Introducing CAIRN: Frontier tracking for AI-integrated malware: we weigh this against how agents actually fail in prod.
 From Exposure to Lockdown: How AWS Neutralizes Compromised IAM Credentials throu: on our radar; correlate it with the rest of your feed.
 A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and : we map this into the identity-front-door controls.
 Inside the Modern SOC: Defending the Cross-Environment Pivot: we map this into the SOC runbook we operate.
-Should you care about an “AI slowdown?”: we weigh this against how agents actually fail in prod.
-Exploring the new AWS Sign Up experience: on our radar; correlate it with the rest of your feed.
 
 That standard is what our sentinel is built on.
 

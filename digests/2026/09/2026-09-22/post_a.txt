@@ -1,11 +1,12 @@
-🔐 Daily Security & Standards Brief (Sep 21)
+🔐 Daily Security & Standards Brief (Sep 22)
 
 CVE-2026-7273 — Zyxel GS1900 Series Switches Stack-Based Buffer Overflow: patch Zyxel GS1900 Series Switches Stack-Based Buffer Overflow and verify the fix held.
 CVE-2025-39964 — Linux Kernel Race Condition: patch Linux Kernel Race Condition and verify the fix held.
+  ↳ Immediately apply the vendor-provided Linux kernel security update to patch this race condition vulnerability on all affected systems
 CVE-2026-53266 — Linux Kernel Out-of-Bounds Write: patch Linux Kernel Out-of-Bounds Write and verify the fix held.
 CVE-2025-39682 — Linux Kernel: patch Linux Kernel and verify the fix held.
-  ↳ Apply the vendor-provided Linux kernel update to remediate CVE-2025-39682 on all affected systems
 CVE-2026-58704 — Google Pixel: patch Google Pixel and verify the fix held.
+  ↳ Immediately update all Google Pixel devices to the latest OS version to patch CVE-2026-58704 and prevent unauthorized access
 
 That standard is what Blue-Team discipline is built on.
 
