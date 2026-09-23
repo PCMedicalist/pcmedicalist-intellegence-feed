@@ -1,10 +1,10 @@
-🧠 Engineering & Research Digest (Sep 22)
+🧠 Engineering & Research Digest (Sep 23)
 
+CVE-2026-94127 — CVE-2026-94127: Critical Unauthenticated RCE in F5 BIG-IP APM: patch CVE-2026-94127: Critical Unauthenticated RCE in F5 BIG-IP APM immediately — RCE exposure.
 Growing the WIN AI Ecosystem with Agent Integrations: we weigh this against how agents actually fail in prod.
 The Closed Quorum: Inside the first reported autonomous AI C2 implant: we weigh this against how agents actually fail in prod.
 Introducing CAIRN: Frontier tracking for AI-integrated malware: we weigh this against how agents actually fail in prod.
 From Exposure to Lockdown: How AWS Neutralizes Compromised IAM Credentials throu: on our radar; correlate it with the rest of your feed.
-A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and : we map this into the identity-front-door controls.
 
 That standard is what our sentinel is built on.
 

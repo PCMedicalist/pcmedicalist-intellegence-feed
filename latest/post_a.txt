@@ -1,4 +1,4 @@
-🔐 Daily Security & Standards Brief (Sep 22)
+🔐 Daily Security & Standards Brief (Sep 23)
 
 CVE-2026-93952 — Arista VeloCloud Orchestrator: patch Arista VeloCloud Orchestrator and verify the fix held.
 CVE-2026-94127 — F5 BIG-IP APM Heap-based Buffer Overflow: patch F5 BIG-IP APM Heap-based Buffer Overflow and verify the fix held.
