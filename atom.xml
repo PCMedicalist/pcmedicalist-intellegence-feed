@@ -2,29 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Intelligence Feed</title>
   <id>tag:pcmedicalist.com,2026:intel-feed</id>
-  <updated>2026-09-24T01:25:49Z</updated>
+  <updated>2026-09-24T11:16:50Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/atom.xml"/>
   <subtitle>Daily security intelligence digests — PCMedicalist Intelligence Network</subtitle>
   <entry>
     <title>Digest 2026-09-24</title>
     <id>tag:pcmedicalist.com,2026:intel-feed:2026-09-24</id>
-    <updated>2026-09-24T01:25:49Z</updated>
+    <updated>2026-09-24T11:16:50Z</updated>
     <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/09/2026-09-24/posts.json"/>
     <summary>Security intelligence digest for 2026-09-24</summary>
-    <content type="text">🔐 Daily Security &amp; Standards Brief (Sep 23)
+    <content type="text">🔐 Daily Security &amp; Standards Brief (Sep 24)
 
 CVE-2026-93952 — Arista VeloCloud Orchestrator: patch Arista VeloCloud Orchestrator and verify the fix held.
+  ↳ Immediately upgrade all Arista VeloCloud Orchestrator instances to the latest patched version to remediate CVE-2026-93952
 CVE-2026-94127 — F5 BIG-IP APM Heap-based Buffer Overflow: patch F5 BIG-IP APM Heap-based Buffer Overflow and verify the fix held.
-  ↳ Immediately upgrade F5 BIG-IP APM firmware to the patched version to remediate this heap-based buffer overflow vulnerability affecting OAuth authentication
 CVE-2026-93616 — Check Point Multiple Products: validate paths and patch Check Point Multiple Products.
 CVE-2026-85102 — Check Point Multiple Products: patch Check Point Multiple Products and verify the fix held.
 CVE-2026-7273 — Zyxel GS1900 Series Switches Stack-Based Buffer Overflow: patch Zyxel GS1900 Series Switches Stack-Based Buffer Overflow and verify the fix held.
+  ↳ Immediately apply the latest vendor firmware update to all Zyxel GS1900 Series Switches to remediate CVE-2026-7273
 
 That standard is what Blue-Team discipline is built on.
 
 via PCMedicalist · pcmedicalist.com/intel
 
-🧠 Engineering &amp; Research Digest (Sep 23)
+🧠 Engineering &amp; Research Digest (Sep 24)
 
 How dynamic application security testing validates risk at runtime: we file this against the daily watch — relevant if it's in your stack.
 CVE-2026-94127 — CVE-2026-94127: Critical Unauthenticated RCE in F5 BIG-IP APM: patch CVE-2026-94127: Critical Unauthenticated RCE in F5 BIG-IP APM immediately — RCE exposure.

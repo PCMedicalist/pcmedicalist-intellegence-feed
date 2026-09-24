@@ -1,4 +1,4 @@
-🧠 Engineering & Research Digest (Sep 23)
+🧠 Engineering & Research Digest (Sep 24)
 
 How dynamic application security testing validates risk at runtime: we file this against the daily watch — relevant if it's in your stack.
 CVE-2026-94127 — CVE-2026-94127: Critical Unauthenticated RCE in F5 BIG-IP APM: patch CVE-2026-94127: Critical Unauthenticated RCE in F5 BIG-IP APM immediately — RCE exposure.
