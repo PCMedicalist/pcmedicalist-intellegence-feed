@@ -4,8 +4,38 @@
     <title>PCMedicalist Intelligence Feed</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Daily security intelligence digests — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Wed, 23 Sep 2026 11:14:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 01:25:49 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Digest 2026-09-24</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/09/2026-09-24/posts.json</link>
+      <guid isPermaLink="false">2026-09-24</guid>
+      <pubDate>Thu, 24 Sep 2026 01:25:49 GMT</pubDate>
+      <description>🔐 Daily Security &amp; Standards Brief (Sep 23)
+
+CVE-2026-93952 — Arista VeloCloud Orchestrator: patch Arista VeloCloud Orchestrator and verify the fix held.
+CVE-2026-94127 — F5 BIG-IP APM Heap-based Buffer Overflow: patch F5 BIG-IP APM Heap-based Buffer Overflow and verify the fix held.
+  ↳ Immediately upgrade F5 BIG-IP APM firmware to the patched version to remediate this heap-based buffer overflow vulnerability affecting OAuth authentication
+CVE-2026-93616 — Check Point Multiple Products: validate paths and patch Check Point Multiple Products.
+CVE-2026-85102 — Check Point Multiple Products: patch Check Point Multiple Products and verify the fix held.
+CVE-2026-7273 — Zyxel GS1900 Series Switches Stack-Based Buffer Overflow: patch Zyxel GS1900 Series Switches Stack-Based Buffer Overflow and verify the fix held.
+
+That standard is what Blue-Team discipline is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+
+🧠 Engineering &amp; Research Digest (Sep 23)
+
+How dynamic application security testing validates risk at runtime: we file this against the daily watch — relevant if it's in your stack.
+CVE-2026-94127 — CVE-2026-94127: Critical Unauthenticated RCE in F5 BIG-IP APM: patch CVE-2026-94127: Critical Unauthenticated RCE in F5 BIG-IP APM immediately — RCE exposure.
+Growing the WIN AI Ecosystem with Agent Integrations: we weigh this against how agents actually fail in prod.
+The Closed Quorum: Inside the first reported autonomous AI C2 implant: we weigh this against how agents actually fail in prod.
+Introducing CAIRN: Frontier tracking for AI-integrated malware: we weigh this against how agents actually fail in prod.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel</description>
+    </item>
     <item>
       <title>Digest 2026-09-23</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/09/2026-09-23/posts.json</link>
