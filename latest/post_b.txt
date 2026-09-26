@@ -1,4 +1,4 @@
-🧠 Engineering & Research Digest (Sep 25)
+🧠 Engineering & Research Digest (Sep 26)
 
 3 Consulting Myths Debunked by Unit 42 Experts: we file this against the daily watch — relevant if it's in your stack.
 Metasploit Wrap Up: Belgian Waffles, Chocolates, and…Modules-Frites?: on our radar; correlate it with the rest of your feed.
