@@ -1,11 +1,10 @@
-🧠 Engineering & Research Digest (Sep 26)
+🧠 Engineering & Research Digest (Sep 27)
 
+CVE-2019-19781 — Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities: patch Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities and verify the fix held.
 3 Consulting Myths Debunked by Unit 42 Experts: we file this against the daily watch — relevant if it's in your stack.
+The Infostealer Incursion: How Stolen Credentials Breach Cloud, Code, and AI Env: we weigh this against how agents actually fail in prod.
 Metasploit Wrap Up: Belgian Waffles, Chocolates, and…Modules-Frites?: on our radar; correlate it with the rest of your feed.
 Trust and the enticing consultancy offer: we file this against the daily watch — relevant if it's in your stack.
-  ↳ Validate all consultancy communications and verify vendor authenticity before applying updates or accepting services on the affected product
-Wiz Named a Leader in The Forrester Wave™: Proactive Security Platforms, Q3 2026: worth folding into your daily threat-watch if it touches your stack.
-Scan for Good: Using AI to discover and fix high-priority exposures across publi: we weigh this against how agents actually fail in prod.
 
 That standard is what our sentinel is built on.
 

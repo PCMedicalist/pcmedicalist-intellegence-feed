@@ -1,11 +1,14 @@
-🔐 Daily Security & Standards Brief (Sep 26)
+🔐 Daily Security & Standards Brief (Sep 27)
 
 CVE-2026-67279 — Mikrotik RouterOS: patch Mikrotik RouterOS and verify the fix held.
+  ↳ Immediately upgrade all Mikrotik RouterOS firmware to the latest patched version to mitigate CVE-2026-67279 behavioral workflow enforcement risks
 CVE-2026-65660 — Microsoft SharePoint Code: patch Microsoft SharePoint Code and verify the fix held.
+  ↳ Apply the latest Microsoft SharePoint security update immediately to remediate CVE-2026-65660 code injection risks
 CVE-2026-87902 — WordPress Core Remote File Inclusion: patch WordPress Core Remote File Inclusion and verify the fix held.
-  ↳ Immediately upgrade WordPress core to the latest stable release to patch CVE-2026-87902 and close the remote file inclusion vector
+  ↳ Immediately upgrade WordPress Core to the latest patched version to remediate this remote file inclusion vulnerability
 CVE-2026-5430 — WSO2 Multiple Products: validate paths and patch WSO2 Multiple Products.
 CVE-2026-71362 — Adobe Commerce and Magento Incorrect Authorization: patch Adobe Commerce and Magento Incorrect Authorization and verify the fix held.
+  ↳ Immediately apply vendor-provided security updates for Adobe Commerce and Magento to remediate the authorization bypass vulnerability
 
 That standard is what Blue-Team discipline is built on.
 
