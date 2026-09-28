@@ -1,11 +1,11 @@
-🔐 Daily Security & Standards Brief (Sep 27)
+🔐 Daily Security & Standards Brief (Sep 28)
 
 CVE-2026-88772 — Citrix NetScaler: patch Citrix NetScaler and verify the fix held.
 CVE-2026-88771 — Citrix NetScaler: patch Citrix NetScaler and verify the fix held.
 CVE-2026-67279 — Mikrotik RouterOS: patch Mikrotik RouterOS and verify the fix held.
 CVE-2026-65660 — Microsoft SharePoint Code: patch Microsoft SharePoint Code and verify the fix held.
+  ↳ Immediately apply the official Microsoft security update for SharePoint to remediate this code injection vulnerability across all instances
 CVE-2026-87902 — WordPress Core Remote File Inclusion: patch WordPress Core Remote File Inclusion and verify the fix held.
-  ↳ Immediately upgrade all WordPress Core installations to the latest patched version to remediate CVE-2026-87902
 
 That standard is what Blue-Team discipline is built on.
 

@@ -1,11 +1,10 @@
-🧠 Engineering & Research Digest (Sep 27)
+🧠 Engineering & Research Digest (Sep 28)
 
+CVE-2026-88771 — Zero-Day Exploitation of Citrix NetScaler ADC and Gateway: CVE-2026-88771 and CVE-2026-88772: patch Zero-Day Exploitation of Citrix NetScaler ADC and Gateway: CVE-2026-88771 and CVE-2026-88772 and verify the fix held.
 CVE-2019-19781 — Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities: patch Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities and verify the fix held.
 3 Consulting Myths Debunked by Unit 42 Experts: we file this against the daily watch — relevant if it's in your stack.
 The Infostealer Incursion: How Stolen Credentials Breach Cloud, Code, and AI Env: we weigh this against how agents actually fail in prod.
 Metasploit Wrap Up: Belgian Waffles, Chocolates, and…Modules-Frites?: on our radar; correlate it with the rest of your feed.
-Trust and the enticing consultancy offer: we file this against the daily watch — relevant if it's in your stack.
-  ↳ Verify all external consultancy claims against official records and reject unsolicited offers attempting to exploit trust for unauthorized access
 
 That standard is what our sentinel is built on.
 
