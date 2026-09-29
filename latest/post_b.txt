@@ -1,10 +1,11 @@
-🧠 Engineering & Research Digest (Sep 28)
+🧠 Engineering & Research Digest (Sep 29)
 
+OperTraitors: How Kubernetes Operators Betray Your Security Posture: we weigh this against how agents actually fail in prod.
+Securing the keys to the kingdom: Announcing Executive Threat Detection: worth folding into your daily threat-watch if it touches your stack.
 CVE-2026-88771 — Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild: patch Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild and verify the fix held.
+  ↳ Immediately patch all NetScaler appliances with vendor updates and isolate vulnerable instances from untrusted networks to mitigate CVE-2026-88771 exploitation
 Introducing the Wiz Partner Alliance Managed Service Provider Program: on our radar; correlate it with the rest of your feed.
 CVE-2026-88771 — Zero-Day Exploitation of Citrix NetScaler ADC and Gateway: CVE-2026-88771 and CVE-2026-88772: patch Zero-Day Exploitation of Citrix NetScaler ADC and Gateway: CVE-2026-88771 and CVE-2026-88772 and verify the fix held.
-A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack: we weigh this against how agents actually fail in prod.
-CVE-2019-19781 — Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities: patch Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities and verify the fix held.
 
 That standard is what our sentinel is built on.
 
