@@ -4,8 +4,38 @@
     <title>PCMedicalist Intelligence Feed</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Daily security intelligence digests — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Tue, 29 Sep 2026 11:15:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 01:25:43 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Digest 2026-09-30</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/09/2026-09-30/posts.json</link>
+      <guid isPermaLink="false">2026-09-30</guid>
+      <pubDate>Wed, 30 Sep 2026 01:25:43 GMT</pubDate>
+      <description>🔐 Daily Security &amp; Standards Brief (Sep 29)
+
+CVE-2026-86950 — Apple Multiple Products Out-of-Bounds Write: patch Apple Multiple Products Out-of-Bounds Write and verify the fix held.
+  ↳ Immediately apply the latest macOS security updates from Apple to remediate this out-of-bounds write vulnerability
+CVE-2026-88772 — Citrix NetScaler: patch Citrix NetScaler and verify the fix held.
+CVE-2026-88771 — Citrix NetScaler: patch Citrix NetScaler and verify the fix held.
+CVE-2026-67279 — Mikrotik RouterOS: patch Mikrotik RouterOS and verify the fix held.
+CVE-2026-65660 — Microsoft SharePoint Code: patch Microsoft SharePoint Code and verify the fix held.
+
+That standard is what Blue-Team discipline is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+
+🧠 Engineering &amp; Research Digest (Sep 29)
+
+The Blue Agent POV: Investigating Multi-Platform Data Exfiltration Across AWS an: we fold this into our secret-hygiene baseline.
+OperTraitors: How Kubernetes Operators Betray Your Security Posture: we weigh this against how agents actually fail in prod.
+Securing the keys to the kingdom: Announcing Executive Threat Detection: worth folding into your daily threat-watch if it touches your stack.
+Copy, Paste, Compromised: How ClickFix Attacks Work and How CrowdStrike Stops Th: worth folding into your daily threat-watch if it touches your stack.
+CVE-2026-88771 — Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild: patch Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild and verify the fix held.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel</description>
+    </item>
     <item>
       <title>Digest 2026-09-29</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/09/2026-09-29/posts.json</link>
