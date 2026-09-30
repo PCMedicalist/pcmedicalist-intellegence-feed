@@ -1,11 +1,11 @@
-🔐 Daily Security & Standards Brief (Sep 29)
+🔐 Daily Security & Standards Brief (Sep 30)
 
 CVE-2026-86950 — Apple Multiple Products Out-of-Bounds Write: patch Apple Multiple Products Out-of-Bounds Write and verify the fix held.
-  ↳ Immediately apply the latest macOS security updates from Apple to remediate this out-of-bounds write vulnerability
 CVE-2026-88772 — Citrix NetScaler: patch Citrix NetScaler and verify the fix held.
 CVE-2026-88771 — Citrix NetScaler: patch Citrix NetScaler and verify the fix held.
 CVE-2026-67279 — Mikrotik RouterOS: patch Mikrotik RouterOS and verify the fix held.
 CVE-2026-65660 — Microsoft SharePoint Code: patch Microsoft SharePoint Code and verify the fix held.
+  ↳ Immediately apply the latest Microsoft SharePoint security update to remediate CVE-2026-65660 code injection vulnerability
 
 That standard is what Blue-Team discipline is built on.
 
