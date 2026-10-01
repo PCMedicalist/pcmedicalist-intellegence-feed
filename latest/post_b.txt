@@ -1,10 +1,10 @@
-🧠 Engineering & Research Digest (Sep 30)
+🧠 Engineering & Research Digest (Oct 01)
 
+The Fine Art of Frustrating the Adversary: on our radar; correlate it with the rest of your feed.
 CVE-2026-88771 — Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30): patch Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30) and verify the fix held.
 Securing the Kubernetes Supply Chain: Introducing WizOS Helm Charts: we trace this against our dependency inventory.
 CVE-2026-20127 — Critical Cisco Catalyst SD-WAN Manager API authentication: patch Critical Cisco Catalyst SD-WAN Manager API authentication and verify the fix held.
 Higher education is under siege, and fragmented security is making it harder to : we file this against the daily watch — relevant if it's in your stack.
-China-nexus UAT-11587 targets government and policy organizations across Asia wi: on our radar; correlate it with the rest of your feed.
 
 That standard is what our sentinel is built on.
 

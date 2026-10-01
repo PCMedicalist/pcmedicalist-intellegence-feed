@@ -1,7 +1,8 @@
-🔐 Daily Security & Standards Brief (Sep 30)
+🔐 Daily Security & Standards Brief (Oct 01)
 
 New features for RFC-Editor.org: relevant if your stack touches the standard.
 CVE-2026-76504 — Cisco Catalyst SD-WAN Manager Hex Encoding: patch Cisco Catalyst SD-WAN Manager Hex Encoding and verify the fix held.
+  ↳ Immediately upgrade Cisco Catalyst SD-WAN Manager to the latest patched release from Cisco to remediate CVE-2026-76504
 CVE-2026-86950 — Apple Multiple Products Out-of-Bounds Write: patch Apple Multiple Products Out-of-Bounds Write and verify the fix held.
 CVE-2026-88772 — Citrix NetScaler: patch Citrix NetScaler and verify the fix held.
 CVE-2026-88771 — Citrix NetScaler: patch Citrix NetScaler and verify the fix held.

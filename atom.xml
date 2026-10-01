@@ -2,19 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Intelligence Feed</title>
   <id>tag:pcmedicalist.com,2026:intel-feed</id>
-  <updated>2026-10-01T01:27:24Z</updated>
+  <updated>2026-10-01T11:15:36Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/atom.xml"/>
   <subtitle>Daily security intelligence digests — PCMedicalist Intelligence Network</subtitle>
   <entry>
     <title>Digest 2026-10-01</title>
     <id>tag:pcmedicalist.com,2026:intel-feed:2026-10-01</id>
-    <updated>2026-10-01T01:27:24Z</updated>
+    <updated>2026-10-01T11:15:36Z</updated>
     <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/10/2026-10-01/posts.json"/>
     <summary>Security intelligence digest for 2026-10-01</summary>
-    <content type="text">🔐 Daily Security &amp; Standards Brief (Sep 30)
+    <content type="text">🔐 Daily Security &amp; Standards Brief (Oct 01)
 
 New features for RFC-Editor.org: relevant if your stack touches the standard.
 CVE-2026-76504 — Cisco Catalyst SD-WAN Manager Hex Encoding: patch Cisco Catalyst SD-WAN Manager Hex Encoding and verify the fix held.
+  ↳ Immediately upgrade Cisco Catalyst SD-WAN Manager to the latest patched release from Cisco to remediate CVE-2026-76504
 CVE-2026-86950 — Apple Multiple Products Out-of-Bounds Write: patch Apple Multiple Products Out-of-Bounds Write and verify the fix held.
 CVE-2026-88772 — Citrix NetScaler: patch Citrix NetScaler and verify the fix held.
 CVE-2026-88771 — Citrix NetScaler: patch Citrix NetScaler and verify the fix held.
@@ -23,13 +24,13 @@ That standard is what Blue-Team discipline is built on.
 
 via PCMedicalist · pcmedicalist.com/intel
 
-🧠 Engineering &amp; Research Digest (Sep 30)
+🧠 Engineering &amp; Research Digest (Oct 01)
 
+The Fine Art of Frustrating the Adversary: on our radar; correlate it with the rest of your feed.
 CVE-2026-88771 — Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30): patch Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30) and verify the fix held.
 Securing the Kubernetes Supply Chain: Introducing WizOS Helm Charts: we trace this against our dependency inventory.
 CVE-2026-20127 — Critical Cisco Catalyst SD-WAN Manager API authentication: patch Critical Cisco Catalyst SD-WAN Manager API authentication and verify the fix held.
 Higher education is under siege, and fragmented security is making it harder to : we file this against the daily watch — relevant if it's in your stack.
-China-nexus UAT-11587 targets government and policy organizations across Asia wi: on our radar; correlate it with the rest of your feed.
 
 That standard is what our sentinel is built on.
 
