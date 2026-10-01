@@ -4,8 +4,37 @@
     <title>PCMedicalist Intelligence Feed</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Daily security intelligence digests — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Wed, 30 Sep 2026 11:16:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 01:27:24 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Digest 2026-10-01</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/10/2026-10-01/posts.json</link>
+      <guid isPermaLink="false">2026-10-01</guid>
+      <pubDate>Thu, 01 Oct 2026 01:27:24 GMT</pubDate>
+      <description>🔐 Daily Security &amp; Standards Brief (Sep 30)
+
+New features for RFC-Editor.org: relevant if your stack touches the standard.
+CVE-2026-76504 — Cisco Catalyst SD-WAN Manager Hex Encoding: patch Cisco Catalyst SD-WAN Manager Hex Encoding and verify the fix held.
+CVE-2026-86950 — Apple Multiple Products Out-of-Bounds Write: patch Apple Multiple Products Out-of-Bounds Write and verify the fix held.
+CVE-2026-88772 — Citrix NetScaler: patch Citrix NetScaler and verify the fix held.
+CVE-2026-88771 — Citrix NetScaler: patch Citrix NetScaler and verify the fix held.
+
+That standard is what Blue-Team discipline is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+
+🧠 Engineering &amp; Research Digest (Sep 30)
+
+CVE-2026-88771 — Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30): patch Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30) and verify the fix held.
+Securing the Kubernetes Supply Chain: Introducing WizOS Helm Charts: we trace this against our dependency inventory.
+CVE-2026-20127 — Critical Cisco Catalyst SD-WAN Manager API authentication: patch Critical Cisco Catalyst SD-WAN Manager API authentication and verify the fix held.
+Higher education is under siege, and fragmented security is making it harder to : we file this against the daily watch — relevant if it's in your stack.
+China-nexus UAT-11587 targets government and policy organizations across Asia wi: on our radar; correlate it with the rest of your feed.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel</description>
+    </item>
     <item>
       <title>Digest 2026-09-30</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/09/2026-09-30/posts.json</link>
