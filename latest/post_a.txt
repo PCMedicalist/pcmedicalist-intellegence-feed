@@ -1,8 +1,9 @@
-🔐 Daily Security & Standards Brief (Oct 01)
+🔐 Daily Security & Standards Brief (Oct 02)
 
 CVE-2026-104286 — Fortinet FortiMail: validate paths and patch Fortinet FortiMail.
 New features for RFC-Editor.org: relevant if your stack touches the standard.
 CVE-2026-76504 — Cisco Catalyst SD-WAN Manager Hex Encoding: patch Cisco Catalyst SD-WAN Manager Hex Encoding and verify the fix held.
+  ↳ Patch Cisco Catalyst SD-WAN Manager immediately using the latest security update from Cisco to remediate CVE-2026-76504
 CVE-2026-86950 — Apple Multiple Products Out-of-Bounds Write: patch Apple Multiple Products Out-of-Bounds Write and verify the fix held.
 CVE-2026-88772 — Citrix NetScaler: patch Citrix NetScaler and verify the fix held.
 
