@@ -1,7 +1,6 @@
-🧠 Engineering & Research Digest (Oct 02)
+🧠 Engineering & Research Digest (Oct 03)
 
 SMTP is the key: BPFDoor and AVERAT hitting the network edge: on our radar; correlate it with the rest of your feed.
-  ↳ Enable TLS inspection on SMTP gateways and block suspicious DNS queries at the network edge to detect BPFDoor and AVERAT C2 traffic
 Give yourself room to be human: on our radar; correlate it with the rest of your feed.
 How AI Is Changing the Roles Required in the Security Operations Center: we weigh this against how agents actually fail in prod.
 The Fine Art of Frustrating the Adversary: on our radar; correlate it with the rest of your feed.
