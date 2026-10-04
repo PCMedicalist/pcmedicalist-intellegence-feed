@@ -1,12 +1,12 @@
-🔐 Daily Security & Standards Brief (Oct 03)
+🔐 Daily Security & Standards Brief (Oct 04)
 
 CVE-2026-102489 — Zammad GmbH Zammad: patch Zammad GmbH Zammad and verify the fix held.
-  ↳ Immediately upgrade Zammad to the latest patched version to remediate improper privilege management risks associated with CVE-2026-102490
 CVE-2026-102489 — Zammad GmbH Zammad Session Fixation: patch Zammad GmbH Zammad Session Fixation and verify the fix held.
 CVE-2026-104286 — Fortinet FortiMail: validate paths and patch Fortinet FortiMail.
+  ↳ Immediately upgrade Fortinet FortiMail firmware to the latest release patching CVE-2026-104286 path traversal vulnerability
 New features for RFC-Editor.org: relevant if your stack touches the standard.
 CVE-2026-76504 — Cisco Catalyst SD-WAN Manager Hex Encoding: patch Cisco Catalyst SD-WAN Manager Hex Encoding and verify the fix held.
-  ↳ Immediately upgrade Cisco Catalyst SD-WAN Manager to the latest patched version to mitigate CVE-2026-76504 hex encoding vulnerability
+  ↳ Immediately upgrade Cisco Catalyst SD-WAN Manager to the latest patched release to remediate CVE-2026-76504
 
 That standard is what Blue-Team discipline is built on.
 

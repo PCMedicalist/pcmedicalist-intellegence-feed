@@ -1,11 +1,10 @@
-🧠 Engineering & Research Digest (Oct 03)
+🧠 Engineering & Research Digest (Oct 04)
 
 SMTP is the key: BPFDoor and AVERAT hitting the network edge: on our radar; correlate it with the rest of your feed.
-  ↳ Inspect TLS-encrypted SMTP traffic at the network edge and block DNS queries associated with BPFDoor and AVERAT threat campaigns
+Give yourself room to be human: on our radar; correlate it with the rest of your feed.
 How AI Is Changing the Roles Required in the Security Operations Center: we weigh this against how agents actually fail in prod.
+The Fine Art of Frustrating the Adversary: on our radar; correlate it with the rest of your feed.
 CrowdStrike Expands Federal SOC Modernization Through CISA-Funded SIEMaaS: we map this into the SOC runbook we operate.
-CVE-2026-88771 — Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30): patch Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30) and verify the fix held.
-Securing the Kubernetes Supply Chain: Introducing WizOS Helm Charts: we trace this against our dependency inventory.
 
 That standard is what our sentinel is built on.
 
