@@ -1,12 +1,11 @@
-🔐 Daily Security & Standards Brief (Oct 04)
+🔐 Daily Security & Standards Brief (Oct 05)
 
 CVE-2026-88779 — Citrix NetScaler: patch Citrix NetScaler and verify the fix held.
 CVE-2026-102489 — Zammad GmbH Zammad: patch Zammad GmbH Zammad and verify the fix held.
 CVE-2026-102489 — Zammad GmbH Zammad Session Fixation: patch Zammad GmbH Zammad Session Fixation and verify the fix held.
+  ↳ Immediately upgrade Zammad to the latest patched version released by Zammad GmbH to remediate the session fixation vulnerability
 CVE-2026-104286 — Fortinet FortiMail: validate paths and patch Fortinet FortiMail.
-  ↳ Immediately upgrade all Fortinet FortiMail systems to the latest firmware version containing the patch for CVE-2026-104286
 New features for RFC-Editor.org: relevant if your stack touches the standard.
-  ↳ Verify RFC-Editor.org update authenticity via official channels before installing new features to mitigate potential supply chain risks
 
 That standard is what Blue-Team discipline is built on.
 

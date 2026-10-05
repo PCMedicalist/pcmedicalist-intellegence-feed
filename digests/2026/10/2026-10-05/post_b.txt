@@ -1,8 +1,8 @@
-🧠 Engineering & Research Digest (Oct 04)
+🧠 Engineering & Research Digest (Oct 05)
 
 SMTP is the key: BPFDoor and AVERAT hitting the network edge: on our radar; correlate it with the rest of your feed.
+  ↳ Block known BPFDoor and AVERAT domains via DNS filtering and inspect SMTP traffic for TLS anomalies at the network edge
 Give yourself room to be human: on our radar; correlate it with the rest of your feed.
-  ↳ Enforce mandatory rest periods and shift rotations to mitigate cognitive fatigue risks and prevent human error in security operations
 How AI Is Changing the Roles Required in the Security Operations Center: we weigh this against how agents actually fail in prod.
 The Fine Art of Frustrating the Adversary: on our radar; correlate it with the rest of your feed.
 CrowdStrike Expands Federal SOC Modernization Through CISA-Funded SIEMaaS: we map this into the SOC runbook we operate.
