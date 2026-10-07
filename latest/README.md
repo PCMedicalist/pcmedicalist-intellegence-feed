@@ -1,12 +1,12 @@
-# Latest Digest — 2026-10-06
+# Latest Digest — 2026-10-07
 
 > Rolling snapshot of the most recent PCMedicalist Intelligence Feed digest.
 > Source of truth lives in `digests/`. This file is regenerated every run.
 
-- **Date:** 2026-10-06
+- **Date:** 2026-10-07
 - **Feeds ingested:** 39
 - **Items raw → deduped:** 3911 → 3847
-- **Full digest:** `digests/2026/10/2026-10-06/`
+- **Full digest:** `digests/2026/10/2026-10-07/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
@@ -29,11 +29,13 @@ via PCMedicalist · pcmedicalist.com/intel
 ```
 🧠 Engineering & Research Digest (Oct 06)
 
+How to mitigate the risk from AI-generated apps built by your 'citizen coder' em: we weigh this against how agents actually fail in prod.
+  ↳ Implement automated static analysis tools like golangci-lint alongside manual peer reviews for all AI-generated Go code before deployment
+Securing Agent-to-Agent Communication: The Next Identity Frontier: we map this into the identity-front-door controls.
+Introducing Wiz AI SAST: Application Security that Understands Your Code and You: we weigh this against how agents actually fail in prod.
+  ↳ Evaluate Wiz AI SAST capabilities for integration into your DevSecOps pipeline to enhance static analysis coverage across code and infrastructure
 Blinder Tunnel Campaign Targets Iraqi Infrastructure: we weigh this against how agents actually fail in prod.
-What’s New in Wiz Service Catalog: Smarter Discovery, Governance, and Service-Le: on our radar; correlate it with the rest of your feed.
-Falcon Data Security for SaaS Secures Sensitive Data in Microsoft 365: on our radar; correlate it with the rest of your feed.
-New in Falcon Cloud Security: Third-Party App Insights and AI-Enhanced Remediati: we weigh this against how agents actually fail in prod.
-SMTP is the key: BPFDoor and AVERAT hitting the network edge: on our radar; correlate it with the rest of your feed.
+Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers: on our radar; correlate it with the rest of your feed.
 
 That standard is what our sentinel is built on.
 
