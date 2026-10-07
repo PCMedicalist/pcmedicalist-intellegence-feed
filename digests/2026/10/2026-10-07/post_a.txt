@@ -1,4 +1,4 @@
-🔐 Daily Security & Standards Brief (Oct 06)
+🔐 Daily Security & Standards Brief (Oct 07)
 
 CVE-2026-88779 — Citrix NetScaler: patch Citrix NetScaler and verify the fix held.
 CVE-2026-102489 — Zammad GmbH Zammad: patch Zammad GmbH Zammad and verify the fix held.

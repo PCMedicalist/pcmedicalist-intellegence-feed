@@ -4,14 +4,14 @@
     <title>PCMedicalist Intelligence Feed</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Daily security intelligence digests — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Wed, 07 Oct 2026 01:25:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 11:15:05 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
     <item>
       <title>Digest 2026-10-07</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/10/2026-10-07/posts.json</link>
       <guid isPermaLink="false">2026-10-07</guid>
-      <pubDate>Wed, 07 Oct 2026 01:25:29 GMT</pubDate>
-      <description>🔐 Daily Security &amp; Standards Brief (Oct 06)
+      <pubDate>Wed, 07 Oct 2026 11:15:05 GMT</pubDate>
+      <description>🔐 Daily Security &amp; Standards Brief (Oct 07)
 
 CVE-2026-88779 — Citrix NetScaler: patch Citrix NetScaler and verify the fix held.
 CVE-2026-102489 — Zammad GmbH Zammad: patch Zammad GmbH Zammad and verify the fix held.
@@ -23,15 +23,14 @@ That standard is what Blue-Team discipline is built on.
 
 via PCMedicalist · pcmedicalist.com/intel
 
-🧠 Engineering &amp; Research Digest (Oct 06)
+🧠 Engineering &amp; Research Digest (Oct 07)
 
+The ASOS incident: When attackers use the channels customers trust: worth folding into your daily threat-watch if it touches your stack.
+One breach, please, and make no mistakes: worth folding into your daily threat-watch if it touches your stack.
 How to mitigate the risk from AI-generated apps built by your 'citizen coder' em: we weigh this against how agents actually fail in prod.
-  ↳ Implement automated static analysis tools like golangci-lint alongside manual peer reviews for all AI-generated Go code before deployment
 Securing Agent-to-Agent Communication: The Next Identity Frontier: we map this into the identity-front-door controls.
+  ↳ Enforce mutual TLS authentication and encryption for all agent-to-agent communications to prevent unauthorized lateral movement
 Introducing Wiz AI SAST: Application Security that Understands Your Code and You: we weigh this against how agents actually fail in prod.
-  ↳ Evaluate Wiz AI SAST capabilities for integration into your DevSecOps pipeline to enhance static analysis coverage across code and infrastructure
-Blinder Tunnel Campaign Targets Iraqi Infrastructure: we weigh this against how agents actually fail in prod.
-Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers: on our radar; correlate it with the rest of your feed.
 
 That standard is what our sentinel is built on.
 

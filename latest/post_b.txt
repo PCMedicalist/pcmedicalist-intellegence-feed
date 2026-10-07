@@ -1,12 +1,11 @@
-🧠 Engineering & Research Digest (Oct 06)
+🧠 Engineering & Research Digest (Oct 07)
 
+The ASOS incident: When attackers use the channels customers trust: worth folding into your daily threat-watch if it touches your stack.
+One breach, please, and make no mistakes: worth folding into your daily threat-watch if it touches your stack.
 How to mitigate the risk from AI-generated apps built by your 'citizen coder' em: we weigh this against how agents actually fail in prod.
-  ↳ Implement automated static analysis tools like golangci-lint alongside manual peer reviews for all AI-generated Go code before deployment
 Securing Agent-to-Agent Communication: The Next Identity Frontier: we map this into the identity-front-door controls.
+  ↳ Enforce mutual TLS authentication and encryption for all agent-to-agent communications to prevent unauthorized lateral movement
 Introducing Wiz AI SAST: Application Security that Understands Your Code and You: we weigh this against how agents actually fail in prod.
-  ↳ Evaluate Wiz AI SAST capabilities for integration into your DevSecOps pipeline to enhance static analysis coverage across code and infrastructure
-Blinder Tunnel Campaign Targets Iraqi Infrastructure: we weigh this against how agents actually fail in prod.
-Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers: on our radar; correlate it with the rest of your feed.
 
 That standard is what our sentinel is built on.
 
