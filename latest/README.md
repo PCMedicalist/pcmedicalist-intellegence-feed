@@ -1,12 +1,12 @@
-# Latest Digest — 2026-10-07
+# Latest Digest — 2026-10-08
 
 > Rolling snapshot of the most recent PCMedicalist Intelligence Feed digest.
 > Source of truth lives in `digests/`. This file is regenerated every run.
 
-- **Date:** 2026-10-07
+- **Date:** 2026-10-08
 - **Feeds ingested:** 39
 - **Items raw → deduped:** 3917 → 3854
-- **Full digest:** `digests/2026/10/2026-10-07/`
+- **Full digest:** `digests/2026/10/2026-10-08/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
@@ -29,12 +29,13 @@ via PCMedicalist · pcmedicalist.com/intel
 ```
 🧠 Engineering & Research Digest (Oct 07)
 
-The ASOS incident: When attackers use the channels customers trust: worth folding into your daily threat-watch if it touches your stack.
-One breach, please, and make no mistakes: worth folding into your daily threat-watch if it touches your stack.
-How to mitigate the risk from AI-generated apps built by your 'citizen coder' em: we weigh this against how agents actually fail in prod.
-Securing Agent-to-Agent Communication: The Next Identity Frontier: we map this into the identity-front-door controls.
-  ↳ Enforce mutual TLS authentication and encryption for all agent-to-agent communications to prevent unauthorized lateral movement
-Introducing Wiz AI SAST: Application Security that Understands Your Code and You: we weigh this against how agents actually fail in prod.
+Evolution of Web3 in Cloud Supply Chain Attacks: we trace this against our dependency inventory.
+Four Compliance Frameworks, One Security Team. How Universities Can Stop Drownin: on our radar; correlate it with the rest of your feed.
+Microsoft, Adobe, Apple, and Foxit vulnerabilities: worth folding into your daily threat-watch if it touches your stack.
+  ↳ Immediately patch all affected Microsoft, Adobe, Apple, and Foxit products to mitigate disclosed security vulnerabilities
+How the Wiz Red Agent caught a Fortune 500 firm’s data exposure (that other tool: on our radar; correlate it with the rest of your feed.
+CVE-2026-21589 — CVE-2026-21589: Critical unauthenticated arbitrary file access in Atlassian products: patch CVE-2026-21589: Critical unauthenticated arbitrary file access in Atlassian products and verify the fix held.
+  ↳ Immediately patch all Atlassian products running Python to remediate the critical unauthenticated arbitrary file access vulnerability
 
 That standard is what our sentinel is built on.
 
