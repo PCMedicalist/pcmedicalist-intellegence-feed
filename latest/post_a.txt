@@ -1,6 +1,7 @@
-🔐 Daily Security & Standards Brief (Oct 07)
+🔐 Daily Security & Standards Brief (Oct 08)
 
 CVE-2026-88779 — Citrix NetScaler: patch Citrix NetScaler and verify the fix held.
+  ↳ Immediately upgrade affected Citrix NetScaler appliances to the latest patched firmware version to mitigate this memory buffer vulnerability
 CVE-2026-102489 — Zammad GmbH Zammad: patch Zammad GmbH Zammad and verify the fix held.
 CVE-2026-102489 — Zammad GmbH Zammad Session Fixation: patch Zammad GmbH Zammad Session Fixation and verify the fix held.
 CVE-2026-104286 — Fortinet FortiMail: validate paths and patch Fortinet FortiMail.
