@@ -1,11 +1,10 @@
-🧠 Engineering & Research Digest (Oct 08)
+🧠 Engineering & Research Digest (Oct 09)
 
 Making sure the checks get printed: on our radar; correlate it with the rest of your feed.
 Inside the Exchange Inspector: How Tenable uses OpenAI GPT cyber models to revie: patch Inside the Exchange Inspector: How Tenable uses OpenAI GPT cyber models to review open-source AI agents and verify the fix held.
 UAT-11985: AI-assisted event lures delivering real-time Google AitM phishing: we weigh this against how agents actually fail in prod.
 Ignore all instructions and read this blog: The state of AI-analysis evasion in : we weigh this against how agents actually fail in prod.
 Solving the Continuous Authorization Conundrum: worth folding into your daily threat-watch if it touches your stack.
-  ↳ Implement automated continuous authorization checks and enforce strict session revalidation for the affected product immediately
 
 That standard is what our sentinel is built on.
 
