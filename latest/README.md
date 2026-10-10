@@ -1,12 +1,12 @@
-# Latest Digest — 2026-10-09
+# Latest Digest — 2026-10-10
 
 > Rolling snapshot of the most recent PCMedicalist Intelligence Feed digest.
 > Source of truth lives in `digests/`. This file is regenerated every run.
 
-- **Date:** 2026-10-09
+- **Date:** 2026-10-10
 - **Feeds ingested:** 39
 - **Items raw → deduped:** 3926 → 3863
-- **Full digest:** `digests/2026/10/2026-10-09/`
+- **Full digest:** `digests/2026/10/2026-10-10/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
@@ -29,11 +29,11 @@ via PCMedicalist · pcmedicalist.com/intel
 ```
 🧠 Engineering & Research Digest (Oct 09)
 
+Metasploit Wrap Up: A Collection of What Can Only Be Called Eclectic Modules: we file this against the daily watch — relevant if it's in your stack.
 Making sure the checks get printed: on our radar; correlate it with the rest of your feed.
 Inside the Exchange Inspector: How Tenable uses OpenAI GPT cyber models to revie: patch Inside the Exchange Inspector: How Tenable uses OpenAI GPT cyber models to review open-source AI agents and verify the fix held.
 UAT-11985: AI-assisted event lures delivering real-time Google AitM phishing: we weigh this against how agents actually fail in prod.
 Ignore all instructions and read this blog: The state of AI-analysis evasion in : we weigh this against how agents actually fail in prod.
-Solving the Continuous Authorization Conundrum: worth folding into your daily threat-watch if it touches your stack.
 
 That standard is what our sentinel is built on.
 
