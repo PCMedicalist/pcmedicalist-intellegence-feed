@@ -1,17 +1,17 @@
-# Latest Digest — 2026-10-10
+# Latest Digest — 2026-10-11
 
 > Rolling snapshot of the most recent PCMedicalist Intelligence Feed digest.
 > Source of truth lives in `digests/`. This file is regenerated every run.
 
-- **Date:** 2026-10-10
+- **Date:** 2026-10-11
 - **Feeds ingested:** 39
 - **Items raw → deduped:** 3926 → 3863
-- **Full digest:** `digests/2026/10/2026-10-10/`
+- **Full digest:** `digests/2026/10/2026-10-11/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
-🔐 Daily Security & Standards Brief (Oct 09)
+🔐 Daily Security & Standards Brief (Oct 10)
 
 CVE-2015-5477 — ISC BIND Data Processing Errors: patch ISC BIND Data Processing Errors and verify the fix held.
 CVE-2016-3081 — Apache Struts Command: patch Apache Struts Command and verify the fix held.
@@ -27,7 +27,7 @@ via PCMedicalist · pcmedicalist.com/intel
 ## Post B — CS / News / Vendor / Dev / Community
 
 ```
-🧠 Engineering & Research Digest (Oct 09)
+🧠 Engineering & Research Digest (Oct 10)
 
 Metasploit Wrap Up: A Collection of What Can Only Be Called Eclectic Modules: we file this against the daily watch — relevant if it's in your stack.
 Making sure the checks get printed: on our radar; correlate it with the rest of your feed.
