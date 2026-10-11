@@ -1,4 +1,4 @@
-🔐 Daily Security & Standards Brief (Oct 10)
+🔐 Daily Security & Standards Brief (Oct 11)
 
 CVE-2015-5477 — ISC BIND Data Processing Errors: patch ISC BIND Data Processing Errors and verify the fix held.
 CVE-2016-3081 — Apache Struts Command: patch Apache Struts Command and verify the fix held.

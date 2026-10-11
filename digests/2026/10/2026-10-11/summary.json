@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-11",
+  "feeds_total": 39,
+  "items_raw": 3955,
+  "items_deduped": 3893,
+  "per_feed": {
+    "IETF Blog": 599,
+    "W3C News": 0,
+    "RFC Editor": 0,
+    "WHATWG": 0,
+    "CISA KEV": 50,
+    "Schneier on Security": 0,
+    "Cryptography Engineering": 10,
+    "arXiv cs.CR": 0,
+    "arXiv cs.CY": 0,
+    "Krebs on Security": 10,
+    "The Hacker News": 50,
+    "BleepingComputer": 15,
+    "SecurityWeek": 10,
+    "SANS ISC": 10,
+    "The Record": 5,
+    "Security Affairs": 10,
+    "Microsoft MSRC": 1,
+    "Google Project Zero": 0,
+    "Cisco Talos": 15,
+    "Unit 42": 15,
+    "CrowdStrike": 10,
+    "Rapid7": 20,
+    "Tenable": 10,
+    "Wiz Research": 697,
+    "GitHub Blog": 10,
+    "GitHub Security Lab": 10,
+    "Kubernetes Blog": 50,
+    "Docker Blog": 10,
+    "Red Hat Security": 0,
+    "OpenSSF": 10,
+    "CISA KEV Vulns": 50,
+    "SLSA": 0,
+    "OpenSSF Main": 10,
+    "OpenAI Research": 1287,
+    "Hugging Face Blog": 876,
+    "Hacker News": 30,
+    "Lobsters": 25,
+    "r/netsec": 0,
+    "Bankr Launches": 50
+  },
+  "post_a_len": 733,
+  "post_b_len": 951,
+  "post_a_x_len": 211,
+  "post_b_x_len": 254,
+  "buffer_a_x": {
+    "dry_run": false,
+    "success": true
+  },
+  "buffer_a_li": {
+    "dry_run": false,
+    "success": true
+  },
+  "buffer_b_x": {
+    "dry_run": false,
+    "success": true
+  },
+  "buffer_b_li": {
+    "dry_run": false,
+    "success": true
+  },
+  "discord_ok": true
+}

@@ -1,4 +1,4 @@
-🧠 Engineering & Research Digest (Oct 10)
+🧠 Engineering & Research Digest (Oct 11)
 
 Metasploit Wrap Up: A Collection of What Can Only Be Called Eclectic Modules: we file this against the daily watch — relevant if it's in your stack.
 Making sure the checks get printed: on our radar; correlate it with the rest of your feed.
