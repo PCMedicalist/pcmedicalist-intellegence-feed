@@ -1,12 +1,12 @@
-🔐 Daily Security & Standards Brief (Oct 11)
+🔐 Daily Security & Standards Brief (Oct 12)
 
 CVE-2015-5477 — ISC BIND Data Processing Errors: patch ISC BIND Data Processing Errors and verify the fix held.
 CVE-2016-3081 — Apache Struts Command: patch Apache Struts Command and verify the fix held.
-  ↳ Immediately upgrade all affected Apache Struts instances to version 2.5.10 or later to patch the critical command injection vulnerability
 CVE-2023-22621 — Strapi Cleartext Storage of Sensitive Information: patch Strapi Cleartext Storage of Sensitive Information and verify the fix held.
-  ↳ Upgrade Strapi to the latest patched release and sanitize logs to prevent sensitive information from being stored in cleartext
+  ↳ Upgrade Strapi immediately to the latest patched version to remediate cleartext storage of sensitive information in logs or databases
 CVE-2021-3199 — ONLYOFFICE Docs Server: validate paths and patch ONLYOFFICE Docs Server.
 CVE-2015-3306 — ProFTPD: review access controls and patch ProFTPD.
+  ↳ Upgrade all ProFTPD instances immediately to a patched version mitigating CVE-2015-3306 improper access control vulnerabilities
 
 That standard is what Blue-Team discipline is built on.
 
