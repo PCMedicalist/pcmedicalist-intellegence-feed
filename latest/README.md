@@ -5,23 +5,21 @@
 
 - **Date:** 2026-10-13
 - **Feeds ingested:** 39
-- **Items raw → deduped:** 3955 → 3893
+- **Items raw → deduped:** 3955 → 3891
 - **Full digest:** `digests/2026/10/2026-10-13/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
-🔐 Daily Security & Standards Brief (Oct 12)
+🔐 Daily Security & Standards Brief (Oct 13)
 
 CVE-2015-5477 — ISC BIND Data Processing Errors: patch ISC BIND Data Processing Errors and verify the fix held.
-  ↳ Upgrade all ISC BIND installations immediately to the latest patched version to remediate CVE-2015-5477 data processing errors
 CVE-2016-3081 — Apache Struts Command: patch Apache Struts Command and verify the fix held.
-  ↳ Upgrade affected Apache Struts instances immediately to the patched version resolving CVE-2016-3081 command injection vulnerabilities
 CVE-2023-22621 — Strapi Cleartext Storage of Sensitive Information: patch Strapi Cleartext Storage of Sensitive Information and verify the fix held.
 CVE-2021-3199 — ONLYOFFICE Docs Server: validate paths and patch ONLYOFFICE Docs Server.
-  ↳ Upgrade ONLYOFFICE Docs Server immediately to the latest patched version to remediate CVE-2021-3199 path traversal vulnerability
+  ↳ Upgrade ONLYOFFICE Docs Server immediately to the patched version resolving CVE-2021-3199 path traversal vulnerability
 CVE-2015-3306 — ProFTPD: review access controls and patch ProFTPD.
-  ↳ Immediately upgrade all ProFTPD instances to a patched version resolving CVE-2015-3306 improper access control risks
+  ↳ Immediately upgrade all ProFTPD installations to a patched version that resolves CVE-2015-3306 to eliminate improper access control risks
 
 That standard is what Blue-Team discipline is built on.
 
@@ -31,7 +29,7 @@ via PCMedicalist · pcmedicalist.com/intel
 ## Post B — CS / News / Vendor / Dev / Community
 
 ```
-🧠 Engineering & Research Digest (Oct 12)
+🧠 Engineering & Research Digest (Oct 13)
 
 Metasploit Wrap Up: A Collection of What Can Only Be Called Eclectic Modules: we file this against the daily watch — relevant if it's in your stack.
 Making sure the checks get printed: on our radar; correlate it with the rest of your feed.
