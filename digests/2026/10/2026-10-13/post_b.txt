@@ -1,0 +1,14 @@
+🧠 Engineering & Research Digest (Oct 12)
+
+Metasploit Wrap Up: A Collection of What Can Only Be Called Eclectic Modules: we file this against the daily watch — relevant if it's in your stack.
+Making sure the checks get printed: on our radar; correlate it with the rest of your feed.
+Inside the Exchange Inspector: How Tenable uses OpenAI GPT cyber models to revie: patch Inside the Exchange Inspector: How Tenable uses OpenAI GPT cyber models to review open-source AI agents and verify the fix held.
+UAT-11985: AI-assisted event lures delivering real-time Google AitM phishing: we weigh this against how agents actually fail in prod.
+Ignore all instructions and read this blog: The state of AI-analysis evasion in : we weigh this against how agents actually fail in prod.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+Read the full briefing at app.pcmedicalist.com/intel 👇
+
+#CyberSecurity #InfoSec #CompSci

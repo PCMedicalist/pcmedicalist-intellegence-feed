@@ -1,12 +1,12 @@
-# Latest Digest — 2026-10-12
+# Latest Digest — 2026-10-13
 
 > Rolling snapshot of the most recent PCMedicalist Intelligence Feed digest.
 > Source of truth lives in `digests/`. This file is regenerated every run.
 
-- **Date:** 2026-10-12
+- **Date:** 2026-10-13
 - **Feeds ingested:** 39
 - **Items raw → deduped:** 3955 → 3893
-- **Full digest:** `digests/2026/10/2026-10-12/`
+- **Full digest:** `digests/2026/10/2026-10-13/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
@@ -14,12 +14,14 @@
 🔐 Daily Security & Standards Brief (Oct 12)
 
 CVE-2015-5477 — ISC BIND Data Processing Errors: patch ISC BIND Data Processing Errors and verify the fix held.
+  ↳ Upgrade all ISC BIND installations immediately to the latest patched version to remediate CVE-2015-5477 data processing errors
 CVE-2016-3081 — Apache Struts Command: patch Apache Struts Command and verify the fix held.
+  ↳ Upgrade affected Apache Struts instances immediately to the patched version resolving CVE-2016-3081 command injection vulnerabilities
 CVE-2023-22621 — Strapi Cleartext Storage of Sensitive Information: patch Strapi Cleartext Storage of Sensitive Information and verify the fix held.
-  ↳ Upgrade Strapi immediately to the latest patched version to remediate cleartext storage of sensitive information in logs or databases
 CVE-2021-3199 — ONLYOFFICE Docs Server: validate paths and patch ONLYOFFICE Docs Server.
+  ↳ Upgrade ONLYOFFICE Docs Server immediately to the latest patched version to remediate CVE-2021-3199 path traversal vulnerability
 CVE-2015-3306 — ProFTPD: review access controls and patch ProFTPD.
-  ↳ Upgrade all ProFTPD instances immediately to a patched version mitigating CVE-2015-3306 improper access control vulnerabilities
+  ↳ Immediately upgrade all ProFTPD instances to a patched version resolving CVE-2015-3306 improper access control risks
 
 That standard is what Blue-Team discipline is built on.
 
