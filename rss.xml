@@ -4,14 +4,14 @@
     <title>PCMedicalist Intelligence Feed</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Daily security intelligence digests — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Wed, 14 Oct 2026 01:26:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 11:26:43 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
     <item>
       <title>Digest 2026-10-14</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/10/2026-10-14/posts.json</link>
       <guid isPermaLink="false">2026-10-14</guid>
-      <pubDate>Wed, 14 Oct 2026 01:26:55 GMT</pubDate>
-      <description>🔐 Daily Security &amp; Standards Brief (Oct 13)
+      <pubDate>Wed, 14 Oct 2026 11:26:43 GMT</pubDate>
+      <description>🔐 Daily Security &amp; Standards Brief (Oct 14)
 
 CVE-2026-104935 — Ivanti Connect Secure Authentication: patch Ivanti Connect Secure Authentication and verify the fix held.
 CVE-2026-96951 — Microsoft Windows Command: patch Microsoft Windows Command and verify the fix held.
@@ -23,14 +23,14 @@ That standard is what Blue-Team discipline is built on.
 
 via PCMedicalist · pcmedicalist.com/intel
 
-🧠 Engineering &amp; Research Digest (Oct 13)
+🧠 Engineering &amp; Research Digest (Oct 14)
 
 The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Part: worth folding into your daily threat-watch if it touches your stack.
 CVE-2026-100214 — Microsoft’s October 2026 Patch Tuesday addresses 1407 CVEs (CVE-2026-96951): patch Microsoft’s October 2026 Patch Tuesday addresses 1407 CVEs (CVE-2026-96951) and verify the fix held.
 CVE-2023-23397 — October 2026: patch October 2026 and verify the fix held.
 Microsoft Patch Tuesday for October 2026 — Snort rules and prominent vulnerabili: we validate the fix against our change-control gate.
 CVE-2026-104935 — Ivanti Connect Secure zero-day exploited in the wild (CVE-2026-104935): patch Ivanti Connect Secure zero-day exploited in the wild (CVE-2026-104935) and verify the fix held.
-  ↳ Immediately upgrade all Ivanti Connect Secure instances to the latest patched version to mitigate active exploitation of CVE-2026-104935
+  ↳ Immediately apply the vendor patch for Ivanti Connect Secure and monitor logs for exploitation indicators of CVE-2026-104935
 
 That standard is what our sentinel is built on.
 

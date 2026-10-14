@@ -1,4 +1,4 @@
-🔐 Daily Security & Standards Brief (Oct 13)
+🔐 Daily Security & Standards Brief (Oct 14)
 
 CVE-2026-104935 — Ivanti Connect Secure Authentication: patch Ivanti Connect Secure Authentication and verify the fix held.
 CVE-2026-96951 — Microsoft Windows Command: patch Microsoft Windows Command and verify the fix held.
