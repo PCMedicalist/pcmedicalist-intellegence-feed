@@ -1,25 +1,23 @@
-# Latest Digest — 2026-10-13
+# Latest Digest — 2026-10-14
 
 > Rolling snapshot of the most recent PCMedicalist Intelligence Feed digest.
 > Source of truth lives in `digests/`. This file is regenerated every run.
 
-- **Date:** 2026-10-13
+- **Date:** 2026-10-14
 - **Feeds ingested:** 39
 - **Items raw → deduped:** 3955 → 3891
-- **Full digest:** `digests/2026/10/2026-10-13/`
+- **Full digest:** `digests/2026/10/2026-10-14/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
 🔐 Daily Security & Standards Brief (Oct 13)
 
+CVE-2026-104935 — Ivanti Connect Secure Authentication: patch Ivanti Connect Secure Authentication and verify the fix held.
+CVE-2026-96951 — Microsoft Windows Command: patch Microsoft Windows Command and verify the fix held.
 CVE-2015-5477 — ISC BIND Data Processing Errors: patch ISC BIND Data Processing Errors and verify the fix held.
 CVE-2016-3081 — Apache Struts Command: patch Apache Struts Command and verify the fix held.
 CVE-2023-22621 — Strapi Cleartext Storage of Sensitive Information: patch Strapi Cleartext Storage of Sensitive Information and verify the fix held.
-CVE-2021-3199 — ONLYOFFICE Docs Server: validate paths and patch ONLYOFFICE Docs Server.
-  ↳ Upgrade ONLYOFFICE Docs Server immediately to the patched version resolving CVE-2021-3199 path traversal vulnerability
-CVE-2015-3306 — ProFTPD: review access controls and patch ProFTPD.
-  ↳ Immediately upgrade all ProFTPD installations to a patched version that resolves CVE-2015-3306 to eliminate improper access control risks
 
 That standard is what Blue-Team discipline is built on.
 
@@ -31,11 +29,12 @@ via PCMedicalist · pcmedicalist.com/intel
 ```
 🧠 Engineering & Research Digest (Oct 13)
 
-Metasploit Wrap Up: A Collection of What Can Only Be Called Eclectic Modules: we file this against the daily watch — relevant if it's in your stack.
-Making sure the checks get printed: on our radar; correlate it with the rest of your feed.
-Inside the Exchange Inspector: How Tenable uses OpenAI GPT cyber models to revie: patch Inside the Exchange Inspector: How Tenable uses OpenAI GPT cyber models to review open-source AI agents and verify the fix held.
-UAT-11985: AI-assisted event lures delivering real-time Google AitM phishing: we weigh this against how agents actually fail in prod.
-Ignore all instructions and read this blog: The state of AI-analysis evasion in : we weigh this against how agents actually fail in prod.
+The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Part: worth folding into your daily threat-watch if it touches your stack.
+CVE-2026-100214 — Microsoft’s October 2026 Patch Tuesday addresses 1407 CVEs (CVE-2026-96951): patch Microsoft’s October 2026 Patch Tuesday addresses 1407 CVEs (CVE-2026-96951) and verify the fix held.
+CVE-2023-23397 — October 2026: patch October 2026 and verify the fix held.
+Microsoft Patch Tuesday for October 2026 — Snort rules and prominent vulnerabili: we validate the fix against our change-control gate.
+CVE-2026-104935 — Ivanti Connect Secure zero-day exploited in the wild (CVE-2026-104935): patch Ivanti Connect Secure zero-day exploited in the wild (CVE-2026-104935) and verify the fix held.
+  ↳ Immediately upgrade all Ivanti Connect Secure instances to the latest patched version to mitigate active exploitation of CVE-2026-104935
 
 That standard is what our sentinel is built on.
 
