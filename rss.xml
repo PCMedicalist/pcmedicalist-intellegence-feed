@@ -4,28 +4,27 @@
     <title>PCMedicalist Intelligence Feed</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Daily security intelligence digests — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Thu, 15 Oct 2026 01:48:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 11:11:37 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
     <item>
       <title>Digest 2026-10-15</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/10/2026-10-15/posts.json</link>
       <guid isPermaLink="false">2026-10-15</guid>
-      <pubDate>Thu, 15 Oct 2026 01:48:52 GMT</pubDate>
-      <description>🔐 Daily Security &amp; Standards Brief (Oct 14)
+      <pubDate>Thu, 15 Oct 2026 11:11:37 GMT</pubDate>
+      <description>🔐 Daily Security &amp; Standards Brief (Oct 15)
 
 CVE-2026-105133 — Ahsay AhsayCBS Command: patch Ahsay AhsayCBS Command and verify the fix held.
-  ↳ Immediately patch Ahsay CBS to the latest version to remediate the command injection vulnerability and prevent unauthorized remote code execution
 CVE-2026-76519 — Cisco Secure Email Gateway Relative: validate paths and patch Cisco Secure Email Gateway Relative.
 CVE-2026-105133 — Ahsay AhsayCBS: patch Ahsay AhsayCBS and verify the fix held.
+  ↳ Immediately apply the vendor patch for CVE-2026-105133 and enforce strict authentication controls on all Ahsay CBS instances
 CVE-2026-0322 — Palo Alto Networks PAN-OS Code: patch Palo Alto Networks PAN-OS Code and verify the fix held.
 CVE-2026-104935 — Ivanti Connect Secure Authentication: patch Ivanti Connect Secure Authentication and verify the fix held.
-  ↳ Immediately upgrade Ivanti Connect Secure to the latest patched version to remediate CVE-2026-104935 and prevent authentication bypass via spoofing
 
 That standard is what Blue-Team discipline is built on.
 
 via PCMedicalist · pcmedicalist.com/intel
 
-🧠 Engineering &amp; Research Digest (Oct 14)
+🧠 Engineering &amp; Research Digest (Oct 15)
 
 CVE-2024-47575 — Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant: patch Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant and verify the fix held.
 ASPM in the AI Era Part 1: Unified Visibility Across Your Stack: we weigh this against how agents actually fail in prod.

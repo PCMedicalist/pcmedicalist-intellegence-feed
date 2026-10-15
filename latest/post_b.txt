@@ -1,4 +1,4 @@
-🧠 Engineering & Research Digest (Oct 14)
+🧠 Engineering & Research Digest (Oct 15)
 
 CVE-2024-47575 — Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant: patch Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant and verify the fix held.
 ASPM in the AI Era Part 1: Unified Visibility Across Your Stack: we weigh this against how agents actually fail in prod.

@@ -5,21 +5,20 @@
 
 - **Date:** 2026-10-15
 - **Feeds ingested:** 39
-- **Items raw → deduped:** 3956 → 3893
+- **Items raw → deduped:** 3943 → 3879
 - **Full digest:** `digests/2026/10/2026-10-15/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
-🔐 Daily Security & Standards Brief (Oct 14)
+🔐 Daily Security & Standards Brief (Oct 15)
 
 CVE-2026-105133 — Ahsay AhsayCBS Command: patch Ahsay AhsayCBS Command and verify the fix held.
-  ↳ Immediately patch Ahsay CBS to the latest version to remediate the command injection vulnerability and prevent unauthorized remote code execution
 CVE-2026-76519 — Cisco Secure Email Gateway Relative: validate paths and patch Cisco Secure Email Gateway Relative.
 CVE-2026-105133 — Ahsay AhsayCBS: patch Ahsay AhsayCBS and verify the fix held.
+  ↳ Immediately apply the vendor patch for CVE-2026-105133 and enforce strict authentication controls on all Ahsay CBS instances
 CVE-2026-0322 — Palo Alto Networks PAN-OS Code: patch Palo Alto Networks PAN-OS Code and verify the fix held.
 CVE-2026-104935 — Ivanti Connect Secure Authentication: patch Ivanti Connect Secure Authentication and verify the fix held.
-  ↳ Immediately upgrade Ivanti Connect Secure to the latest patched version to remediate CVE-2026-104935 and prevent authentication bypass via spoofing
 
 That standard is what Blue-Team discipline is built on.
 
@@ -29,7 +28,7 @@ via PCMedicalist · pcmedicalist.com/intel
 ## Post B — CS / News / Vendor / Dev / Community
 
 ```
-🧠 Engineering & Research Digest (Oct 14)
+🧠 Engineering & Research Digest (Oct 15)
 
 CVE-2024-47575 — Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant: patch Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant and verify the fix held.
 ASPM in the AI Era Part 1: Unified Visibility Across Your Stack: we weigh this against how agents actually fail in prod.
