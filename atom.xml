@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Intelligence Feed</title>
   <id>tag:pcmedicalist.com,2026:intel-feed</id>
-  <updated>2026-10-14T11:26:43Z</updated>
+  <updated>2026-10-15T01:48:52Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/atom.xml"/>
   <subtitle>Daily security intelligence digests — PCMedicalist Intelligence Network</subtitle>
+  <entry>
+    <title>Digest 2026-10-15</title>
+    <id>tag:pcmedicalist.com,2026:intel-feed:2026-10-15</id>
+    <updated>2026-10-15T01:48:52Z</updated>
+    <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/10/2026-10-15/posts.json"/>
+    <summary>Security intelligence digest for 2026-10-15</summary>
+    <content type="text">🔐 Daily Security &amp; Standards Brief (Oct 14)
+
+CVE-2026-105133 — Ahsay AhsayCBS Command: patch Ahsay AhsayCBS Command and verify the fix held.
+  ↳ Immediately patch Ahsay CBS to the latest version to remediate the command injection vulnerability and prevent unauthorized remote code execution
+CVE-2026-76519 — Cisco Secure Email Gateway Relative: validate paths and patch Cisco Secure Email Gateway Relative.
+CVE-2026-105133 — Ahsay AhsayCBS: patch Ahsay AhsayCBS and verify the fix held.
+CVE-2026-0322 — Palo Alto Networks PAN-OS Code: patch Palo Alto Networks PAN-OS Code and verify the fix held.
+CVE-2026-104935 — Ivanti Connect Secure Authentication: patch Ivanti Connect Secure Authentication and verify the fix held.
+  ↳ Immediately upgrade Ivanti Connect Secure to the latest patched version to remediate CVE-2026-104935 and prevent authentication bypass via spoofing
+
+That standard is what Blue-Team discipline is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+
+🧠 Engineering &amp; Research Digest (Oct 14)
+
+CVE-2024-47575 — Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant: patch Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant and verify the fix held.
+ASPM in the AI Era Part 1: Unified Visibility Across Your Stack: we weigh this against how agents actually fail in prod.
+Break the silence: Kazakhstan-nexus UAT-6275 targets CIS government organization: we file this against the daily watch — relevant if it's in your stack.
+Securing the Mission at Machine Speed: Wiz AI Agents Arrive in Wiz for Gov: we weigh this against how agents actually fail in prod.
+The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Part: worth folding into your daily threat-watch if it touches your stack.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel</content>
+  </entry>
   <entry>
     <title>Digest 2026-10-14</title>
     <id>tag:pcmedicalist.com,2026:intel-feed:2026-10-14</id>

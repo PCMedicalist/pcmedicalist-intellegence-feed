@@ -1,11 +1,10 @@
 🧠 Engineering & Research Digest (Oct 14)
 
+CVE-2024-47575 — Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant: patch Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant and verify the fix held.
+ASPM in the AI Era Part 1: Unified Visibility Across Your Stack: we weigh this against how agents actually fail in prod.
+Break the silence: Kazakhstan-nexus UAT-6275 targets CIS government organization: we file this against the daily watch — relevant if it's in your stack.
+Securing the Mission at Machine Speed: Wiz AI Agents Arrive in Wiz for Gov: we weigh this against how agents actually fail in prod.
 The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Part: worth folding into your daily threat-watch if it touches your stack.
-CVE-2026-100214 — Microsoft’s October 2026 Patch Tuesday addresses 1407 CVEs (CVE-2026-96951): patch Microsoft’s October 2026 Patch Tuesday addresses 1407 CVEs (CVE-2026-96951) and verify the fix held.
-CVE-2023-23397 — October 2026: patch October 2026 and verify the fix held.
-Microsoft Patch Tuesday for October 2026 — Snort rules and prominent vulnerabili: we validate the fix against our change-control gate.
-CVE-2026-104935 — Ivanti Connect Secure zero-day exploited in the wild (CVE-2026-104935): patch Ivanti Connect Secure zero-day exploited in the wild (CVE-2026-104935) and verify the fix held.
-  ↳ Immediately apply the vendor patch for Ivanti Connect Secure and monitor logs for exploitation indicators of CVE-2026-104935
 
 That standard is what our sentinel is built on.
 

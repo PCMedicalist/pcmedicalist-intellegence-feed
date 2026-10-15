@@ -1,0 +1,16 @@
+🔐 Daily Security & Standards Brief (Oct 14)
+
+CVE-2026-105133 — Ahsay AhsayCBS Command: patch Ahsay AhsayCBS Command and verify the fix held.
+  ↳ Immediately patch Ahsay CBS to the latest version to remediate the command injection vulnerability and prevent unauthorized remote code execution
+CVE-2026-76519 — Cisco Secure Email Gateway Relative: validate paths and patch Cisco Secure Email Gateway Relative.
+CVE-2026-105133 — Ahsay AhsayCBS: patch Ahsay AhsayCBS and verify the fix held.
+CVE-2026-0322 — Palo Alto Networks PAN-OS Code: patch Palo Alto Networks PAN-OS Code and verify the fix held.
+CVE-2026-104935 — Ivanti Connect Secure Authentication: patch Ivanti Connect Secure Authentication and verify the fix held.
+  ↳ Immediately upgrade Ivanti Connect Secure to the latest patched version to remediate CVE-2026-104935 and prevent authentication bypass via spoofing
+
+That standard is what Blue-Team discipline is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+Read the full briefing at app.pcmedicalist.com/intel 👇
+
+#CyberSecurity #InfoSec
