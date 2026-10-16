@@ -5,23 +5,20 @@
 
 - **Date:** 2026-10-16
 - **Feeds ingested:** 39
-- **Items raw → deduped:** 3943 → 3879
+- **Items raw → deduped:** 3949 → 3885
 - **Full digest:** `digests/2026/10/2026-10-16/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
-🔐 Daily Security & Standards Brief (Oct 15)
+🔐 Daily Security & Standards Brief (Oct 16)
 
 CVE-2026-21589 — Atlassian Multiple Products Files or Directories Accessible to External Parties: patch Atlassian Multiple Products Files or Directories Accessible to External Parties and verify the fix held.
-  ↳ Immediately upgrade all Atlassian instances to the latest patched version to prevent unauthorized external file and directory access
+  ↳ Immediately patch all Atlassian instances and audit external directory permissions to prevent unauthorized file access
 CVE-2026-105133 — Ahsay AhsayCBS Command: patch Ahsay AhsayCBS Command and verify the fix held.
-  ↳ Apply the vendor-provided security patch for Ahsay CBS immediately to remediate the command injection vulnerability in all deployed instances
 CVE-2026-76519 — Cisco Secure Email Gateway Relative: validate paths and patch Cisco Secure Email Gateway Relative.
 CVE-2026-105133 — Ahsay AhsayCBS: patch Ahsay AhsayCBS and verify the fix held.
-  ↳ Immediately upgrade Ahsay CBS to the latest patched release to remediate the improper authentication vulnerability and prevent unauthorized access
 CVE-2026-0322 — Palo Alto Networks PAN-OS Code: patch Palo Alto Networks PAN-OS Code and verify the fix held.
-  ↳ Immediately upgrade affected Palo Alto Networks PAN-OS systems to the latest patched version to mitigate CVE-2026-0322
 
 That standard is what Blue-Team discipline is built on.
 
@@ -31,7 +28,7 @@ via PCMedicalist · pcmedicalist.com/intel
 ## Post B — CS / News / Vendor / Dev / Community
 
 ```
-🧠 Engineering & Research Digest (Oct 15)
+🧠 Engineering & Research Digest (Oct 16)
 
 AI-Powered Espionage Campaign Targets Government Linux Infrastructure: we weigh this against how agents actually fail in prod.
 The Q3 Vulnerability Pulse: Discovery ≠ Exploitation: patch The Q3 and verify the fix held.

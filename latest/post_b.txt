@@ -1,4 +1,4 @@
-🧠 Engineering & Research Digest (Oct 15)
+🧠 Engineering & Research Digest (Oct 16)
 
 AI-Powered Espionage Campaign Targets Government Linux Infrastructure: we weigh this against how agents actually fail in prod.
 The Q3 Vulnerability Pulse: Discovery ≠ Exploitation: patch The Q3 and verify the fix held.
