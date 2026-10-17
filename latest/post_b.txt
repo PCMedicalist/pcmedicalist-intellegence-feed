@@ -1,10 +1,11 @@
 🧠 Engineering & Research Digest (Oct 16)
 
+Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026: we file this against the daily watch — relevant if it's in your stack.
 AI-Powered Espionage Campaign Targets Government Linux Infrastructure: we weigh this against how agents actually fail in prod.
 The Q3 Vulnerability Pulse: Discovery ≠ Exploitation: patch The Q3 and verify the fix held.
 CVE-2024-47575 — Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant: patch Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant and verify the fix held.
 ASPM in the AI Era Part 1: Unified Visibility Across Your Stack: we weigh this against how agents actually fail in prod.
-Break the silence: Kazakhstan-nexus UAT-6275 targets CIS government organization: we file this against the daily watch — relevant if it's in your stack.
+  ↳ Implement unified Application Security Posture Management (ASPM) across your entire technology stack to maintain comprehensive visibility against emerging AI-driven threats
 
 That standard is what our sentinel is built on.
 

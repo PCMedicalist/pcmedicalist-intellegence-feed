@@ -1,11 +1,10 @@
 🔐 Daily Security & Standards Brief (Oct 16)
 
+CVE-2026-102764 — BeyondTrust Remote Support Authentication: patch BeyondTrust Remote Support Authentication and verify the fix held.
+CVE-2025-61624 — Fortinet Multiple Products: validate paths and patch Fortinet Multiple Products.
 CVE-2026-21589 — Atlassian Multiple Products Files or Directories Accessible to External Parties: patch Atlassian Multiple Products Files or Directories Accessible to External Parties and verify the fix held.
-  ↳ Immediately patch all Atlassian instances and audit external directory permissions to prevent unauthorized file access
 CVE-2026-105133 — Ahsay AhsayCBS Command: patch Ahsay AhsayCBS Command and verify the fix held.
 CVE-2026-76519 — Cisco Secure Email Gateway Relative: validate paths and patch Cisco Secure Email Gateway Relative.
-CVE-2026-105133 — Ahsay AhsayCBS: patch Ahsay AhsayCBS and verify the fix held.
-CVE-2026-0322 — Palo Alto Networks PAN-OS Code: patch Palo Alto Networks PAN-OS Code and verify the fix held.
 
 That standard is what Blue-Team discipline is built on.
 
