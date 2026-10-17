@@ -5,18 +5,20 @@
 
 - **Date:** 2026-10-17
 - **Feeds ingested:** 39
-- **Items raw → deduped:** 3949 → 3885
+- **Items raw → deduped:** 3952 → 3889
 - **Full digest:** `digests/2026/10/2026-10-17/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
-🔐 Daily Security & Standards Brief (Oct 16)
+🔐 Daily Security & Standards Brief (Oct 17)
 
 CVE-2026-102764 — BeyondTrust Remote Support Authentication: patch BeyondTrust Remote Support Authentication and verify the fix held.
 CVE-2025-61624 — Fortinet Multiple Products: validate paths and patch Fortinet Multiple Products.
 CVE-2026-21589 — Atlassian Multiple Products Files or Directories Accessible to External Parties: patch Atlassian Multiple Products Files or Directories Accessible to External Parties and verify the fix held.
+  ↳ Immediately patch all Atlassian instances and restrict directory permissions to prevent unauthorized external file access
 CVE-2026-105133 — Ahsay AhsayCBS Command: patch Ahsay AhsayCBS Command and verify the fix held.
+  ↳ Immediately upgrade Ahsay AhsayCBS to the latest patched version to remediate this command injection vulnerability
 CVE-2026-76519 — Cisco Secure Email Gateway Relative: validate paths and patch Cisco Secure Email Gateway Relative.
 
 That standard is what Blue-Team discipline is built on.
@@ -27,14 +29,14 @@ via PCMedicalist · pcmedicalist.com/intel
 ## Post B — CS / News / Vendor / Dev / Community
 
 ```
-🧠 Engineering & Research Digest (Oct 16)
+🧠 Engineering & Research Digest (Oct 17)
 
 Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026: we file this against the daily watch — relevant if it's in your stack.
 AI-Powered Espionage Campaign Targets Government Linux Infrastructure: we weigh this against how agents actually fail in prod.
+  ↳ Immediately patch critical Linux vulnerabilities and deploy behavioral analytics to detect AI-driven exploitation attempts
 The Q3 Vulnerability Pulse: Discovery ≠ Exploitation: patch The Q3 and verify the fix held.
 CVE-2024-47575 — Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant: patch Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant and verify the fix held.
 ASPM in the AI Era Part 1: Unified Visibility Across Your Stack: we weigh this against how agents actually fail in prod.
-  ↳ Implement unified Application Security Posture Management (ASPM) across your entire technology stack to maintain comprehensive visibility against emerging AI-driven threats
 
 That standard is what our sentinel is built on.
 
