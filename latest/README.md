@@ -5,22 +5,19 @@
 
 - **Date:** 2026-10-18
 - **Feeds ingested:** 39
-- **Items raw → deduped:** 3952 → 3889
+- **Items raw → deduped:** 3953 → 3891
 - **Full digest:** `digests/2026/10/2026-10-18/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
-🔐 Daily Security & Standards Brief (Oct 17)
+🔐 Daily Security & Standards Brief (Oct 18)
 
 CVE-2026-102764 — BeyondTrust Remote Support Authentication: patch BeyondTrust Remote Support Authentication and verify the fix held.
 CVE-2025-61624 — Fortinet Multiple Products: validate paths and patch Fortinet Multiple Products.
-  ↳ Immediately upgrade all affected Fortinet devices to the latest patched firmware version released by the vendor
 CVE-2026-21589 — Atlassian Multiple Products Files or Directories Accessible to External Parties: patch Atlassian Multiple Products Files or Directories Accessible to External Parties and verify the fix held.
 CVE-2026-105133 — Ahsay AhsayCBS Command: patch Ahsay AhsayCBS Command and verify the fix held.
-  ↳ Immediately apply the vendor patch for CVE-2026-105134 on all AhsayCBS instances and restrict inbound traffic to the service
 CVE-2026-76519 — Cisco Secure Email Gateway Relative: validate paths and patch Cisco Secure Email Gateway Relative.
-  ↳ Immediately upgrade the affected Cisco Secure Email Gateway to the latest patched version from Cisco to mitigate CVE-2026-76519
 
 That standard is what Blue-Team discipline is built on.
 
@@ -30,12 +27,11 @@ via PCMedicalist · pcmedicalist.com/intel
 ## Post B — CS / News / Vendor / Dev / Community
 
 ```
-🧠 Engineering & Research Digest (Oct 17)
+🧠 Engineering & Research Digest (Oct 18)
 
 Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026: we file this against the daily watch — relevant if it's in your stack.
 AI-Powered Espionage Campaign Targets Government Linux Infrastructure: we weigh this against how agents actually fail in prod.
 The Q3 Vulnerability Pulse: Discovery ≠ Exploitation: patch The Q3 and verify the fix held.
-  ↳ Evaluate whether the affected product faces active exploitation threats before prioritizing urgent remediation over routine patch management
 CVE-2024-47575 — Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant: patch Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant and verify the fix held.
 ASPM in the AI Era Part 1: Unified Visibility Across Your Stack: we weigh this against how agents actually fail in prod.
 
