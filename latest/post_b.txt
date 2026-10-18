@@ -2,8 +2,8 @@
 
 Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026: we file this against the daily watch — relevant if it's in your stack.
 AI-Powered Espionage Campaign Targets Government Linux Infrastructure: we weigh this against how agents actually fail in prod.
-  ↳ Immediately patch critical Linux vulnerabilities and deploy behavioral analytics to detect AI-driven exploitation attempts
 The Q3 Vulnerability Pulse: Discovery ≠ Exploitation: patch The Q3 and verify the fix held.
+  ↳ Evaluate whether the affected product faces active exploitation threats before prioritizing urgent remediation over routine patch management
 CVE-2024-47575 — Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant: patch Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant and verify the fix held.
 ASPM in the AI Era Part 1: Unified Visibility Across Your Stack: we weigh this against how agents actually fail in prod.
 
