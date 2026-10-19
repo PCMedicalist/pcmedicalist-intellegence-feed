@@ -1,12 +1,12 @@
-# Latest Digest — 2026-10-18
+# Latest Digest — 2026-10-19
 
 > Rolling snapshot of the most recent PCMedicalist Intelligence Feed digest.
 > Source of truth lives in `digests/`. This file is regenerated every run.
 
-- **Date:** 2026-10-18
+- **Date:** 2026-10-19
 - **Feeds ingested:** 39
 - **Items raw → deduped:** 3953 → 3891
-- **Full digest:** `digests/2026/10/2026-10-18/`
+- **Full digest:** `digests/2026/10/2026-10-19/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
@@ -14,7 +14,9 @@
 🔐 Daily Security & Standards Brief (Oct 18)
 
 CVE-2026-102764 — BeyondTrust Remote Support Authentication: patch BeyondTrust Remote Support Authentication and verify the fix held.
+  ↳ Immediately apply the vendor patch for BeyondTrust Remote Support or disable the service and monitor logs for spoofed authentication attempts
 CVE-2025-61624 — Fortinet Multiple Products: validate paths and patch Fortinet Multiple Products.
+  ↳ Immediately upgrade firmware on all affected Fortinet products to the latest patched versions released by the vendor
 CVE-2026-21589 — Atlassian Multiple Products Files or Directories Accessible to External Parties: patch Atlassian Multiple Products Files or Directories Accessible to External Parties and verify the fix held.
 CVE-2026-105133 — Ahsay AhsayCBS Command: patch Ahsay AhsayCBS Command and verify the fix held.
 CVE-2026-76519 — Cisco Secure Email Gateway Relative: validate paths and patch Cisco Secure Email Gateway Relative.
