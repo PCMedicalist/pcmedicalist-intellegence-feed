@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "feeds_total": 39,
   "items_raw": 3953,
-  "items_deduped": 3891,
+  "items_deduped": 3890,
   "per_feed": {
     "IETF Blog": 599,
     "W3C News": 0,
@@ -44,8 +44,8 @@
     "r/netsec": 0,
     "Bankr Launches": 50
   },
-  "post_a_len": 1254,
-  "post_b_len": 1018,
+  "post_a_len": 1144,
+  "post_b_len": 873,
   "post_a_x_len": 233,
   "post_b_x_len": 251,
   "buffer_a_x": {

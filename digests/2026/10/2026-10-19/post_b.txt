@@ -1,4 +1,4 @@
-🧠 Engineering & Research Digest (Oct 18)
+🧠 Engineering & Research Digest (Oct 19)
 
 Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026: we file this against the daily watch — relevant if it's in your stack.
 AI-Powered Espionage Campaign Targets Government Linux Infrastructure: we weigh this against how agents actually fail in prod.

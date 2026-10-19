@@ -5,21 +5,20 @@
 
 - **Date:** 2026-10-19
 - **Feeds ingested:** 39
-- **Items raw → deduped:** 3953 → 3891
+- **Items raw → deduped:** 3953 → 3890
 - **Full digest:** `digests/2026/10/2026-10-19/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
-🔐 Daily Security & Standards Brief (Oct 18)
+🔐 Daily Security & Standards Brief (Oct 19)
 
 CVE-2026-102764 — BeyondTrust Remote Support Authentication: patch BeyondTrust Remote Support Authentication and verify the fix held.
-  ↳ Immediately apply the vendor patch for BeyondTrust Remote Support or disable the service and monitor logs for spoofed authentication attempts
 CVE-2025-61624 — Fortinet Multiple Products: validate paths and patch Fortinet Multiple Products.
-  ↳ Immediately upgrade firmware on all affected Fortinet products to the latest patched versions released by the vendor
 CVE-2026-21589 — Atlassian Multiple Products Files or Directories Accessible to External Parties: patch Atlassian Multiple Products Files or Directories Accessible to External Parties and verify the fix held.
 CVE-2026-105133 — Ahsay AhsayCBS Command: patch Ahsay AhsayCBS Command and verify the fix held.
 CVE-2026-76519 — Cisco Secure Email Gateway Relative: validate paths and patch Cisco Secure Email Gateway Relative.
+  ↳ Upgrade the Cisco Secure Email Gateway software immediately to the latest patched release addressing CVE-2026-76519
 
 That standard is what Blue-Team discipline is built on.
 
@@ -29,7 +28,7 @@ via PCMedicalist · pcmedicalist.com/intel
 ## Post B — CS / News / Vendor / Dev / Community
 
 ```
-🧠 Engineering & Research Digest (Oct 18)
+🧠 Engineering & Research Digest (Oct 19)
 
 Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026: we file this against the daily watch — relevant if it's in your stack.
 AI-Powered Espionage Campaign Targets Government Linux Infrastructure: we weigh this against how agents actually fail in prod.
