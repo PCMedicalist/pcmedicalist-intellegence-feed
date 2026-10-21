@@ -1,24 +1,23 @@
-# Latest Digest — 2026-10-20
+# Latest Digest — 2026-10-21
 
 > Rolling snapshot of the most recent PCMedicalist Intelligence Feed digest.
 > Source of truth lives in `digests/`. This file is regenerated every run.
 
-- **Date:** 2026-10-20
+- **Date:** 2026-10-21
 - **Feeds ingested:** 39
 - **Items raw → deduped:** 3958 → 3894
-- **Full digest:** `digests/2026/10/2026-10-20/`
+- **Full digest:** `digests/2026/10/2026-10-21/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
 🔐 Daily Security & Standards Brief (Oct 20)
 
-CVE-2026-102764 — BeyondTrust Remote Support Authentication: patch BeyondTrust Remote Support Authentication and verify the fix held.
-CVE-2025-61624 — Fortinet Multiple Products: validate paths and patch Fortinet Multiple Products.
-  ↳ Immediately upgrade all affected Fortinet products to the latest patched firmware version addressing CVE-2025-61624
-CVE-2026-21589 — Atlassian Multiple Products Files or Directories Accessible to External Parties: patch Atlassian Multiple Products Files or Directories Accessible to External Parties and verify the fix held.
-CVE-2026-105133 — Ahsay AhsayCBS Command: patch Ahsay AhsayCBS Command and verify the fix held.
-CVE-2026-76519 — Cisco Secure Email Gateway Relative: validate paths and patch Cisco Secure Email Gateway Relative.
+CVE-2026-106931 — EG Secure Solutions SiteGuard Server Edition: sanitize inputs and patch EG Secure Solutions SiteGuard Server Edition.
+CVE-2026-96652 — Plex Media Server External Control of File Name or Path: patch Plex Media Server External Control of File Name or Path and verify the fix held.
+CVE-2026-96652 — Plex Media Server Server-Side Request Forgery (SSRF): patch Plex Media Server Server-Side Request Forgery (SSRF) and verify the fix held.
+CVE-2026-96652 — Plex Media Server: patch Plex Media Server and verify the fix held.
+CVE-2026-96652 — Plex Media Server Server-Side Request Forgery (SSRF): patch Plex Media Server Server-Side Request Forgery (SSRF) and verify the fix held.
 
 That standard is what Blue-Team discipline is built on.
 
@@ -30,12 +29,12 @@ via PCMedicalist · pcmedicalist.com/intel
 ```
 🧠 Engineering & Research Digest (Oct 20)
 
-CVE-2026-0257 — Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19): patch Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19) and verify the fix held.
-  ↳ Immediately upgrade all PAN-OS devices to the latest firmware version addressing CVE-2026-0257 to block active exploitation attempts
-Supply Chain Zero Days: Closing the Gap Between Publication and Detection: we trace this against our dependency inventory.
-Unmasking the robots: Why it’s critical to discover AI agent identities and how : we weigh this against how agents actually fail in prod.
-Loud, Fast, and Everywhere: Anatomy of a Real AI-Driven Cloud Attack: we weigh this against how agents actually fail in prod.
-Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026: we file this against the daily watch — relevant if it's in your stack.
+Wiz Sensor on GKE. 1-Click Runtime Protection, Now Native.: worth folding into your daily threat-watch if it touches your stack.
+Oracle October 2026 Critical Patch Update Addresses 1209 CVEs: we validate the fix against our change-control gate.
+CVE-2026-0257 — Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20): patch Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20) and verify the fix held.
+  ↳ Immediately apply the latest PAN-OS vendor patch to remediate active exploitation of CVE-2026-0257 across all affected devices
+From Phishing to LLMjacking: Threat Actors Targeting Cloud Billing Accounts for : we tighten the mail/url filtering policy on this signal.
+There's only so much code: the rise in vulnerability numbers: patch There's only so much code: the rise in and verify the fix held.
 
 That standard is what our sentinel is built on.
 

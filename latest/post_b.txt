@@ -1,11 +1,11 @@
 🧠 Engineering & Research Digest (Oct 20)
 
-CVE-2026-0257 — Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19): patch Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19) and verify the fix held.
-  ↳ Immediately upgrade all PAN-OS devices to the latest firmware version addressing CVE-2026-0257 to block active exploitation attempts
-Supply Chain Zero Days: Closing the Gap Between Publication and Detection: we trace this against our dependency inventory.
-Unmasking the robots: Why it’s critical to discover AI agent identities and how : we weigh this against how agents actually fail in prod.
-Loud, Fast, and Everywhere: Anatomy of a Real AI-Driven Cloud Attack: we weigh this against how agents actually fail in prod.
-Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026: we file this against the daily watch — relevant if it's in your stack.
+Wiz Sensor on GKE. 1-Click Runtime Protection, Now Native.: worth folding into your daily threat-watch if it touches your stack.
+Oracle October 2026 Critical Patch Update Addresses 1209 CVEs: we validate the fix against our change-control gate.
+CVE-2026-0257 — Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20): patch Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20) and verify the fix held.
+  ↳ Immediately apply the latest PAN-OS vendor patch to remediate active exploitation of CVE-2026-0257 across all affected devices
+From Phishing to LLMjacking: Threat Actors Targeting Cloud Billing Accounts for : we tighten the mail/url filtering policy on this signal.
+There's only so much code: the rise in vulnerability numbers: patch There's only so much code: the rise in and verify the fix held.
 
 That standard is what our sentinel is built on.
 
