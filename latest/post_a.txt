@@ -1,9 +1,10 @@
-🔐 Daily Security & Standards Brief (Oct 20)
+🔐 Daily Security & Standards Brief (Oct 21)
 
 CVE-2026-106931 — EG Secure Solutions SiteGuard Server Edition: sanitize inputs and patch EG Secure Solutions SiteGuard Server Edition.
 CVE-2026-96652 — Plex Media Server External Control of File Name or Path: patch Plex Media Server External Control of File Name or Path and verify the fix held.
 CVE-2026-96652 — Plex Media Server Server-Side Request Forgery (SSRF): patch Plex Media Server Server-Side Request Forgery (SSRF) and verify the fix held.
 CVE-2026-96652 — Plex Media Server: patch Plex Media Server and verify the fix held.
+  ↳ Immediately upgrade all deployed Plex Media Server instances to the latest patched release mitigating improper URI scheme neutralization risks
 CVE-2026-96652 — Plex Media Server Server-Side Request Forgery (SSRF): patch Plex Media Server Server-Side Request Forgery (SSRF) and verify the fix held.
 
 That standard is what Blue-Team discipline is built on.
