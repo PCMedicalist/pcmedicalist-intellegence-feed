@@ -2,9 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Intelligence Feed</title>
   <id>tag:pcmedicalist.com,2026:intel-feed</id>
-  <updated>2026-10-21T11:27:35Z</updated>
+  <updated>2026-10-22T01:39:53Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/atom.xml"/>
   <subtitle>Daily security intelligence digests — PCMedicalist Intelligence Network</subtitle>
+  <entry>
+    <title>Digest 2026-10-22</title>
+    <id>tag:pcmedicalist.com,2026:intel-feed:2026-10-22</id>
+    <updated>2026-10-22T01:39:53Z</updated>
+    <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/10/2026-10-22/posts.json"/>
+    <summary>Security intelligence digest for 2026-10-22</summary>
+    <content type="text">🔐 Daily Security &amp; Standards Brief (Oct 21)
+
+CVE-2026-106931 — EG Secure Solutions SiteGuard Server Edition: sanitize inputs and patch EG Secure Solutions SiteGuard Server Edition.
+CVE-2026-96652 — Plex Media Server External Control of File Name or Path: patch Plex Media Server External Control of File Name or Path and verify the fix held.
+CVE-2026-96652 — Plex Media Server Server-Side Request Forgery (SSRF): patch Plex Media Server Server-Side Request Forgery (SSRF) and verify the fix held.
+CVE-2026-96652 — Plex Media Server: patch Plex Media Server and verify the fix held.
+CVE-2026-96652 — Plex Media Server Server-Side Request Forgery (SSRF): patch Plex Media Server Server-Side Request Forgery (SSRF) and verify the fix held.
+
+That standard is what Blue-Team discipline is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+
+🧠 Engineering &amp; Research Digest (Oct 21)
+
+Compromised eMudhra intermediate certificates: on our radar; correlate it with the rest of your feed.
+CVE-2026-109618 — Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619: patch Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 and verify the fix held.
+Two critical RCEs in PHP core: patch Two critical RCEs in PHP core immediately — RCE exposure.
+“Next Exploit Opportunities”: How a Threat Actor Used AI to Help Plan and Execut: patch “Next Exploit Opportunities”: How a Threat Actor Used AI to Help Plan and Execute Multiple Types of Cybercrime Activities and verify the fix held.
+PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Interne: patch PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet immediately — RCE exposure.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel</content>
+  </entry>
   <entry>
     <title>Digest 2026-10-21</title>
     <id>tag:pcmedicalist.com,2026:intel-feed:2026-10-21</id>

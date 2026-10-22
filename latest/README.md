@@ -1,12 +1,12 @@
-# Latest Digest — 2026-10-21
+# Latest Digest — 2026-10-22
 
 > Rolling snapshot of the most recent PCMedicalist Intelligence Feed digest.
 > Source of truth lives in `digests/`. This file is regenerated every run.
 
-- **Date:** 2026-10-21
+- **Date:** 2026-10-22
 - **Feeds ingested:** 39
 - **Items raw → deduped:** 3966 → 3901
-- **Full digest:** `digests/2026/10/2026-10-21/`
+- **Full digest:** `digests/2026/10/2026-10-22/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
@@ -17,7 +17,6 @@ CVE-2026-106931 — EG Secure Solutions SiteGuard Server Edition: sanitize input
 CVE-2026-96652 — Plex Media Server External Control of File Name or Path: patch Plex Media Server External Control of File Name or Path and verify the fix held.
 CVE-2026-96652 — Plex Media Server Server-Side Request Forgery (SSRF): patch Plex Media Server Server-Side Request Forgery (SSRF) and verify the fix held.
 CVE-2026-96652 — Plex Media Server: patch Plex Media Server and verify the fix held.
-  ↳ Immediately upgrade all deployed Plex Media Server instances to the latest patched release mitigating improper URI scheme neutralization risks
 CVE-2026-96652 — Plex Media Server Server-Side Request Forgery (SSRF): patch Plex Media Server Server-Side Request Forgery (SSRF) and verify the fix held.
 
 That standard is what Blue-Team discipline is built on.
@@ -30,11 +29,11 @@ via PCMedicalist · pcmedicalist.com/intel
 ```
 🧠 Engineering & Research Digest (Oct 21)
 
-Parasitizing trust: How legitimate infrastructure becomes a delivery pipeline fo: worth folding into your daily threat-watch if it touches your stack.
-CVE-2012-1823 — php2shell (CVE-2026-109618, CVE-2026-109619): Frequently asked questions about critical PHP: patch php2shell (CVE-2026-109618, CVE-2026-109619): Frequently asked questions about critical PHP immediately — RCE exposure.
-Wiz Sensor on GKE. 1-Click Runtime Protection, Now Native.: worth folding into your daily threat-watch if it touches your stack.
-Oracle October 2026 Critical Patch Update Addresses 1209 CVEs: we validate the fix against our change-control gate.
-CVE-2026-0257 — Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20): patch Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20) and verify the fix held.
+Compromised eMudhra intermediate certificates: on our radar; correlate it with the rest of your feed.
+CVE-2026-109618 — Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619: patch Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 and verify the fix held.
+Two critical RCEs in PHP core: patch Two critical RCEs in PHP core immediately — RCE exposure.
+“Next Exploit Opportunities”: How a Threat Actor Used AI to Help Plan and Execut: patch “Next Exploit Opportunities”: How a Threat Actor Used AI to Help Plan and Execute Multiple Types of Cybercrime Activities and verify the fix held.
+PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Interne: patch PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet immediately — RCE exposure.
 
 That standard is what our sentinel is built on.
 
