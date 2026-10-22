@@ -5,19 +5,22 @@
 
 - **Date:** 2026-10-22
 - **Feeds ingested:** 39
-- **Items raw → deduped:** 3966 → 3901
+- **Items raw → deduped:** 3980 → 3917
 - **Full digest:** `digests/2026/10/2026-10-22/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
-🔐 Daily Security & Standards Brief (Oct 21)
+🔐 Daily Security & Standards Brief (Oct 22)
 
 CVE-2026-106931 — EG Secure Solutions SiteGuard Server Edition: sanitize inputs and patch EG Secure Solutions SiteGuard Server Edition.
+  ↳ Patch EG Secure Solutions SiteGuard Server Edition immediately to remediate CVE-2026-106931 OS Command Injection vulnerability
 CVE-2026-96652 — Plex Media Server External Control of File Name or Path: patch Plex Media Server External Control of File Name or Path and verify the fix held.
 CVE-2026-96652 — Plex Media Server Server-Side Request Forgery (SSRF): patch Plex Media Server Server-Side Request Forgery (SSRF) and verify the fix held.
 CVE-2026-96652 — Plex Media Server: patch Plex Media Server and verify the fix held.
+  ↳ Upgrade Plex Media Server to the latest patched version immediately to remediate improper neutralization of encoded URI schemes
 CVE-2026-96652 — Plex Media Server Server-Side Request Forgery (SSRF): patch Plex Media Server Server-Side Request Forgery (SSRF) and verify the fix held.
+  ↳ Immediately upgrade all Plex Media Server instances to the latest patched version to remediate CVE-2026-96652
 
 That standard is what Blue-Team discipline is built on.
 
@@ -27,7 +30,7 @@ via PCMedicalist · pcmedicalist.com/intel
 ## Post B — CS / News / Vendor / Dev / Community
 
 ```
-🧠 Engineering & Research Digest (Oct 21)
+🧠 Engineering & Research Digest (Oct 22)
 
 Compromised eMudhra intermediate certificates: on our radar; correlate it with the rest of your feed.
 CVE-2026-109618 — Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619: patch Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 and verify the fix held.

@@ -4,26 +4,29 @@
     <title>PCMedicalist Intelligence Feed</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Daily security intelligence digests — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Thu, 22 Oct 2026 01:39:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:27:08 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
     <item>
       <title>Digest 2026-10-22</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/10/2026-10-22/posts.json</link>
       <guid isPermaLink="false">2026-10-22</guid>
-      <pubDate>Thu, 22 Oct 2026 01:39:53 GMT</pubDate>
-      <description>🔐 Daily Security &amp; Standards Brief (Oct 21)
+      <pubDate>Thu, 22 Oct 2026 11:27:08 GMT</pubDate>
+      <description>🔐 Daily Security &amp; Standards Brief (Oct 22)
 
 CVE-2026-106931 — EG Secure Solutions SiteGuard Server Edition: sanitize inputs and patch EG Secure Solutions SiteGuard Server Edition.
+  ↳ Patch EG Secure Solutions SiteGuard Server Edition immediately to remediate CVE-2026-106931 OS Command Injection vulnerability
 CVE-2026-96652 — Plex Media Server External Control of File Name or Path: patch Plex Media Server External Control of File Name or Path and verify the fix held.
 CVE-2026-96652 — Plex Media Server Server-Side Request Forgery (SSRF): patch Plex Media Server Server-Side Request Forgery (SSRF) and verify the fix held.
 CVE-2026-96652 — Plex Media Server: patch Plex Media Server and verify the fix held.
+  ↳ Upgrade Plex Media Server to the latest patched version immediately to remediate improper neutralization of encoded URI schemes
 CVE-2026-96652 — Plex Media Server Server-Side Request Forgery (SSRF): patch Plex Media Server Server-Side Request Forgery (SSRF) and verify the fix held.
+  ↳ Immediately upgrade all Plex Media Server instances to the latest patched version to remediate CVE-2026-96652
 
 That standard is what Blue-Team discipline is built on.
 
 via PCMedicalist · pcmedicalist.com/intel
 
-🧠 Engineering &amp; Research Digest (Oct 21)
+🧠 Engineering &amp; Research Digest (Oct 22)
 
 Compromised eMudhra intermediate certificates: on our radar; correlate it with the rest of your feed.
 CVE-2026-109618 — Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619: patch Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 and verify the fix held.

@@ -1,4 +1,4 @@
-🧠 Engineering & Research Digest (Oct 21)
+🧠 Engineering & Research Digest (Oct 22)
 
 Compromised eMudhra intermediate certificates: on our radar; correlate it with the rest of your feed.
 CVE-2026-109618 — Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619: patch Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 and verify the fix held.
