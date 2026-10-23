@@ -5,20 +5,20 @@
 
 - **Date:** 2026-10-23
 - **Feeds ingested:** 39
-- **Items raw → deduped:** 3980 → 3917
+- **Items raw → deduped:** 3986 → 3922
 - **Full digest:** `digests/2026/10/2026-10-23/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
-🔐 Daily Security & Standards Brief (Oct 22)
+🔐 Daily Security & Standards Brief (Oct 23)
 
 CVE-2026-106931 — EG Secure Solutions SiteGuard Server Edition: sanitize inputs and patch EG Secure Solutions SiteGuard Server Edition.
 CVE-2026-96652 — Plex Media Server External Control of File Name or Path: patch Plex Media Server External Control of File Name or Path and verify the fix held.
+  ↳ Immediately update Plex Media Server to the latest version to remediate CVE-2026-96656 and CVE-2026-96652 file path control vulnerabilities
 CVE-2026-96652 — Plex Media Server Server-Side Request Forgery (SSRF): patch Plex Media Server Server-Side Request Forgery (SSRF) and verify the fix held.
 CVE-2026-96652 — Plex Media Server: patch Plex Media Server and verify the fix held.
 CVE-2026-96652 — Plex Media Server Server-Side Request Forgery (SSRF): patch Plex Media Server Server-Side Request Forgery (SSRF) and verify the fix held.
-  ↳ Immediately upgrade all Plex Media Server deployments to the vendor-released patch addressing CVE-2026-96652 SSRF vulnerability
 
 That standard is what Blue-Team discipline is built on.
 
@@ -28,7 +28,7 @@ via PCMedicalist · pcmedicalist.com/intel
 ## Post B — CS / News / Vendor / Dev / Community
 
 ```
-🧠 Engineering & Research Digest (Oct 22)
+🧠 Engineering & Research Digest (Oct 23)
 
 ASPM in the AI Era Part 2: Prioritize Exploitable Risks with Code-to-Cloud Conte: patch ASPM in the AI Era Part 2: Prioritize Exploitable Risks with Code-to-Cloud Context and verify the fix held.
 CVE-2026-109618 — The adversary economy: How threat actors are reacting to PHP2Shell: patch The adversary economy: How threat actors are reacting to PHP2Shell and verify the fix held.

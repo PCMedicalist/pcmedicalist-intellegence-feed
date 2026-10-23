@@ -1,4 +1,4 @@
-🧠 Engineering & Research Digest (Oct 22)
+🧠 Engineering & Research Digest (Oct 23)
 
 ASPM in the AI Era Part 2: Prioritize Exploitable Risks with Code-to-Cloud Conte: patch ASPM in the AI Era Part 2: Prioritize Exploitable Risks with Code-to-Cloud Context and verify the fix held.
 CVE-2026-109618 — The adversary economy: How threat actors are reacting to PHP2Shell: patch The adversary economy: How threat actors are reacting to PHP2Shell and verify the fix held.
