@@ -1,0 +1,14 @@
+🧠 Engineering & Research Digest (Oct 22)
+
+ASPM in the AI Era Part 2: Prioritize Exploitable Risks with Code-to-Cloud Conte: patch ASPM in the AI Era Part 2: Prioritize Exploitable Risks with Code-to-Cloud Context and verify the fix held.
+CVE-2026-109618 — The adversary economy: How threat actors are reacting to PHP2Shell: patch The adversary economy: How threat actors are reacting to PHP2Shell and verify the fix held.
+I had plans for that second: worth folding into your daily threat-watch if it touches your stack.
+EMudhra Intermediate CA Certificates Compromised: we file this against the daily watch — relevant if it's in your stack.
+The Current Landscape of OAuth Attacks: worth folding into your daily threat-watch if it touches your stack.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+Read the full briefing at app.pcmedicalist.com/intel 👇
+
+#CyberSecurity #InfoSec #CompSci

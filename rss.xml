@@ -4,8 +4,38 @@
     <title>PCMedicalist Intelligence Feed</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Daily security intelligence digests — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Thu, 22 Oct 2026 11:27:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 01:28:53 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Digest 2026-10-23</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/10/2026-10-23/posts.json</link>
+      <guid isPermaLink="false">2026-10-23</guid>
+      <pubDate>Fri, 23 Oct 2026 01:28:53 GMT</pubDate>
+      <description>🔐 Daily Security &amp; Standards Brief (Oct 22)
+
+CVE-2026-106931 — EG Secure Solutions SiteGuard Server Edition: sanitize inputs and patch EG Secure Solutions SiteGuard Server Edition.
+CVE-2026-96652 — Plex Media Server External Control of File Name or Path: patch Plex Media Server External Control of File Name or Path and verify the fix held.
+CVE-2026-96652 — Plex Media Server Server-Side Request Forgery (SSRF): patch Plex Media Server Server-Side Request Forgery (SSRF) and verify the fix held.
+CVE-2026-96652 — Plex Media Server: patch Plex Media Server and verify the fix held.
+CVE-2026-96652 — Plex Media Server Server-Side Request Forgery (SSRF): patch Plex Media Server Server-Side Request Forgery (SSRF) and verify the fix held.
+  ↳ Immediately upgrade all Plex Media Server deployments to the vendor-released patch addressing CVE-2026-96652 SSRF vulnerability
+
+That standard is what Blue-Team discipline is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+
+🧠 Engineering &amp; Research Digest (Oct 22)
+
+ASPM in the AI Era Part 2: Prioritize Exploitable Risks with Code-to-Cloud Conte: patch ASPM in the AI Era Part 2: Prioritize Exploitable Risks with Code-to-Cloud Context and verify the fix held.
+CVE-2026-109618 — The adversary economy: How threat actors are reacting to PHP2Shell: patch The adversary economy: How threat actors are reacting to PHP2Shell and verify the fix held.
+I had plans for that second: worth folding into your daily threat-watch if it touches your stack.
+EMudhra Intermediate CA Certificates Compromised: we file this against the daily watch — relevant if it's in your stack.
+The Current Landscape of OAuth Attacks: worth folding into your daily threat-watch if it touches your stack.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel</description>
+    </item>
     <item>
       <title>Digest 2026-10-22</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/10/2026-10-22/posts.json</link>
