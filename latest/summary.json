@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "feeds_total": 39,
-  "items_raw": 3986,
-  "items_deduped": 3922,
+  "items_raw": 3990,
+  "items_deduped": 3927,
   "per_feed": {
     "IETF Blog": 599,
     "W3C News": 0,
@@ -37,64 +37,83 @@
     "CISA KEV Vulns": 50,
     "SLSA": 0,
     "OpenSSF Main": 10,
-    "OpenAI Research": 1315,
-    "Hugging Face Blog": 889,
+    "OpenAI Research": 1318,
+    "Hugging Face Blog": 890,
     "Hacker News": 30,
     "Lobsters": 25,
     "r/netsec": 0,
     "Bankr Launches": 50
   },
-  "post_a_len": 1048,
-  "post_b_len": 930,
-  "post_a_x_len": 235,
-  "post_b_x_len": 301,
+  "post_a_len": 1058,
+  "post_b_len": 1166,
+  "post_a_x_len": 210,
+  "post_b_x_len": 328,
   "buffer_a_x": {
     "dry_run": false,
-    "success": false
+    "success": true
   },
   "buffer_a_li": {
     "dry_run": false,
-    "success": false
+    "success": true
   },
   "buffer_b_x": {
     "dry_run": false,
-    "success": false
+    "success": true
   },
   "buffer_b_li": {
     "dry_run": false,
-    "success": false
+    "success": true
   },
   "buffer_detail": {
     "a_x": {
       "dry_run": false,
-      "success": false,
+      "success": true,
       "error": null,
-      "per_channel": []
+      "per_channel": [
+        {
+          "platform": "x",
+          "ok": true,
+          "error": null
+        }
+      ]
     },
     "a_linkedin": {
       "dry_run": false,
-      "success": false,
+      "success": true,
       "error": null,
-      "per_channel": []
+      "per_channel": [
+        {
+          "platform": "linkedin",
+          "ok": true,
+          "error": null
+        }
+      ]
     },
     "b_x": {
       "dry_run": false,
-      "success": false,
+      "success": true,
       "error": null,
-      "per_channel": []
+      "per_channel": [
+        {
+          "platform": "x",
+          "ok": true,
+          "error": null
+        }
+      ]
     },
     "b_linkedin": {
       "dry_run": false,
-      "success": false,
+      "success": true,
       "error": null,
-      "per_channel": []
+      "per_channel": [
+        {
+          "platform": "linkedin",
+          "ok": true,
+          "error": null
+        }
+      ]
     }
   },
-  "buffer_failures": [
-    "a_x",
-    "a_linkedin",
-    "b_x",
-    "b_linkedin"
-  ],
+  "buffer_failures": [],
   "discord_ok": true
 }

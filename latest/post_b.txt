@@ -1,4 +1,4 @@
-🧠 Engineering & Research Digest (Oct 23)
+🧠 Engineering & Research Digest (Oct 24)
 
 CVE-2026-109618 — Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23): patch Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23) and verify the fix held.
 Why Organizations Secure AI Agents with Falcon Guardian: we weigh this against how agents actually fail in prod.

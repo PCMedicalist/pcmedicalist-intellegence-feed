@@ -2,20 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Intelligence Feed</title>
   <id>tag:pcmedicalist.com,2026:intel-feed</id>
-  <updated>2026-10-24T01:40:23Z</updated>
+  <updated>2026-10-24T11:41:46Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/atom.xml"/>
   <subtitle>Daily security intelligence digests — PCMedicalist Intelligence Network</subtitle>
   <entry>
     <title>Digest 2026-10-24</title>
     <id>tag:pcmedicalist.com,2026:intel-feed:2026-10-24</id>
-    <updated>2026-10-24T01:40:23Z</updated>
+    <updated>2026-10-24T11:41:46Z</updated>
     <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/10/2026-10-24/posts.json"/>
     <summary>Security intelligence digest for 2026-10-24</summary>
-    <content type="text">🔐 Daily Security &amp; Standards Brief (Oct 23)
+    <content type="text">🔐 Daily Security &amp; Standards Brief (Oct 24)
 
 CVE-2026-114625 — Arista VeloCloud Orchestrator: parameterize queries and patch Arista VeloCloud Orchestrator.
 CVE-2026-110447 — Collabora Online – Built-in CODE Server: sanitize inputs and patch Collabora Online – Built-in CODE Server.
-  ↳ Immediately upgrade all Collabora Online deployments to the patched version that resolves the CODE Server OS Command Injection vulnerability
 CVE-2026-106931 — EG Secure Solutions SiteGuard Server Edition: sanitize inputs and patch EG Secure Solutions SiteGuard Server Edition.
 CVE-2026-96652 — Plex Media Server External Control of File Name or Path: patch Plex Media Server External Control of File Name or Path and verify the fix held.
 CVE-2026-96652 — Plex Media Server Server-Side Request Forgery (SSRF): patch Plex Media Server Server-Side Request Forgery (SSRF) and verify the fix held.
@@ -24,7 +23,7 @@ That standard is what Blue-Team discipline is built on.
 
 via PCMedicalist · pcmedicalist.com/intel
 
-🧠 Engineering &amp; Research Digest (Oct 23)
+🧠 Engineering &amp; Research Digest (Oct 24)
 
 CVE-2026-109618 — Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23): patch Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23) and verify the fix held.
 Why Organizations Secure AI Agents with Falcon Guardian: we weigh this against how agents actually fail in prod.
