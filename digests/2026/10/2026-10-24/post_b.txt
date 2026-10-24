@@ -1,0 +1,14 @@
+🧠 Engineering & Research Digest (Oct 23)
+
+CVE-2026-109618 — Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23): patch Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23) and verify the fix held.
+Why Organizations Secure AI Agents with Falcon Guardian: we weigh this against how agents actually fail in prod.
+Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploit: patch Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation and verify the fix held.
+ASPM in the AI Era Part 2: Prioritize Exploitable Risks with Code-to-Cloud Conte: patch ASPM in the AI Era Part 2: Prioritize Exploitable Risks with Code-to-Cloud Context and verify the fix held.
+CVE-2026-109618 — The adversary economy: How threat actors are reacting to PHP2Shell: patch The adversary economy: How threat actors are reacting to PHP2Shell and verify the fix held.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+Read the full briefing at app.pcmedicalist.com/intel 👇
+
+#CyberSecurity #InfoSec #CompSci
