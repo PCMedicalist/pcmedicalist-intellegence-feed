@@ -1,12 +1,11 @@
-🔐 Daily Security & Standards Brief (Oct 24)
+🔐 Daily Security & Standards Brief (Oct 25)
 
 CVE-2026-114625 — Arista VeloCloud Orchestrator: parameterize queries and patch Arista VeloCloud Orchestrator.
 CVE-2026-110447 — Collabora Online – Built-in CODE Server: sanitize inputs and patch Collabora Online – Built-in CODE Server.
 CVE-2026-106931 — EG Secure Solutions SiteGuard Server Edition: sanitize inputs and patch EG Secure Solutions SiteGuard Server Edition.
 CVE-2026-96652 — Plex Media Server External Control of File Name or Path: patch Plex Media Server External Control of File Name or Path and verify the fix held.
-  ↳ Immediately upgrade Plex Media Server to the latest patched version to mitigate arbitrary file path control vulnerabilities
 CVE-2026-96652 — Plex Media Server Server-Side Request Forgery (SSRF): patch Plex Media Server Server-Side Request Forgery (SSRF) and verify the fix held.
-  ↳ Upgrade Plex Media Server immediately to the latest patched version mitigating CVE-2026-96655 and restrict outbound network access
+  ↳ Update Plex Media Server instances immediately to the latest patched version to remediate CVE-2026-96655 and block SSRF internal access
 
 That standard is what Blue-Team discipline is built on.
 
