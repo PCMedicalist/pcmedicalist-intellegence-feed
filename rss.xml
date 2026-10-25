@@ -4,8 +4,39 @@
     <title>PCMedicalist Intelligence Feed</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Daily security intelligence digests — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Sat, 24 Oct 2026 11:41:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 01:47:27 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Digest 2026-10-25</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/10/2026-10-25/posts.json</link>
+      <guid isPermaLink="false">2026-10-25</guid>
+      <pubDate>Sun, 25 Oct 2026 01:47:27 GMT</pubDate>
+      <description>🔐 Daily Security &amp; Standards Brief (Oct 24)
+
+CVE-2026-114625 — Arista VeloCloud Orchestrator: parameterize queries and patch Arista VeloCloud Orchestrator.
+CVE-2026-110447 — Collabora Online – Built-in CODE Server: sanitize inputs and patch Collabora Online – Built-in CODE Server.
+CVE-2026-106931 — EG Secure Solutions SiteGuard Server Edition: sanitize inputs and patch EG Secure Solutions SiteGuard Server Edition.
+CVE-2026-96652 — Plex Media Server External Control of File Name or Path: patch Plex Media Server External Control of File Name or Path and verify the fix held.
+  ↳ Immediately upgrade Plex Media Server to the latest patched version to mitigate arbitrary file path control vulnerabilities
+CVE-2026-96652 — Plex Media Server Server-Side Request Forgery (SSRF): patch Plex Media Server Server-Side Request Forgery (SSRF) and verify the fix held.
+  ↳ Upgrade Plex Media Server immediately to the latest patched version mitigating CVE-2026-96655 and restrict outbound network access
+
+That standard is what Blue-Team discipline is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+
+🧠 Engineering &amp; Research Digest (Oct 24)
+
+CVE-2026-109618 — Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23): patch Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23) and verify the fix held.
+Why Organizations Secure AI Agents with Falcon Guardian: we weigh this against how agents actually fail in prod.
+Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploit: patch Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation and verify the fix held.
+ASPM in the AI Era Part 2: Prioritize Exploitable Risks with Code-to-Cloud Conte: patch ASPM in the AI Era Part 2: Prioritize Exploitable Risks with Code-to-Cloud Context and verify the fix held.
+CVE-2026-109618 — The adversary economy: How threat actors are reacting to PHP2Shell: patch The adversary economy: How threat actors are reacting to PHP2Shell and verify the fix held.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel</description>
+    </item>
     <item>
       <title>Digest 2026-10-24</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/10/2026-10-24/posts.json</link>

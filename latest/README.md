@@ -1,12 +1,12 @@
-# Latest Digest — 2026-10-24
+# Latest Digest — 2026-10-25
 
 > Rolling snapshot of the most recent PCMedicalist Intelligence Feed digest.
 > Source of truth lives in `digests/`. This file is regenerated every run.
 
-- **Date:** 2026-10-24
+- **Date:** 2026-10-25
 - **Feeds ingested:** 39
 - **Items raw → deduped:** 3990 → 3927
-- **Full digest:** `digests/2026/10/2026-10-24/`
+- **Full digest:** `digests/2026/10/2026-10-25/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
@@ -17,7 +17,9 @@ CVE-2026-114625 — Arista VeloCloud Orchestrator: parameterize queries and patc
 CVE-2026-110447 — Collabora Online – Built-in CODE Server: sanitize inputs and patch Collabora Online – Built-in CODE Server.
 CVE-2026-106931 — EG Secure Solutions SiteGuard Server Edition: sanitize inputs and patch EG Secure Solutions SiteGuard Server Edition.
 CVE-2026-96652 — Plex Media Server External Control of File Name or Path: patch Plex Media Server External Control of File Name or Path and verify the fix held.
+  ↳ Immediately upgrade Plex Media Server to the latest patched version to mitigate arbitrary file path control vulnerabilities
 CVE-2026-96652 — Plex Media Server Server-Side Request Forgery (SSRF): patch Plex Media Server Server-Side Request Forgery (SSRF) and verify the fix held.
+  ↳ Upgrade Plex Media Server immediately to the latest patched version mitigating CVE-2026-96655 and restrict outbound network access
 
 That standard is what Blue-Team discipline is built on.
 
