@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "feeds_total": 39,
-  "items_raw": 3990,
-  "items_deduped": 3925,
+  "items_raw": 3992,
+  "items_deduped": 3930,
   "per_feed": {
     "IETF Blog": 599,
     "W3C News": 0,
@@ -27,7 +27,7 @@
     "CrowdStrike": 10,
     "Rapid7": 0,
     "Tenable": 10,
-    "Wiz Research": 707,
+    "Wiz Research": 709,
     "GitHub Blog": 10,
     "GitHub Security Lab": 10,
     "Kubernetes Blog": 50,
@@ -44,10 +44,10 @@
     "r/netsec": 0,
     "Bankr Launches": 50
   },
-  "post_a_len": 1176,
-  "post_b_len": 1166,
+  "post_a_len": 1058,
+  "post_b_len": 1475,
   "post_a_x_len": 210,
-  "post_b_x_len": 328,
+  "post_b_x_len": 217,
   "buffer_a_x": {
     "dry_run": false,
     "success": true
@@ -58,11 +58,11 @@
   },
   "buffer_b_x": {
     "dry_run": false,
-    "success": true
+    "success": false
   },
   "buffer_b_li": {
     "dry_run": false,
-    "success": true
+    "success": false
   },
   "buffer_detail": {
     "a_x": {
@@ -91,29 +91,20 @@
     },
     "b_x": {
       "dry_run": false,
-      "success": true,
+      "success": false,
       "error": null,
-      "per_channel": [
-        {
-          "platform": "x",
-          "ok": true,
-          "error": null
-        }
-      ]
+      "per_channel": []
     },
     "b_linkedin": {
       "dry_run": false,
-      "success": true,
+      "success": false,
       "error": null,
-      "per_channel": [
-        {
-          "platform": "linkedin",
-          "ok": true,
-          "error": null
-        }
-      ]
+      "per_channel": []
     }
   },
-  "buffer_failures": [],
+  "buffer_failures": [
+    "b_x",
+    "b_linkedin"
+  ],
   "discord_ok": true
 }
