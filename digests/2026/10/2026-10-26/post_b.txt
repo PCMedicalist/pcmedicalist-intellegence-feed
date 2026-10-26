@@ -1,0 +1,17 @@
+🧠 Engineering & Research Digest (Oct 25)
+
+Gheist: Attempted Scaled Abuse of Stolen GitHub Tokens Stumbles: we fold this into our secret-hygiene baseline.
+CVE-2026-111497 — Broccoli2shell: Everything You Need To Know About The Critical Brotli Decoder: patch Broccoli2shell: Everything You Need To Know About The Critical Brotli Decoder and verify the fix held.
+  ↳ Immediately update all Brotli decoder implementations and dependent software to patched versions to mitigate CVE-2026-111497
+CVE-2026-109618 — Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25): patch Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25) and verify the fix held.
+  ↳ Apply the latest PHP security patches addressing CVE-2026-109618 and CVE-2026-109619 across all affected systems immediately
+Why Organizations Secure AI Agents with Falcon Guardian: we weigh this against how agents actually fail in prod.
+  ↳ Deploy Falcon Guardian to secure AI agents and mitigate associated security risks within your infrastructure
+Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploit: patch Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation and verify the fix held.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+Read the full briefing at app.pcmedicalist.com/intel 👇
+
+#CyberSecurity #InfoSec #CompSci
