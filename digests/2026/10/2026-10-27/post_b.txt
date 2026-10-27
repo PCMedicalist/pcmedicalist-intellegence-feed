@@ -1,0 +1,14 @@
+🧠 Engineering & Research Digest (Oct 26)
+
+CVE-2026-109618 — Discover and remediate PHP2Shell exposure with Tenable: patch Discover and remediate PHP2Shell exposure with Tenable and verify the fix held.
+The Pwn Request Reckoning: What Still Works Against GitHub Actions: we fold this into our secret-hygiene baseline.
+Gheist: Attempted Scaled Abuse of Stolen GitHub Tokens Stumbles: we fold this into our secret-hygiene baseline.
+CVE-2026-111497 — Broccoli2shell: Everything You Need To Know About The Critical Brotli Decoder: patch Broccoli2shell: Everything You Need To Know About The Critical Brotli Decoder and verify the fix held.
+CVE-2026-109618 — Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25): patch Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25) and verify the fix held.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+Read the full briefing at app.pcmedicalist.com/intel 👇
+
+#CyberSecurity #InfoSec #CompSci

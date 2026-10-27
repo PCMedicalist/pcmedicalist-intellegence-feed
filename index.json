@@ -740,5 +740,12 @@
     "posts": "digests/2026/10/2026-10-26/posts.json",
     "feed": "digests/2026/10/2026-10-26/feed.json",
     "pushed_at": "2026-10-26T11:36:19.590916+00:00"
+  },
+  {
+    "date": "2026-10-27",
+    "path": "digests/2026/10/2026-10-27",
+    "posts": "digests/2026/10/2026-10-27/posts.json",
+    "feed": "digests/2026/10/2026-10-27/feed.json",
+    "pushed_at": "2026-10-27T01:52:36.995892+00:00"
   }
 ]

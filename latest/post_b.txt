@@ -1,12 +1,10 @@
 🧠 Engineering & Research Digest (Oct 26)
 
+CVE-2026-109618 — Discover and remediate PHP2Shell exposure with Tenable: patch Discover and remediate PHP2Shell exposure with Tenable and verify the fix held.
+The Pwn Request Reckoning: What Still Works Against GitHub Actions: we fold this into our secret-hygiene baseline.
 Gheist: Attempted Scaled Abuse of Stolen GitHub Tokens Stumbles: we fold this into our secret-hygiene baseline.
 CVE-2026-111497 — Broccoli2shell: Everything You Need To Know About The Critical Brotli Decoder: patch Broccoli2shell: Everything You Need To Know About The Critical Brotli Decoder and verify the fix held.
-  ↳ Immediately patch all systems running the affected Brotli decoder library by upgrading to the vendor-released fix for CVE-2026-111497
 CVE-2026-109618 — Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25): patch Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25) and verify the fix held.
-Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploit: patch Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation and verify the fix held.
-  ↳ Patch all identified vulnerable PHP instances immediately and implement strict input validation controls to prevent potential shell injection attacks
-Why Organizations Secure AI Agents with Falcon Guardian: we weigh this against how agents actually fail in prod.
 
 That standard is what our sentinel is built on.
 

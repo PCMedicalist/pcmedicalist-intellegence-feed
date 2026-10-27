@@ -1,0 +1,15 @@
+🔐 Daily Security & Standards Brief (Oct 26)
+
+CVE-2026-109618 — PHP Memory Corruption: patch PHP Memory Corruption and verify the fix held.
+  ↳ Immediately upgrade or patch all affected PHP instances to remediate this memory corruption vulnerability and mitigate associated remote code execution risks
+CVE-2026-109619 — PHP Stale Internal Request-State: patch PHP Stale Internal Request-State and verify the fix held.
+CVE-2026-114625 — Arista VeloCloud Orchestrator: parameterize queries and patch Arista VeloCloud Orchestrator.
+CVE-2026-110447 — Collabora Online – Built-in CODE Server: sanitize inputs and patch Collabora Online – Built-in CODE Server.
+CVE-2026-106931 — EG Secure Solutions SiteGuard Server Edition: sanitize inputs and patch EG Secure Solutions SiteGuard Server Edition.
+
+That standard is what Blue-Team discipline is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+Read the full briefing at app.pcmedicalist.com/intel 👇
+
+#CyberSecurity #InfoSec
