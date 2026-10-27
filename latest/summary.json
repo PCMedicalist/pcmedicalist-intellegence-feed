@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "feeds_total": 39,
-  "items_raw": 3992,
-  "items_deduped": 3930,
+  "items_raw": 4000,
+  "items_deduped": 3935,
   "per_feed": {
     "IETF Blog": 599,
     "W3C News": 0,
@@ -27,7 +27,7 @@
     "CrowdStrike": 10,
     "Rapid7": 0,
     "Tenable": 10,
-    "Wiz Research": 709,
+    "Wiz Research": 710,
     "GitHub Blog": 10,
     "GitHub Security Lab": 10,
     "Kubernetes Blog": 50,
@@ -37,17 +37,17 @@
     "CISA KEV Vulns": 50,
     "SLSA": 0,
     "OpenSSF Main": 10,
-    "OpenAI Research": 1318,
+    "OpenAI Research": 1325,
     "Hugging Face Blog": 890,
     "Hacker News": 30,
     "Lobsters": 25,
     "r/netsec": 0,
     "Bankr Launches": 50
   },
-  "post_a_len": 1058,
-  "post_b_len": 1475,
-  "post_a_x_len": 210,
-  "post_b_x_len": 217,
+  "post_a_len": 969,
+  "post_b_len": 1067,
+  "post_a_x_len": 193,
+  "post_b_x_len": 265,
   "buffer_a_x": {
     "dry_run": false,
     "success": true
@@ -58,11 +58,11 @@
   },
   "buffer_b_x": {
     "dry_run": false,
-    "success": false
+    "success": true
   },
   "buffer_b_li": {
     "dry_run": false,
-    "success": false
+    "success": true
   },
   "buffer_detail": {
     "a_x": {
@@ -91,20 +91,29 @@
     },
     "b_x": {
       "dry_run": false,
-      "success": false,
+      "success": true,
       "error": null,
-      "per_channel": []
+      "per_channel": [
+        {
+          "platform": "x",
+          "ok": true,
+          "error": null
+        }
+      ]
     },
     "b_linkedin": {
       "dry_run": false,
-      "success": false,
+      "success": true,
       "error": null,
-      "per_channel": []
+      "per_channel": [
+        {
+          "platform": "linkedin",
+          "ok": true,
+          "error": null
+        }
+      ]
     }
   },
-  "buffer_failures": [
-    "b_x",
-    "b_linkedin"
-  ],
+  "buffer_failures": [],
   "discord_ok": true
 }

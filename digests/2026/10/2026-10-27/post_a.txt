@@ -1,7 +1,7 @@
-🔐 Daily Security & Standards Brief (Oct 26)
+🔐 Daily Security & Standards Brief (Oct 27)
 
 CVE-2026-109618 — PHP Memory Corruption: patch PHP Memory Corruption and verify the fix held.
-  ↳ Immediately upgrade or patch all affected PHP instances to remediate this memory corruption vulnerability and mitigate associated remote code execution risks
+  ↳ Immediately apply the vendor-provided patch for the affected PHP component and validate remediation across all production environments
 CVE-2026-109619 — PHP Stale Internal Request-State: patch PHP Stale Internal Request-State and verify the fix held.
 CVE-2026-114625 — Arista VeloCloud Orchestrator: parameterize queries and patch Arista VeloCloud Orchestrator.
 CVE-2026-110447 — Collabora Online – Built-in CODE Server: sanitize inputs and patch Collabora Online – Built-in CODE Server.
