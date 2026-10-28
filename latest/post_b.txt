@@ -1,9 +1,10 @@
-🧠 Engineering & Research Digest (Oct 27)
+🧠 Engineering & Research Digest (Oct 28)
 
 PHP2Shell: Exploitation Attempts and Remediation Trends: patch PHP2Shell: Exploitation Attempts and Remediation Trends and verify the fix held.
 Whole-of-state defense: How SLED agencies can secure critical infrastructure in : we weigh this against how agents actually fail in prod.
 From federal SOCs to Talos: Ryan Fetterman on practical security research: we map this into the SOC runbook we operate.
 CVE-2026-111497 — Brotli2Shell: Frequently asked questions for Google Brotli decoder: patch Brotli2Shell: Frequently asked questions for Google Brotli decoder and verify the fix held.
+  ↳ Update Python and Node.js Brotli libraries to patched versions resolving CVE-2026-111497 or disable compression until a fix is available
 CVE-2026-109618 — Discover and remediate PHP2Shell exposure with Tenable: patch Discover and remediate PHP2Shell exposure with Tenable and verify the fix held.
 
 That standard is what our sentinel is built on.
