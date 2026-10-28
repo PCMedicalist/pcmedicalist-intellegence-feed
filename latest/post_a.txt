@@ -1,11 +1,12 @@
 🔐 Daily Security & Standards Brief (Oct 27)
 
+CVE-2026-48356 — Adobe Commerce and Magento: restrict file uploads and validate types on Adobe Commerce and Magento.
+  ↳ Immediately apply the vendor security patch to all Adobe Commerce and Magento instances to remediate CVE-2026-48356
+CVE-2026-111497 — Google Brotli Unchecked Return Value: patch Google Brotli Unchecked Return Value and verify the fix held.
 CVE-2026-109618 — PHP Memory Corruption: patch PHP Memory Corruption and verify the fix held.
-  ↳ Immediately apply the vendor-provided patch for the affected PHP component and validate remediation across all production environments
+  ↳ Immediately upgrade affected PHP installations to the latest patched version to mitigate memory corruption risks and prevent remote code execution
 CVE-2026-109619 — PHP Stale Internal Request-State: patch PHP Stale Internal Request-State and verify the fix held.
 CVE-2026-114625 — Arista VeloCloud Orchestrator: parameterize queries and patch Arista VeloCloud Orchestrator.
-CVE-2026-110447 — Collabora Online – Built-in CODE Server: sanitize inputs and patch Collabora Online – Built-in CODE Server.
-CVE-2026-106931 — EG Secure Solutions SiteGuard Server Edition: sanitize inputs and patch EG Secure Solutions SiteGuard Server Edition.
 
 That standard is what Blue-Team discipline is built on.
 
