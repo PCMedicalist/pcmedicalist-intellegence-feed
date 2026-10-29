@@ -1,23 +1,25 @@
-# Latest Digest — 2026-10-28
+# Latest Digest — 2026-10-29
 
 > Rolling snapshot of the most recent PCMedicalist Intelligence Feed digest.
 > Source of truth lives in `digests/`. This file is regenerated every run.
 
-- **Date:** 2026-10-28
+- **Date:** 2026-10-29
 - **Feeds ingested:** 39
 - **Items raw → deduped:** 4008 → 3944
-- **Full digest:** `digests/2026/10/2026-10-28/`
+- **Full digest:** `digests/2026/10/2026-10-29/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
 🔐 Daily Security & Standards Brief (Oct 28)
 
+CVE-2026-41709 — Broadcom VMWare ESX Insufficient Logging: patch Broadcom VMWare ESX Insufficient Logging and verify the fix held.
+CVE-2026-109618 — Linux Kernel Missing Initialization of a Variable: patch Linux Kernel Missing Initialization of a Variable and verify the fix held.
+  ↳ Apply the vendor-supplied security update for the Linux kernel immediately to patch the uninitialized variable vulnerability
 CVE-2026-48356 — Adobe Commerce and Magento: restrict file uploads and validate types on Adobe Commerce and Magento.
 CVE-2026-111497 — Google Brotli Unchecked Return Value: patch Google Brotli Unchecked Return Value and verify the fix held.
 CVE-2026-109618 — PHP Memory Corruption: patch PHP Memory Corruption and verify the fix held.
-CVE-2026-109619 — PHP Stale Internal Request-State: patch PHP Stale Internal Request-State and verify the fix held.
-CVE-2026-114625 — Arista VeloCloud Orchestrator: parameterize queries and patch Arista VeloCloud Orchestrator.
+  ↳ Immediately upgrade all affected PHP instances to the patched version mitigating CVE-2026-109618 memory corruption risks
 
 That standard is what Blue-Team discipline is built on.
 
@@ -29,12 +31,11 @@ via PCMedicalist · pcmedicalist.com/intel
 ```
 🧠 Engineering & Research Digest (Oct 28)
 
+CVE-2026-20127 — Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN: patch Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN and verify the fix held.
+Unwrapping Retail Peak Season Cyber Threats: we weigh this against how agents actually fail in prod.
+CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Acti: we file this against the daily watch — relevant if it's in your stack.
+When AI Guardrails Expose Vulnerabilities: we weigh this against how agents actually fail in prod.
 PHP2Shell: Exploitation Attempts and Remediation Trends: patch PHP2Shell: Exploitation Attempts and Remediation Trends and verify the fix held.
-Whole-of-state defense: How SLED agencies can secure critical infrastructure in : we weigh this against how agents actually fail in prod.
-From federal SOCs to Talos: Ryan Fetterman on practical security research: we map this into the SOC runbook we operate.
-CVE-2026-111497 — Brotli2Shell: Frequently asked questions for Google Brotli decoder: patch Brotli2Shell: Frequently asked questions for Google Brotli decoder and verify the fix held.
-  ↳ Update Python and Node.js Brotli libraries to patched versions resolving CVE-2026-111497 or disable compression until a fix is available
-CVE-2026-109618 — Discover and remediate PHP2Shell exposure with Tenable: patch Discover and remediate PHP2Shell exposure with Tenable and verify the fix held.
 
 That standard is what our sentinel is built on.
 
