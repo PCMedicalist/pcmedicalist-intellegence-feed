@@ -1,12 +1,11 @@
-🔐 Daily Security & Standards Brief (Oct 28)
+🔐 Daily Security & Standards Brief (Oct 29)
 
 CVE-2026-41709 — Broadcom VMWare ESX Insufficient Logging: patch Broadcom VMWare ESX Insufficient Logging and verify the fix held.
 CVE-2026-109618 — Linux Kernel Missing Initialization of a Variable: patch Linux Kernel Missing Initialization of a Variable and verify the fix held.
-  ↳ Apply the vendor-supplied security update for the Linux kernel immediately to patch the uninitialized variable vulnerability
 CVE-2026-48356 — Adobe Commerce and Magento: restrict file uploads and validate types on Adobe Commerce and Magento.
+  ↳ Patch all Adobe Commerce and Magento environments immediately to resolve CVE-2026-48356 and block dangerous file upload exploits
 CVE-2026-111497 — Google Brotli Unchecked Return Value: patch Google Brotli Unchecked Return Value and verify the fix held.
 CVE-2026-109618 — PHP Memory Corruption: patch PHP Memory Corruption and verify the fix held.
-  ↳ Immediately upgrade all affected PHP instances to the patched version mitigating CVE-2026-109618 memory corruption risks
 
 That standard is what Blue-Team discipline is built on.
 

@@ -1,10 +1,10 @@
-🧠 Engineering & Research Digest (Oct 28)
+🧠 Engineering & Research Digest (Oct 29)
 
+NIK C2: The new AI-enabled command-and-control framework: we weigh this against how agents actually fail in prod.
 CVE-2026-20127 — Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN: patch Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN and verify the fix held.
 Unwrapping Retail Peak Season Cyber Threats: we weigh this against how agents actually fail in prod.
 CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Acti: we file this against the daily watch — relevant if it's in your stack.
 When AI Guardrails Expose Vulnerabilities: we weigh this against how agents actually fail in prod.
-PHP2Shell: Exploitation Attempts and Remediation Trends: patch PHP2Shell: Exploitation Attempts and Remediation Trends and verify the fix held.
 
 That standard is what our sentinel is built on.
 
