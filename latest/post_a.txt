@@ -1,9 +1,10 @@
-🔐 Daily Security & Standards Brief (Oct 29)
+🔐 Daily Security & Standards Brief (Oct 30)
 
 CVE-2026-97229 — GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound: patch GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound and verify the fix held.
 CVE-2026-76418 — Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference: patch Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference and verify the fix held.
 CVE-2026-41709 — Broadcom VMWare ESX Insufficient Logging: patch Broadcom VMWare ESX Insufficient Logging and verify the fix held.
 CVE-2026-109618 — Linux Kernel Missing Initialization of a Variable: patch Linux Kernel Missing Initialization of a Variable and verify the fix held.
+  ↳ Upgrade the affected Linux kernel immediately to remediate the missing variable initialization vulnerability and prevent potential exploitation
 CVE-2026-48356 — Adobe Commerce and Magento: restrict file uploads and validate types on Adobe Commerce and Magento.
 
 That standard is what Blue-Team discipline is built on.
