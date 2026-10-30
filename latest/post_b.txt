@@ -1,14 +1,14 @@
 🧠 Engineering & Research Digest (Oct 29)
 
+CVE-2026-109618 — Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29): patch Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29) and verify the fix held.
+A quiet week in infosec <.<: we file this against the daily watch — relevant if it's in your stack.
+The Rise of Agentic Attacks: What They Look Like, and Where They're Headed: worth folding into your daily threat-watch if it touches your stack.
+IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransom: we rehearse the containment playbook against this.
 NIK C2: The new AI-enabled command-and-control framework: we weigh this against how agents actually fail in prod.
-CVE-2026-20127 — Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN: patch Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN and verify the fix held.
-Unwrapping Retail Peak Season Cyber Threats: we weigh this against how agents actually fail in prod.
-CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Acti: we file this against the daily watch — relevant if it's in your stack.
-When AI Guardrails Expose Vulnerabilities: we weigh this against how agents actually fail in prod.
 
 That standard is what our sentinel is built on.
 
 via PCMedicalist · pcmedicalist.com/intel
 Read the full briefing at app.pcmedicalist.com/intel 👇
 
-#CyberSecurity #InfoSec #CompSci
+#CyberSecurity #CompSci
