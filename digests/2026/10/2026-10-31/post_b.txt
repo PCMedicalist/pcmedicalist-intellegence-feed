@@ -1,4 +1,4 @@
-🧠 Engineering & Research Digest (Oct 30)
+🧠 Engineering & Research Digest (Oct 31)
 
 “Black October” for AI Developer Platforms: we weigh this against how agents actually fail in prod.
 Key Takeaways: AI Threat Readiness Survey Report 2026: we weigh this against how agents actually fail in prod.

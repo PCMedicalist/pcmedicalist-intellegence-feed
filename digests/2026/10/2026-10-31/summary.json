@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-31",
+  "social_owner": "creative_studio",
+  "social_publishing": "delegated",
+  "feeds_total": 39,
+  "items_raw": 4025,
+  "items_deduped": 3961,
+  "per_feed": {
+    "IETF Blog": 600,
+    "W3C News": 0,
+    "RFC Editor": 0,
+    "WHATWG": 0,
+    "CISA KEV": 50,
+    "Schneier on Security": 0,
+    "Cryptography Engineering": 10,
+    "arXiv cs.CR": 0,
+    "arXiv cs.CY": 0,
+    "Krebs on Security": 10,
+    "The Hacker News": 50,
+    "BleepingComputer": 15,
+    "SecurityWeek": 10,
+    "SANS ISC": 10,
+    "The Record": 5,
+    "Security Affairs": 10,
+    "Microsoft MSRC": 1,
+    "Google Project Zero": 0,
+    "Cisco Talos": 15,
+    "Unit 42": 15,
+    "CrowdStrike": 10,
+    "Rapid7": 0,
+    "Tenable": 10,
+    "Wiz Research": 714,
+    "GitHub Blog": 10,
+    "GitHub Security Lab": 10,
+    "Kubernetes Blog": 50,
+    "Docker Blog": 10,
+    "Red Hat Security": 0,
+    "OpenSSF": 10,
+    "CISA KEV Vulns": 50,
+    "SLSA": 0,
+    "OpenSSF Main": 10,
+    "OpenAI Research": 1341,
+    "Hugging Face Blog": 894,
+    "Hacker News": 30,
+    "Lobsters": 25,
+    "r/netsec": 0,
+    "Bankr Launches": 50
+  },
+  "post_a_len": 1293,
+  "post_b_len": 832,
+  "post_a_x_len": 208,
+  "post_b_x_len": 205,
+  "buffer_a_x": {
+    "dry_run": false,
+    "success": null
+  },
+  "buffer_a_li": {
+    "dry_run": false,
+    "success": null
+  },
+  "buffer_b_x": {
+    "dry_run": false,
+    "success": null
+  },
+  "buffer_b_li": {
+    "dry_run": false,
+    "success": null
+  },
+  "buffer_detail": {
+    "a_x": {
+      "dry_run": false,
+      "success": null,
+      "error": null,
+      "per_channel": []
+    },
+    "a_linkedin": {
+      "dry_run": false,
+      "success": null,
+      "error": null,
+      "per_channel": []
+    },
+    "b_x": {
+      "dry_run": false,
+      "success": null,
+      "error": null,
+      "per_channel": []
+    },
+    "b_linkedin": {
+      "dry_run": false,
+      "success": null,
+      "error": null,
+      "per_channel": []
+    }
+  },
+  "buffer_failures": [],
+  "discord_ok": true,
+  "archive_ok": true
+}
