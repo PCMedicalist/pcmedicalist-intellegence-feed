@@ -1,0 +1,14 @@
+🧠 Engineering & Research Digest (Oct 31)
+
+Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer: we weigh this against how agents actually fail in prod.
+“Black October” for AI Developer Platforms: we weigh this against how agents actually fail in prod.
+Key Takeaways: AI Threat Readiness Survey Report 2026: we weigh this against how agents actually fail in prod.
+CrowdStrike Expands Falcon Adversary OverWatch Threat Hunting Across AI and Goog: we weigh this against how agents actually fail in prod.
+Build an Intelligence Advantage with Falcon Next-Gen SIEM: we file this against the daily watch — relevant if it's in your stack.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+Read the full briefing at app.pcmedicalist.com/intel 👇
+
+#CyberSecurity #InfoSec #CompSci
