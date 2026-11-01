@@ -2,16 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Intelligence Feed</title>
   <id>tag:pcmedicalist.com,2026:intel-feed</id>
-  <updated>2026-11-01T01:17:52Z</updated>
+  <updated>2026-11-01T12:11:11Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/atom.xml"/>
   <subtitle>Daily security intelligence digests — PCMedicalist Intelligence Network</subtitle>
   <entry>
     <title>Digest 2026-11-01</title>
     <id>tag:pcmedicalist.com,2026:intel-feed:2026-11-01</id>
-    <updated>2026-11-01T01:17:52Z</updated>
+    <updated>2026-11-01T12:11:11Z</updated>
     <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/11/2026-11-01/posts.json"/>
     <summary>Security intelligence digest for 2026-11-01</summary>
-    <content type="text">🔐 Daily Security &amp; Standards Brief (Oct 31)
+    <content type="text">🔐 Daily Security &amp; Standards Brief (Nov 01)
 
 Suggested IETF 127 Sessions for Getting Familiar with New Topics: worth a read if you ship against the spec.
 CVE-2026-104935 — Ivanti Connect Secure Generation of Predictable Numbers or Identifiers: patch Ivanti Connect Secure Generation of Predictable Numbers or Identifiers and verify the fix held.
@@ -23,12 +23,13 @@ That standard is what Blue-Team discipline is built on.
 
 via PCMedicalist · pcmedicalist.com/intel
 
-🧠 Engineering &amp; Research Digest (Oct 31)
+🧠 Engineering &amp; Research Digest (Nov 01)
 
 Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer: we weigh this against how agents actually fail in prod.
 “Black October” for AI Developer Platforms: we weigh this against how agents actually fail in prod.
 Key Takeaways: AI Threat Readiness Survey Report 2026: we weigh this against how agents actually fail in prod.
 CrowdStrike Expands Falcon Adversary OverWatch Threat Hunting Across AI and Goog: we weigh this against how agents actually fail in prod.
+  ↳ Configure CrowdStrike Falcon Adversary OverWatch settings to enable threat hunting coverage for AI and Google Cloud environments within your subscription
 Build an Intelligence Advantage with Falcon Next-Gen SIEM: we file this against the daily watch — relevant if it's in your stack.
 
 That standard is what our sentinel is built on.

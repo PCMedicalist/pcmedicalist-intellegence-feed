@@ -11,7 +11,7 @@
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
-🔐 Daily Security & Standards Brief (Oct 31)
+🔐 Daily Security & Standards Brief (Nov 01)
 
 Suggested IETF 127 Sessions for Getting Familiar with New Topics: worth a read if you ship against the spec.
 CVE-2026-104935 — Ivanti Connect Secure Generation of Predictable Numbers or Identifiers: patch Ivanti Connect Secure Generation of Predictable Numbers or Identifiers and verify the fix held.
@@ -27,12 +27,13 @@ via PCMedicalist · pcmedicalist.com/intel
 ## Post B — CS / News / Vendor / Dev / Community
 
 ```
-🧠 Engineering & Research Digest (Oct 31)
+🧠 Engineering & Research Digest (Nov 01)
 
 Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer: we weigh this against how agents actually fail in prod.
 “Black October” for AI Developer Platforms: we weigh this against how agents actually fail in prod.
 Key Takeaways: AI Threat Readiness Survey Report 2026: we weigh this against how agents actually fail in prod.
 CrowdStrike Expands Falcon Adversary OverWatch Threat Hunting Across AI and Goog: we weigh this against how agents actually fail in prod.
+  ↳ Configure CrowdStrike Falcon Adversary OverWatch settings to enable threat hunting coverage for AI and Google Cloud environments within your subscription
 Build an Intelligence Advantage with Falcon Next-Gen SIEM: we file this against the daily watch — relevant if it's in your stack.
 
 That standard is what our sentinel is built on.
