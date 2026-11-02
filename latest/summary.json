@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "social_owner": "creative_studio",
   "social_publishing": "delegated",
   "feeds_total": 39,
   "items_raw": 4025,
-  "items_deduped": 3961,
+  "items_deduped": 3963,
   "per_feed": {
     "IETF Blog": 600,
     "W3C News": 0,
@@ -46,8 +46,8 @@
     "r/netsec": 0,
     "Bankr Launches": 50
   },
-  "post_a_len": 1117,
-  "post_b_len": 835,
+  "post_a_len": 1259,
+  "post_b_len": 985,
   "post_a_x_len": 208,
   "post_b_x_len": 239,
   "buffer_a_x": {
