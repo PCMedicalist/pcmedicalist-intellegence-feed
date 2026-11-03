@@ -5,13 +5,13 @@
 
 - **Date:** 2026-11-03
 - **Feeds ingested:** 39
-- **Items raw → deduped:** 4025 → 3963
+- **Items raw → deduped:** 4031 → 3970
 - **Full digest:** `digests/2026/11/2026-11-03/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
-🔐 Daily Security & Standards Brief (Nov 02)
+🔐 Daily Security & Standards Brief (Nov 03)
 
 Suggested IETF 127 Sessions for Getting Familiar with New Topics: worth a read if you ship against the spec.
 CVE-2026-104935 — Ivanti Connect Secure Generation of Predictable Numbers or Identifiers: patch Ivanti Connect Secure Generation of Predictable Numbers or Identifiers and verify the fix held.
@@ -27,14 +27,13 @@ via PCMedicalist · pcmedicalist.com/intel
 ## Post B — CS / News / Vendor / Dev / Community
 
 ```
-🧠 Engineering & Research Digest (Nov 02)
+🧠 Engineering & Research Digest (Nov 03)
 
-Unit 42 Threat Intelligence Highlights - Nov. 2, 2026: we file this against the daily watch — relevant if it's in your stack.
-From Reactive to Proactive: Empowering SOC Teams with the Wiz Red and Blue Agent: we map this into the SOC runbook we operate.
-What Makes a Good Security Agent? 5 Lessons from the AgentWorks Hackathon: we file this against the daily watch — relevant if it's in your stack.
-Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer: we weigh this against how agents actually fail in prod.
-  ↳ Update EDR signatures to block VOLTA infostealer and prioritize monitoring endpoints flagged by AI-driven victim prioritization models
-“Black October” for AI Developer Platforms: we weigh this against how agents actually fail in prod.
+CrowdStrike to Acquire Dreadnode to Bring Automated AI Security Testing to the F: we weigh this against how agents actually fail in prod.
+CrowdStrike Advances AI Security and Safety from Endpoint to Cloud: we weigh this against how agents actually fail in prod.
+CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observabil: we weigh this against how agents actually fail in prod.
+Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue: we weigh this against how agents actually fail in prod.
+CrowdStrike Secures AI Agents Inside Claude Cowork: we weigh this against how agents actually fail in prod.
 
 That standard is what our sentinel is built on.
 

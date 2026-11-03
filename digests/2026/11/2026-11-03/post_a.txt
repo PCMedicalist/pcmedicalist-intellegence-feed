@@ -1,4 +1,4 @@
-🔐 Daily Security & Standards Brief (Nov 02)
+🔐 Daily Security & Standards Brief (Nov 03)
 
 Suggested IETF 127 Sessions for Getting Familiar with New Topics: worth a read if you ship against the spec.
 CVE-2026-104935 — Ivanti Connect Secure Generation of Predictable Numbers or Identifiers: patch Ivanti Connect Secure Generation of Predictable Numbers or Identifiers and verify the fix held.
