@@ -1,0 +1,15 @@
+🧠 Engineering & Research Digest (Nov 02)
+
+Unit 42 Threat Intelligence Highlights - Nov. 2, 2026: we file this against the daily watch — relevant if it's in your stack.
+From Reactive to Proactive: Empowering SOC Teams with the Wiz Red and Blue Agent: we map this into the SOC runbook we operate.
+What Makes a Good Security Agent? 5 Lessons from the AgentWorks Hackathon: we file this against the daily watch — relevant if it's in your stack.
+Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer: we weigh this against how agents actually fail in prod.
+  ↳ Update EDR signatures to block VOLTA infostealer and prioritize monitoring endpoints flagged by AI-driven victim prioritization models
+“Black October” for AI Developer Platforms: we weigh this against how agents actually fail in prod.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+Read the full briefing at app.pcmedicalist.com/intel 👇
+
+#CyberSecurity #InfoSec #CompSci
