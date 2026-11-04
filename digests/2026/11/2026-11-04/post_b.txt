@@ -1,0 +1,14 @@
+🧠 Engineering & Research Digest (Nov 03)
+
+The ROI of Agentic Remediation: Real-World Results with Wiz Green Agent: on our radar; correlate it with the rest of your feed.
+CrowdStrike to Acquire Dreadnode to Bring Automated AI Security Testing to the F: we weigh this against how agents actually fail in prod.
+CrowdStrike Advances AI Security and Safety from Endpoint to Cloud: we weigh this against how agents actually fail in prod.
+CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observabil: we weigh this against how agents actually fail in prod.
+Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue: we weigh this against how agents actually fail in prod.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+Read the full briefing at app.pcmedicalist.com/intel 👇
+
+#CyberSecurity #InfoSec #CompSci
