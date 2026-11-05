@@ -1,24 +1,24 @@
-# Latest Digest — 2026-11-04
+# Latest Digest — 2026-11-05
 
 > Rolling snapshot of the most recent PCMedicalist Intelligence Feed digest.
 > Source of truth lives in `digests/`. This file is regenerated every run.
 
-- **Date:** 2026-11-04
+- **Date:** 2026-11-05
 - **Feeds ingested:** 39
 - **Items raw → deduped:** 4042 → 3978
-- **Full digest:** `digests/2026/11/2026-11-04/`
+- **Full digest:** `digests/2026/11/2026-11-05/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
 🔐 Daily Security & Standards Brief (Nov 04)
 
+CVE-2024-27834 — Apple Multiple Products: patch Apple Multiple Products and verify the fix held.
+  ↳ Immediately apply the latest macOS security update from Apple to remediate CVE-2024-27834 improper authentication vulnerability
 CVE-2026-119977 — WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition: patch WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition and verify the fix held.
-  ↳ Immediately update all WordPress Core installations to the latest patched release to resolve this TOCTOU race condition vulnerability
 Suggested IETF 127 Sessions for Getting Familiar with New Topics: worth a read if you ship against the spec.
 CVE-2026-104935 — Ivanti Connect Secure Generation of Predictable Numbers or Identifiers: patch Ivanti Connect Secure Generation of Predictable Numbers or Identifiers and verify the fix held.
 CVE-2026-104935 — Ivanti Connect Secure: enforce auth on the exposed function in Ivanti Connect Secure.
-CVE-2026-97229 — GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound: patch GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound and verify the fix held.
 
 That standard is what Blue-Team discipline is built on.
 
@@ -33,7 +33,6 @@ via PCMedicalist · pcmedicalist.com/intel
 CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversa: we weigh this against how agents actually fail in prod.
 CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats: we map this into the SOC runbook we operate.
 CrowdStrike Brings Enterprise Browser Security to the Falcon Platform: worth folding into your daily threat-watch if it touches your stack.
-  ↳ Deploy CrowdStrike's new Enterprise Browser Security features within Falcon Platform to enhance visibility and protection against web-based threats
 New Falcon Cloud Security Innovations Secure the Cloud AI Runs On: we weigh this against how agents actually fail in prod.
 The ROI of Agentic Remediation: Real-World Results with Wiz Green Agent: on our radar; correlate it with the rest of your feed.
 

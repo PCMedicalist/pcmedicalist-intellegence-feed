@@ -1,0 +1,14 @@
+🧠 Engineering & Research Digest (Nov 04)
+
+CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversa: we weigh this against how agents actually fail in prod.
+CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats: we map this into the SOC runbook we operate.
+CrowdStrike Brings Enterprise Browser Security to the Falcon Platform: worth folding into your daily threat-watch if it touches your stack.
+New Falcon Cloud Security Innovations Secure the Cloud AI Runs On: we weigh this against how agents actually fail in prod.
+The ROI of Agentic Remediation: Real-World Results with Wiz Green Agent: on our radar; correlate it with the rest of your feed.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+Read the full briefing at app.pcmedicalist.com/intel 👇
+
+#CyberSecurity #InfoSec #CompSci
