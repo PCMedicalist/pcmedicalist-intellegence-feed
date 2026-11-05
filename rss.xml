@@ -4,17 +4,16 @@
     <title>PCMedicalist Intelligence Feed</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Daily security intelligence digests — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Thu, 05 Nov 2026 02:14:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 12:14:29 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
     <item>
       <title>Digest 2026-11-05</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/11/2026-11-05/posts.json</link>
       <guid isPermaLink="false">2026-11-05</guid>
-      <pubDate>Thu, 05 Nov 2026 02:14:25 GMT</pubDate>
-      <description>🔐 Daily Security &amp; Standards Brief (Nov 04)
+      <pubDate>Thu, 05 Nov 2026 12:14:29 GMT</pubDate>
+      <description>🔐 Daily Security &amp; Standards Brief (Nov 05)
 
 CVE-2024-27834 — Apple Multiple Products: patch Apple Multiple Products and verify the fix held.
-  ↳ Immediately apply the latest macOS security update from Apple to remediate CVE-2024-27834 improper authentication vulnerability
 CVE-2026-119977 — WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition: patch WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition and verify the fix held.
 Suggested IETF 127 Sessions for Getting Familiar with New Topics: worth a read if you ship against the spec.
 CVE-2026-104935 — Ivanti Connect Secure Generation of Predictable Numbers or Identifiers: patch Ivanti Connect Secure Generation of Predictable Numbers or Identifiers and verify the fix held.
@@ -24,7 +23,7 @@ That standard is what Blue-Team discipline is built on.
 
 via PCMedicalist · pcmedicalist.com/intel
 
-🧠 Engineering &amp; Research Digest (Nov 04)
+🧠 Engineering &amp; Research Digest (Nov 05)
 
 CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversa: we weigh this against how agents actually fail in prod.
 CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats: we map this into the SOC runbook we operate.

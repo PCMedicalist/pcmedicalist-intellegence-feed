@@ -1,7 +1,6 @@
-🔐 Daily Security & Standards Brief (Nov 04)
+🔐 Daily Security & Standards Brief (Nov 05)
 
 CVE-2024-27834 — Apple Multiple Products: patch Apple Multiple Products and verify the fix held.
-  ↳ Immediately apply the latest macOS security update from Apple to remediate CVE-2024-27834 improper authentication vulnerability
 CVE-2026-119977 — WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition: patch WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition and verify the fix held.
 Suggested IETF 127 Sessions for Getting Familiar with New Topics: worth a read if you ship against the spec.
 CVE-2026-104935 — Ivanti Connect Secure Generation of Predictable Numbers or Identifiers: patch Ivanti Connect Secure Generation of Predictable Numbers or Identifiers and verify the fix held.

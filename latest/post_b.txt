@@ -1,4 +1,4 @@
-🧠 Engineering & Research Digest (Nov 04)
+🧠 Engineering & Research Digest (Nov 05)
 
 CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversa: we weigh this against how agents actually fail in prod.
 CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats: we map this into the SOC runbook we operate.
