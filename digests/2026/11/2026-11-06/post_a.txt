@@ -1,4 +1,4 @@
-🔐 Daily Security & Standards Brief (Nov 05)
+🔐 Daily Security & Standards Brief (Nov 06)
 
 CVE-2024-27834 — Apple Multiple Products: patch Apple Multiple Products and verify the fix held.
 CVE-2026-119977 — WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition: patch WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition and verify the fix held.
