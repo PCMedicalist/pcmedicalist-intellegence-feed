@@ -4,8 +4,39 @@
     <title>PCMedicalist Intelligence Feed</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Daily security intelligence digests — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Thu, 05 Nov 2026 12:14:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 02:10:01 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Digest 2026-11-06</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/11/2026-11-06/posts.json</link>
+      <guid isPermaLink="false">2026-11-06</guid>
+      <pubDate>Fri, 06 Nov 2026 02:10:01 GMT</pubDate>
+      <description>🔐 Daily Security &amp; Standards Brief (Nov 05)
+
+CVE-2024-27834 — Apple Multiple Products: patch Apple Multiple Products and verify the fix held.
+CVE-2026-119977 — WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition: patch WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition and verify the fix held.
+Suggested IETF 127 Sessions for Getting Familiar with New Topics: worth a read if you ship against the spec.
+CVE-2026-104935 — Ivanti Connect Secure Generation of Predictable Numbers or Identifiers: patch Ivanti Connect Secure Generation of Predictable Numbers or Identifiers and verify the fix held.
+CVE-2026-104935 — Ivanti Connect Secure: enforce auth on the exposed function in Ivanti Connect Secure.
+
+That standard is what Blue-Team discipline is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+
+🧠 Engineering &amp; Research Digest (Nov 05)
+
+Bring a tent, I've got the coffee: Lessons from it-sa: worth folding into your daily threat-watch if it touches your stack.
+How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders: patch How Adversaries Are Turning the and verify the fix held.
+CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversa: we weigh this against how agents actually fail in prod.
+CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats: we map this into the SOC runbook we operate.
+  ↳ Enable CrowdStrike Agentic SOC features in your Falcon deployment to automate detection and containment of insider threats
+CrowdStrike Brings Enterprise Browser Security to the Falcon Platform: worth folding into your daily threat-watch if it touches your stack.
+  ↳ Enable CrowdStrike Falcon's new Enterprise Browser Security capabilities to enhance visibility and control over enterprise browsing activities
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel</description>
+    </item>
     <item>
       <title>Digest 2026-11-05</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/11/2026-11-05/posts.json</link>
