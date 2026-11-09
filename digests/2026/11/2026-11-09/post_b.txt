@@ -1,0 +1,14 @@
+🧠 Engineering & Research Digest (Nov 08)
+
+Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration System: we file this against the daily watch — relevant if it's in your stack.
+Bring a tent, I've got the coffee: Lessons from it-sa: worth folding into your daily threat-watch if it touches your stack.
+How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders: patch How Adversaries Are Turning the and verify the fix held.
+CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversa: we weigh this against how agents actually fail in prod.
+CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats: we map this into the SOC runbook we operate.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+Read the full briefing at app.pcmedicalist.com/intel 👇
+
+#CyberSecurity #InfoSec #CompSci
