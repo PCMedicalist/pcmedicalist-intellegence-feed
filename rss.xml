@@ -4,13 +4,13 @@
     <title>PCMedicalist Intelligence Feed</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Daily security intelligence digests — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Thu, 12 Nov 2026 06:32:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 12:10:43 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
     <item>
       <title>Digest 2026-11-12</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/11/2026-11-12/posts.json</link>
       <guid isPermaLink="false">2026-11-12</guid>
-      <pubDate>Thu, 12 Nov 2026 06:32:15 GMT</pubDate>
+      <pubDate>Thu, 12 Nov 2026 12:10:43 GMT</pubDate>
       <description>🔐 Daily Security &amp; Standards Brief (Nov 12)
 
 What’s up with email at IETF 127: we weigh this against how agents actually fail in prod.
