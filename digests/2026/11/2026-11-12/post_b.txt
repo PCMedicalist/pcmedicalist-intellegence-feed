@@ -1,0 +1,14 @@
+🧠 Engineering & Research Digest (Nov 12)
+
+ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know: we weigh this against how agents actually fail in prod.
+CVE-2026-119618 — Critical RCE: patch Critical RCE immediately — RCE exposure.
+The XG Files: Falcon C2 Flying Under The (Browser) Radar: we file this against the daily watch — relevant if it's in your stack.
+CVE-2025-8875 — Able2Shell: Frequently asked questions for reported N-able N-central zero-day vulnerabilities: patch Able2Shell: Frequently asked questions for reported N-able N-central zero-day vulnerabilities and verify the fix held.
+Microsoft Patch Tuesday for November 2026 — Snort rules and prominent vulnerabil: we validate the fix against our change-control gate.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+Read the full briefing at app.pcmedicalist.com/intel 👇
+
+#CyberSecurity #InfoSec #CompSci
