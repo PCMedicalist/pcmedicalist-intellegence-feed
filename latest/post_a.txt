@@ -1,11 +1,10 @@
-🔐 Daily Security & Standards Brief (Nov 12)
+🔐 Daily Security & Standards Brief (Nov 13)
 
 What’s up with email at IETF 127: we weigh this against how agents actually fail in prod.
 CVE-2026-124194 — Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action: patch Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action and verify the fix held.
 CVE-2026-111793 — Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres: patch Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres and verify the fix held.
 CVE-2026-20320 — Cisco BroadWorks: patch Cisco BroadWorks and verify the fix held.
 CVE-2026-111560 — Barracuda Networks Multiple Products: sanitize inputs and patch Barracuda Networks Multiple Products.
-  ↳ Immediately apply security patches to all Barracuda Networks appliances to remediate the OS Command Injection vulnerability CVE-2026-111560
 
 That standard is what Blue-Team discipline is built on.
 

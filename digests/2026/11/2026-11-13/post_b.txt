@@ -1,4 +1,4 @@
-🧠 Engineering & Research Digest (Nov 12)
+🧠 Engineering & Research Digest (Nov 13)
 
 Never be afraid to ask questions: we weigh this against how agents actually fail in prod.
 ASPM in the AI Era Part 3: Fixing Risk at the Speed of Code: we weigh this against how agents actually fail in prod.

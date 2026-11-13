@@ -5,20 +5,19 @@
 
 - **Date:** 2026-11-13
 - **Feeds ingested:** 39
-- **Items raw → deduped:** 4083 → 4018
+- **Items raw → deduped:** 4090 → 4027
 - **Full digest:** `digests/2026/11/2026-11-13/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
-🔐 Daily Security & Standards Brief (Nov 12)
+🔐 Daily Security & Standards Brief (Nov 13)
 
 What’s up with email at IETF 127: we weigh this against how agents actually fail in prod.
 CVE-2026-124194 — Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action: patch Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action and verify the fix held.
 CVE-2026-111793 — Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres: patch Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres and verify the fix held.
 CVE-2026-20320 — Cisco BroadWorks: patch Cisco BroadWorks and verify the fix held.
 CVE-2026-111560 — Barracuda Networks Multiple Products: sanitize inputs and patch Barracuda Networks Multiple Products.
-  ↳ Immediately apply security patches to all Barracuda Networks appliances to remediate the OS Command Injection vulnerability CVE-2026-111560
 
 That standard is what Blue-Team discipline is built on.
 
@@ -28,7 +27,7 @@ via PCMedicalist · pcmedicalist.com/intel
 ## Post B — CS / News / Vendor / Dev / Community
 
 ```
-🧠 Engineering & Research Digest (Nov 12)
+🧠 Engineering & Research Digest (Nov 13)
 
 Never be afraid to ask questions: we weigh this against how agents actually fail in prod.
 ASPM in the AI Era Part 3: Fixing Risk at the Speed of Code: we weigh this against how agents actually fail in prod.
