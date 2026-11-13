@@ -1,12 +1,12 @@
-# Latest Digest — 2026-11-12
+# Latest Digest — 2026-11-13
 
 > Rolling snapshot of the most recent PCMedicalist Intelligence Feed digest.
 > Source of truth lives in `digests/`. This file is regenerated every run.
 
-- **Date:** 2026-11-12
+- **Date:** 2026-11-13
 - **Feeds ingested:** 39
 - **Items raw → deduped:** 4083 → 4018
-- **Full digest:** `digests/2026/11/2026-11-12/`
+- **Full digest:** `digests/2026/11/2026-11-13/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
@@ -18,6 +18,7 @@ CVE-2026-124194 — Microsoft Office Outlook Missing User Interaction for Potent
 CVE-2026-111793 — Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres: patch Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres and verify the fix held.
 CVE-2026-20320 — Cisco BroadWorks: patch Cisco BroadWorks and verify the fix held.
 CVE-2026-111560 — Barracuda Networks Multiple Products: sanitize inputs and patch Barracuda Networks Multiple Products.
+  ↳ Immediately apply security patches to all Barracuda Networks appliances to remediate the OS Command Injection vulnerability CVE-2026-111560
 
 That standard is what Blue-Team discipline is built on.
 
@@ -29,11 +30,11 @@ via PCMedicalist · pcmedicalist.com/intel
 ```
 🧠 Engineering & Research Digest (Nov 12)
 
+Never be afraid to ask questions: we weigh this against how agents actually fail in prod.
+ASPM in the AI Era Part 3: Fixing Risk at the Speed of Code: we weigh this against how agents actually fail in prod.
+Attackers Use Autonomous AI to Target Semiconductor, Defense and Civil Society S: we weigh this against how agents actually fail in prod.
+CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Augmented I: we map this into the identity-front-door controls.
 ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know: we weigh this against how agents actually fail in prod.
-CVE-2026-119618 — Critical RCE: patch Critical RCE immediately — RCE exposure.
-The XG Files: Falcon C2 Flying Under The (Browser) Radar: we file this against the daily watch — relevant if it's in your stack.
-CVE-2025-8875 — Able2Shell: Frequently asked questions for reported N-able N-central zero-day vulnerabilities: patch Able2Shell: Frequently asked questions for reported N-able N-central zero-day vulnerabilities and verify the fix held.
-Microsoft Patch Tuesday for November 2026 — Snort rules and prominent vulnerabil: we validate the fix against our change-control gate.
 
 That standard is what our sentinel is built on.
 
