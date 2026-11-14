@@ -1,0 +1,16 @@
+🔐 Daily Security & Standards Brief (Nov 13)
+
+CVE-2026-114713 — UnrealIRCd: patch UnrealIRCd and verify the fix held.
+  ↳ Immediately upgrade all UnrealIRCd instances to the latest patched release to mitigate CVE-2026-114713
+CVE-2026-123039 — Check Point Multiple Products Incorrect Permission Assignment for Critical Resource: patch Check Point Multiple Products Incorrect Permission Assignment for Critical Resource and verify the fix held.
+  ↳ Immediately apply vendor patches to all affected Check Point installations to resolve the critical resource permission assignment misconfiguration
+Post-Quantum Authentication: Lessons from Prague: we map this into our hardening baseline.
+What’s up with email at IETF 127: we weigh this against how agents actually fail in prod.
+CVE-2026-124194 — Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action: patch Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action and verify the fix held.
+
+That standard is what Blue-Team discipline is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+Read the full briefing at app.pcmedicalist.com/intel 👇
+
+#CyberSecurity #InfoSec
