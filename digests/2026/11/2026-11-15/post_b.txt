@@ -1,4 +1,4 @@
-🧠 Engineering & Research Digest (Nov 14)
+🧠 Engineering & Research Digest (Nov 15)
 
 ARTEX and beyond: AI-enabled penetration testing platforms: we weigh this against how agents actually fail in prod.
 The Green Agent POV: Formulating the Fix for an Exposed Container with Sensitive: we weigh this against how agents actually fail in prod.
