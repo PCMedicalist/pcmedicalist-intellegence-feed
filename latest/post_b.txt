@@ -4,7 +4,6 @@ ARTEX and beyond: AI-enabled penetration testing platforms: we weigh this agains
 The Green Agent POV: Formulating the Fix for an Exposed Container with Sensitive: we weigh this against how agents actually fail in prod.
 Inside Falcon AI Gateway: One Control Point for AI Traffic: we weigh this against how agents actually fail in prod.
 Never be afraid to ask questions: we weigh this against how agents actually fail in prod.
-  ↳ Validate all threat intelligence by consulting internal experts and cross-referencing external sources before executing incident response actions
 ASPM in the AI Era Part 3: Fixing Risk at the Speed of Code: we weigh this against how agents actually fail in prod.
 
 That standard is what our sentinel is built on.
