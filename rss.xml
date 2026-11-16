@@ -4,32 +4,31 @@
     <title>PCMedicalist Intelligence Feed</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Daily security intelligence digests — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Mon, 16 Nov 2026 02:09:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 12:10:12 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
     <item>
       <title>Digest 2026-11-16</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/11/2026-11-16/posts.json</link>
       <guid isPermaLink="false">2026-11-16</guid>
-      <pubDate>Mon, 16 Nov 2026 02:09:42 GMT</pubDate>
-      <description>🔐 Daily Security &amp; Standards Brief (Nov 15)
+      <pubDate>Mon, 16 Nov 2026 12:10:12 GMT</pubDate>
+      <description>🔐 Daily Security &amp; Standards Brief (Nov 16)
 
 CVE-2026-114713 — UnrealIRCd: patch UnrealIRCd and verify the fix held.
 CVE-2026-123039 — Check Point Multiple Products Incorrect Permission Assignment for Critical Resource: patch Check Point Multiple Products Incorrect Permission Assignment for Critical Resource and verify the fix held.
+  ↳ Upgrade all affected Check Point products to the latest patched version immediately and validate critical resource permissions are correctly restricted
 Post-Quantum Authentication: Lessons from Prague: we map this into our hardening baseline.
 What’s up with email at IETF 127: we weigh this against how agents actually fail in prod.
 CVE-2026-124194 — Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action: patch Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action and verify the fix held.
-  ↳ Immediately apply the latest Microsoft Office security updates to patch CVE-2026-124194 and disable macros in Outlook to prevent unauthorized actions
 
 That standard is what Blue-Team discipline is built on.
 
 via PCMedicalist · pcmedicalist.com/intel
 
-🧠 Engineering &amp; Research Digest (Nov 15)
+🧠 Engineering &amp; Research Digest (Nov 16)
 
 ARTEX and beyond: AI-enabled penetration testing platforms: we weigh this against how agents actually fail in prod.
 The Green Agent POV: Formulating the Fix for an Exposed Container with Sensitive: we weigh this against how agents actually fail in prod.
 Inside Falcon AI Gateway: One Control Point for AI Traffic: we weigh this against how agents actually fail in prod.
-  ↳ Enable and configure the Falcon AI Gateway to centrally inspect, monitor, and enforce security policies on all AI model traffic within your infrastructure
 Never be afraid to ask questions: we weigh this against how agents actually fail in prod.
 ASPM in the AI Era Part 3: Fixing Risk at the Speed of Code: we weigh this against how agents actually fail in prod.
 
