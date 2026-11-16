@@ -1,0 +1,15 @@
+🧠 Engineering & Research Digest (Nov 15)
+
+ARTEX and beyond: AI-enabled penetration testing platforms: we weigh this against how agents actually fail in prod.
+The Green Agent POV: Formulating the Fix for an Exposed Container with Sensitive: we weigh this against how agents actually fail in prod.
+Inside Falcon AI Gateway: One Control Point for AI Traffic: we weigh this against how agents actually fail in prod.
+  ↳ Enable and configure the Falcon AI Gateway to centrally inspect, monitor, and enforce security policies on all AI model traffic within your infrastructure
+Never be afraid to ask questions: we weigh this against how agents actually fail in prod.
+ASPM in the AI Era Part 3: Fixing Risk at the Speed of Code: we weigh this against how agents actually fail in prod.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+Read the full briefing at app.pcmedicalist.com/intel 👇
+
+#CyberSecurity #InfoSec #CompSci
