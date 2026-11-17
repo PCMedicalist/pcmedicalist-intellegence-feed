@@ -5,15 +5,16 @@
 
 - **Date:** 2026-11-17
 - **Feeds ingested:** 39
-- **Items raw → deduped:** 4097 → 4035
+- **Items raw → deduped:** 4108 → 4045
 - **Full digest:** `digests/2026/11/2026-11-17/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
-🔐 Daily Security & Standards Brief (Nov 16)
+🔐 Daily Security & Standards Brief (Nov 17)
 
 CVE-2026-114713 — UnrealIRCd: patch UnrealIRCd and verify the fix held.
+  ↳ Immediately upgrade UnrealIRCd to the latest patched release to remediate the improper delimiter neutralization vulnerability CVE-2026-114713
 CVE-2026-123039 — Check Point Multiple Products Incorrect Permission Assignment for Critical Resource: patch Check Point Multiple Products Incorrect Permission Assignment for Critical Resource and verify the fix held.
 Post-Quantum Authentication: Lessons from Prague: we map this into our hardening baseline.
 What’s up with email at IETF 127: we weigh this against how agents actually fail in prod.
@@ -27,7 +28,7 @@ via PCMedicalist · pcmedicalist.com/intel
 ## Post B — CS / News / Vendor / Dev / Community
 
 ```
-🧠 Engineering & Research Digest (Nov 16)
+🧠 Engineering & Research Digest (Nov 17)
 
 QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments: we file this against the daily watch — relevant if it's in your stack.
 Introducing the Wiz AI Security Agent: we weigh this against how agents actually fail in prod.

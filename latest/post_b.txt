@@ -1,4 +1,4 @@
-🧠 Engineering & Research Digest (Nov 16)
+🧠 Engineering & Research Digest (Nov 17)
 
 QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments: we file this against the daily watch — relevant if it's in your stack.
 Introducing the Wiz AI Security Agent: we weigh this against how agents actually fail in prod.
