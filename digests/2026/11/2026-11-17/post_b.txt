@@ -1,0 +1,14 @@
+🧠 Engineering & Research Digest (Nov 16)
+
+QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments: we file this against the daily watch — relevant if it's in your stack.
+Introducing the Wiz AI Security Agent: we weigh this against how agents actually fail in prod.
+Tenable One Adversary View brings Claude Mythos’ adversarial reasoning to your e: on our radar; correlate it with the rest of your feed.
+Hidden in the Weights: Supply Chain Risk from Backdoored LoRA Models: we trace this against our dependency inventory.
+ARTEX and beyond: AI-enabled penetration testing platforms: we weigh this against how agents actually fail in prod.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+Read the full briefing at app.pcmedicalist.com/intel 👇
+
+#CyberSecurity #InfoSec #CompSci
