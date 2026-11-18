@@ -1,10 +1,10 @@
 🧠 Engineering & Research Digest (Nov 17)
 
-QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments: we file this against the daily watch — relevant if it's in your stack.
-Introducing the Wiz AI Security Agent: we weigh this against how agents actually fail in prod.
-Tenable One Adversary View brings Claude Mythos’ adversarial reasoning to your e: on our radar; correlate it with the rest of your feed.
-Hidden in the Weights: Supply Chain Risk from Backdoored LoRA Models: we trace this against our dependency inventory.
-ARTEX and beyond: AI-enabled penetration testing platforms: we weigh this against how agents actually fail in prod.
+CVE-2026-114938 — CVE-2026-114938: Critical: patch CVE-2026-114938: Critical and verify the fix held.
+CVE-2026-114938 — CVE-2026-114938 RCE in OpenJDK: Everything You Need to Know: patch CVE-2026-114938 RCE in OpenJDK: Everything You Need to Know immediately — RCE exposure.
+Microsoft agent-framework Compromised: Credential Stealer Targets Azure and CI P: we file this against the daily watch — relevant if it's in your stack.
+CVE-2026-114938 — Oracle November 2026 Critical Security Patch Update Addresses 640 CVEs (CVE-2026-114938): patch Oracle November 2026 Critical Security Patch Update Addresses 640 CVEs (CVE-2026-114938) and verify the fix held.
+Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us: on our radar; correlate it with the rest of your feed.
 
 That standard is what our sentinel is built on.
 

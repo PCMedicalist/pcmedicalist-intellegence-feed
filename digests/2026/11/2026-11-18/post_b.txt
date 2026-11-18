@@ -1,0 +1,14 @@
+🧠 Engineering & Research Digest (Nov 17)
+
+CVE-2026-114938 — CVE-2026-114938: Critical: patch CVE-2026-114938: Critical and verify the fix held.
+CVE-2026-114938 — CVE-2026-114938 RCE in OpenJDK: Everything You Need to Know: patch CVE-2026-114938 RCE in OpenJDK: Everything You Need to Know immediately — RCE exposure.
+Microsoft agent-framework Compromised: Credential Stealer Targets Azure and CI P: we file this against the daily watch — relevant if it's in your stack.
+CVE-2026-114938 — Oracle November 2026 Critical Security Patch Update Addresses 640 CVEs (CVE-2026-114938): patch Oracle November 2026 Critical Security Patch Update Addresses 640 CVEs (CVE-2026-114938) and verify the fix held.
+Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us: on our radar; correlate it with the rest of your feed.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+Read the full briefing at app.pcmedicalist.com/intel 👇
+
+#CyberSecurity #InfoSec #CompSci
