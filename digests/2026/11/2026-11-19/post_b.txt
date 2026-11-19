@@ -1,10 +1,10 @@
-🧠 Engineering & Research Digest (Nov 18)
+🧠 Engineering & Research Digest (Nov 19)
 
 CVE-2026-113425 — NGINX2Root (CVE-2026-123007): Frequently asked questions about five critical NGINX vulnerabilities: patch NGINX2Root (CVE-2026-123007): Frequently asked questions about five critical NGINX vulnerabilities and verify the fix held.
 CVE-2026-123007 — Unauthenticated: patch Unauthenticated immediately — RCE exposure.
 Open by Default, Already Occupied: Threat Actors are Renting your Compute: worth folding into your daily threat-watch if it touches your stack.
-  ↳ Disable all open-by-default services and restrict egress traffic for the affected product to prevent unauthorized compute rental by threat actors
 CVE-2026-123007 — CVE-2026-123007: Critical NGINX HTTP/2 Integer Underflow Leads to RCE (FIXED): patch CVE-2026-123007: Critical NGINX HTTP/2 Integer Underflow Leads to RCE (FIXED) immediately — RCE exposure.
+  ↳ Immediately upgrade all NGINX instances to the patched version to remediate CVE-2026-123007 HTTP/2 integer underflow RCE
 Fix Tenable One findings where developers work: Tenable and OpenAI Daybreak Defe: we weigh this against how agents actually fail in prod.
 
 That standard is what our sentinel is built on.
