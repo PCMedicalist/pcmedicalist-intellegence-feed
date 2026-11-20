@@ -4,8 +4,39 @@
     <title>PCMedicalist Intelligence Feed</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Daily security intelligence digests — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Thu, 19 Nov 2026 12:10:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 02:10:37 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Digest 2026-11-20</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/11/2026-11-20/posts.json</link>
+      <guid isPermaLink="false">2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 02:10:37 GMT</pubDate>
+      <description>🔐 Daily Security &amp; Standards Brief (Nov 19)
+
+CVE-2024-10441 — Synology DiskStation Manager (DSM): patch Synology DiskStation Manager (DSM) and verify the fix held.
+CVE-2026-40217 — BerriAI LiteLLM Unprotected Alternate Channel: patch BerriAI LiteLLM Unprotected Alternate Channel and verify the fix held.
+CVE-2026-90817 — Vanderbilt University Research Electronic Data Capture (REDCap) Code: patch Vanderbilt University Research Electronic Data Capture (REDCap) Code and verify the fix held.
+  ↳ Immediately upgrade all Vanderbilt REDCap instances to the latest patched version to remediate CVE-2026-90817 and block code injection attacks
+CVE-2026-90436 — Apache Axis Unsafe Reflection: patch Apache Axis Unsafe Reflection and verify the fix held.
+CVE-2026-115731 — Perforce Puppet Enterprise: patch Perforce Puppet Enterprise and validate deserialization bounds.
+  ↳ Immediately upgrade Perforce Puppet Enterprise to the latest patched release to mitigate deserialization of untrusted data vulnerabilities
+
+That standard is what Blue-Team discipline is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+
+🧠 Engineering &amp; Research Digest (Nov 19)
+
+phpAfterShell and Critical PHP RCE Vulnerabilities: Everything You Need To Know: patch phpAfterShell and Critical PHP RCE Vulnerabilities: Everything You Need To Know immediately — RCE exposure.
+CVE-2026-123890 — CVE-2026-123890: Critical Authentication: patch CVE-2026-123890: Critical Authentication and verify the fix held.
+The internet needs a nap (and you do, too): we file this against the daily watch — relevant if it's in your stack.
+Identity context is essential for exposure management: Tenable One adds ways to : we map this into the identity-front-door controls.
+What Is Preemptive MDR? A Guide For Security Leaders: we file this against the daily watch — relevant if it's in your stack.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel</description>
+    </item>
     <item>
       <title>Digest 2026-11-19</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/11/2026-11-19/posts.json</link>

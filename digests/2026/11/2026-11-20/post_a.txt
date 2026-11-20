@@ -1,0 +1,16 @@
+🔐 Daily Security & Standards Brief (Nov 19)
+
+CVE-2024-10441 — Synology DiskStation Manager (DSM): patch Synology DiskStation Manager (DSM) and verify the fix held.
+CVE-2026-40217 — BerriAI LiteLLM Unprotected Alternate Channel: patch BerriAI LiteLLM Unprotected Alternate Channel and verify the fix held.
+CVE-2026-90817 — Vanderbilt University Research Electronic Data Capture (REDCap) Code: patch Vanderbilt University Research Electronic Data Capture (REDCap) Code and verify the fix held.
+  ↳ Immediately upgrade all Vanderbilt REDCap instances to the latest patched version to remediate CVE-2026-90817 and block code injection attacks
+CVE-2026-90436 — Apache Axis Unsafe Reflection: patch Apache Axis Unsafe Reflection and verify the fix held.
+CVE-2026-115731 — Perforce Puppet Enterprise: patch Perforce Puppet Enterprise and validate deserialization bounds.
+  ↳ Immediately upgrade Perforce Puppet Enterprise to the latest patched release to mitigate deserialization of untrusted data vulnerabilities
+
+That standard is what Blue-Team discipline is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+Read the full briefing at app.pcmedicalist.com/intel 👇
+
+#CyberSecurity #InfoSec

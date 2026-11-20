@@ -1,0 +1,14 @@
+🧠 Engineering & Research Digest (Nov 19)
+
+phpAfterShell and Critical PHP RCE Vulnerabilities: Everything You Need To Know: patch phpAfterShell and Critical PHP RCE Vulnerabilities: Everything You Need To Know immediately — RCE exposure.
+CVE-2026-123890 — CVE-2026-123890: Critical Authentication: patch CVE-2026-123890: Critical Authentication and verify the fix held.
+The internet needs a nap (and you do, too): we file this against the daily watch — relevant if it's in your stack.
+Identity context is essential for exposure management: Tenable One adds ways to : we map this into the identity-front-door controls.
+What Is Preemptive MDR? A Guide For Security Leaders: we file this against the daily watch — relevant if it's in your stack.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+Read the full briefing at app.pcmedicalist.com/intel 👇
+
+#CyberSecurity #InfoSec #CompSci
