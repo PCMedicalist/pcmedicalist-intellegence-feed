@@ -5,7 +5,7 @@
 
 - **Date:** 2026-11-20
 - **Feeds ingested:** 39
-- **Items raw → deduped:** 4151 → 4089
+- **Items raw → deduped:** 4157 → 4094
 - **Full digest:** `digests/2026/11/2026-11-20/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec

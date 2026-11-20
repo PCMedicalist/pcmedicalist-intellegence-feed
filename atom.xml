@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PCMedicalist Intelligence Feed</title>
   <id>tag:pcmedicalist.com,2026:intel-feed</id>
-  <updated>2026-11-20T02:10:37Z</updated>
+  <updated>2026-11-20T09:42:13Z</updated>
   <link rel="self" href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/atom.xml"/>
   <subtitle>Daily security intelligence digests — PCMedicalist Intelligence Network</subtitle>
   <entry>
     <title>Digest 2026-11-20</title>
     <id>tag:pcmedicalist.com,2026:intel-feed:2026-11-20</id>
-    <updated>2026-11-20T02:10:37Z</updated>
+    <updated>2026-11-20T09:42:13Z</updated>
     <link href="https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/11/2026-11-20/posts.json"/>
     <summary>Security intelligence digest for 2026-11-20</summary>
     <content type="text">🔐 Daily Security &amp; Standards Brief (Nov 19)
