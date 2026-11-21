@@ -1,12 +1,12 @@
 🧠 Engineering & Research Digest (Nov 20)
 
+Dialing for Data: Inside the Com’s High-Profile Heists: on our radar; correlate it with the rest of your feed.
+CVE-2026-109618 — How exposure management can help public sector prepare for PHP2Shell-like vulnerabilities: patch How exposure management can help public sector prepare for PHP2Shell-like vulnerabilities and verify the fix held.
 CVE-2024-25420 — Metasploit Wrap Up: Breaking Zimbra's Identity Boundaries: patch Metasploit Wrap Up: Breaking Zimbra's Identity Boundaries and verify the fix held.
+  ↳ Patch all affected Zimbra Collaboration Suite servers immediately to remediate CVE-2024-25420 identity boundary breaking vulnerabilities
 phpAfterShell and Critical PHP RCE Vulnerabilities: Everything You Need To Know: patch phpAfterShell and Critical PHP RCE Vulnerabilities: Everything You Need To Know immediately — RCE exposure.
-  ↳ Immediately patch all vulnerable PHP environments and audit dependencies against the disclosed critical remote code execution flaws
 CVE-2026-123890 — CVE-2026-123890: Critical Authentication: patch CVE-2026-123890: Critical Authentication and verify the fix held.
-  ↳ Immediately upgrade all affected VMware vCenter Server instances to the latest patched version containing the fix for CVE-2026-123890
-The internet needs a nap (and you do, too): we file this against the daily watch — relevant if it's in your stack.
-Identity context is essential for exposure management: Tenable One adds ways to : we map this into the identity-front-door controls.
+  ↳ Immediately upgrade all VMware vCenter deployments to the latest patched release to remediate this critical authentication bypass vulnerability
 
 That standard is what our sentinel is built on.
 
