@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "social_owner": "creative_studio",
   "social_publishing": "delegated",
   "feeds_total": 39,
-  "items_raw": 4157,
-  "items_deduped": 4094,
+  "items_raw": 4162,
+  "items_deduped": 4099,
   "per_feed": {
     "IETF Blog": 603,
     "W3C News": 0,
@@ -39,17 +39,17 @@
     "CISA KEV Vulns": 50,
     "SLSA": 0,
     "OpenSSF Main": 10,
-    "OpenAI Research": 1418,
-    "Hugging Face Blog": 913,
+    "OpenAI Research": 1421,
+    "Hugging Face Blog": 915,
     "Hacker News": 30,
     "Lobsters": 25,
     "r/netsec": 0,
     "Bankr Launches": 50
   },
-  "post_a_len": 1186,
-  "post_b_len": 922,
-  "post_a_x_len": 218,
-  "post_b_x_len": 300,
+  "post_a_len": 1069,
+  "post_b_len": 1344,
+  "post_a_x_len": 189,
+  "post_b_x_len": 216,
   "buffer_a_x": {
     "dry_run": false,
     "success": null
@@ -94,5 +94,5 @@
   },
   "buffer_failures": [],
   "discord_ok": true,
-  "archive_ok": false
+  "archive_ok": true
 }
