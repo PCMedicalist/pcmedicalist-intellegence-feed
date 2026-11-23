@@ -1,0 +1,15 @@
+🧠 Engineering & Research Digest (Nov 22)
+
+Dialing for Data: Inside the Com’s High-Profile Heists: on our radar; correlate it with the rest of your feed.
+CVE-2026-109618 — How exposure management can help public sector prepare for PHP2Shell-like vulnerabilities: patch How exposure management can help public sector prepare for PHP2Shell-like vulnerabilities and verify the fix held.
+CVE-2024-25420 — Metasploit Wrap Up: Breaking Zimbra's Identity Boundaries: patch Metasploit Wrap Up: Breaking Zimbra's Identity Boundaries and verify the fix held.
+phpAfterShell and Critical PHP RCE Vulnerabilities: Everything You Need To Know: patch phpAfterShell and Critical PHP RCE Vulnerabilities: Everything You Need To Know immediately — RCE exposure.
+  ↳ Immediately patch all vulnerable PHP installations and disable dangerous functions like eval or system to prevent remote code execution
+CVE-2026-123890 — CVE-2026-123890: Critical Authentication: patch CVE-2026-123890: Critical Authentication and verify the fix held.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+Read the full briefing at app.pcmedicalist.com/intel 👇
+
+#CyberSecurity #InfoSec #CompSci
