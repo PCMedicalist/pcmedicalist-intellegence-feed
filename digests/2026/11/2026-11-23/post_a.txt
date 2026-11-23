@@ -1,10 +1,9 @@
-🔐 Daily Security & Standards Brief (Nov 22)
+🔐 Daily Security & Standards Brief (Nov 23)
 
 CVE-2026-129448 — Apache Roller: patch Apache Roller and validate deserialization bounds.
-  ↳ Upgrade Apache Roller to the latest patched version immediately to mitigate CVE-2026-129448 deserialization of untrusted data risks
 CVE-2026-123890 — VMWare vCenter Authentication: patch VMWare vCenter Authentication and verify the fix held.
 CVE-2025-42884 — SAP NetWeaver: patch SAP NetWeaver and verify the fix held.
-  ↳ Immediately patch affected SAP NetWeaver systems with the vendor-provided security update to mitigate this SQL injection vulnerability
+  ↳ Immediately apply the official SAP security update for NetWeaver to remediate this SQL injection vulnerability in data query logic
 CVE-2026-76466 — Cisco Expressway Series Use of Hard-coded Credentials: patch Cisco Expressway Series Use of Hard-coded Credentials and verify the fix held.
 CVE-2024-10441 — Synology DiskStation Manager (DSM): patch Synology DiskStation Manager (DSM) and verify the fix held.
 
