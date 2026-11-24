@@ -1,10 +1,10 @@
-🧠 Engineering & Research Digest (Nov 23)
+🧠 Engineering & Research Digest (Nov 24)
 
-Agentic Attacks: In The Wild: worth folding into your daily threat-watch if it touches your stack.
-Dialing for Data: Inside the Com’s High-Profile Heists: on our radar; correlate it with the rest of your feed.
 CVE-2026-109618 — How exposure management can help public sector prepare for PHP2Shell-like vulnerabilities: patch How exposure management can help public sector prepare for PHP2Shell-like vulnerabilities and verify the fix held.
-CVE-2024-25420 — Metasploit Wrap Up: Breaking Zimbra's Identity Boundaries: patch Metasploit Wrap Up: Breaking Zimbra's Identity Boundaries and verify the fix held.
-phpAfterShell and Critical PHP RCE Vulnerabilities: Everything You Need To Know: patch phpAfterShell and Critical PHP RCE Vulnerabilities: Everything You Need To Know immediately — RCE exposure.
+What Is Preemptive MDR? A Guide For Security Leaders: we file this against the daily watch — relevant if it's in your stack.
+Spying on Governments with Zero Lines of Malware: A Custom SoftEther Bridge in W: on our radar; correlate it with the rest of your feed.
+The challenge of defending against bulletproof dead drops on public blockchains: we weigh this against how agents actually fail in prod.
+UAT-12643: Suspected North Korea-aligned actor blends blockchain resilience with: we weigh this against how agents actually fail in prod.
 
 That standard is what our sentinel is built on.
 
