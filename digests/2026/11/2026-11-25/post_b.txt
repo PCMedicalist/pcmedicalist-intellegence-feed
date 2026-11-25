@@ -1,0 +1,16 @@
+🧠 Engineering & Research Digest (Nov 24)
+
+CVE-2026-123633 — NGINX HTTP/2 Use-After-Free: CVE-2026-123633: patch NGINX HTTP/2 Use-After-Free: CVE-2026-123633 and verify the fix held.
+“Do Good Security” and Other Lessons from Wiz’s FedRAMP VDR & VER Event: we file this against the daily watch — relevant if it's in your stack.
+How to compare MDR providers when every proposal looks promising: on our radar; correlate it with the rest of your feed.
+  ↳ Validate MDR provider claims by requesting independent audit reports, live SOC demos, and evidence of recent threat hunting engagements prior to contract signing
+Recent Trends and Tactics of Agentic AI Attacks: we weigh this against how agents actually fail in prod.
+  ↳ Audit AI agent permissions and monitor for unauthorized autonomous behaviors to detect and block emerging agentic attack vectors
+Powering the OpenAI Daybreak Defense Factory with Wiz Security Intelligence: we weigh this against how agents actually fail in prod.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+Read the full briefing at app.pcmedicalist.com/intel 👇
+
+#CyberSecurity #InfoSec #CompSci
