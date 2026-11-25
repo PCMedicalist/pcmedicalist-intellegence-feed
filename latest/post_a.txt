@@ -1,13 +1,11 @@
-🔐 Daily Security & Standards Brief (Nov 24)
+🔐 Daily Security & Standards Brief (Nov 25)
 
 CVE-2026-132224 — Optimizely Web Experimentation External Control of Critical State Data: patch Optimizely Web Experimentation External Control of Critical State Data and verify the fix held.
+  ↳ Upgrade Optimizely Web Experimentation immediately to the latest patched version and disable public experiment configuration endpoints until verified secure
 CVE-2026-131914 — Idunno AntiCsrf: patch Idunno AntiCsrf and validate deserialization bounds.
 CVE-2026-132165 — Drupal Core: patch Drupal Core immediately — RCE exposure.
-  ↳ Immediately upgrade all Drupal Core installations to the latest patched version to mitigate this remote code execution vulnerability
 CVE-2026-102895 — GPUStack: patch GPUStack and verify the fix held.
-  ↳ Immediately upgrade GPUStack to the vendor-provided patched release to remediate the improper authentication vulnerability and prevent unauthorized access
 CVE-2026-123158 — OpenBSD OpenSSH Unexpected Status Code or Return Value: patch OpenBSD OpenSSH Unexpected Status Code or Return Value and verify the fix held.
-  ↳ Upgrade OpenSSH to the latest patched release on all Linux systems to address the return value vulnerability and prevent potential exploitation
 
 That standard is what Blue-Team discipline is built on.
 
