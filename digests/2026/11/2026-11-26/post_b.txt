@@ -1,0 +1,15 @@
+🧠 Engineering & Research Digest (Nov 25)
+
+Oh, is it Thanksgiving? I hadn’t noticed!: we file this against the daily watch — relevant if it's in your stack.
+Rapid7 Named a Leader in the 2026 Gartner® Magic Quadrant™ for Integrated Securi: on our radar; correlate it with the rest of your feed.
+The AI Threat Horizon: Why Speed, Edge AI and Baselines Are Our Best Defense: we weigh this against how agents actually fail in prod.
+  ↳ Implement edge AI processing and establish behavioral baselines to maximize detection speed against emerging AI-driven threats
+Inside Agentic Offensive Frameworks: Intent IDs: we file this against the daily watch — relevant if it's in your stack.
+Our 2026 Cybersecurity Predictions: What We Got Right, What We Got Wrong, and Wh: on our radar; correlate it with the rest of your feed.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+Read the full briefing at app.pcmedicalist.com/intel 👇
+
+#InfoSec #CompSci

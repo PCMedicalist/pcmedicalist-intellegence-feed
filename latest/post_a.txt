@@ -1,11 +1,11 @@
 🔐 Daily Security & Standards Brief (Nov 25)
 
-CVE-2026-132224 — Optimizely Web Experimentation External Control of Critical State Data: patch Optimizely Web Experimentation External Control of Critical State Data and verify the fix held.
-  ↳ Upgrade Optimizely Web Experimentation immediately to the latest patched version and disable public experiment configuration endpoints until verified secure
-CVE-2026-131914 — Idunno AntiCsrf: patch Idunno AntiCsrf and validate deserialization bounds.
-CVE-2026-132165 — Drupal Core: patch Drupal Core immediately — RCE exposure.
-CVE-2026-102895 — GPUStack: patch GPUStack and verify the fix held.
-CVE-2026-123158 — OpenBSD OpenSSH Unexpected Status Code or Return Value: patch OpenBSD OpenSSH Unexpected Status Code or Return Value and verify the fix held.
+CVE-2026-103406 — Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router: sanitize inputs and patch Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router.
+CVE-2026-133469 — Vates Xen Orchestra: patch Vates Xen Orchestra and verify the fix held.
+CVE-2025-41450 — Danfoss AK-SM 800A Series: patch Danfoss AK-SM 800A Series and verify the fix held.
+CVE-2023-25914 — Danfoss AK-SM 800A Series: validate paths and patch Danfoss AK-SM 800A Series.
+CVE-2023-25915 — Danfoss AK-SM 800A Series: patch Danfoss AK-SM 800A Series and verify the fix held.
+  ↳ Immediately deploy the vendor-supplied firmware update for all Danfoss AK-SM 800A Series devices to remediate CVE-2023-25915 improper input validation risks
 
 That standard is what Blue-Team discipline is built on.
 

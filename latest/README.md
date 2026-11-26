@@ -1,24 +1,24 @@
-# Latest Digest — 2026-11-25
+# Latest Digest — 2026-11-26
 
 > Rolling snapshot of the most recent PCMedicalist Intelligence Feed digest.
 > Source of truth lives in `digests/`. This file is regenerated every run.
 
-- **Date:** 2026-11-25
+- **Date:** 2026-11-26
 - **Feeds ingested:** 39
 - **Items raw → deduped:** 4175 → 4112
-- **Full digest:** `digests/2026/11/2026-11-25/`
+- **Full digest:** `digests/2026/11/2026-11-26/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
 🔐 Daily Security & Standards Brief (Nov 25)
 
-CVE-2026-132224 — Optimizely Web Experimentation External Control of Critical State Data: patch Optimizely Web Experimentation External Control of Critical State Data and verify the fix held.
-  ↳ Upgrade Optimizely Web Experimentation immediately to the latest patched version and disable public experiment configuration endpoints until verified secure
-CVE-2026-131914 — Idunno AntiCsrf: patch Idunno AntiCsrf and validate deserialization bounds.
-CVE-2026-132165 — Drupal Core: patch Drupal Core immediately — RCE exposure.
-CVE-2026-102895 — GPUStack: patch GPUStack and verify the fix held.
-CVE-2026-123158 — OpenBSD OpenSSH Unexpected Status Code or Return Value: patch OpenBSD OpenSSH Unexpected Status Code or Return Value and verify the fix held.
+CVE-2026-103406 — Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router: sanitize inputs and patch Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router.
+CVE-2026-133469 — Vates Xen Orchestra: patch Vates Xen Orchestra and verify the fix held.
+CVE-2025-41450 — Danfoss AK-SM 800A Series: patch Danfoss AK-SM 800A Series and verify the fix held.
+CVE-2023-25914 — Danfoss AK-SM 800A Series: validate paths and patch Danfoss AK-SM 800A Series.
+CVE-2023-25915 — Danfoss AK-SM 800A Series: patch Danfoss AK-SM 800A Series and verify the fix held.
+  ↳ Immediately deploy the vendor-supplied firmware update for all Danfoss AK-SM 800A Series devices to remediate CVE-2023-25915 improper input validation risks
 
 That standard is what Blue-Team discipline is built on.
 
@@ -30,12 +30,12 @@ via PCMedicalist · pcmedicalist.com/intel
 ```
 🧠 Engineering & Research Digest (Nov 25)
 
-The Great Escape: Tradecraft insights from an agentic swarm: worth folding into your daily threat-watch if it touches your stack.
-Securing Grandma's groceries with Pierre Cadieux: we file this against the daily watch — relevant if it's in your stack.
-Recent Trends and Tactics of Agentic AI Attacks: we weigh this against how agents actually fail in prod.
-Powering the OpenAI Daybreak Defense Factory with Wiz Security Intelligence: we weigh this against how agents actually fail in prod.
-Reprioritizing Automated Leads with CrowdStrike Signal: on our radar; correlate it with the rest of your feed.
-  ↳ Configure CrowdStrike Falcon to reprioritize automated investigation leads using threat signals for optimized SOC triage
+Oh, is it Thanksgiving? I hadn’t noticed!: we file this against the daily watch — relevant if it's in your stack.
+Rapid7 Named a Leader in the 2026 Gartner® Magic Quadrant™ for Integrated Securi: on our radar; correlate it with the rest of your feed.
+The AI Threat Horizon: Why Speed, Edge AI and Baselines Are Our Best Defense: we weigh this against how agents actually fail in prod.
+  ↳ Implement edge AI processing and establish behavioral baselines to maximize detection speed against emerging AI-driven threats
+Inside Agentic Offensive Frameworks: Intent IDs: we file this against the daily watch — relevant if it's in your stack.
+Our 2026 Cybersecurity Predictions: What We Got Right, What We Got Wrong, and Wh: on our radar; correlate it with the rest of your feed.
 
 That standard is what our sentinel is built on.
 
