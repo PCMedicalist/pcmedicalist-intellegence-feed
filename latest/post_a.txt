@@ -1,11 +1,11 @@
-🔐 Daily Security & Standards Brief (Nov 25)
+🔐 Daily Security & Standards Brief (Nov 26)
 
 CVE-2026-103406 — Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router: sanitize inputs and patch Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router.
 CVE-2026-133469 — Vates Xen Orchestra: patch Vates Xen Orchestra and verify the fix held.
 CVE-2025-41450 — Danfoss AK-SM 800A Series: patch Danfoss AK-SM 800A Series and verify the fix held.
 CVE-2023-25914 — Danfoss AK-SM 800A Series: validate paths and patch Danfoss AK-SM 800A Series.
 CVE-2023-25915 — Danfoss AK-SM 800A Series: patch Danfoss AK-SM 800A Series and verify the fix held.
-  ↳ Immediately deploy the vendor-supplied firmware update for all Danfoss AK-SM 800A Series devices to remediate CVE-2023-25915 improper input validation risks
+  ↳ Immediately upgrade Danfoss AK-SM 800A Series firmware to the patched version addressing CVE-2023-25915 improper input validation vulnerability
 
 That standard is what Blue-Team discipline is built on.
 
