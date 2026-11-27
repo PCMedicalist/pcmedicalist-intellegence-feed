@@ -1,15 +1,15 @@
-🧠 Engineering & Research Digest (Nov 26)
+🧠 Engineering & Research Digest (Nov 27)
 
-Introducing Wiz ADR: Strengthening Cloud and AI Detection and Response with Appl: we weigh this against how agents actually fail in prod.
-A Feast for AI: What Wiz Agents are Thankful For: we weigh this against how agents actually fail in prod.
 Rapid7 Named a Leader in the 2026 Gartner® Magic Quadrant™ for Integrated Securi: on our radar; correlate it with the rest of your feed.
-Inside Agentic Offensive Frameworks: Intent IDs: we file this against the daily watch — relevant if it's in your stack.
-Our 2026 Cybersecurity Predictions: What We Got Right, What We Got Wrong, and Wh: on our radar; correlate it with the rest of your feed.
-  ↳ Evaluate the forecasted threat vectors and emerging technologies within the report to proactively adjust detection rules and security architecture against anticipated risks
+The Great Escape: Tradecraft insights from an agentic swarm: worth folding into your daily threat-watch if it touches your stack.
+Securing Grandma's groceries with Pierre Cadieux: we file this against the daily watch — relevant if it's in your stack.
+CrowdStrike Accelerates the Shift to the Agentic SOC: we map this into the SOC runbook we operate.
+Securing Employees&rsquo; AI Use Requires a Unified Architecture: we weigh this against how agents actually fail in prod.
+  ↳ Implement a unified security architecture to centrally govern and secure all employee AI usage across the organization
 
 That standard is what our sentinel is built on.
 
 via PCMedicalist · pcmedicalist.com/intel
 Read the full briefing at app.pcmedicalist.com/intel 👇
 
-#InfoSec #CompSci
+#CyberSecurity #InfoSec #CompSci
