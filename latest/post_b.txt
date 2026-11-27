@@ -5,6 +5,7 @@ A Feast for AI: What Wiz Agents are Thankful For: we weigh this against how agen
 Rapid7 Named a Leader in the 2026 Gartner® Magic Quadrant™ for Integrated Securi: on our radar; correlate it with the rest of your feed.
 Inside Agentic Offensive Frameworks: Intent IDs: we file this against the daily watch — relevant if it's in your stack.
 Our 2026 Cybersecurity Predictions: What We Got Right, What We Got Wrong, and Wh: on our radar; correlate it with the rest of your feed.
+  ↳ Evaluate the forecasted threat vectors and emerging technologies within the report to proactively adjust detection rules and security architecture against anticipated risks
 
 That standard is what our sentinel is built on.
 

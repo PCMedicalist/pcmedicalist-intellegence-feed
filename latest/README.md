@@ -1,24 +1,24 @@
-# Latest Digest — 2026-11-26
+# Latest Digest — 2026-11-27
 
 > Rolling snapshot of the most recent PCMedicalist Intelligence Feed digest.
 > Source of truth lives in `digests/`. This file is regenerated every run.
 
-- **Date:** 2026-11-26
+- **Date:** 2026-11-27
 - **Feeds ingested:** 39
 - **Items raw → deduped:** 4177 → 4113
-- **Full digest:** `digests/2026/11/2026-11-26/`
+- **Full digest:** `digests/2026/11/2026-11-27/`
 
 ## Post A — Standards / Gov / Crypto / Vuln / Supply-Chain / AI-Sec
 
 ```
 🔐 Daily Security & Standards Brief (Nov 26)
 
-CVE-2026-103406 — Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router: sanitize inputs and patch Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router.
-CVE-2026-133469 — Vates Xen Orchestra: patch Vates Xen Orchestra and verify the fix held.
-CVE-2025-41450 — Danfoss AK-SM 800A Series: patch Danfoss AK-SM 800A Series and verify the fix held.
-CVE-2023-25914 — Danfoss AK-SM 800A Series: validate paths and patch Danfoss AK-SM 800A Series.
 CVE-2023-25915 — Danfoss AK-SM 800A Series: patch Danfoss AK-SM 800A Series and verify the fix held.
-  ↳ Immediately upgrade Danfoss AK-SM 800A Series firmware to the patched version addressing CVE-2023-25915 improper input validation vulnerability
+CVE-2026-133324 — Mitel MiCollab Not Failing Securely: patch Mitel MiCollab Not Failing Securely and verify the fix held.
+CVE-2026-133275 — Mitel MiCollab: restrict file uploads and validate types on Mitel MiCollab.
+CVE-2026-133311 — Mitel MiCollab Weak Authentication: patch Mitel MiCollab Weak Authentication and verify the fix held.
+  ↳ Immediately apply vendor-provided patches for Mitel MiCollab to remediate the weak authentication vulnerability associated with CVE-2026-133311
+CVE-2026-133303 — Mitel MiCollab XML: patch Mitel MiCollab XML and verify the fix held.
 
 That standard is what Blue-Team discipline is built on.
 
@@ -35,6 +35,7 @@ A Feast for AI: What Wiz Agents are Thankful For: we weigh this against how agen
 Rapid7 Named a Leader in the 2026 Gartner® Magic Quadrant™ for Integrated Securi: on our radar; correlate it with the rest of your feed.
 Inside Agentic Offensive Frameworks: Intent IDs: we file this against the daily watch — relevant if it's in your stack.
 Our 2026 Cybersecurity Predictions: What We Got Right, What We Got Wrong, and Wh: on our radar; correlate it with the rest of your feed.
+  ↳ Evaluate the forecasted threat vectors and emerging technologies within the report to proactively adjust detection rules and security architecture against anticipated risks
 
 That standard is what our sentinel is built on.
 

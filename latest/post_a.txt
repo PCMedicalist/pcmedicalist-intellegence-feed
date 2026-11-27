@@ -1,11 +1,11 @@
 🔐 Daily Security & Standards Brief (Nov 26)
 
-CVE-2026-103406 — Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router: sanitize inputs and patch Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router.
-CVE-2026-133469 — Vates Xen Orchestra: patch Vates Xen Orchestra and verify the fix held.
-CVE-2025-41450 — Danfoss AK-SM 800A Series: patch Danfoss AK-SM 800A Series and verify the fix held.
-CVE-2023-25914 — Danfoss AK-SM 800A Series: validate paths and patch Danfoss AK-SM 800A Series.
 CVE-2023-25915 — Danfoss AK-SM 800A Series: patch Danfoss AK-SM 800A Series and verify the fix held.
-  ↳ Immediately upgrade Danfoss AK-SM 800A Series firmware to the patched version addressing CVE-2023-25915 improper input validation vulnerability
+CVE-2026-133324 — Mitel MiCollab Not Failing Securely: patch Mitel MiCollab Not Failing Securely and verify the fix held.
+CVE-2026-133275 — Mitel MiCollab: restrict file uploads and validate types on Mitel MiCollab.
+CVE-2026-133311 — Mitel MiCollab Weak Authentication: patch Mitel MiCollab Weak Authentication and verify the fix held.
+  ↳ Immediately apply vendor-provided patches for Mitel MiCollab to remediate the weak authentication vulnerability associated with CVE-2026-133311
+CVE-2026-133303 — Mitel MiCollab XML: patch Mitel MiCollab XML and verify the fix held.
 
 That standard is what Blue-Team discipline is built on.
 
