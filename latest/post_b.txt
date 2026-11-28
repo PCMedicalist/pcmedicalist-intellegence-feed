@@ -5,7 +5,6 @@ The Great Escape: Tradecraft insights from an agentic swarm: worth folding into 
 Securing Grandma's groceries with Pierre Cadieux: we file this against the daily watch — relevant if it's in your stack.
 CrowdStrike Accelerates the Shift to the Agentic SOC: we map this into the SOC runbook we operate.
 Securing Employees&rsquo; AI Use Requires a Unified Architecture: we weigh this against how agents actually fail in prod.
-  ↳ Implement a unified security architecture to centrally govern and secure all employee AI usage across the organization
 
 That standard is what our sentinel is built on.
 

@@ -1,0 +1,14 @@
+🧠 Engineering & Research Digest (Nov 27)
+
+Rapid7 Named a Leader in the 2026 Gartner® Magic Quadrant™ for Integrated Securi: on our radar; correlate it with the rest of your feed.
+The Great Escape: Tradecraft insights from an agentic swarm: worth folding into your daily threat-watch if it touches your stack.
+Securing Grandma's groceries with Pierre Cadieux: we file this against the daily watch — relevant if it's in your stack.
+CrowdStrike Accelerates the Shift to the Agentic SOC: we map this into the SOC runbook we operate.
+Securing Employees&rsquo; AI Use Requires a Unified Architecture: we weigh this against how agents actually fail in prod.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+Read the full briefing at app.pcmedicalist.com/intel 👇
+
+#CyberSecurity #InfoSec #CompSci

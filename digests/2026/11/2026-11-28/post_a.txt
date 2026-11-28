@@ -1,0 +1,14 @@
+🔐 Daily Security & Standards Brief (Nov 27)
+
+CVE-2026-120705 — OSGeo GeoServer XML: patch OSGeo GeoServer XML and verify the fix held.
+CVE-2026-120705 — OSGeo GeoServer Incorrect Authorization: patch OSGeo GeoServer Incorrect Authorization and verify the fix held.
+CVE-2026-136716 — Drupal Core: patch Drupal Core and verify the fix held.
+CVE-2026-133303 — Mitel MiCollab XML: patch Mitel MiCollab XML and verify the fix held.
+CVE-2026-133323 — Mitel MiCollab: sanitize inputs and patch Mitel MiCollab.
+
+That standard is what Blue-Team discipline is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+Read the full briefing at app.pcmedicalist.com/intel 👇
+
+#CyberSecurity #InfoSec

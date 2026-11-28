@@ -4,8 +4,37 @@
     <title>PCMedicalist Intelligence Feed</title>
     <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed</link>
     <description>Daily security intelligence digests — PCMedicalist Intelligence Network</description>
-    <lastBuildDate>Fri, 27 Nov 2026 12:10:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 02:12:59 GMT</lastBuildDate>
     <generator>PCMedicalist</generator>
+    <item>
+      <title>Digest 2026-11-28</title>
+      <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/11/2026-11-28/posts.json</link>
+      <guid isPermaLink="false">2026-11-28</guid>
+      <pubDate>Sat, 28 Nov 2026 02:12:59 GMT</pubDate>
+      <description>🔐 Daily Security &amp; Standards Brief (Nov 27)
+
+CVE-2026-120705 — OSGeo GeoServer XML: patch OSGeo GeoServer XML and verify the fix held.
+CVE-2026-120705 — OSGeo GeoServer Incorrect Authorization: patch OSGeo GeoServer Incorrect Authorization and verify the fix held.
+CVE-2026-136716 — Drupal Core: patch Drupal Core and verify the fix held.
+CVE-2026-133303 — Mitel MiCollab XML: patch Mitel MiCollab XML and verify the fix held.
+CVE-2026-133323 — Mitel MiCollab: sanitize inputs and patch Mitel MiCollab.
+
+That standard is what Blue-Team discipline is built on.
+
+via PCMedicalist · pcmedicalist.com/intel
+
+🧠 Engineering &amp; Research Digest (Nov 27)
+
+Rapid7 Named a Leader in the 2026 Gartner® Magic Quadrant™ for Integrated Securi: on our radar; correlate it with the rest of your feed.
+The Great Escape: Tradecraft insights from an agentic swarm: worth folding into your daily threat-watch if it touches your stack.
+Securing Grandma's groceries with Pierre Cadieux: we file this against the daily watch — relevant if it's in your stack.
+CrowdStrike Accelerates the Shift to the Agentic SOC: we map this into the SOC runbook we operate.
+Securing Employees&amp;rsquo; AI Use Requires a Unified Architecture: we weigh this against how agents actually fail in prod.
+
+That standard is what our sentinel is built on.
+
+via PCMedicalist · pcmedicalist.com/intel</description>
+    </item>
     <item>
       <title>Digest 2026-11-27</title>
       <link>https://github.com/PCMedicalist/pcmedicalist-intellegence-feed/raw/main/digests/2026/11/2026-11-27/posts.json</link>
